@@ -1,0 +1,9 @@
+matplotlib
+pandas
+optuna
+scikit-learn
+argparse
+ray[data,train,tune,serve]
+wandb
+tensorflow-addons
+biopython

@@ -1,0 +1,945 @@
+id,Type,PromoterName,SpeciesName,GeneName,GeneStart,GeneEnd,GeneProduct,TSSPosition,Strand,Locus_tag,PromoterSeq
+1,chr,NA,Synechocystis sp. PCC 6803,NA,NA,NA,NA,3283,+,NA,gcaatgggcttcatcaaatacagtttgataaattgccagccgttggaagcaaaaatgggtAacttacgcagggctttaatt
+2,chr,ycf59p,Synechocystis sp. PCC 6803,ycf59p,NA,NA,NA,4349,-, sll1214,ttgtaacagttgccccccctgactagaaaccccgtttcaacccttgttacactaggcaatAccttttgcccgttgctttga
+3,chr,NA,Synechocystis sp. PCC 6803,NA,NA,NA,NA,7210,-, slr1311,ccacaaggaagcgctttcgcgctgttggagagtcgttgtcatttggttataattccttatGtatttgtcgatgttcagatt
+4,chr,NA,Synechocystis sp. PCC 6803,NA,NA,NA,NA,12851,-,NA,aggtgatacgtagccctgaccgttgttccatcgccgcctgaatcgtcttaaaatcttcccAactatgacgaccggggagga
+5,chr,NA,Synechocystis sp. PCC 6803,NA,NA,NA,NA,20964,+,NA,gctctcgcttcgtagatcttctcaattgtttttggtttcaaagtgccagaaaatggagaaGaattttggtcggccataatg
+6,chr,NA,Synechocystis sp. PCC 6803,NA,NA,NA,NA,32424,-,NA,aactttttaacttttgtgtgaggagcaattgtgaataccaaaataagcttaggcttaaccAtatgttgcctatgttcgggg
+7,chr,NA,Synechocystis sp. PCC 6803,NA,NA,NA,NA,38584,+,NA,atcaagttaacctagcgtgatggcttgacgcatcggcttcactacttgaaaatatttatcAttaaaatttattgactgtct
+8,chr,NA,Synechocystis sp. PCC 6803,NA,NA,NA,NA,46074,-,NA,aagctaaagctgatatcagcaatgccattgtcactgcctggataatggtaaactaatcctTctactcttagttcttgtaaa
+9,chr,NA,Synechocystis sp. PCC 6803,NA,NA,NA,NA,69740,-,NA,cgcaggcctgttgggtaatagttttgaaacgatgttggtcagcgtggttaaagtaaaaacAatcaaggaaaggcatgggag
+10,chr,NA,Synechocystis sp. PCC 6803,NA,NA,NA,NA,77446,-,NA,tttctctccctgaaccatccagtgcttgccctgggttaacggttgcccaacaatggagagAttaatcagttgagcaattcg
+11,chr,trxM2p,Synechocystis sp. PCC 6803,trxM2p,NA,NA,NA,77854,-, sll1057,aggggatcagttgggatcagtcctccctttggggtcgaaaatggttgtagcatggacaacAagggatcagtccgctagaaa
+12,chr,NA,Synechocystis sp. PCC 6803,NA,NA,NA,NA,78465,-,NA,cagtttccgctctgacagaaccttggcaaacggcgatcgcccgtcggctaaaatcctaagActagcaacggaaaaactcca
+13,chr,NA,Synechocystis sp. PCC 6803,NA,NA,NA,NA,84743,-, slr1123,ggcgaacaatgatgacccgagtagccaatccccctgcctcctgaacgataaaatcagaccAattttacagggttggggtgg
+14,chr,NA,Synechocystis sp. PCC 6803,NA,NA,NA,NA,92545,+,NA,agttagcttgggggctgggctttcttgctaaaggctaccatttcaggttatattcagtttAaattccttgggtattaggtt
+15,chr,SYR31p,Synechocystis sp. PCC 6803,SYR31p,NA,NA,NA,92545,+,ncr0020,agttagcttgggggctgggctttcttgctaaaggctaccatttcaggttatattcagtttAaattccttgggtattaggtt
+16,chr,NA,Synechocystis sp. PCC 6803,NA,NA,NA,NA,100880,-,NA,aatgtgggagcggcttaccaattggccaaaaaacttgggccggggcataccattgttaccGtactttgtgacggaggagcc
+17,chr,NA,Synechocystis sp. PCC 6803,NA,NA,NA,NA,102700,-,NA,cggtttccacgaattggtaatggtgttgcagagcattgccctgggggataaaattaccgtGcgggccaacggcaccgatga
+18,chr,NA,Synechocystis sp. PCC 6803,NA,NA,NA,NA,106808,-,NA,aatcctaaaatatctctcttggtttgacggaagagggatacagcggataccctattagttAggcacatataaaatgcctgt
+19,chr,NA,Synechocystis sp. PCC 6803,NA,NA,NA,NA,110366,+,NA,tggaatgaacaaacctccacattcgttgacaagacaatgcagccgcattaccatcggcgtAtagttttatgggctgaggga
+20,chr,NA,Synechocystis sp. PCC 6803,NA,NA,NA,NA,115174,+,NA,gagtggcaaaactggcgaatcttttgggaacccgctcccattttgttttattttaaagagGtcaagagcatccattttttg
+21,chr,nifSp,Synechocystis sp. PCC 6803,nifSp,NA,NA,NA,117736,-, sll0704,tgcaatgataattatttgctaggcgatcgccgaagggttgaggaagattacaatgggatcAatcccataggaagagtgtta
+22,chr,psaDp,Synechocystis sp. PCC 6803,psaDp,NA,NA,NA,126607,+, slr0737,gaaatgttacagttcttgacaaagccagatggtaaccgtaggtcagtggtaggattccctAaaataccttatgaaattcca
+23,chr,NA,Synechocystis sp. PCC 6803,NA,NA,NA,NA,133899,+,NA,gaggaagaagagttaagctaggaaaggttgataatgccagctttgtgctaatttgtcctgAccactccttgcccaccgttg
+24,chr,NA,Synechocystis sp. PCC 6803,NA,NA,NA,NA,134029,+,NA,atcgccgacaattttggcgaattgtccgagtctatccatctcgaactgtacaattagatcAcggtgcggggcgatcggctt
+25,chr,NA,Synechocystis sp. PCC 6803,NA,NA,NA,NA,145511,-, sll0230,cccatatcaacagctaacctgcccctccaattgacggcaggagtgtgtcaaaatctagggAaatttgagattgtcgtcagc
+26,chr,NA,Synechocystis sp. PCC 6803,NA,NA,NA,NA,145673,+, slr0244,tgagaaagtccgcaacaagtcgttaaatttctgcgcttgcattggccttattctgaagggAtaaggcttaaccgaggaggg
+27,chr,NA,Synechocystis sp. PCC 6803,NA,NA,NA,NA,145766,-,NA,catggccttgagcatttcttgggtttggctggtgccagaatctgcgtataaaattttgctAagcatgataattgagttcct
+28,chr,psbMp,Synechocystis sp. PCC 6803,psbMp,NA,NA,NA,146868,-, sml0003,ttggccagcccttcagccattgccccagggccatgacccaccaatgctattctaggtaggGtattgagccaaatttaagat
+29,chr,ycf4p,Synechocystis sp. PCC 6803,ycf4p,NA,NA,NA,150489,-, sll0226,tcccctaaggtgatcgccctatcatcctagcccctagccctgatggggtaaaattcaatgGttagtttcgttgtaattatt
+30,chr,NA,Synechocystis sp. PCC 6803,NA,NA,NA,NA,152682,+, sll0224,ggaatcggcagattctagatcactatccaccccggtgataattttggtaccatcggcaaaGtaactgactgaaaaatccac
+31,chr,rnpB,Synechocystis sp. PCC 6803,rnpB,NA,NA,NA,153165,+,6803s01 (ncr0075),aattaattggggtcacaaaccacagcggcctatggctctaatcaatggcacactagaaaaAgagagttagggagggagttg
+32,chr,NA,Synechocystis sp. PCC 6803,NA,NA,NA,NA,154698,+,NA,cccggtgataccctgccagatttgccgcccctgggttcttagctgtgggatactaacggcAttcggtgacaggctttttag
+33,chr,NA,Synechocystis sp. PCC 6803,NA,NA,NA,NA,158337,+, sll0223,gaattccgccaaggaagtccccgtttgttgcacataacgcaccgacattaaaatggtgacAacggtggacagggcaatgat
+34,chr,NA,Synechocystis sp. PCC 6803,NA,NA,NA,NA,163698,-,NA,attgccatggggggcgatagatttgtcattgggcagaaggaaaaagctaaactggagggcAatttgatcatcttcactatc
+35,chr,NA,Synechocystis sp. PCC 6803,NA,NA,NA,NA,167538,+,NA,taatgccatcaacaccgagcgggcattggagcccatcaagcaattgtaatagtattggaaAtcaggttcgagtcgttctgg
+36,chr,NA,Synechocystis sp. PCC 6803,NA,NA,NA,NA,168421,+,NA,gccttttttggtggctccatcttgcccacgaactagatttttcttgctaggattgggcttAaatggtttagtcccccgttt
+37,chr,NA,Synechocystis sp. PCC 6803,NA,NA,NA,NA,169782,+,NA,aaggcatcagtcccgacattcatttggatatttccaacgataccaagctacagtttcgtaAcgacccagaattaatggcca
+38,chr,NA,Synechocystis sp. PCC 6803,NA,NA,NA,NA,177856,+, sll1321,cttgagatataccagccccaccagtgctccgagcaaataatttaaagctatattgagggaAtagacccagacaacacagac
+39,chr,NA,Synechocystis sp. PCC 6803,NA,NA,NA,NA,183074,+,NA,gatgaaaaactattggattatctcttggccctggtggaaaaaacccgctatcatcccgatAttctgattggagcttcccct
+40,chr,NA,Synechocystis sp. PCC 6803,NA,NA,NA,NA,183446,-,NA,gtggcttggctcatggttaggcttgaactcctatgcaaaagttagaggaaaattaaaagtAaattcaacagctttagtttc
+41,chr,NA,Synechocystis sp. PCC 6803,NA,NA,NA,NA,189963,-,NA,actcgaaaatatttgccaaaaaacttgccaagggccacaggggaggactaagattagggtCtgtgaaattcggggcgtagc
+42,chr,NA,Synechocystis sp. PCC 6803,NA,NA,NA,NA,202505,+,NA,tggtttagtaggcccctcaaagttgatgccgcgacggaacttttgagtcaaaataagattAaggctgatcctctggcataa
+43,chr,NA,Synechocystis sp. PCC 6803,NA,NA,NA,NA,204504,-,NA,aatattcagtctatcctaccgttgcctcctctggagcaaaaagcttctaaaactgaacctAagagcctgtttgaaaagccc
+44,chr,NA,Synechocystis sp. PCC 6803,NA,NA,NA,NA,204565,+,NA,aggttcagttttagaagctttttgctccagaggaggcaacggtaggatagactgaatattAcaaattgttaatgcggacct
+45,chr,NA,Synechocystis sp. PCC 6803,NA,NA,NA,NA,206958,+,NA,taagaatatccaacaacagttgcatttgataaagattaaggtaggtgggaaaatctaaatGtcctttgagaagcatttccc
+46,chr,NA,Synechocystis sp. PCC 6803,NA,NA,NA,NA,209873,-,NA,gcctaggggatgcaggcgatcgttgctttggtacttgataacaccattaaactagtgatcAaataattacaaattcacccc
+47,chr,NA,Synechocystis sp. PCC 6803,NA,NA,NA,NA,213915,-,NA,gaaagtgctttcaaaagcgaggaagttgctcccagcattaatcctgttaccatgcctgatGtcaatgtgtttgactcggaa
+48,chr,NA,Synechocystis sp. PCC 6803,NA,NA,NA,NA,215217,-,NA,atacccacaaaagtagagttagttgaggtagtgtctaatttttaagctaaggtatttaccAtgaaggggatggtgttggaa
+49,chr,NA,Synechocystis sp. PCC 6803,NA,NA,NA,NA,215356,+,NA,ttaaccagttttttctccccccgctgttggtgatacggctggttgaaatacaatcaagagAgtagcgctttctacaaagct
+50,chr,NA,Synechocystis sp. PCC 6803,NA,NA,NA,NA,219825,-,NA,ttaaaaattatcataatcccttatgttgtcaaagggcccaaggtttcctatgcttttcatAgggtagataatcaaatttcc
+51,chr,NA,Synechocystis sp. PCC 6803,NA,NA,NA,NA,219884,+, sll1027,ctatgaaaagcataggaaaccttgggccctttgacaacataagggattatgataatttttAattcgactattcagcattac
+52,chr,NA,Synechocystis sp. PCC 6803,NA,NA,NA,NA,245223,-,NA,gtggaactttccattggtttgattggcattatggccctgtggttgggcatgatgaaaattGctgaagcggccggcttggtg
+53,chr,NA,Synechocystis sp. PCC 6803,NA,NA,NA,NA,249079,-,NA,ttccgcactaaaaacccctttttgccaccaagtcttttttagggtaggcacaatgggaggAcgtatagctctaaccatggg
+54,chr,NA,Synechocystis sp. PCC 6803,NA,NA,NA,NA,257197,-,NA,ttttgctgttccgttaatagtgcttggtcccggcgacgttttttagcgtagagttgaatcGaagcagccatggcaataacc
+55,chr,NA,Synechocystis sp. PCC 6803,NA,NA,NA,NA,261844,-,NA,cagacggtaaaccttaactttttgacctatttcaatcgtcatattgcttaaatagtggttAagtaaagaaacattgcaatc
+56,chr,NA,Synechocystis sp. PCC 6803,NA,NA,NA,NA,266978,+,NA,ttgcagtagggccagcaaatcgttgtcagaggaattgggatcttcatctaaaatattgatGaaaggatctcccccatgggt
+57,chr,NA,Synechocystis sp. PCC 6803,NA,NA,NA,NA,270519,-,NA,aatacacagaagtgcttaaaatttttggcagctaccccacaaaagtcctacaattggcagAcctccagcatttccatccac
+58,chr,NA,Synechocystis sp. PCC 6803,NA,NA,NA,NA,279502,-,NA,ttcactggtttgttgtcgtccctgtggttgctagaccgtctgaacaagtaatttttaaacGcactgtgttgttgccatcct
+59,chr,NA,Synechocystis sp. PCC 6803,NA,NA,NA,NA,282821,-,NA,gagtggagagaaaatcaataaagtattgccaattgtacatacatttgttaaactgggggcAtgaatccaaaaattgatggg
+60,chr,NA,Synechocystis sp. PCC 6803,NA,NA,NA,NA,286055,-,NA,ttgtaaacttttgagaattttttttgagattttccctatagaagtcagagaatgggctctAtccatgtgaataagttcttt
+61,chr,NA,Synechocystis sp. PCC 6803,NA,NA,NA,NA,289186,-,NA,gttcaagattctgtcaatagtcaattgatttggtggagtaaatgcgataggctcggctccAacagtggcaagcattggtaa
+62,chr,psbUp,Synechocystis sp. PCC 6803,psbUp,NA,NA,NA,297981,-, sll1194,attactcagtcaatccagggaagatggtcagccgtgccccaagaatatacaatctattgtAattagcgctggtttgacctc
+63,chr,NA,Synechocystis sp. PCC 6803,NA,NA,NA,NA,297994,+,NA,aaattatgccgactgcgccgattttgggaggtcaaaccagcgctaattacaatagattgtAtattcttggggcacggctga
+64,chr,NA,Synechocystis sp. PCC 6803,NA,NA,NA,NA,298153,+,NA,attacatattttcgccattcatggttgcggtcattgcgagtatgtttaataatttcaaacAgcaaactgctgtagggacgc
+65,chr,NA,Synechocystis sp. PCC 6803,NA,NA,NA,NA,298604,-, sll1193,aagttctaactgagcaacagccctctgaatcccaaaagctgattgtgctagcatctagggAaaaaaattcagcgatggcag
+66,chr,NA,Synechocystis sp. PCC 6803,NA,NA,NA,NA,298964,-,NA,aacttgcccaaaagacaactgttgagtttcccccattgggacggaggttatgatgaaattActtgagatgctacaggacct
+67,chr,Norf1p,Synechocystis sp. PCC 6803,Norf1p,NA,NA,NA,299115,-, Norf1,caatttgacaatatattaagaaatcctcatctaacctgtttttcattggataattaaaacAagaggaaagatcagggggca
+68,chr,NA,Synechocystis sp. PCC 6803,NA,NA,NA,NA,299452,+, slr1299,aagctaaagtctggcaaagtcgattgacaggggggagaggtatcccctaggcttaggcttAttttccggcctccggtcgac
+69,chr,NA,Synechocystis sp. PCC 6803,NA,NA,NA,NA,303226,+, ssr2153,tgccactgcagaaaaaatcgagcattctggattatgaggattacggttaaaatagttggcCgtcagccacggcgacaacgg
+70,chr,NA,Synechocystis sp. PCC 6803,NA,NA,NA,NA,303799,+,NA,aatctccttcacctcctttttttttgacaatttttgccagtgtggaggcaaaatagaagcAgtttggtcagattttcctct
+71,chr,cupBp,Synechocystis sp. PCC 6803,cupBp,NA,NA,NA,305638,+, slr1302,gctgaagaaatttccttgtgccctggcattctggcctggattgctgggataatggcctctAttatgggcttttgtatcgaa
+72,chr,NA,Synechocystis sp. PCC 6803,NA,NA,NA,NA,305874,-,NA,accaatgtttcaataggcgatcgccattgacattaccgttgaaatatttaaaaaagggaaAtaacttcagatactgggtat
+73,chr,NA,Synechocystis sp. PCC 6803,NA,NA,NA,NA,310185,-,NA,ttcctgtttggtcaagccaaaaaattgacaaaatggctgattaacatccataatacagccGctattacggccgtaaataaa
+74,chr,NA,Synechocystis sp. PCC 6803,NA,NA,NA,NA,321798,-,NA,aggaaccgtggaatttcagaatttggacggcatcgtccgtaaaatagttagcatcattcaAcagttcggtggccaggggtt
+75,chr,NA,Synechocystis sp. PCC 6803,NA,NA,NA,NA,326057,+,NA,ggtgaattaggttgagcaaatcctttggggattggccatgggactatggcaaaatatgtgAggctcagagcaaggcttatt
+76,chr,rps15p,Synechocystis sp. PCC 6803,rps15p,NA,NA,NA,336638,-, ssl1784,gataactttcccttttcgtgatggaaaggagccctccggcaaacgtgatatagtaagagaTtgcaacgaaatttatcgccc
+77,chr,apcD,Synechocystis sp. PCC 6803,apcD,NA,NA,NA,339638,-, sll0928,gggtatttagcctggggcagtatggggcaactcaggctaaactacagtatgatatgaaatTcttgttgatatcatgagtgt
+78,chr,apcD,Synechocystis sp. PCC 6803,apcD,NA,NA,NA,339650,-, sll0928,ctcaggatgagagggtatttagcctggggcagtatggggcaactcaggctaaactacagtAtgatatgaaattcttgttga
+79,chr,NA,Synechocystis sp. PCC 6803,NA,NA,NA,NA,339661,+, sll0928,aaataacttgactaactacactcatgatatcaacaagaatttcatatcatactgtagtttAgcctgagttgccccatactg
+80,chr,NA,Synechocystis sp. PCC 6803,NA,NA,NA,NA,342140,-,NA,atctgccggcattggtggatgaagttggcatggagactgatttaacgtaaatattgtcctGatgacaaaaattttcgctga
+81,chr,NA,Synechocystis sp. PCC 6803,NA,NA,NA,NA,343845,+, slr0975,acggggtcaatgttgccggagggccgcacaagttttcggcccctgtcctagaatggggaaAttagcagagccccactggtg
+82,chr,NA,Synechocystis sp. PCC 6803,NA,NA,NA,NA,345644,+, sll0923,gtagtaacgaccatagtagtagccataaccgccggacgtagaagtgatagcattggccacAattccgataacgttgagatc
+83,chr,NA,Synechocystis sp. PCC 6803,NA,NA,NA,NA,348293,+, sll0922,ataacaaatttttccttgtttacctggacaaaaatgggtcaataaattagatttgtctgtAaccgaattcgcttgatcacg
+84,chr,NA,Synechocystis sp. PCC 6803,NA,NA,NA,NA,349155,+,NA,agtatttttatttttcccctgaaactttggaatttgccggttttaggttaaatttcaaccAatactctcccgtaattccca
+85,chr,NA,Synechocystis sp. PCC 6803,NA,NA,NA,NA,352088,-, slr0981,cagaaaactgacaacttttaggaattagccatagaccacaaaaaaaactagtctagagaaAtgctaaatccgggtaaaaca
+86,chr,NA,Synechocystis sp. PCC 6803,NA,NA,NA,NA,357300,-,NA,aaattagcccaatcaatgacgctaaattgctgctgtttaagttgtgttagggtcaaatctAaccaggcaggataatcttgt
+87,chr,NA,Synechocystis sp. PCC 6803,NA,NA,NA,NA,359232,+,NA,tttggttttatcaggattctgcattgaccgtttacacgcttaaagagggacaatatttgaAggttgataacagtcaattat
+88,chr,NA,Synechocystis sp. PCC 6803,NA,NA,NA,NA,361877,+,NA,cgagaattgagcgccaaattatccgttgcataccgaggccgtggtggtattatttctagtGgctactcccaagggtacatt
+89,chr,NA,Synechocystis sp. PCC 6803,NA,NA,NA,NA,373543,-,NA,cccaattgtcagacaaaatagtttcttgacttttgtcaagggcattgtgaaaatgacgacAtctatagcctaactttttta
+90,chr,NA,Synechocystis sp. PCC 6803,NA,NA,NA,NA,374151,+,NA,tttctatcctaaagacactcaaaattgttgggcgatcgccgatggtgctagtatttatccGaagaaaatttttgcatcagg
+91,chr,NA,Synechocystis sp. PCC 6803,NA,NA,NA,NA,380671,-, slr1076,taggtaatggatattgggaatagttttaataatctctggtaaagcacggataatttggtcAtagcctttataacgttcttc
+92,chr,NA,Synechocystis sp. PCC 6803,NA,NA,NA,NA,381354,+,NA,agccaatgcttaacagatagctcagttgttgctcctgctccaaactctaaagttaatcgaAtcattgtaaacagctctcac
+93,chr,NA,Synechocystis sp. PCC 6803,NA,NA,NA,NA,386177,+,NA,tctaaataaattccgttgtttttgctgtcgaaccagttaattttggcgtaaattattaccAtgcaacttaatcaataccag
+94,chr,NA,Synechocystis sp. PCC 6803,NA,NA,NA,NA,386234,-,NA,tggccatgggcagtaggggcgtttggactaaaaaatccccaatggaataccatagcaattGtttaaacagcggggctccag
+95,chr,NA,Synechocystis sp. PCC 6803,NA,NA,NA,NA,387762,-,NA,tattggcggcctcgacgccccatggttgctgttcggcggggattattcttaagttgaaggAtaaattgagccaatcctgcc
+96,chr,NA,Synechocystis sp. PCC 6803,NA,NA,NA,NA,390548,+,NA,ttcacaggtgagttccaacacttgggggcgatcgccctgcatggcagtgacaatggtctgAtagagtgcttccgccccatc
+97,chr,NA,Synechocystis sp. PCC 6803,NA,NA,NA,NA,402659,-,NA,tcatgtgcaccattgattcccgttgttgcagcaaattgcccaaagcatcatactggtgctTcagtcgcaacatggcctgga
+98,chr,NA,Synechocystis sp. PCC 6803,NA,NA,NA,NA,403493,+,NA,atgggccacaggatcaccaaggtcaatcttgaccaagggccaatgggtttagattagattGattcacaatttgacaaaagt
+99,chr,NA,Synechocystis sp. PCC 6803,NA,NA,NA,NA,407326,-,NA,ggcagacgccgagacattccgaacagcttggaacttgccggcaacagctaaaattattggAggacttagccaaaatttagg
+100,chr,NA,Synechocystis sp. PCC 6803,NA,NA,NA,NA,419547,-,NA,tttactttgccggatcagaaaagttgtgtagagaatggctccactggctaaaattacgccAtcaactcgactaatttgccc
+101,chr,NA,Synechocystis sp. PCC 6803,NA,NA,NA,NA,434503,-,NA,cattgccttccaagtggcccaaagcttgggtttaaatccgttagcgtttatgtttgtggtTacctttgccgcttccaatag
+102,chr,NA,Synechocystis sp. PCC 6803,NA,NA,NA,NA,434634,+, sll0640,acaccacggtggcattgttggacaaaatttccgttagcagagctgtggcaagataaaacaAgagcaatagagcgtagccag
+103,chr,NA,Synechocystis sp. PCC 6803,NA,NA,NA,NA,436178,-,NA,cgcattgttatcggactatttcctcttgtgaactcgctggcaatggggaagaatttgtttAatcatcttttgggataacta
+104,chr,NA,Synechocystis sp. PCC 6803,NA,NA,NA,NA,437435,+,NA,aagcccgaatatatcgcaagatagattgcaagcagatgggactgtcctaggctattacatAacctgtggtctgcctgaatt
+105,chr,NA,Synechocystis sp. PCC 6803,NA,NA,NA,NA,458366,-,NA,aggcgtggccatgagctaatctagtttgactttaagggcataaattagttaatcttacctActaactagtcgcctcaatta
+106,chr,NA,Synechocystis sp. PCC 6803,NA,NA,NA,NA,458382,+,NA,catggtgctcaagggggaaataaataattgaggcgactagttagtaggtaagattaactaAtttatgcccttaaagtcaaa
+107,chr,NA,Synechocystis sp. PCC 6803,NA,NA,NA,NA,458856,+,NA,acttcggtttccactttggggggattgtagtcgtacttgactccacggtaacttaattgcAtagtgcgctcctaattgtta
+108,chr,NA,Synechocystis sp. PCC 6803,NA,NA,NA,NA,465669,+,NA,caatgctcaattctaggccgtctttggccatgggggtatgggaaaatgtattgttggttaActgtcatgattggcgatcgc
+109,chr,psaMp,Synechocystis sp. PCC 6803,psaMp,NA,NA,NA,467159,+, smr0005,tttctaaagacttgtaacaacttgtttcccaaaactgcccccatattgcaaagtgttgttAatgtttctcacgatctgttt
+110,chr,NA,Synechocystis sp. PCC 6803,NA,NA,NA,NA,476710,+,NA,atattcaatatgcttggattcttgggaaaacttacgatcaatatctgctaagatagtctcAgcaattagatcagagagtgc
+111,chr,NA,Synechocystis sp. PCC 6803,NA,NA,NA,NA,483219,-, ssr2711,cccggtaacgaaggcgggttagtggccagttgatttggctagtgtgattagaatggatttAaagtcaaagcccgccgaggt
+112,chr,NA,Synechocystis sp. PCC 6803,NA,NA,NA,NA,484860,-,NA,tggaaaaattccgagccgcttgtcttgcctttcaaaaaaagttgagttaccttgggaagcAtccaccctttaagtcagtac
+113,chr,NA,Synechocystis sp. PCC 6803,NA,NA,NA,NA,486752,+,NA,acggcggccacaacttccatggcattgagatgcggggaatgatgttctagactctgacgcAccaaagccaatttttgttga
+114,chr,NA,Synechocystis sp. PCC 6803,NA,NA,NA,NA,487313,-,NA,gggcccactcttgcagaaatatgttgacagtttatacccagtctgaccaagctttatcctGgattgagcgccatggccact
+115,chr,NA,Synechocystis sp. PCC 6803,NA,NA,NA,NA,491018,+, slr1042,ggctccccaacaaaaaataatactgactgaattgttaagggagcgactatgatggaaaatAaaccaggcaggattcgccaa
+116,chr,NA,Synechocystis sp. PCC 6803,NA,NA,NA,NA,491023,+, slr1042,cccaacaaaaaataatactgactgaattgttaagggagcgactatgatggaaaataaaccAggcaggattcgccaatttgc
+117,chr,NA,Synechocystis sp. PCC 6803,NA,NA,NA,NA,491486,+,NA,atcaaacaactcctgcgcaattgattgtggggttttatgaaacttgggttatggttatttAgggttttaggtggggaaatc
+118,chr,NA,Synechocystis sp. PCC 6803,NA,NA,NA,NA,491892,+,NA,gtggaagatcaagaaactcttttgggtttggcaatcgactccctcggtaatatggaatggTtggacacggacaatcttcag
+119,chr,NA,Synechocystis sp. PCC 6803,NA,NA,NA,NA,515643,+,NA,ccgccgggcacaggcaatttttgctgaaaataaagccattggcccactatgatcagacccAgtgcatataccactgccaca
+120,chr,NA,Synechocystis sp. PCC 6803,NA,NA,NA,NA,521350,+, ssl1920,aaatgaggttctaccaattgccactggctatcagtgatgtcgctgctgtaaaattctctcGgtatcattatggtgaaaatt
+121,chr,NA,Synechocystis sp. PCC 6803,NA,NA,NA,NA,522991,-,NA,gccaaagtggaaggtcccattcgcattttggattaaccactacgacgctaagatgggggaAcccattggcccctggccgtt
+122,chr,ytfCp,Synechocystis sp. PCC 6803,ytfCp,NA,NA,NA,538447,+, slr1761,aagggcgtaatcgtttagtcagtggtcgatgaggggaagaacccatgggataatcaggccAacactactccgacctatttt
+123,chr,NA,Synechocystis sp. PCC 6803,NA,NA,NA,NA,541591,-,NA,ctggagccgttctgtgggttgccgtttgccttgatgggtgacaaaaccgacaatggaaccAccgtggataggagctaagta
+124,chr,SYR18p,Synechocystis sp. PCC 6803,SYR18p,NA,NA,NA,543450,-,ncl0190,ggaccacaaaccgaagcaggaaggttcccactttagccattaggcatcataatcattcacAatgaaacagaccttaaatat
+125,chr,NA,Synechocystis sp. PCC 6803,NA,NA,NA,NA,547665,+,NA,ggctagccccaacatatcccggcgtagttgtcctaaaggcccgtggatataggtttgggtAtcgacccaattttgatcagc
+126,chr,NA,Synechocystis sp. PCC 6803,NA,NA,NA,NA,553007,-,NA,taaactggcgatcgcccctggggcttgtcattttacctggtcgcttaagaaaatttgttgGaccacaattaagctgatatc
+127,chr,NA,Synechocystis sp. PCC 6803,NA,NA,NA,NA,553241,+, sll1752,cgagcaaataaattgtttccattatttgagtttcctgactgacaaagaataaaatcttaaTttacggtaaatcttatcatg
+128,chr,psbKp,Synechocystis sp. PCC 6803,psbKp,NA,NA,NA,553243,-, sml0005,ttcgtgaatttcgtcaaaacggctaatgggggaaggggccatcatgataagatttaccgtAaattaagattttattctttg
+129,chr,NA,Synechocystis sp. PCC 6803,NA,NA,NA,NA,554233,+,NA,ttgaacggccaaattccctccgctatgttgggggctgagcctttcagctacagtggttaaAtaattaccctgggattatat
+130,chr,NA,Synechocystis sp. PCC 6803,NA,NA,NA,NA,554301,+,NA,cctgggattatatcggccctattccttggcctattgctataaataactatgattagtcttGatcaagtcaaacaacaaatc
+131,chr,NA,Synechocystis sp. PCC 6803,NA,NA,NA,NA,555222,-,NA,gaaacctttaccttgtgccatgggaattgatttctaagtagttaaacaataattagagttAaacaagcagcaaagtcgctg
+132,chr,NA,Synechocystis sp. PCC 6803,NA,NA,NA,NA,561257,+,NA,gggagaagattctagtaactgttgcaggctatagggacaggttagaggaaaatccacaccAtggccggttttctcttgcac
+133,chr,NA,Synechocystis sp. PCC 6803,NA,NA,NA,NA,562371,-,NA,cgatacaaaatttaacatttattgctgcaaagtctcgggagtaaatcgtacattaaatttAcgaaaaaatagctgtaggta
+134,chr,ycf23p,Synechocystis sp. PCC 6803,ycf23p,NA,NA,NA,565954,+, slr2032,ccccaggatttagacaaaatttgcttaaccatagcaggggttagacgtaagatggataccAacagcccatcttttatgatt
+135,chr,NA,Synechocystis sp. PCC 6803,NA,NA,NA,NA,568953,-, sll1945,agactgtgactggggttttccaacctaacttcccttcacccaatgggttaaagtgtgagaAgtctgaaaaaagttccataa
+136,chr,NA,Synechocystis sp. PCC 6803,NA,NA,NA,NA,570589,-,NA,ctccttcaatttttcaaaacaacattgactgacaaatgcaaagcaagtagagtctagtctActattttgtgagccgcctag
+137,chr,psbEp,Synechocystis sp. PCC 6803,psbEp,NA,NA,NA,570602,+, ssr3451,ccccagcaccgaggtggcaatggttccctaggcggctcacaaaatagtagactagactctActtgctttgcatttgtcagt
+138,chr,"rre42p, divKp",Synechocystis sp. PCC 6803,"rre42p, divKp",NA,NA,NA,579750,+,slr2041,tggccatgccgctgggaacctgtgcgctcgtcaattcgcggccaatgttagcattggaaaGgctgattctcctccccactt
+139,chr,NA,Synechocystis sp. PCC 6803,NA,NA,NA,NA,583678,-,NA,agaacaaaagcaacaccaaggggttggacaaagcggggaacagcggggaaaatgaacattAccgatgtgcaatacagtgaa
+140,chr,NA,Synechocystis sp. PCC 6803,NA,NA,NA,NA,583820,-,NA,accaccaattttttccaaaaagtattgttgaggtggaatactcaccgtaatatccatggcAtctgccaccggagcatcctc
+141,chr,NA,Synechocystis sp. PCC 6803,NA,NA,NA,NA,585978,-, slr2045,gtggcatagaccggatcaaaagaaatggccaaaaactctttataaagtaagaataaaagaAtgataatcaacatgtctagc
+142,chr,NA,Synechocystis sp. PCC 6803,NA,NA,NA,NA,586780,+, ssr3467,atgacaaaaaaagtttcaagctgggatggttggtaagtttcgatggtgtacaattttgtcAacgtcatttttatggcaata
+143,chr,NA,Synechocystis sp. PCC 6803,NA,NA,NA,NA,593006,+,NA,caagccctagccgcagaaagggttgaaaacatcaaccgagttttatggcaaaattttgacAccggagaaattggaatttgg
+144,chr,NA,Synechocystis sp. PCC 6803,NA,NA,NA,NA,593116,-, slr2046,cgttttatccaaaaaatagaccattgccattaccgtccaacgaatagtagtctaaaggctAatgccaaaaaggctttcaac
+145,chr,NA,Synechocystis sp. PCC 6803,NA,NA,NA,NA,593846,+,NA,tgccgggggatttgcaacaaaaagttgatccgtttttgcgacccctctacgatgctttgtAtgaatttattgaaccggaaa
+146,chr,cpcG1p,Synechocystis sp. PCC 6803,cpcG1p,NA,NA,NA,596455,+, slr2051,attgtaataaattgtaatatttgccaacgattaggacccttcccccttattatttaaactAactaattatcaagctcttct
+147,chr,NA,Synechocystis sp. PCC 6803,NA,NA,NA,NA,596546,+,NA,ggaggtttacacttggctcttcccctattgaactacgcccccaaaagtcaaaatgtgaggGtagaaggttatgaaattggc
+148,chr,glyAp,Synechocystis sp. PCC 6803,glyAp,NA,NA,NA,604782,-, sll1931,tgtagatatcacactctgaaagacggggttttagacccggttttccgataaacttagtaaAtactcaagaagcgcggtgct
+149,chr,NA,Synechocystis sp. PCC 6803,NA,NA,NA,NA,604996,-,NA,catggtggatatcaccatggcaatatttgccaaattcagggtcagtggtaacatagaaccActacacaactggcgcctctc
+150,chr,NA,Synechocystis sp. PCC 6803,NA,NA,NA,NA,610937,+,NA,ttgcatagcttttagtcggtgcccttggaattgttcaaaataggtgctagaattctcactGaggaatttcttggtcttcgc
+151,chr,NA,Synechocystis sp. PCC 6803,NA,NA,NA,NA,614708,+,NA,gggtgcgccaggctagattttatgtgttgcgccgtacttccatgccttctaccctagtggAggtgggttttgtcacgggga
+152,chr,NA,Synechocystis sp. PCC 6803,NA,NA,NA,NA,615731,-, sll1837,cagggtaagcccatccctggccgtgggcaaagccagcctagttctagtaagattggcgttAacaatttctgtggtttgagg
+153,chr,NA,Synechocystis sp. PCC 6803,NA,NA,NA,NA,615878,+, slr1912,ctaaacaggccgtaacggacaatacggaaattgtcgctcccaaaacacaaaatagtcagcAcatcgacataattgacggcg
+154,chr,NA,Synechocystis sp. PCC 6803,NA,NA,NA,NA,618208,-, sll1835,ggttaaccaaaagttaaatattttattgactgttgtctcgtcactactgtagccttggttAaaaaatcagctataaacgcc
+155,chr,SYR33p,Synechocystis sp. PCC 6803,SYR33p,NA,NA,NA,618897,+,ncr0270,tcgccggcaaattcgggaaaccgtattttgctaggcaaaaataagttttacaatgggaagAactccatggcacggggtctt
+156,chr,NA,Synechocystis sp. PCC 6803,NA,NA,NA,NA,621566,+, slr1918,gctttcctccctagggagccgaggatgtcaatggtaagatctttgggcatactggatgtcAgcactcccaatcaagcattc
+157,chr,NA,Synechocystis sp. PCC 6803,NA,NA,NA,NA,629366,+, slr1920,aagcaatcataacgcttgatgttacaaaacgtcggcggctttttaagctatcataatagcCttactttcatctgtcctagg
+158,chr,NA,Synechocystis sp. PCC 6803,NA,NA,NA,NA,631633,-,NA,taacgaattagaccctgggcgataccgttgcaaaggctctaattgtggtactgtcagtgcAatagggctgtccctgtcttg
+159,chr,sqdBp,Synechocystis sp. PCC 6803,sqdBp,NA,NA,NA,636340,+, slr1020,gtctgattatagttccccgtcttgacccccggctgtcccccaacctgataaattggacagAtatcagtgatagacatttac
+160,chr,NA,Synechocystis sp. PCC 6803,NA,NA,NA,NA,640233,+,NA,tacggcaaactcaaaggcaatttgttgccctgtgcgtccatagccacaaagaatataatgGtccgctaatcgctcaatcac
+161,chr,SYR22p,Synechocystis sp. PCC 6803,SYR22p,NA,NA,NA,645865,+,ncr0280,tttgtatctttcgcctttgcgtagcgcatttttcaataaaggtcaatataccattagtagAttgtttggttcataccacga
+162,chr,NA,Synechocystis sp. PCC 6803,NA,NA,NA,NA,646097,-, slr1028,gaaaggcgatcagataaagttatactcattaaggctaggctccacaaataaaatgagggtCgacggtcaaattcaggcttt
+163,chr,NA,Synechocystis sp. PCC 6803,NA,NA,NA,NA,646601,-, slr1028,gttgatgggattgtggaaaactgattgctgtaaatttgaaaggtttgatagtatggatccGcatcttcccggatggcctgg
+164,chr,NA,Synechocystis sp. PCC 6803,NA,NA,NA,NA,647438,-, slr1028,atatcagagattaccgccagtccgatcgccgtgatagcacccaagggaggaacattaaacAggactgccagtaccgcatca
+165,chr,NA,Synechocystis sp. PCC 6803,NA,NA,NA,NA,647950,-, slr1028,ccccaaaaactggaactgttgtggtctggcctagggggtctttgacgttaacttggaaatCtgtggcctggggggtgccgt
+166,chr,NA,Synechocystis sp. PCC 6803,NA,NA,NA,NA,648245,-, slr1028,attgaattgccattggtatccgtaacttgaaatagagatgaatcgggtatgatgttgggaTttagagtggcattaaaggca
+167,chr,NA,Synechocystis sp. PCC 6803,NA,NA,NA,NA,648315,-, slr1028,ataggtgctgctcgatccggatagagttaagatcacactgcgagacgttacaataacagaGgaaattgagattgaattgcc
+168,chr,NA,Synechocystis sp. PCC 6803,NA,NA,NA,NA,648336,-, slr1028,actacccgaataactaacgctataggtgctgctcgatccggatagagttaagatcacactGcgagacgttacaataacaga
+169,chr,NA,Synechocystis sp. PCC 6803,NA,NA,NA,NA,649251,-, slr1028,cgcaaatgtggtcagaatatcgcttgttgtaaagggagcaacgggaatattattactattAactaatgtgccagcaccaga
+170,chr,NA,Synechocystis sp. PCC 6803,NA,NA,NA,NA,649507,-, slr1028,agtaaatagttgagctttgcagggcctgggtaataatctctaagttgctataatattggcCtgggatgagttgattctgaa
+171,chr,NA,Synechocystis sp. PCC 6803,NA,NA,NA,NA,653334,-, slr1028,gagggtaacagcattagtaatcaggctagtattcccaggatttagagtaccattggggacAatattgccctcggaatcaac
+172,chr,NA,Synechocystis sp. PCC 6803,NA,NA,NA,NA,653475,-, slr1028,cccagaaatcacatcagcaaagccatcgccattaacatccccaaccattacaatgttgagGccattaccaaagagactgcc
+173,chr,NA,Synechocystis sp. PCC 6803,NA,NA,NA,NA,655027,-, slr1028,aatttgaaaaagcaaaaagaagagattcattattactttgattcaatgataaaataaagcTttgattaaataagattgatg
+174,chr,NA,Synechocystis sp. PCC 6803,NA,NA,NA,NA,656897,-, slr1028,ccgccaatagcgtttgggctatctgaattggtgagccgggcccctgtggcaccattaaacAttatggattgataggtttgg
+175,chr,NA,Synechocystis sp. PCC 6803,NA,NA,NA,NA,657372,-, slr1028,aatttcttctccctgttgactatagagcatatagtaacgattagcttctaaattagagttActaaagctaccaaaaaattg
+176,chr,NA,Synechocystis sp. PCC 6803,NA,NA,NA,NA,658011,-, slr1028,ctctatgtcacttttgtacttaatttatgaagttagaaagctgaattgtaaaattatgtcAttgtagtcaagatcgccgcc
+177,chr,NA,Synechocystis sp. PCC 6803,NA,NA,NA,NA,669844,+,NA,tcggcgatcgccgtgaggaactgattgcttaattcgggcaactgggctaaattcttcaccAgccgagttttctcccccaag
+178,chr,NA,Synechocystis sp. PCC 6803,NA,NA,NA,NA,671788,-,NA,tcttggagggtactggtgggaggttggtgccggatgggccaaaaaaagtagcatatggatCgagagaaaaatccctgatgg
+179,chr,NA,Synechocystis sp. PCC 6803,NA,NA,NA,NA,672957,+, slr1378,gcatgggaaagtccagccatttccccccagacagtgccggagagtcgttagattataagcAatcaccactgtgcggagaga
+180,chr,NA,Synechocystis sp. PCC 6803,NA,NA,NA,NA,691284,-, sll1292,tgtataagttagttttaattactgatttgcttcttctatcctatgattatcatcgttagcAattgcccagggggataccag
+181,chr,NA,Synechocystis sp. PCC 6803,NA,NA,NA,NA,692674,-,NA,taaactctactcattaatttgcattgttcccatagcaaagtgatcaactatagttaacttAagattaagaaaatagttaac
+182,chr,NA,Synechocystis sp. PCC 6803,NA,NA,NA,NA,692722,-,NA,atgggataagggatgaaatggtgcttgattttagaaatagtatggggttaaactctactcAttaatttgcattgttcccat
+183,chr,NA,Synechocystis sp. PCC 6803,NA,NA,NA,NA,695567,+, sll1289,ggggtgcaggctgctcggtaggccttggcgatcgcctgggtttcgtcgtacagtaccgggAagcaatagtcccaatcctgg
+184,chr,SYR41p,Synechocystis sp. PCC 6803,SYR41p,NA,NA,NA,701128,-,ncl0260,atggaagtggtcacagggcacggcgtcattggttggttaaatagcctgtagaataggccgAgtaaagctccccaagccatc
+185,chr,NA,Synechocystis sp. PCC 6803,NA,NA,NA,NA,702290,-,NA,cattgattgatcgaaatccgccctttgatcgtcggtgtcatccatggctaaaatcaatccCttggcaaaatgatcaatcca
+186,chr,NA,Synechocystis sp. PCC 6803,NA,NA,NA,NA,705981,-, sll1286,aattatgaagatttctgttgaccagtgaggcgatcgggatttttcccgcacaataacagtAatagctcggtgaatttagag
+187,chr,NA,Synechocystis sp. PCC 6803,NA,NA,NA,NA,708144,-, slr1397,cggttagattatccatcagagttgaatgccgataatacagactgctatactattttaatgAaaagagtgctggcaagcaag
+188,chr,NA,Synechocystis sp. PCC 6803,NA,NA,NA,NA,708147,-, slr1397,agtcggttagattatccatcagagttgaatgccgataatacagactgctatactattttaAtgaaaagagtgctggcaagc
+189,chr,NA,Synechocystis sp. PCC 6803,NA,NA,NA,NA,708160,+,NA,tgcacagcttcaacgttcggcgggcttgcttgccagcactcttttcattaaaatagtataGcagtctgtattatcggcatt
+190,chr,NA,Synechocystis sp. PCC 6803,NA,NA,NA,NA,708511,+,NA,atctcagctttccattggggttgattgacgaacttgaagctaccactgtatcttgggtcaGtccagcaattgcatttcacg
+191,chr,spoIIDp,Synechocystis sp. PCC 6803,spoIIDp,NA,NA,NA,712803,-, sll1283,cctttggtcggcgctgtaactggcttggcaaaatccccggcaacagctaccttggttaggAttgaccggtagattgtgctg
+192,chr,NA,Synechocystis sp. PCC 6803,NA,NA,NA,NA,723174,-, slr1703,gcaaatttgggtaattgccctgtgcccagcagggaatcgctgttaactaaaatgggaggcAtaatctcctggtagcccacg
+193,chr,cpcBp,Synechocystis sp. PCC 6803,cpcBp,NA,NA,NA,727718,-, sll1577,ggaataaaattaacaagatgtaacagacataagtcccatcaccgttgtataaagttaactGtgggattgcaaaagcattca
+194,chr,NA,Synechocystis sp. PCC 6803,NA,NA,NA,NA,728551,-, ssr2848,cccactacatccaggttagggaaagggaaaaggaatgtcagtccccgctaacatggaagtGtttagccaaatattgaccag
+195,chr,NA,Synechocystis sp. PCC 6803,NA,NA,NA,NA,732376,+,NA,aaaacagtaaaaacaatgacattgttgttctagaacagtagtcaaagttacaatataaggAcattttattggattctaagt
+196,chr,NA,Synechocystis sp. PCC 6803,NA,NA,NA,NA,732755,-,NA,gcgctgagataagccgctaggttgaggagcaggggatgggggcagtttaaaatcaaagttGtgcccatggccgcagtggtg
+197,chr,NA,Synechocystis sp. PCC 6803,NA,NA,NA,NA,733296,-,NA,gcccggaagatttctttctattttgtcgaccttatcaacccggtgattgcatgatcaatgAtcatcagtccgtcaaatggc
+198,chr,dfrAp,Synechocystis sp. PCC 6803,dfrAp,NA,NA,NA,733407,+, slr1706,tcttccgggcgatcgataaagtggggaatttgagctaacctttgatggcactatgtggagGtcaatcactggatagccatg
+199,chr,NA,Synechocystis sp. PCC 6803,NA,NA,NA,NA,734641,-,NA,cacaggcaatggtgggtacagttagttgaatagtcatggaaaatgataaaaattggaatcAagtatgggttgaattcagat
+200,chr,NA,Synechocystis sp. PCC 6803,NA,NA,NA,NA,734945,+, slr1708,cgatttttcgttccggctgttctggtttgcatttatagcctaaccctctacaatcgagggAgtattttgcaacccgtatgt
+201,chr,SYR29,Synechocystis sp. PCC 6803,SYR29,NA,NA,NA,736245,+,ncr0320,gcccaatcccaagctgactcccagccccaaagttaaacgacggatatctataattaaacaAccgatggatttcccattgtt
+202,chr,NA,Synechocystis sp. PCC 6803,NA,NA,NA,NA,736311,-,NA,gacttaggtaggggaaattgacattgattacattttgttggaattgtctaggctgttgccAtagtcaaataaaaaatcccc
+203,chr,NA,Synechocystis sp. PCC 6803,NA,NA,NA,NA,739425,+, sll1570,aatcactgcggccttttcccccaaggggcgatcgccaaggagaaaatctacaatgaggggAgacataatccgatactgctg
+204,chr,NA,Synechocystis sp. PCC 6803,NA,NA,NA,NA,744793,-,NA,ccctatttaaccatttggattttgtcccggtggagtccgattaaaggttaaggtatgtcgAtggaggtaaggggaaattga
+205,chr,NA,Synechocystis sp. PCC 6803,NA,NA,NA,NA,745148,-, sll1926,caattaaccctgtctcaaaacttaacatcattaacggaaatatcctttagaattttggccAattgccgctttgaccattgg
+206,chr,NA,Synechocystis sp. PCC 6803,NA,NA,NA,NA,747122,+,NA,caggggattttatggcgatcgccattgctattggtaccaaaacaaggatagaatctatgcAatctaaaacttaaattacat
+207,chr,NA,Synechocystis sp. PCC 6803,NA,NA,NA,NA,749124,+,NA,gactctggggtttagccatcccattgggcaaagaacgatggcatttgataacctggggagAttaatcaaactgagggaggt
+208,chr,NA,Synechocystis sp. PCC 6803,NA,NA,NA,NA,750611,+,NA,acctatttcctacaaattatggttgcccatggtattggccagttcctctatcattggcttAcccatcctggcgggctttga
+209,chr,NA,Synechocystis sp. PCC 6803,NA,NA,NA,NA,755986,+,NA,aagagaaatttaaaatccctttatttgagctttaagcacttagctattaacctgaaatttGacccagaaaaaccaataaaa
+210,chr,NA,Synechocystis sp. PCC 6803,NA,NA,NA,NA,758556,-, slr2017,gggaccaattgtaggttgtagttagggcaggggcgcaggtaaaagtgctagtttggggaaGaagtctagtgcaatcggaag
+211,chr,NA,Synechocystis sp. PCC 6803,NA,NA,NA,NA,761124,-, slr2018,caaaccggggagacaggggcggtaaattcttggcattattgaatcgggtatcatagcgccAatctcgattgggtgcaccat
+212,chr,NA,Synechocystis sp. PCC 6803,NA,NA,NA,NA,767803,+,NA,cttgctaacattgaccttctgggagtttgttcccaccccaaattcctctaagatgaacagAgcaagcaagaattttgacgg
+213,chr,NA,Synechocystis sp. PCC 6803,NA,NA,NA,NA,771595,-,NA,tccataggttatcggagggaagtttggaacgccgggatagctcttggtagaatgtatcccAagggcaatgctagttggacg
+214,chr,NA,Synechocystis sp. PCC 6803,NA,NA,NA,NA,781263,+,NA,caggaaattacggtgacgggactattgacggggcaggatttaatcgctaaattggcaggcAgagatttaggggatggtatt
+215,chr,NA,Synechocystis sp. PCC 6803,NA,NA,NA,NA,790678,+,NA,actctgaagaatttggctggagcttgaccccgctctggagaattgctttaccctgtagggGattgtaatttttgttgtttt
+216,chr,NA,Synechocystis sp. PCC 6803,NA,NA,NA,NA,794358,-, slr1138,agtttgcccttgggtttcctgctcaaattcagcgtcggtgatttccagtaaactcatggtAatggtcaagaactcttttga
+217,chr,NA,Synechocystis sp. PCC 6803,NA,NA,NA,NA,795076,+,NA,acaaattttgccaccgttgcttctgtgttgcgggtaaacagtgatgtgcaatatttggacAtggaccccaaaacctttgcc
+218,chr,SYR35p,Synechocystis sp. PCC 6803,SYR35p,NA,NA,NA,801399,-,ncl0350,tcgccgataaaaagtagcacagaacacagttaacttaatcatccctagctagggtaggggAtattgtttctagggttccga
+219,chr,leuSp,Synechocystis sp. PCC 6803,leuSp,NA,NA,NA,809360,-, sll1074,ctggtctaggatggttaacagacaaccttgggcccaagtcagaatggtatactaacaagcCtgtaatcaactgggcttagg
+220,chr,SYR50p,Synechocystis sp. PCC 6803,SYR50p,NA,NA,NA,811282,+,ncr0340,cttccgtttgcgtttacgtgccaacccagttacctcctatttcagctatatgctgtaatgAtagttacaaaagccgtgccg
+221,chr,NA,Synechocystis sp. PCC 6803,NA,NA,NA,NA,811296,-, slr1146,ttagcgccgcaagggcttgaggggcttgatatttagaattagaccggatataatcggcacGgcttttgtaactatcattac
+222,chr,NA,Synechocystis sp. PCC 6803,NA,NA,NA,NA,818295,-,NA,tggccaaaggtgcctataccattgttgattctgaaggtgttcctgagttaatcttgatagGtacgggttccgaagtacaac
+223,chr,tktAp,Synechocystis sp. PCC 6803,tktAp,NA,NA,NA,820062,-, sll1070,gctttcaaaaaatatcaatagcccaccgaaaaatttcccgaaccgtgggaagatggtagcAatttggcctgccttggcccc
+224,chr,acpPp,Synechocystis sp. PCC 6803,acpPp,NA,NA,NA,821908,-, ssl2084,tggccaagggacaggggaagcatctagtgcaagggatacctttccgttaagatggttaacGctgaacaattgagcgcattg
+225,chr,NA,Synechocystis sp. PCC 6803,NA,NA,NA,NA,826431,-,NA,tgcccaaggtcggtaaataccccattgcagattatgagagaaacttataggattgttaacAtaagtttacaaagtgaattg
+226,chr,NA,Synechocystis sp. PCC 6803,NA,NA,NA,NA,829054,-,NA,gcttgccttagagtaaccccctgttgttaattttttaggagttcagttaccatgcgacacAgatgtcgagtgcctcagttg
+227,chr,rps13p,Synechocystis sp. PCC 6803,rps13p,NA,NA,NA,831245,-, sll1816,ggggagagttaatttaatatttgccatgacacggccacgataacttgttataattaagagCttgcagtgttgccaaagaaa
+228,chr,NA,Synechocystis sp. PCC 6803,NA,NA,NA,NA,833552,+, sll1814,ggataatccacccccggtaaaaatatttaaaaaaccaataacggagttatcgttgatggcCtggctaaaggcctggcgatc
+229,chr,NA,Synechocystis sp. PCC 6803,NA,NA,NA,NA,834474,+,NA,ggcagcccgggcattgttgaggggattgttggagcctagttgtttggctaggatattcttAactccggctagctctagcac
+230,chr,NA,Synechocystis sp. PCC 6803,NA,NA,NA,NA,842950,-,NA,catggcctaggaagaaaattaatttgacggggattccctttagggctatgatgattaatcGcggtcaaaactggatattag
+231,chr,SYR42p,Synechocystis sp. PCC 6803,SYR42p,NA,NA,NA,842951,-,ncl0380,gcatggcctaggaagaaaattaatttgacggggattccctttagggctatgatgattaatCgcggtcaaaactggatatta
+232,chr,NA,Synechocystis sp. PCC 6803,NA,NA,NA,NA,845951,-,NA,agatgtggcggcctacgtgcttgatcaagcggaaaagggctggtagatatcctggttttcAatggtttgatcagggagaat
+233,chr,NA,Synechocystis sp. PCC 6803,NA,NA,NA,NA,848969,+,NA,aggtattcaccgatctgggcattggttcgatgattgtggcttcgggctatgatctctgagGtggccaagattttttcaccc
+234,chr,ureFp,Synechocystis sp. PCC 6803,ureFp,NA,NA,NA,849136,+, slr1899,ggtcagcccgaccctgccggtgggagcctacaactattccgaaggcttagaatggttgatAgaacggggaaatattactaa
+235,chr,NA,Synechocystis sp. PCC 6803,NA,NA,NA,NA,851047,+,NA,tctttgaacaacggctgggagaattgagcgaaatgctcgatttaaccacagaattaaaacAaccggtgcgtaaactttccc
+236,chr,rps20p2,Synechocystis sp. PCC 6803,rps20p2,NA,NA,NA,862219,-, ssl2233,cccctctggtacagttaggtgaccattgtcgtggcgtccccaaactgttagaataacaatTctgatctttatgaacccgcc
+237,chr,NA,Synechocystis sp. PCC 6803,NA,NA,NA,NA,862258,-,NA,agccagttgggccaaggtagtcgctttgaagtggaactacccctctggtacagttaggtgAccattgtcgtggcgtcccca
+238,chr,rps20p1,Synechocystis sp. PCC 6803,rps20p1,NA,NA,NA,862322,-, ssl2233,cggtctgggactgcccattgtcaaaaaatgcgccgaactccacggtggtatgattaccgtAaccagccagttgggccaagg
+239,chr,NA,Synechocystis sp. PCC 6803,NA,NA,NA,NA,867427,+,NA,gggcggcggatagccacaataaacgcttggccctggtcatagcgacgtagagtagtcggtAttcctctgcttccttgaggc
+240,chr,NA,Synechocystis sp. PCC 6803,NA,NA,NA,NA,867573,+,NA,cgatggtgtaccacggtgcgaatttgggccctggccacctccgctagggtaaactgccccAaaaattgccctcccttgggt
+241,chr,NA,Synechocystis sp. PCC 6803,NA,NA,NA,NA,873338,-, sll1120,gcattagtccctgggcagtttccggccaatggcgatcgccaagcgtcgtatattaggcatAtattgagccgctgggccttg
+242,chr,NA,Synechocystis sp. PCC 6803,NA,NA,NA,NA,878287,-,NA,gtcctccggtggttcagtcaaaggttgtttaccccttgccccggtggttaaagtagggacAttggtttggtctagataacc
+243,chr,NA,Synechocystis sp. PCC 6803,NA,NA,NA,NA,879095,+,NA,tgaactcagcgatggaaggatctttggctttcctggcgatcgtttccgtatccttaaagaAgctacaaatgaacaattggc
+244,chr,NA,Synechocystis sp. PCC 6803,NA,NA,NA,NA,887590,+, slr1205,ccctccccaataaacgcccattactaggacaaacgggggtttttctcctaaacttttaggAtgttggatcagggcccgttg
+245,chr,SYR37p,Synechocystis sp. PCC 6803,SYR37p,NA,NA,NA,890609,+,ncr0370,gaagacagtcaagatgccctcaatccgccggaggactccaccgagtcggacaattgatcaAgccaaaccgcatctaacgcc
+246,chr,NA,Synechocystis sp. PCC 6803,NA,NA,NA,NA,891238,+,NA,tctgacttgccaagaaaacagtcacaattgtcccagaccgaaagcagggataatagccttGgtagcaacagcaaccccagc
+247,chr,NA,Synechocystis sp. PCC 6803,NA,NA,NA,NA,899123,-,NA,ctgcttgagcagatcaatttctgtttgttcccaaactctagaactgtcacattgatgaatAcacaataagccccacaaaat
+248,chr,NA,Synechocystis sp. PCC 6803,NA,NA,NA,NA,900262,-,NA,tcaggttttcgttgctgttgatgattggctatggcgatcgccacggtggataatagttgtTcccgccgaaaaggcttaatc
+249,chr,SYR14p,Synechocystis sp. PCC 6803,SYR14p,NA,NA,NA,900771,+,ncr0380,tcaactagtttgtcaaaaatcgaccaggacagggttgggaatttttcctaggatgggactGtgctggtgagcgacgggctg
+250,chr,NA,Synechocystis sp. PCC 6803,NA,NA,NA,NA,902350,+, slr1215,attctgtccctgttctttgtccctagagggaactttgtaatctgtggtagattttattgtGattgagtgattccaaatttg
+251,chr,NA,Synechocystis sp. PCC 6803,NA,NA,NA,NA,907016,+, slr2070,aaccggctaaagattggtgctaaatgtccggagactccacccaaacagtaaacttgccatAggaactttttcaatctgtgt
+252,chr,pmgAp2,Synechocystis sp. PCC 6803,pmgAp2,NA,NA,NA,909505,-, sll1968,attcaggcctcccaggcgatcgagtataatggttgccatcagtactgttagattgctactAgtccggtgtgaggtggagcg
+253,chr,pmgAp1,Synechocystis sp. PCC 6803,pmgAp1,NA,NA,NA,909528,-, sll1968,agggttatggtagcggccagcacattcaggcctcccaggcgatcgagtataatggttgccAtcagtactgttagattgcta
+254,chr,NA,Synechocystis sp. PCC 6803,NA,NA,NA,NA,915052,-,NA,gcttctgtgcaggactactcctttattgaccgaacactttgtaatgcatattatgtatgtAtgcagtttgagtatgatccg
+255,chr,NA,Synechocystis sp. PCC 6803,NA,NA,NA,NA,915238,+,NA,cgggaaaccacactcaccggggtgttgcactgggtcaagcaatttagctaaattagcactCgtgaggtgggagtgctaaac
+256,chr,NA,Synechocystis sp. PCC 6803,NA,NA,NA,NA,915855,-,NA,tacatggtcttccagttcaatctctttggcaatcgtgatcccgtcgttaataatttggggAgagccaaatttcttctcgag
+257,chr,NA,Synechocystis sp. PCC 6803,NA,NA,NA,NA,917037,-,NA,accggcgttttcggcaatccgtttgaggggagcaggcagagcccgggctacaatcagggcAccggttaactcttcatcttt
+258,chr,NA,Synechocystis sp. PCC 6803,NA,NA,NA,NA,925485,-,NA,ctttaaggattttgaaggggacgtgattgaagtcagtccagaaagaagtaagctaaaagcCttactgtccattttcggtcg
+259,chr,rpl19p,Synechocystis sp. PCC 6803,rpl19p,NA,NA,NA,927244,-, sll1740,gcaaggcaagtgggaaaaaagcaacttttgcaaaagagggtaaatcagttatgatgagaaAttgtcagtttttactatgac
+260,chr,NA,Synechocystis sp. PCC 6803,NA,NA,NA,NA,930004,-, sll1739,taccattggggcaatcatctctagactatggtgttggtgtcggcctgttatcatactattGttggcagtcagcacaatcgt
+261,chr,NA,Synechocystis sp. PCC 6803,NA,NA,NA,NA,932042,+,NA,ccatgacaaatcttccagagcaacacttgccaccccaaaaagctgagccataattcaggtAgcggccagtagtaaggtgga
+262,chr,NA,Synechocystis sp. PCC 6803,NA,NA,NA,NA,932700,+,NA,attattgcgggcctttgacgattgggttaagttatcccaggccatggcagactatcaattActggaagcagatattcaata
+263,chr,NA,Synechocystis sp. PCC 6803,NA,NA,NA,NA,935569,-,NA,aggacgatatgttggtgcagttggggatcactttccagcgctcaatgtacaatgttacctCagcagtcatccaggctttgc
+264,chr,NA,Synechocystis sp. PCC 6803,NA,NA,NA,NA,936775,+, sll1733,ccgggaaaaataaactgcactaaatgcaatggacaatggcaacggcgttagagttatggcAaggtcaccccttgggctaat
+265,chr,NA,Synechocystis sp. PCC 6803,NA,NA,NA,NA,940097,+, sll1732,atcgatggcgggttgctgccaaatatgtataagcaccaacagactatgcaaaaatgcaacAaaagtcattaatgtgcttat
+266,chr,NA,Synechocystis sp. PCC 6803,NA,NA,NA,NA,940118,+, sll1732,aatatgtataagcaccaacagactatgcaaaaatgcaacaaaagtcattaatgtgcttatAtagcctgccggccttggccc
+267,chr,NA,Synechocystis sp. PCC 6803,NA,NA,NA,NA,940461,+, sll1730,cttatccaggccccaaaggggcattaccatagtcaagcgacaatggtataacctagatgcAtagaaagagtgttatttgtt
+268,chr,NA,Synechocystis sp. PCC 6803,NA,NA,NA,NA,940667,+, sll1730,gagtttgatccgaattacataaatatccgaattacgtaaatagggtgttaatctgttgccAttcccgcagcagtgctcgac
+269,chr,NA,Synechocystis sp. PCC 6803,NA,NA,NA,NA,941539,+,NA,aatttttaattattgttacgcaggtcttgcctagggggggggaggccgtattatcttctaGtgatgtttgctgaaaacgcc
+270,chr,psaAp1,Synechocystis sp. PCC 6803,psaAp1,NA,NA,NA,941542,+, slr1834,ttttaattattgttacgcaggtcttgcctagggggggggaggccgtattatcttctagtgAtgtttgctgaaaacgcctat
+271,chr,psaAp2,Synechocystis sp. PCC 6803,psaAp2,NA,NA,NA,941641,+, slr1834,cgttattatgaagcgaaaactaattcccttttttacgcttcctctattacactattctgcAtaggaaacccttaatagttc
+272,chr,NA,Synechocystis sp. PCC 6803,NA,NA,NA,NA,950619,+,NA,ataagtcacggagttgggcgctattgcgtcgcaggtcaaaagcctgttctaatcgttggcGggcctgctgggcgtaacgat
+273,chr,NA,Synechocystis sp. PCC 6803,NA,NA,NA,NA,953435,-,NA,tatctgatctagtggacaaactaaaagttgtccaatggaatctgaggataaagtagagtcCtatttgaacatatttttgtc
+274,chr,NA,Synechocystis sp. PCC 6803,NA,NA,NA,NA,957889,+, slr1841,cggcctaaaaactggccctgcccctagccatcaccaaaatagcaactataatctgttattAaccatcaacatcatcgttcc
+275,chr,cysKp,Synechocystis sp. PCC 6803,cysKp,NA,NA,NA,960127,+, slr1842,taaactctaataactctttaaccccgcctctggtggggtttttcgttgtaagatgcaggcAgatttcccttcttggtgggc
+276,chr,NA,Synechocystis sp. PCC 6803,NA,NA,NA,NA,963939,-,NA,gttagctttttccagggagtttgtaactgaaaatcaaaatgctgtcctaaactgtacagtAacgacaagtaataggaatta
+277,chr,NA,Synechocystis sp. PCC 6803,NA,NA,NA,NA,969431,+,NA,gtggcacgagcagttagggcatcttgaatccgatctggtaaacaccttaaaataatttctGcatcagcggacgaaatttgc
+278,chr,NA,Synechocystis sp. PCC 6803,NA,NA,NA,NA,979180,+,NA,tatcaaagaactggggaaacaaattggtgggttagggaaaaaatttggtagttttaccgaAggcttggccttgccttccat
+279,chr,sigGp,Synechocystis sp. PCC 6803,sigGp,NA,NA,NA,983779,+, slr1545,agttttaatttttttagcaaacacctgtgattctagaaactcttacggtatccttacgtcAactagcctatgtgaggagtc
+280,chr,NA,Synechocystis sp. PCC 6803,NA,NA,NA,NA,983895,-,NA,aaagcggtactatcgggacgggtcttttgctgacagagcaaaatcaggtcaacattggttAacgactccgggggcagggca
+281,chr,NA,Synechocystis sp. PCC 6803,NA,NA,NA,NA,987972,-, ssl2823,acagtttactcaaaacaactcaaactcaatttgggtaaaccttcagagtatgatgggaggAcgttgtgaccctccaggagc
+282,chr,NA,Synechocystis sp. PCC 6803,NA,NA,NA,NA,988888,+, sll1464,atgggctgaatcatcggagttggagccagaaacctctggatagtaggttacaattacgtgAtccagtagttgtgcaatctg
+283,chr,NA,Synechocystis sp. PCC 6803,NA,NA,NA,NA,993466,+, sll1459,gaattgttcagtattatctgccatgggttgaccgtcgctgtcggggtagataatagtgcgAtggggggcgataaccatttg
+284,chr,NA,Synechocystis sp. PCC 6803,NA,NA,NA,NA,994307,+,NA,gcaaaccttttaaaccatagcgaaaattgtccaggccgtgattttgttaagatgtagtccAagaccccattgttgagatag
+285,chr,NA,Synechocystis sp. PCC 6803,NA,NA,NA,NA,997927,-,NA,catcgtggctttggctggacaaacttgcagagggacaaccggccagataaaattagccccAgttctgagaaccattggcac
+286,chr,NA,Synechocystis sp. PCC 6803,NA,NA,NA,NA,998959,-, sll1456,ggggattgcattttttagctgaccctagatggggttgatttttgtgggagaatgttagccAacctgaggataaaccatcgg
+287,chr,ftsZp,Synechocystis sp. PCC 6803,ftsZp,NA,NA,NA,1014490,-, sll1633,agagggaaaaagctcagattcacattgacaaatttgctcaatatgcctagtgtagggacgAtagaccgctgggatttgtgc
+288,chr,NA,Synechocystis sp. PCC 6803,NA,NA,NA,NA,1019660,+, slr1220,taaataagcattcctagcaattttgcccaagaaaatcaagccattcgctacaatgttttcAtgaagtaaagtaaactgact
+289,chr,prfCp,Synechocystis sp. PCC 6803,prfCp,NA,NA,NA,1033844,+, slr1228,ctagggcaaaacccaacccaccattggacagatccgctgttaacttgagacaatgtttgcAgctagagcctagaaagagtg
+290,chr,NA,Synechocystis sp. PCC 6803,NA,NA,NA,NA,1034924,+,NA,ggaccctaaacaccgggaccgcattgcctttttgcgggtttgttctggtaaatttgaaaaGgatatggtggtaaaacatcc
+291,chr,NA,Synechocystis sp. PCC 6803,NA,NA,NA,NA,1042347,+,NA,ggagattctttcatagcctatgctttggcacgtattttacggtcgcggtagaatgcttttGtcaaatcatgcccaagggcg
+292,chr,NA,Synechocystis sp. PCC 6803,NA,NA,NA,NA,1044747,-,NA,cctacggcaaaccggccccaaaaaattgttttttctgccctgttgatgcataatgaaaatAatttgcaatagctttctata
+293,chr,NA,Synechocystis sp. PCC 6803,NA,NA,NA,NA,1048501,+,NA,tcaccatcaatcggtcttgctttgacagagagccaacacagtcgaggatatacttgtgttCtagggtgaacagtttcatcc
+294,chr,NA,Synechocystis sp. PCC 6803,NA,NA,NA,NA,1050584,-,NA,tcgccacgaaagtcgagaatttgtactaaaactagatacgctacagctaaaataattgagAtggcaccggtgacaatggcc
+295,chr,NA,Synechocystis sp. PCC 6803,NA,NA,NA,NA,1050920,+,NA,ttttgcatgagagccctggctttattgaaacgtaaaggagtagagttccaagaatattgcAttgacggcgacaacgaagca
+296,chr,NA,Synechocystis sp. PCC 6803,NA,NA,NA,NA,1050924,+,NA,gcatgagagccctggctttattgaaacgtaaaggagtagagttccaagaatattgcattgAcggcgacaacgaagcaaggg
+297,chr,NA,Synechocystis sp. PCC 6803,NA,NA,NA,NA,1051081,-,NA,gatgggggcagaagccgtaatggttgaagacaaataatatatatacgaataagattagccAgcctaactatggagcagggg
+298,chr,NA,Synechocystis sp. PCC 6803,NA,NA,NA,NA,1052431,+, ssr2062,agacagagtaactgtttaatgcggatttgcccccttggttgaatagggcaaaatataaacAtctagaaagttcgagctgat
+299,chr,NA,Synechocystis sp. PCC 6803,NA,NA,NA,NA,1052891,+, sll1127,tgccatagtggagactgttttcggggaacttttggggttaattttccgacatagtgccatAgtagggctgaacaggggagc
+300,chr,NA,Synechocystis sp. PCC 6803,NA,NA,NA,NA,1079107,+,NA,tatctccacatccagaaaatttgccatggccagattagccccagtagtataatgcgccgtAcagtggatgggctgccagtg
+301,chr,NA,Synechocystis sp. PCC 6803,NA,NA,NA,NA,1084283,+,NA,tgggcatagacaatttcgtccaaatttgtactgccagtgtcgcaggtgacaattaactttGtaccctgggttgctaagcgt
+302,chr,NA,Synechocystis sp. PCC 6803,NA,NA,NA,NA,1089182,-,NA,ttggaggagttttggcaaattttgccccgtttttagccgtacttgagtcaccatggaagtAagccagagcaagcctgaagg
+303,chr,NA,Synechocystis sp. PCC 6803,NA,NA,NA,NA,1092923,-,NA,aactgcttacggcgatcgcctccttggataaccatcgctggtatccattaaaatcctaggAattgcccttgtcctgaatag
+304,chr,"psbZp, ycf9p",Synechocystis sp. PCC 6803,"psbZp, ycf9p",NA,NA,NA,1095530,-, sll1281,gcctctgggtaatccggctatgtgcttccctcagggcacatattttggtagcttacttagGgaaagattcaacgataatat
+305,chr,NA,Synechocystis sp. PCC 6803,NA,NA,NA,NA,1095807,-,NA,agtgattcccaaacctatcaaaacttgctcaagggccgcaaaaatgcgtataatctgaacAccgaagaaaacaagggcggc
+306,chr,NA,Synechocystis sp. PCC 6803,NA,NA,NA,NA,1096994,+,NA,ttgtccatcccggtggtggtcttgccccctttgtccaacgcgtactgtataattgagagtCtgtatcctggcttgtacggt
+307,chr,NA,Synechocystis sp. PCC 6803,NA,NA,NA,NA,1098107,+,NA,gcgctgtggatgaataataaacaattggctgcctaatgcttgcacagttaggctgggcctGaatctatagatccaatcaga
+308,chr,NA,Synechocystis sp. PCC 6803,NA,NA,NA,NA,1102035,+,NA,gcacatcccctgcaccgatatatttggccatgcgccccaccaaccaggctagaatgggccAaaaaacagtgaatagcagag
+309,chr,NA,Synechocystis sp. PCC 6803,NA,NA,NA,NA,1108802,+,NA,cctggccctaggttgcctagtcggtttgggagtcatccacggtgcgggtatagtttatctAggcatgatggctgtgttgaa
+310,chr,NA,Synechocystis sp. PCC 6803,NA,NA,NA,NA,1111464,+,NA,caagaggcccagacgctccaagttgttcagtgcaacgcttatctgaactatattatatttAcgggagtcattagcatatgt
+311,chr,bgtBp,Synechocystis sp. PCC 6803,bgtBp,NA,NA,NA,1116042,-, sll1270,tttattaagtttgttgatggtctccgccgcaataatcccccttgggggaaaatgccaaggAactaccgccaacgatgagga
+312,chr,NA,Synechocystis sp. PCC 6803,NA,NA,NA,NA,1116317,+,NA,cgcatagtttcgagtctatgaagcttgcaacgaagtcgatcggtacgataagttgggtctAatcgaaggattaatcaccgt
+313,chr,NA,Synechocystis sp. PCC 6803,NA,NA,NA,NA,1127552,+, sll1265,atcgccgctactcgactcagatccggttgagcttgcaccaaatctgctaagtttacccccAgagaaattcggcccttttcc
+314,chr,rbp2p,Synechocystis sp. PCC 6803,rbp2p,NA,NA,NA,1135216,+, ssr1480,tgtgaagacatctagacaaattggccatcaaattctggcggcaggtgctatgatcagccaGtgagattaaggatcggtaga
+315,chr,NA,Synechocystis sp. PCC 6803,NA,NA,NA,NA,1137168,-,NA,attgcagcttcaatttcaaaatattgctggacctgcggaaaagcagctaaacaataaaatAttaggccgataaatccggtt
+316,chr,"hliCp, scpBp",Synechocystis sp. PCC 6803,"hliCp, scpBp",NA,NA,NA,1141984,-, ssl1633,cccgttgcctttttcaccacagacttgccatgggcgcaatactctgttacatttatttacAtagacaaccctcccagctcg
+317,chr,SYR39p,Synechocystis sp. PCC 6803,SYR39p,NA,NA,NA,1146880,-,ncl0500,tcgccgtggttacctggggaataattggcaacaatggtcggatttgggcacaatgggtaaAtacgaccaaataaggccagg
+318,chr,NA,Synechocystis sp. PCC 6803,NA,NA,NA,NA,1148141,+,NA,aaagacggtttggtctaggtttggtatttgttaagttatcaagcccaggaaaatcagagcAgtcatcgtccaacagcctat
+319,chr,NA,Synechocystis sp. PCC 6803,NA,NA,NA,NA,1149686,-,NA,cgcctagcagggggaattttaggcattgccatccggggggctttcattggagaatcgatgTtttataccattcctgaagct
+320,chr,NA,Synechocystis sp. PCC 6803,NA,NA,NA,NA,1152398,-, sll0867,tgcgtatccgtcgaggaacttacctgggtgcccagggggctttgggttaccctaaaaaatAatcaagcaatgacatttccc
+321,chr,NA,Synechocystis sp. PCC 6803,NA,NA,NA,NA,1154777,+,NA,ggggaaatgccggcggccatgatgcccttgcactggctctattggggactagaattagttAaattggcggtgggactaact
+322,chr,psbHp,Synechocystis sp. PCC 6803,psbHp,NA,NA,NA,1167287,-, ssl2598,tgttgcggattccatggggtaagattgatagttgtttctgttgtcttatattattacagaAcattacaaaaactcatttag
+323,chr,psbNp,Synechocystis sp. PCC 6803,psbNp,NA,NA,NA,1167306,+, smr0009,atagacttcccgtaaaaatgactaaatgagtttttgtaatgttctgtaataatataagacAacagaaacaactatcaatct
+324,chr,NA,Synechocystis sp. PCC 6803,NA,NA,NA,NA,1173642,-,NA,aagactatccaaggatagaccttgatcccgaatgccaatggtcggattaccatagaccacAtagacggcaccattgccccc
+325,chr,NA,Synechocystis sp. PCC 6803,NA,NA,NA,NA,1174500,-,NA,ggctcgccctaagccattaatgccattggcggcagagttggcggcgctgataataaagtcAtcgaaaccgtcattattgat
+326,chr,NA,Synechocystis sp. PCC 6803,NA,NA,NA,NA,1177881,-, slr1403,aaactttatcgttggagtaccaaaggctcctagagttacaaaggtaatatcattacggttAttgagagtgggtaaaggact
+327,chr,NA,Synechocystis sp. PCC 6803,NA,NA,NA,NA,1180687,-,NA,ttacgaaacgtatctaaattttggggacttaattaggctaatcgttgtaatgttttaactGatattcccggagacatgccc
+328,chr,NA,Synechocystis sp. PCC 6803,NA,NA,NA,NA,1194630,-, slr1856,ttagcggtgtgggtgggatgaatatctatgcgttccatggtgtcctgctaaaatgcctctTtgccttcggctagggtggga
+329,chr,NA,Synechocystis sp. PCC 6803,NA,NA,NA,NA,1203876,+,NA,actcgactcatggggcaacattaagattgctttcagcgctgtctcgattaaaatgcttttAgttcccctagttatcgccat
+330,chr,NA,Synechocystis sp. PCC 6803,NA,NA,NA,NA,1211111,-,NA,ctgcctgcgcttggcaacgatccattggtaaggattgggaaaagccctacactgtacgctAcgccagtaaccttgacgatg
+331,chr,NA,Synechocystis sp. PCC 6803,NA,NA,NA,NA,1211960,-,NA,cagggttattacccctagcggtattgacgcagacctctgaccctacattaaaattgagggAagtggcgactgcattggaac
+332,chr,NA,Synechocystis sp. PCC 6803,NA,NA,NA,NA,1214164,+,NA,agagcaatttcaagataattccattaattgcttgactattattagagttagaattcttagTtaatcgtccctttttggaga
+333,chr,NA,Synechocystis sp. PCC 6803,NA,NA,NA,NA,1223210,+,NA,cataatgcccgctgtgaacacaagagtttgtcccaggggatggggagctaaaatgcgcatAcgtatgaagttaactgtttg
+334,chr,NA,Synechocystis sp. PCC 6803,NA,NA,NA,NA,1229919,-, slr1878,ctagcttgaaatctccgtaaatctgtaaatttccaattatttcagagtaaactatccattAattccaatatttgtcggcta
+335,chr,NA,Synechocystis sp. PCC 6803,NA,NA,NA,NA,1233711,-, sll1762,cgacaatgtttgtaatagttctttactttaccggggcaaaagccggtctatattagactgGacgcaaactttttggttaat
+336,chr,NA,Synechocystis sp. PCC 6803,NA,NA,NA,NA,1239014,-, sll1758,tgaggcaatccagtggggcgtgatttacctgaaatttcccggagcagttatcctgagaggAagaattgtgtgaggaaaatt
+337,chr,NA,Synechocystis sp. PCC 6803,NA,NA,NA,NA,1246525,+,NA,ttttttactttgatgggggggaaatatttgctgacagaccactgcccccatactgaaagcActggccagtaagtccgctgt
+338,chr,NA,Synechocystis sp. PCC 6803,NA,NA,NA,NA,1247630,-,NA,ccaatttggccaaacgggtattaacgttgccccgcacatccttaaaggttaaatggggaaAgtggtagcgcagttgggcca
+339,chr,NA,Synechocystis sp. PCC 6803,NA,NA,NA,NA,1251310,-, slr2132,gcgtcgggtagcccttcaattagtttcataatggccggttcgggatggtaatctgcagtgAgcaaaataccggcaatgctg
+340,chr,NA,Synechocystis sp. PCC 6803,NA,NA,NA,NA,1253240,-,NA,aattccttggcatggcagagttagtggtttgacaatttattcggagagttaaaatagactAtctccctagtttcagtccct
+341,chr,murDp,Synechocystis sp. PCC 6803,murDp,NA,NA,NA,1258333,-, sll2010,ttatccctgggggggttttggttagttggcggtgatccccctcaaagctaaaatggtgcgAcatcgatgccaggggcgttc
+342,chr,NA,Synechocystis sp. PCC 6803,NA,NA,NA,NA,1260944,-,NA,tttccggccaaaatttttacctttgaccaggggttaaccctgatccaccaggatgtgcccAcggttcctgtggcggtggta
+343,chr,NA,Synechocystis sp. PCC 6803,NA,NA,NA,NA,1261062,-, sll2008,cagacaaaatgatggggggttaaccgacggttaagacggcgatcgcctaggatagaaggcAtagaccccaatggatatacg
+344,chr,NA,Synechocystis sp. PCC 6803,NA,NA,NA,NA,1262017,+,NA,aggactagccttcacctccggcgccttgttggggtaattgcttatgggataataggttgcCtacagtttttgattaaaaac
+345,chr,NA,Synechocystis sp. PCC 6803,NA,NA,NA,NA,1263897,+,NA,ggagtttaagccgggcttgggcctttgccagtcgcacgagatgttctataaattcatattGttgccaaaggcgttgctctt
+346,chr,psbYp,Synechocystis sp. PCC 6803,psbYp,NA,NA,NA,1268352,-, sml0007,cccagacctgtggcccggtttccattcccaaggggtcgggattaggatataagattaagaGtgttcggaaaatttatattc
+347,chr,NA,Synechocystis sp. PCC 6803,NA,NA,NA,NA,1273401,+,NA,agagaaagaactggccatcgccattgtcagccaaaagcccctgggcttaagatatcctggAaacacggtgccatctccgct
+348,chr,NA,Synechocystis sp. PCC 6803,NA,NA,NA,NA,1276149,+, sll1710,taaatggggttctaccaattgccactggctatcagtgatgtccgtgctgtaaaattctcgAattatcattaattatggtga
+349,chr,NA,Synechocystis sp. PCC 6803,NA,NA,NA,NA,1277415,-,NA,tgccgtcattgccctccgttccggtttggtttgattgcagaaggggctataatccaaggcGtttactttacccgtcctaaa
+350,chr,hemAp,Synechocystis sp. PCC 6803,hemAp,NA,NA,NA,1284582,+, slr1808,catgagccccggcgggatggacccttgattgtggtctgccattcggactacattgcaaagAttagagaaacttgtttaaca
+351,chr,SYR12p,Synechocystis sp. PCC 6803,SYR12p,NA,NA,NA,1289326,-,ncl0540,acgggaactttcgtcaaataggctacataaagcctaccgatccggccttaacctgaagatAagacataaagtcaatatcac
+352,chr,NA,Synechocystis sp. PCC 6803,NA,NA,NA,NA,1290470,+,NA,tcacatccggctcaagatgccaattttggggacaatttttgctaaggctacaatgaagctTaagacaaatgattgaggaag
+353,chr,NA,Synechocystis sp. PCC 6803,NA,NA,NA,NA,1293782,-,NA,cccttaataaaagctcttcttcttgttgactaatacaaccagaatcaatagaattaattaAcgcaactgtgcctaaataag
+354,chr,pilA1p,Synechocystis sp. PCC 6803,pilA1p,NA,NA,NA,1297553,-, sll1694,acaacaaaattttttgagcagggtgataggcaaatgaggggcgatgggtaagttacagctAgaagggttccgaccagttat
+355,chr,NA,Synechocystis sp. PCC 6803,NA,NA,NA,NA,1302982,-,NA,tagatattaaaaaaaactaaagttttgccatttttggaaaatcaatgacacaatctagccAcggggactggtatctggttc
+356,chr,NA,Synechocystis sp. PCC 6803,NA,NA,NA,NA,1304623,-,NA,cccgataaaattagtcgggattaattgacgcccattttgccccgtgttagcatgccgaaaGattaatgaaatttaggactt
+357,chr,SYR10p,Synechocystis sp. PCC 6803,SYR10p,NA,NA,NA,1311440,-,ncl0570,caccattcaccagtgacccattggcttgttgacccccagtgagaatcagataatgagggcAggattcaaaaaagcgggtgc
+358,chr,NA,Synechocystis sp. PCC 6803,NA,NA,NA,NA,1319364,-,NA,attttgtatcttttttagtatgattgccctgaatgttatgactgggtttaaaatagtcctAgagtcctaaatacattccta
+359,chr,NA,Synechocystis sp. PCC 6803,NA,NA,NA,NA,1325584,+, slr1738,aatattttttttataattattctatctaatagtccttctagaaaatgttaagctagatagActatagccaaacagtgcgga
+360,chr,NA,Synechocystis sp. PCC 6803,NA,NA,NA,NA,1326659,-,NA,ttggacaaatagttcattgccaaccttgcccgatcgccaaggaagccataaattgaagggGtcttaatcttgaccaattac
+361,chr,NA,Synechocystis sp. PCC 6803,NA,NA,NA,NA,1334127,-, slr1744,tcagggaattaaccacattgcgatggattgcttgggatagacctgcattaccatggtaatAaatctcaaaaccattcacat
+362,chr,NA,Synechocystis sp. PCC 6803,NA,NA,NA,NA,1344466,+, sll0854,gcatcatttgttgggaacgggttgaggacaccgccaccccgccaatgatactgtgtaataAcctggccacagcattggtgg
+363,chr,NA,Synechocystis sp. PCC 6803,NA,NA,NA,NA,1345668,-, sll0853,acgccaatttccgcagatcccctgccatcgattcacccccaatagcctaaaatgaagcctGttgccccaagaagctttttc
+364,chr,SYR53p,Synechocystis sp. PCC 6803,SYR53p,NA,NA,NA,1350188,-,ncl0590,cccggaatcctagacccctggcgatcggcgattatgagagtgaatatgtcagaatgtaaaAtatttgctaataatatgtag
+365,chr,NA,Synechocystis sp. PCC 6803,NA,NA,NA,NA,1360565,-, slr0864,cagcgccgctgggcgaataatttcccccgcagtggcctccacttcccccataatgatcttGagttgggtggattttccggc
+366,chr,NA,Synechocystis sp. PCC 6803,NA,NA,NA,NA,1365572,-, sll0837,ccggctcctaaggatgaagatggatggccaaaacaacgtcgggctagatacaataaacgcAcaccaccaaggtgttgggcc
+367,chr,NA,Synechocystis sp. PCC 6803,NA,NA,NA,NA,1367389,-, slr0869,ttccgcttcactcaaaaaagttaacactaccctttcttcattggcgttagcatattcaatAtgacattctgtccccgtggc
+368,chr,NA,Synechocystis sp. PCC 6803,NA,NA,NA,NA,1371254,-,NA,ctccacctgaattttccagacagtttgccctttagcattggcttgctctagggtggcattGttgagggtgaggctactttc
+369,chr,NA,Synechocystis sp. PCC 6803,NA,NA,NA,NA,1381726,+, sll1161,aaaatctaattttttagcaagggcttgttcgatactggtaggaggactacaattttttatAccatctagaaccataatgcg
+370,chr,NA,Synechocystis sp. PCC 6803,NA,NA,NA,NA,1385120,-,NA,cccttttttcggtggtttttaccgattggctatctgccgctattacgctaggttgaaggcTcttgccactctagaggcggc
+371,chr,NA,Synechocystis sp. PCC 6803,NA,NA,NA,NA,1385787,-, slr1246,catggttaatatcaccatggcaatatttgccaaattcagggtcaatggtaacatagaactAttacgcaactggcgcctttc
+372,chr,NA,Synechocystis sp. PCC 6803,NA,NA,NA,NA,1399284,-, slr1254,tggggtttggtaactgcacgctggggagaaatttgaccgttagccatttagcattgtcgcAttagggttgccatttgtcag
+373,chr,"pysp, crtBp",Synechocystis sp. PCC 6803,"pysp, crtBp",NA,NA,NA,1399300,+, slr1255,cgcctggactccctggtaatcttcctgacaaatggcaaccctaatgcgacaatgctaaatGgctaacggtcaaatttctcc
+374,chr,SYR16p,Synechocystis sp. PCC 6803,SYR16p,NA,NA,NA,1400415,-,ncl0620,atttctcttcacctaaggggaaacatcggggcgatcgcctttgttcgctacactgatagtTtgaacccttcataaagtgag
+375,chr,NA,Synechocystis sp. PCC 6803,NA,NA,NA,NA,1400923,-,NA,ttagtccgagcaatattaatgatttggaggcagagtaactttttgggctagtctgaaaatAtactttctttcaccatgacc
+376,chr,NA,Synechocystis sp. PCC 6803,NA,NA,NA,NA,1401483,+,NA,tagaaaaaattcattgtctagggttgacagtgatcaatctttatcgctatatttaaaaacGtctgaaataacgaactgtta
+377,chr,hisCp,Synechocystis sp. PCC 6803,hisCp,NA,NA,NA,1412096,-, sll1958,cctgttttttcctagacgtcgcctttacagcggcaacggtgtcggggtatggtctgtaatGggagaagctttaaacaaagg
+378,chr,NA,Synechocystis sp. PCC 6803,NA,NA,NA,NA,1413998,+,NA,taggttcttagcggaaacagaacttgccaaaaatcaacttttggtctttatcattcagtaAggcggggtttgattttccgg
+379,chr,NA,Synechocystis sp. PCC 6803,NA,NA,NA,NA,1418990,-,NA,ggttcatcactccagagataatttttggctggctgagttttgaacgattaaaatagggacGttgattcctcagcaacaatg
+380,chr,NA,Synechocystis sp. PCC 6803,NA,NA,NA,NA,1419713,+,NA,cttgattatagggaagaaaaatttgctttctttccgttaattcattgttaccctggtagcAaagggtgagaagttgcctgt
+381,chr,NA,Synechocystis sp. PCC 6803,NA,NA,NA,NA,1427731,-, sll1951,gtgttaacagcggtatgcttctagtcttgacagcaaggcgattcttgctatgattaccctAagcaactccgagacacacat
+382,chr,NA,Synechocystis sp. PCC 6803,NA,NA,NA,NA,1430912,-,NA,atggggaaaatttgctaaaagggttgaataattaagctcaacactttaataagcttgggtAcacagacctagctcattttt
+383,chr,prmAp,Synechocystis sp. PCC 6803,prmAp,NA,NA,NA,1432973,-, sll1909,gctgtcggaaatcaccaaggtggccggtatccgggatgcctacaccgttaagctctaattAgctcaccaagggtccaagtc
+384,chr,NA,Synechocystis sp. PCC 6803,NA,NA,NA,NA,1434816,+,NA,ttccctagaaagcctagaagtttttggatataataagcaagattaatttaaagtaacaaaActtaaaattgccctggttac
+385,chr,NA,Synechocystis sp. PCC 6803,NA,NA,NA,NA,1439448,+, sll1906,ggcgaagtattacgggtaaatggggcccaccacacctaacttttgcggtactgtgcaagaAtcctaattttctcctcccta
+386,chr,NA,Synechocystis sp. PCC 6803,NA,NA,NA,NA,1455362,+,NA,cagggttgttgcccctagcggtattgacgcagacctctgaccctacattaaaattgagggAagtggcgactgtattggaac
+387,chr,NA,Synechocystis sp. PCC 6803,NA,NA,NA,NA,1466951,-,NA,gcgatcgccatggtggccatgttgtttgtctttttgggcaacttggtggaaaatctcaatGctagccaggtggccctagcg
+388,chr,NA,Synechocystis sp. PCC 6803,NA,NA,NA,NA,1467997,-,NA,ccgaaaaacatctttttttacttggcatactaaagacctttaagcgattataatgctcatAgatttaccggggaaaatgtc
+389,chr,NA,Synechocystis sp. PCC 6803,NA,NA,NA,NA,1468131,+,NA,gacttttacctgccaaagattttgttaccgttagaagtgaatttgatcaacaatcgacaaAtaaggacgatcgccaaaggc
+390,chr,NA,Synechocystis sp. PCC 6803,NA,NA,NA,NA,1474102,-,NA,ggcctgggtttgggccccgatgttggtgttgcgccaactgtattgcgttaccatcaggggActttgattgccccgtaatag
+391,chr,guaBp,Synechocystis sp. PCC 6803,guaBp,NA,NA,NA,1475529,+, slr1722,gattagggttattaggctgtgctgacgtccaaagggtcagattatttggtacgctaatttAaacagtttgggaatagtaag
+392,chr,NA,Synechocystis sp. PCC 6803,NA,NA,NA,NA,1476687,+,NA,agatgcaacaggtggatgtggtcattgccccttccctgctcacggagggtaaggtttaccAaaaagcccaacagttgggta
+393,chr,SYR26p,Synechocystis sp. PCC 6803,SYR26p,NA,NA,NA,1488611,-,ncl0609,tcaatgccaactccccggactaagcttgtcaaaatcattggctttattctatcattggttAtctaacaacaatcccaggtc
+394,chr,NA,Synechocystis sp. PCC 6803,NA,NA,NA,NA,1488633,+,NA,attacactcactttcatagacctgggattgttgttagataaccaatgatagaataaagccAatgattttgacaagcttagt
+395,chr,NA,Synechocystis sp. PCC 6803,NA,NA,NA,NA,1488816,+,NA,actgacccggacccaaaggtttattttgccctcagagcggagtggccccataatgggggaGatttcagtcagaaaggagcc
+396,chr,NA,Synechocystis sp. PCC 6803,NA,NA,NA,NA,1498434,-, slr1731,taagttccacatcttgatagcgtttttcccgctccgcaccggggatgttagtatgggccaActcatccactaacgccaact
+397,chr,NA,Synechocystis sp. PCC 6803,NA,NA,NA,NA,1504239,+,NA,gcccgagatgttcatcttggagatattgccaggggttatagctaatctttaaactttggaGttgtacccagttggggtcgg
+398,chr,NA,Synechocystis sp. PCC 6803,NA,NA,NA,NA,1504580,-,NA,actaagatgaattggatctggtttgcccaggattttgctggctagtgttagcctaacaggGtggttgtggggaatgaatag
+399,chr,NA,Synechocystis sp. PCC 6803,NA,NA,NA,NA,1510914,-, slr0261,cgtaatgttcgccggcaggaatcttaaaggtgggagcaacttttttggcaatatactggtAttggaaatcattccattcgg
+400,chr,NA,Synechocystis sp. PCC 6803,NA,NA,NA,NA,1511138,-, slr0261,ttaattagaactgggcaacgtcacctagcggtccaccgatcccatgataatatcgatactAccgaggatcgccatgatgtc
+401,chr,NA,Synechocystis sp. PCC 6803,NA,NA,NA,NA,1511141,-, slr0261,aatttaattagaactgggcaacgtcacctagcggtccaccgatcccatgataatatcgatActaccgaggatcgccatgat
+402,chr,NA,Synechocystis sp. PCC 6803,NA,NA,NA,NA,1515364,-,NA,tcgcctttcagcgggaagacttggcggaaccctatctttacctgctggataatgagacctAtgacgaagcttaaatttaat
+403,chr,NA,Synechocystis sp. PCC 6803,NA,NA,NA,NA,1518034,+, sll0247,cgacaaaaatatgtccccccaccagatcttctaggctactgatgctggcaaaatgggtttGataaccataaataaccaaag
+404,chr,NA,Synechocystis sp. PCC 6803,NA,NA,NA,NA,1518118,+, sll0247,ctaatgttggctgactgactaggcgcaccgtttgggtggtggcgtcgtacaatcccccccAatacatggctttgcctgcca
+405,chr,NA,Synechocystis sp. PCC 6803,NA,NA,NA,NA,1527106,-,NA,ccccggagatgaattgctgcaattgcggtaaaactgctttaacggttgctaacatacgatGggggactaaaatgttgccgt
+406,chr,NA,Synechocystis sp. PCC 6803,NA,NA,NA,NA,1544697,-,NA,ctaaagtgatgaatgccgaccggtttgatctccctaggggctagttggcacaatagaagcAtcacaaaattcaggcaacat
+407,chr,NA,Synechocystis sp. PCC 6803,NA,NA,NA,NA,1547021,-,NA,ctaatcctgtgggaaattctacccattgactaatctgcgaccccggggcagcatggcactAgggccccggcaagttgtggt
+408,chr,NA,Synechocystis sp. PCC 6803,NA,NA,NA,NA,1547155,+,NA,ctgttgatcatcggccaaattccattgccatggggccggcgatcggggcacaatgataggGctatctttaacgctgtcacc
+409,chr,NA,Synechocystis sp. PCC 6803,NA,NA,NA,NA,1547917,-,NA,tggtttgccggtccaattcttccccttgattattaaccacggacaaatcagaatagaactGatcaatggcgccattttccg
+410,chr,ilvGp,Synechocystis sp. PCC 6803,ilvGp,NA,NA,NA,1548840,+, slr2088,ttgttaacttttcctcttttgccatagggagcccatcgccgattgagttaaaattagaagActtagcctacgcttcctaaa
+411,chr,NA,Synechocystis sp. PCC 6803,NA,NA,NA,NA,1552001,-, slr2089,agctcccggttcaccgtggggatttttgatctgccaatcgccgtaggtgagaatttgtttAtccaacaaccattgccccgc
+412,chr,NA,Synechocystis sp. PCC 6803,NA,NA,NA,NA,1555753,-, sll1982,tgtttacggtgacagaatacctatcgctcttctatcattgtgggtaggatagaatggaggAaaaaggctgaaatgcagagg
+413,chr,NA,Synechocystis sp. PCC 6803,NA,NA,NA,NA,1555768,-, sll1982,tcccattctaagtgatgtttacggtgacagaatacctatcgctcttctatcattgtgggtAggatagaatggaggaaaaag
+414,chr,yfr2ap,Synechocystis sp. PCC 6803,yfr2ap,NA,NA,NA,1558975,-,ncl0720,atcattaaactgctacaggttcggctatcccgcccttaggcgatcggctaacatttatttGtgtgtgaggagtaagattaa
+415,chr,fbpIp,Synechocystis sp. PCC 6803,fbpIp,NA,NA,NA,1560330,+, slr2094,cctaattacccccctcaacaatgctgtacgctgatccccccctctgatagacttttgactAttaacacttaatcacaagct
+416,chr,NA,Synechocystis sp. PCC 6803,NA,NA,NA,NA,1563100,+,NA,cggcgacgctgttcgtcattattggggcaggaataagactaggtggattagcatagtcatAtctatgggcaacctatgttt
+417,chr,NA,Synechocystis sp. PCC 6803,NA,NA,NA,NA,1563391,+,NA,atgcacttcattggcatgctggggtttgagttgccctgccccatcagctacgatcccttgAtcacgtttatttctgttata
+418,chr,NA,Synechocystis sp. PCC 6803,NA,NA,NA,NA,1585123,-,NA,agttgcagaaatagcacccttttgccccagctttttagggaaaaatgctatggtcaatgtGtcttgaatatcttgaatcac
+419,chr,proSp,Synechocystis sp. PCC 6803,proSp,NA,NA,NA,1587045,-, sll1425,aattaagggattctcggcgcagtcattcaacacaatttaactggtgtgggataatgggtcAgtgcgtcatttacctaggct
+420,chr,NA,Synechocystis sp. PCC 6803,NA,NA,NA,NA,1588558,+,NA,ataactgaccccgcagaatggcaatttgttgcccccgcagctcttggtaatcttgataatAgcgttcgagttcttccactt
+421,chr,NA,Synechocystis sp. PCC 6803,NA,NA,NA,NA,1590297,+,NA,acactgataaattcctgggaatcgtgcttgggcacaacttcgttgctataccatttttggAaatcttgaatggtcatgaaa
+422,chr,NA,Synechocystis sp. PCC 6803,NA,NA,NA,NA,1592951,+, slr1507,aactccgttggcccatcccggccctgaatggcagggttttcccgtgtcatacttttcggtAataatcagaaatttaggtgg
+423,chr,NA,Synechocystis sp. PCC 6803,NA,NA,NA,NA,1593573,-,NA,tgatcccgtttgaggaaatggtcttgatccggtgcccactcgtagctatagcctggggagAtcatcatgccgtcaatgccc
+424,chr,plsXp,Synechocystis sp. PCC 6803,plsXp,NA,NA,NA,1596776,+, slr1510,gttagttagatggatggggaaaagttctgcttaaccgggcggtctgctacaatttttgagAttcaatgggttttgatcaat
+425,chr,NA,Synechocystis sp. PCC 6803,NA,NA,NA,NA,1598922,+,NA,agacctaatcgccctggccggctttggggccggcttaacctgggctgctagcatagtgcgGtggtaaataatcaacagtct
+426,chr,NA,Synechocystis sp. PCC 6803,NA,NA,NA,NA,1601851,+,NA,tagtttatggtctgtcaataatcccttgacctaacagaccaaaaagattaacttacatacTtctaggagataaacaaaatg
+427,chr,NA,Synechocystis sp. PCC 6803,NA,NA,NA,NA,1604187,-,NA,gcacttcccccagcaagggttcaggttggcaaaggccgcttaacaagggaaaatgtagggAactatccccccctttgtaat
+428,chr,sodBp,Synechocystis sp. PCC 6803,sodBp,NA,NA,NA,1607317,+, slr1516,cggttctccaccggattaccgaccttttaaccgaggaaactttagggtaaagtgagagccAtggaatcccctattgagtag
+429,chr,hglKp,Synechocystis sp. PCC 6803,hglKp,NA,NA,NA,1610784,+, slr1519,gctatggctgggctggcctgggctaaggactaccaccgccagtgggttaagatgaattacAttatgagcaatggtttgtcc
+430,chr,lapp,Synechocystis sp. PCC 6803,lapp,NA,NA,NA,1619636,-, sll2001,aaaccggggcattaactgcccgatcgccagcggttatgggagtgtggcaaaatgggggacGgacagtccctcaacagaaaa
+431,chr,NA,Synechocystis sp. PCC 6803,NA,NA,NA,NA,1619751,+,NA,cggtttatggatttgtccaaagagcttgtcaaggttgatacttcttggtatgttgttaatGcgctaaaaaagccgggatag
+432,chr,NA,Synechocystis sp. PCC 6803,NA,NA,NA,NA,1631746,-,NA,gaattttctattaatcttttgagttgtttctgtagtgctggttttcggataaaattgtcgAttattccgcttctttgccca
+433,chr,NA,Synechocystis sp. PCC 6803,NA,NA,NA,NA,1644768,-,NA,aacaattgcctaaccccaccttgggctgatcttcagtcccccaggattacagttttacttAttagcctagggttgccttaa
+434,chr,SYR27p,Synechocystis sp. PCC 6803,SYR27p,NA,NA,NA,1650732,-,ncl0790,tttgtaaagtttttttactatctttaagatgatcagtaaaaataagttaaaattacttccAgtaaattggagaccaaagtc
+435,chr,NA,Synechocystis sp. PCC 6803,NA,NA,NA,NA,1653837,-, slr1324,tctggttttccgccgccaattcccgcgcgaggcaatggcgttgaatggcataatggagcgAacgtaggagaatatccaagc
+436,chr,NA,Synechocystis sp. PCC 6803,NA,NA,NA,NA,1655712,-,NA,gttggaccacacagggtcgacaagtttgagttaataatcagcaagccttaacattattttAaccttgattcgcccaacccc
+437,chr,NA,Synechocystis sp. PCC 6803,NA,NA,NA,NA,1655724,+,NA,agacgacattgctccgatgaatttgacgggggttgggcgaatcaaggttaaaataatgttAaggcttgctgattattaact
+438,chr,NA,Synechocystis sp. PCC 6803,NA,NA,NA,NA,1660523,-, slr1327,agactgccaaatccagcaagaaattatcttttttgtctcgataactgtcaaaatgaagatTcacttcaaccaattcaactt
+439,chr,NA,Synechocystis sp. PCC 6803,NA,NA,NA,NA,1665833,+,NA,gggagcggtcaggcatttaaccttgagggtgacaccgccctgggcagtaaacttaatggcAttggccaacaaattaatcaa
+440,chr,NA,Synechocystis sp. PCC 6803,NA,NA,NA,NA,1666891,-,NA,gcttcttttacggctaccatgctgattgtctaggaatttgtttatagttagactacaggaTtactgttgagttttggtcaa
+441,chr,NA,Synechocystis sp. PCC 6803,NA,NA,NA,NA,1666909,+,NA,gatacccttaaagatggcaaatttgaccaaaactcaacagtaatcctgtagtctaactatAaacaaattcctagacaatca
+442,chr,SyR1p,Synechocystis sp. PCC 6803,SyR1p,NA,NA,NA,1671919,+,ncr0690,aaatgaaccggacgtcaagtctcgttgacaaaaattaacattatgtttactataaaaaacAtaaggctatggaaacccgac
+443,chr,NA,Synechocystis sp. PCC 6803,NA,NA,NA,NA,1678733,-,NA,cgacattgaagaaagctaaagatttgctcactttttaaaagttgatgtaacaatgaaggcAaccaactagagattccattc
+444,chr,SYR13p,Synechocystis sp. PCC 6803,SYR13p,NA,NA,NA,1678974,+,ncr0700,tttagtgaataaagttaaatattgcttgccattgttggtgggattttgtacattgaatacAtggagccgaagggcttcact
+445,chr,NA,Synechocystis sp. PCC 6803,NA,NA,NA,NA,1680464,-,NA,ctcgttcattaaattttaaaaaaatttgtccattttaaaaatttagtctagtcttaaggtAgtgaggattaaatataaaat
+446,chr,NA,Synechocystis sp. PCC 6803,NA,NA,NA,NA,1682329,-, sll1219,agagcaatattttcaacttaaccattgcttaatggagagaaccgtgctaagcttccaaccCtatgcactacgccatcccca
+447,chr,NA,Synechocystis sp. PCC 6803,NA,NA,NA,NA,1684710,-, ssr1375,accactgttcaggacggggggaaatttccttgggctggctctatcagggaaaatataaaaAgtaatgtcggtgaacttcct
+448,chr,NA,Synechocystis sp. PCC 6803,NA,NA,NA,NA,1684821,+,NA,gaacagtggtttccctggtggcttgccaatggttgtcggcaatagtggtataatcctgacTttgctgcatcaaaaatggtg
+449,chr,NA,Synechocystis sp. PCC 6803,NA,NA,NA,NA,1688193,-,NA,gtttcatcacaacttgtttcaattgctaaaatgattgccattctctgctagtttgagtttGatccaaaagacgacggttta
+450,chr,NA,Synechocystis sp. PCC 6803,NA,NA,NA,NA,1688637,-,NA,gccgcatcgtccctggtggtgcccaattgtcggtaatccccacaacctttaacgtggatcAaactggtgtggccaccggaa
+451,chr,rfbBp,Synechocystis sp. PCC 6803,rfbBp,NA,NA,NA,1689984,+, slr0809,gggtaaacaaagtgaattgcactgatgcccagccatttgccaaatgctaaactgatgccaTttgaacaaagcggggaaaca
+452,chr,NA,Synechocystis sp. PCC 6803,NA,NA,NA,NA,1699330,-,NA,cactgggcatgaagtcagcattgatgctcagcaattctaaaccttcgtaccatgtttgggCttgggtcaacttgaaagggg
+453,chr,SYR40p,Synechocystis sp. PCC 6803,SYR40p,NA,NA,NA,1700655,+,ncr0720,ggacaagccagtggctggtgtgccttgcgccctagcttcaatttttgatacagtgatcggActgatatagcaaaaaatagc
+454,chr,NA,Synechocystis sp. PCC 6803,NA,NA,NA,NA,1703076,-,NA,tcaccaaaagcttatgttgtctttgacgatacggtgttagacaaaagctatagtaaaaaaAtcgaatgcagtcagtggcag
+455,chr,SYR48p,Synechocystis sp. PCC 6803,SYR48p,NA,NA,NA,1712553,-,ncl0830,ccggagtacgcaacagcaaacgtccagaaccccaactggcaacggtgtaaaattccgcccAtggacaaaatagggaaacaa
+456,chr,NA,Synechocystis sp. PCC 6803,NA,NA,NA,NA,1716713,-, slr0823,gcgtcgtcttcctgccctgcttccttcgccttttccccttggaaatggtaaattaccgcaAtgttattcaacgccgagggc
+457,chr,NA,Synechocystis sp. PCC 6803,NA,NA,NA,NA,1719599,+,NA,catattttttaaagttctcctgttgtcgtaaatgacaaaaaagtttgttatgctacccggAgccggaatctgccggagcca
+458,chr,NA,Synechocystis sp. PCC 6803,NA,NA,NA,NA,1721176,-,NA,cccagaaaatcttggcagcccatctttgctttgcccagagagtgtgtcaaaatcgtgggtAacttagtctgtcctaggctt
+459,chr,rps20p,Synechocystis sp. PCC 6803,rps20p,NA,NA,NA,1723066,-, sll1260,gagtttatttcccagtggtaagcgtgggtaatcggggcgatcgcctgctaaactggaaagGttgtcaaaaattcgcacatc
+460,chr,NA,Synechocystis sp. PCC 6803,NA,NA,NA,NA,1725174,+,NA,ggttcaaaaggctcaatcatgccttgggcagcttgagcacggatccaaatatcattcttaAtcatgggcaaagttcaggga
+461,chr,NA,Synechocystis sp. PCC 6803,NA,NA,NA,NA,1728613,-,NA,gaaaaatcttccgctggatctttacttgactattgtatttctttaaaggtatatttggctAgctttattttgtattgatga
+462,chr,NA,Synechocystis sp. PCC 6803,NA,NA,NA,NA,1738138,-,NA,aaaccataggcgcattgtagctccttgacaaaccggtcaccaaagttgccacaatgatttGttagctaatgccgttgctcg
+463,chr,icfAp,Synechocystis sp. PCC 6803,icfAp,NA,NA,NA,1742520,+, slr1347,gacaaattgccccgctgtcctagaccccccgccgcaagtcttcaatgatacaatggaaggCtggaattccatcaacggcga
+464,chr,SYR51p,Synechocystis sp. PCC 6803,SYR51p,NA,NA,NA,1744205,+,ncr0740,cgccttggcgatcgcgaaattgaagaatttttggggggcaccctctgatattctcccggtAgccataactgggatgggatg
+465,chr,rpl9p,Synechocystis sp. PCC 6803,rpl9p,NA,NA,NA,1751822,-, sll1244,aaattgctccctggcgatcgccaattttggcgggattccccctaaaggttaagatggaggTttgtgaattgctccacaagc
+466,chr,NA,Synechocystis sp. PCC 6803,NA,NA,NA,NA,1755526,+, slr1957,acaaagttaagttttatggcatttttctttcctcccaaatagccttgctaagatagcgggAaagccgggttgctagtccca
+467,chr,NA,Synechocystis sp. PCC 6803,NA,NA,NA,NA,1763624,-,NA,caggtttacggcgatattcggtcgattttggaaaacttgtctttaatttaaaatgtaaatGtgattgttgatcaacctaat
+468,chr,NA,Synechocystis sp. PCC 6803,NA,NA,NA,NA,1777472,-,NA,tcgtcttgctagtcttcccggtggttggaccccggccatggaaggggttattatcgttgaGcaaactcctgcgccgctaat
+469,chr,NA,Synechocystis sp. PCC 6803,NA,NA,NA,NA,1777672,+,NA,agatctttaaaaatacttagattttgaagggttaggcaaaaacctaggcatgatggaaatAgaaatccatggggcttggtc
+470,chr,NA,Synechocystis sp. PCC 6803,NA,NA,NA,NA,1778002,-,NA,cttccgctaccacgggcaaattttgcttttgaatgaagtcttcgatgataccctgggcaaAagtgatggacaccgcataat
+471,chr,NA,Synechocystis sp. PCC 6803,NA,NA,NA,NA,1780061,+,NA,tggactatagattaatgttttttggagtttctatcctcgaaataccgataagatattaagAttgaggggaattgcaggaaa
+472,chr,NA,Synechocystis sp. PCC 6803,NA,NA,NA,NA,1788279,+, sll1885,ttttttgattgggaaatgggggatcagccaaagccgacggagaactgataccatggtgatCcgtgttactgctccaggccc
+473,chr,NA,Synechocystis sp. PCC 6803,NA,NA,NA,NA,1788390,-, sll1885,tattccgaacttaaattaaagttaatgcgtatttgaaagaatagggatattatgtcttctAattggtgtgagttttgagtg
+474,chr,NA,Synechocystis sp. PCC 6803,NA,NA,NA,NA,1788449,-,NA,aatccgtggctttgtggtgatcgccgttgaataagtttagagaaaaggggaaaattaagtAttccgaacttaaattaaagt
+475,chr,argJp,Synechocystis sp. PCC 6803,argJp,NA,NA,NA,1792688,-, sll1883,ttcctgaccggggttgaaggaccaataattaaccccgagcagaactgctatgattggcctCtgagtttgagaatgtggcag
+476,chr,NA,Synechocystis sp. PCC 6803,NA,NA,NA,NA,1793791,+,NA,aaaataaccgactcccgggggacaaaattggctttttgcccagtcgtgctatgttgtgttGttgtctgaaaactgagccat
+477,chr,NA,Synechocystis sp. PCC 6803,NA,NA,NA,NA,1798752,-,NA,tgaaatcatatgttaaccttaactcttgcaaataattcttatttaaagtaccgtttaaatActtgctttaaacagtttaga
+478,chr,NA,Synechocystis sp. PCC 6803,NA,NA,NA,NA,1805499,+,NA,aaaagctcttgctgccgttgcattggtatttgtcaccacatccacgttatattgcttagcAtctagccccaccgactgata
+479,chr,NA,Synechocystis sp. PCC 6803,NA,NA,NA,NA,1808816,-,NA,gcggtagggaagagaaatttttcttgccaatgctgcggtgattttgctagtatccaatccAattaccttattaccttggga
+480,chr,NA,Synechocystis sp. PCC 6803,NA,NA,NA,NA,1811138,+,NA,gatggggaataaaacagggcaactattgctataattctaacaactgttcagtatggaatcTatggctaaggttctcctagt
+481,chr,NA,Synechocystis sp. PCC 6803,NA,NA,NA,NA,1815407,-,NA,gaggaagaaggcatacgagaacagattgaaaaatcattttgaatgccttattctagcaggAttgcttgggactttcgtgac
+482,chr,SYR6p2,Synechocystis sp. PCC 6803,SYR6p2,NA,NA,NA,1816600,-,ncl0880,agaaataaccaaactttattttttgttacaaaaatcgtgttccatgttacaattttctatAtagaaatcaaagactgcgcg
+483,chr,SYR6p1,Synechocystis sp. PCC 6803,SYR6p1,NA,NA,NA,1816602,-,ncl0880,acagaaataaccaaactttattttttgttacaaaaatcgtgttccatgttacaattttctAtatagaaatcaaagactgcg
+484,chr,NA,Synechocystis sp. PCC 6803,NA,NA,NA,NA,1820016,+, sll1867,ccacaatgaagcgctttcgcgctgttggagagtcgttgtcatttggttataattccttatGtatttgtcaatgttcaaagg
+485,chr,psbA3p,Synechocystis sp. PCC 6803,psbA3p,NA,NA,NA,1820085,-, sll1867,tagacagatttttttcagcaagctatttacaaattgttacaatcttgttatattactcatAtacataaccggctcccaagc
+486,chr,NA,Synechocystis sp. PCC 6803,NA,NA,NA,NA,1820372,+,NA,tggacggtagacctttgccaattggcccctgttgctccaggctgaggcaatctagacaatGaacggcagggaaagtttcgg
+487,chr,NA,Synechocystis sp. PCC 6803,NA,NA,NA,NA,1823194,-, sll1388,tatgaatttcccaggaccaaaccaaagattcggctatctacagaggctagaattagaagcAtcaaggtgagtttgacgcac
+488,chr,NA,Synechocystis sp. PCC 6803,NA,NA,NA,NA,1823456,-,NA,ccagtgcttcccatgcaaaaagcttgcggaagtttcgaccactgtgatagtgttataaatCgtcaggtaaacgactggggc
+489,chr,NA,Synechocystis sp. PCC 6803,NA,NA,NA,NA,1827227,+, slr1470,ttattgtcttgccccagggcattgggtgcaattatgaacgttttttgcgagaattagagcAgttatttagccaagctggga
+490,chr,NA,Synechocystis sp. PCC 6803,NA,NA,NA,NA,1830533,-,NA,ctttggtgaacgtttctaacaatttgagagtatttttctctttctgaggaataatggagtAgaaagggatagaaatgcccc
+491,chr,NA,Synechocystis sp. PCC 6803,NA,NA,NA,NA,1845779,+,NA,tgccgatatcaataacttttgatttgttagcggtacccagattttttataaaatcaatttTttatggccgcttattctaca
+492,chr,NA,Synechocystis sp. PCC 6803,NA,NA,NA,NA,1857194,+,NA,caccaaacagatcggcaaactttttattggtcatggtgagaccagtggcatagttaaagtAagccatgttgaggcgaaacg
+493,chr,NA,Synechocystis sp. PCC 6803,NA,NA,NA,NA,1858594,+,NA,ttccctccgggccagcctctgttggtctagatttgggcgtgggacggttacaattttacgAaaatcgctagctccatgatc
+494,chr,NA,Synechocystis sp. PCC 6803,NA,NA,NA,NA,1861219,+,NA,tcattgggaggcccataaattagatttggagccaacctctgtagctgatattctggcccaGttgcgatttgacgacggcac
+495,chr,NA,Synechocystis sp. PCC 6803,NA,NA,NA,NA,1861415,+,NA,gcctacagtctggaataacattggttacaattcttagggcaatgcggtaagttatttagcGaacagcgtttcccctttttg
+496,chr,NA,Synechocystis sp. PCC 6803,NA,NA,NA,NA,1862469,-,NA,ctcacttcaatttgcaccaattgttgctccagttcagcccggtttttataggcttgaacaAtgctttcatccaggggtaag
+497,chr,SYR44p,Synechocystis sp. PCC 6803,SYR44p,NA,NA,NA,1864166,-,ncl0920,ctcaaccaaaatgaccaacggactggaaaataagccgcaaaagttaataaaatttaatatGtcgtcagcgtaaccggaggt
+498,chr,NA,Synechocystis sp. PCC 6803,NA,NA,NA,NA,1865513,+,NA,atccgtggccaggcactgtaagctttgttgattgccctccgactggattacagtaaggttTcagttgaagcttagttaaca
+499,chr,NA,Synechocystis sp. PCC 6803,NA,NA,NA,NA,1870741,-,NA,tggaactttacttgtggtagaacgttgaagttccgaaataatgccagatagaatgaatgtCtgatcatccctcagccgaac
+500,chr,NA,Synechocystis sp. PCC 6803,NA,NA,NA,NA,1871923,-,NA,tgccaattccgggatatttttcccctattggacaatctcggactgcgctatgctggcaatCtggatcaagtggtcgccgcc
+501,chr,ndhCp,Synechocystis sp. PCC 6803,ndhCp,NA,NA,NA,1875001,+, slr1279,cataggttaaacatatagttcagggcttggtctgtcctggttggagtcctataatcagaaAaattggcagaatgcccccag
+502,chr,NA,Synechocystis sp. PCC 6803,NA,NA,NA,NA,1875002,+,NA,ataggttaaacatatagttcagggcttggtctgtcctggttggagtcctataatcagaaaAattggcagaatgcccccagg
+503,chr,NA,Synechocystis sp. PCC 6803,NA,NA,NA,NA,1878390,-,NA,gtgtgtgcgagacggtgaccaggttgctcgactgagtggagatgaatttataattgttttGaaatcaaccaagtcaggtga
+504,chr,NA,Synechocystis sp. PCC 6803,NA,NA,NA,NA,1880854,+,NA,ttatgactccttgtctcccaaagcttggaaaaatttactctgcacgataagctgatctctGtatagagtaaggattgtgcg
+505,chr,SsaAp,Synechocystis sp. PCC 6803,SsaAp,NA,NA,NA,1886879,+,ncr0870,tctctgttcggaggctagccccattgcccgatcgccgaaggatggggttataatggcaggGaagtaactaccgcgttggtg
+506,chr,pRNAp,Synechocystis sp. PCC 6803,pRNAp,NA,NA,NA,1886925,-,ncl0940,cgggtacgagcccggtctactaccacgcagaatgcacagagacacccttatttttcaagcAtagatcaaaaaacgttgttg
+507,chr,NA,Synechocystis sp. PCC 6803,NA,NA,NA,NA,1897567,+, slr1530,catccataaagcctgcgtcctccaactggtgatcttcacagcgggcagttaacataaggaAttatgacaccatctgcggcg
+508,chr,pet112p,Synechocystis sp. PCC 6803,pet112p,NA,NA,NA,1903945,-, sll1435,tgggggttagtgagggagaaaagtgcccgttggacggcgggagtatggcagaatgggaggAagccaatctgccggaaattc
+509,chr,NA,Synechocystis sp. PCC 6803,NA,NA,NA,NA,1906076,-,NA,gactgggttagcctagttcagttgacttctgggcgaatgtcggtaagctaaactaagattAattccggggaaaattgttcc
+510,chr,NA,Synechocystis sp. PCC 6803,NA,NA,NA,NA,1906081,-,NA,cttgggactgggttagcctagttcagttgacttctgggcgaatgtcggtaagctaaactaAgattaattccggggaaaatt
+511,chr,NA,Synechocystis sp. PCC 6803,NA,NA,NA,NA,1909424,-, slr1534,ccagcaaccgggcggagccgtagcccccccgactacataaaattcctttacactgggggtCtaaccaagcgtggagtaaat
+512,chr,NA,Synechocystis sp. PCC 6803,NA,NA,NA,NA,1912156,+,NA,aattgtccccagcaaaggccatggcttggccctgttctagaatttgataggcttggtcgtAggaatctacccccacaaggg
+513,chr,rps12p,Synechocystis sp. PCC 6803,rps12p,NA,NA,NA,1919816,-, sll1096,tttgtcgatgattttcttatctattaggagaacgatcctaattcccactatatttaacacAtgccaactatccagcagcta
+514,chr,NA,Synechocystis sp. PCC 6803,NA,NA,NA,NA,1919876,-,NA,ttcatcgcagcagataaaacttaggttgacagcgctaaataggcagcggtatgatgaaaaTttgtcgatgattttcttatc
+515,chr,NA,Synechocystis sp. PCC 6803,NA,NA,NA,NA,1921746,+,NA,aaaggagatgaaatcaatggtttggctgaagccgaagctcaagatgttaaggtattccatGctggcacagaattaaaggaa
+516,chr,NA,Synechocystis sp. PCC 6803,NA,NA,NA,NA,1924223,+,NA,ttttattaagatttgattaaatcttgagacatctttttttcagaaatgtacattaactttAttgttagcaggtaaagtaaa
+517,chr,gpx1p,Synechocystis sp. PCC 6803,gpx1p,NA,NA,NA,1938922,+, slr1171,ggctagtataggaaccttggggcaatctgctcccctctaagtttttgttagactacagaaAttgttgattgatttgttgag
+518,chr,NA,Synechocystis sp. PCC 6803,NA,NA,NA,NA,1938973,-,NA,aggcattggcagaaaaaccgtagattgtgttgttggcttgggcagtcatagaatttagcgAagtaaaaacagtaaaaaaag
+519,chr,NA,Synechocystis sp. PCC 6803,NA,NA,NA,NA,1945363,+,NA,ggcatatttgccctgcttaaccgttggctatggcgacagggtttgaaacaatattctggcAtgggagcgtagggccagggc
+520,chr,SYR49p,Synechocystis sp. PCC 6803,SYR49p,NA,NA,NA,1945417,+,ncr0910,tctggcatgggagcgtagggccagggccctttgcctggtttcaggttactattctcaattGacccactaaagtgaccccaa
+521,chr,NA,Synechocystis sp. PCC 6803,NA,NA,NA,NA,1949202,-,NA,acccccaactccagaagcagaaatcttgccagaaaagctttttctgttactatacttaacAagtaactactttttccatag
+522,chr,NA,Synechocystis sp. PCC 6803,NA,NA,NA,NA,1952431,+,NA,accggcaatcgagctattttgtttgattacgaaggcaatattgtcgggcaagcttacaaaGagttaacccagttctatccc
+523,chr,NA,Synechocystis sp. PCC 6803,NA,NA,NA,NA,1957509,+,NA,tccagcaaacaccagttaggatgagtttgacaaaatagctagcaacttagaaaatagaagAtcgcttgtcaactatcccgc
+524,chr,NA,Synechocystis sp. PCC 6803,NA,NA,NA,NA,1974867,-, sll1559,aatcaagctggggccacagcacagattttgccagcgccatgttttggtaatatgggaagcCtaactatcatgcccaataac
+525,chr,NA,Synechocystis sp. PCC 6803,NA,NA,NA,NA,1978008,-,NA,ctccaagctttcagctatgcttattggagtagtgagaagaatcttgatagactggcgggtGagttatgccaacttgtgtga
+526,chr,NA,Synechocystis sp. PCC 6803,NA,NA,NA,NA,1980006,+,NA,tcggctaaaaatagattaatttgcttggcctctggcgtgccgccggtcatactgctgatcAaccaagggtaagtcaaggat
+527,chr,SYR25p,Synechocystis sp. PCC 6803,SYR25p,NA,NA,NA,1981804,-,ncl0980,ctagggaaaagagcttgacccaattcccctttctggatcatatggatagataatagaagcAcaatcgacagttatgaataa
+528,chr,NA,Synechocystis sp. PCC 6803,NA,NA,NA,NA,1984993,-,NA,tttgggtattcatacctaaattctttgccaaggccaaggcatcctgaatagaatggtcagAactgtagggagaaggcatca
+529,chr,NA,Synechocystis sp. PCC 6803,NA,NA,NA,NA,1985744,+, slr1692,gggctaactagtccgggaggatcattgaattttttccctggactaggttaggatttattaAtgtaaaaaaaatataagcac
+530,chr,NA,Synechocystis sp. PCC 6803,NA,NA,NA,NA,1995697,+,NA,cctggggaattaaaggacggcgggtttgcagttctacccctaaccaggctaatttatcttCttcggccatttcttcgtagg
+531,chr,NA,Synechocystis sp. PCC 6803,NA,NA,NA,NA,1997811,-, ssl1762,tctttacaattgtgcttaagttgacagtccagctcgccggagttgggttaacctgaaggtAgttgagctaaggccgacaaa
+532,chr,NA,Synechocystis sp. PCC 6803,NA,NA,NA,NA,1998007,-, slr0935,aaaatccactgggaagataacttccacaaggcagagtatggtgcctgctacaatccagagAtaaacaggggacataggaaa
+533,chr,NA,Synechocystis sp. PCC 6803,NA,NA,NA,NA,2004576,+,NA,atctgggctgacaaccttggcgcttgccgggagggatcaatcaacattaaaatttgtaacAgtgccgatttagcgggccag
+534,chr,NA,Synechocystis sp. PCC 6803,NA,NA,NA,NA,2006821,+,NA,caaagaagacacaggcttgaaatttgaccaaacgctgtctaaataagtgaaaatttaggtActgtgcagagtttcaatagg
+535,chr,NA,Synechocystis sp. PCC 6803,NA,NA,NA,NA,2021057,-, sll0909,ggctagctggttttgattttagctctttatgaaagttgataaataagctaggataaaaacAttaaagttaacagtcagtac
+536,chr,fbpIIp,Synechocystis sp. PCC 6803,fbpIIp,NA,NA,NA,2021992,+, slr0952,aaaatccgcctgaaaataggcaaatttcggggttcggaaagatcaagctaggatggaaggGactttgagcctagcaatcca
+537,chr,NA,Synechocystis sp. PCC 6803,NA,NA,NA,NA,2024065,+, ssr1600,tgagctgatattttagttaacaattccgaatgggcaagcaaagtaagctacaatttgacaTtgttcaattttgagtacagg
+538,chr,NA,Synechocystis sp. PCC 6803,NA,NA,NA,NA,2026235,+, slr0957,aattacgattctgccggcaatgtaacaaaatattgcggattggaaagttaaaatgacagcAaacaaatcccattaccttgt
+539,chr,NA,Synechocystis sp. PCC 6803,NA,NA,NA,NA,2026642,+,NA,tggcccaattcctggcgatcgccgttgggcctgggtgtggctttgatggagaataatgggAagactgtccattgatttttg
+540,chr,NA,Synechocystis sp. PCC 6803,NA,NA,NA,NA,2028153,+, sll0905,taaacccggtgggctaacggaatggttccgctagtccaactttgtgggataatttagtttAttgttaccaaaaatctttaa
+541,chr,NA,Synechocystis sp. PCC 6803,NA,NA,NA,NA,2028843,+, slr0959,atgctccccgagggggataaccggcctggccaaaagggggcgatgggttatgctagcttcGttaacacagccgtccctgag
+542,chr,NA,Synechocystis sp. PCC 6803,NA,NA,NA,NA,2039116,+, slr1626,ggaggcatggcagggaaaaattatggcaatttttgacggggtgatcataccatggttagcTggggaacttgttgttcttag
+543,chr,NA,Synechocystis sp. PCC 6803,NA,NA,NA,NA,2039320,-,NA,aaacttggactcacggatgagcttttgcacgatcgccaccgcatccgcatagttgagggtAtcgtttaggtcatcgctctg
+544,chr,rfbPp,Synechocystis sp. PCC 6803,rfbPp,NA,NA,NA,2043865,-, sll1535,tcctcagttatttagcaaagaatcgtaacaattgtcgattcaggctttatgattaggaccAtatggtgtgatgtgtgatgg
+545,chr,NA,Synechocystis sp. PCC 6803,NA,NA,NA,NA,2046877,+, slr1634,taaatgtaaataattataaagaaatctcagtttctcgaagtcgttgcctatactggactcAacagcccccagtcggagcct
+546,chr,NA,Synechocystis sp. PCC 6803,NA,NA,NA,NA,2049909,+,NA,acggagaaaaatttctaccaaggtattttgcaaattgccgtagcccactatcatcttggcAatcacaattggcggggagca
+547,chr,NA,Synechocystis sp. PCC 6803,NA,NA,NA,NA,2050453,+, slr1638,taccctagccagttttatggctttttacaaaactttgcctgagccgctatagtggaaggtAatgccagtgattaaaaggtc
+548,chr,NA,Synechocystis sp. PCC 6803,NA,NA,NA,NA,2058371,+,NA,caatcactcgctctaacgtttcttgaaatttctggtcaaaacgactgccatagtaaatccAaggcagccaattttccccta
+549,chr,NA,Synechocystis sp. PCC 6803,NA,NA,NA,NA,2068880,+,NA,tgttggcgggctccttttcagttttgggccaacaattaacagagtgctagggttgaatctAggcagaacctagccaaggct
+550,chr,"psb27p, psbZp",Synechocystis sp. PCC 6803,"psb27p, psbZp",NA,NA,NA,2070935,+, slr1645,tcctcaagtcagaataaaaggaagtcttagggggccctggccaactggtaggatagaaaaAttaacaaaatttagtaacaa
+551,chr,NA,Synechocystis sp. PCC 6803,NA,NA,NA,NA,2071922,+,NA,aaaagcatgctccagcagtgggccttggccaaaactaaacaattgccagaatatgaactaAtcaacaccagtgggccaccc
+552,chr,NA,Synechocystis sp. PCC 6803,NA,NA,NA,NA,2073040,+,NA,gggtcgtcatcattcaaggaatccccattgtcccctgggaaattttgctatgatctgcctAgctttgcagtcgaaaaaccc
+553,chr,NA,Synechocystis sp. PCC 6803,NA,NA,NA,NA,2075065,-,NA,tcgaccagtaaccggaaagatttgctttgagtggttctggttttcctataccatcaaaagGatccctggcaattgccttaa
+554,chr,NA,Synechocystis sp. PCC 6803,NA,NA,NA,NA,2081727,-, slr0442,agatgcccttacagcggcaaatcccccagcagcgttctgtattgagttaagatcatcaatAtaagcatcagttaaatctgt
+555,chr,NA,Synechocystis sp. PCC 6803,NA,NA,NA,NA,2082366,-, slr0442,gaaggaacctgtgtaaattgggggctcagttatagcatcatcatcagctaaactggagtcAatctgagaccagctagaaaa
+556,chr,NA,Synechocystis sp. PCC 6803,NA,NA,NA,NA,2084115,+,NA,gttgacagatgcccagccctattggcagtgggcttgctgagcttgtgttagcatagagctAttatcgattgattaagatgt
+557,chr,NA,Synechocystis sp. PCC 6803,NA,NA,NA,NA,2085915,+,NA,aaacatgaacgcagtcagccaaattattgcacaacaaaaacttgcagctatcatggagcaAgtatgtagtgatcatgttcc
+558,chr,NA,Synechocystis sp. PCC 6803,NA,NA,NA,NA,2086003,-,NA,tgatcgccgacatcaatttttgagcattgttcgggctacgtagtagatatgctgtttcttCtaatgactgatagtcttcca
+559,chr,psb0p,Synechocystis sp. PCC 6803,psb0p,NA,NA,NA,2087244,-, sll0427,gaaatgccccttccggccatatggctggtaaggtaacgaaagtttggtagagtggatctcGttaaaatatgcctattttgt
+560,chr,NA,Synechocystis sp. PCC 6803,NA,NA,NA,NA,2087884,-,NA,gatgcaaatttttcaggggagcttgacagaacttggaatggtgctggtagaataacaaagGttaatcaatggggtgtagcc
+561,chr,NA,Synechocystis sp. PCC 6803,NA,NA,NA,NA,2087885,-,NA,ggatgcaaatttttcaggggagcttgacagaacttggaatggtgctggtagaataacaaaGgttaatcaatggggtgtagc
+562,chr,NA,Synechocystis sp. PCC 6803,NA,NA,NA,NA,2090056,-,NA,tgcggataaattaccctggcagcacttgctggggcctttaccccaaactaccttggtaaaAcatttacaaaccgcccagga
+563,chr,NA,Synechocystis sp. PCC 6803,NA,NA,NA,NA,2092388,+,NA,ttagtaatttttttagcaaggggcttgtgtaaaagatcttttagttgctatgatgttgaaTcgttgagtcaatcctcggta
+564,chr,NA,Synechocystis sp. PCC 6803,NA,NA,NA,NA,2095783,-,NA,tccagcgggaacggcggtgcgctttgagccaggggacgaaaaaaacgttaacttagtggcCtatgctggcagtcgggaaat
+565,chr,urtAp,Synechocystis sp. PCC 6803,urtAp,NA,NA,NA,2098760,+, slr0447,cggacaaaacggtatcctatgctacataattttttcttaacctactcgtagtatggggtcTtatttgtttccggcggattt
+566,chr,NA,Synechocystis sp. PCC 6803,NA,NA,NA,NA,2099485,+,NA,ggtgccgcccccaaccaacaaattgaaccggcggtggattggttgctggaaaataaaggcAataagttcttcctggtgggt
+567,chr,NA,Synechocystis sp. PCC 6803,NA,NA,NA,NA,2103947,-,NA,aaaatcggcctgggtttggcttgggttaccgccgctggggttagtgttatcctcactatcActgacaccgtttccgtcatt
+568,chr,NA,Synechocystis sp. PCC 6803,NA,NA,NA,NA,2105813,+,NA,ctgtgccagagccggcaccaaaggattggttccattgtggattaatggcagaatggctccAtggccctaggggatttgctg
+569,chr,NA,Synechocystis sp. PCC 6803,NA,NA,NA,NA,2119312,-, sll0264,tcaacggaaaatttgaccaaagcgggactaagaatttggcattccagctatgctgtaaatAtcttgaattgattggtctga
+570,chr,NA,Synechocystis sp. PCC 6803,NA,NA,NA,NA,2123615,-,NA,gacaatccagacgataagtagttgtaacattttccctccgttggtaattacaatggtggaCtaaaacaatgcccccatctt
+571,chr,NA,Synechocystis sp. PCC 6803,NA,NA,NA,NA,2127654,-, sll0260,ccgggcacaaactgactcaggagcacagacagtcgggatgttttcttctatgattgatgtTtgtcgtcagccactccccac
+572,chr,SYR32p,Synechocystis sp. PCC 6803,SYR32p,NA,NA,NA,2128695,-,ncl1060,ctatttcagaatttacaaaccccccaatcatacgcaagatgattttttaaaatagacaatAtagatacaaaaacaacgacc
+573,chr,NA,Synechocystis sp. PCC 6803,NA,NA,NA,NA,2128736,+,NA,gtcgttgtttttgtatctatattgtctattttaaaaaatcatcttgcgtatgattgggggGtttgtaaattctgaaataga
+574,chr,NA,Synechocystis sp. PCC 6803,NA,NA,NA,NA,2131086,+,NA,ttggggggattaatgatcgggaaattgctgattttttagatatacctttaaaattggtcaAtagatttgattaaaacccat
+575,chr,NA,Synechocystis sp. PCC 6803,NA,NA,NA,NA,2146450,-, sll0359,ataatcaaaaagttgaaaaaaaaagtttttcagctaaggtttgatgttatattttatcttAtgtagacttttgaaaaaaac
+576,chr,NA,Synechocystis sp. PCC 6803,NA,NA,NA,NA,2146618,+,NA,gcgagttttgtcctaaagatttttggccgccatggagcaatgatgagttaggtttgggcaAtacaagctagctacgggttc
+577,chr,NA,Synechocystis sp. PCC 6803,NA,NA,NA,NA,2147814,-,NA,ggtgatggtgggtaaagcttcattgtccatgcgccggagcttgacggtaaaatccgtgtcCtggggccaatcattgggaac
+578,chr,NA,Synechocystis sp. PCC 6803,NA,NA,NA,NA,2149272,+,NA,gaaaaataatttctttttctagtttgactagtttgattgacaatttgatacttttagataAtctcgttttctattcgattt
+579,chr,glnBp,Synechocystis sp. PCC 6803,glnBp,NA,NA,NA,2152662,-, ssl0707,tttacaaaaaaacttttggagaacatgttaaaagtgtctggctagccttataaataagacAacaaccagatcattgcacga
+580,chr,NA,Synechocystis sp. PCC 6803,NA,NA,NA,NA,2156403,+, sll0354,aatagttgatatcaccatggcaatatttgccaaatttagggtcaatggtaacatagaactAttacgcaactggcgcctttc
+581,chr,NA,Synechocystis sp. PCC 6803,NA,NA,NA,NA,2163252,-,NA,gatgccggcatttgctccgcctaggattgttggattagtccacgtagtaccattaaaagtCgctaactgaatagtggtatt
+582,chr,NA,Synechocystis sp. PCC 6803,NA,NA,NA,NA,2168620,+,NA,caatataaccagcagattgtgtttattgaaaatggcgaacttagcgatgatgataaatatAgttatatcctctaccttgac
+583,chr,NA,Synechocystis sp. PCC 6803,NA,NA,NA,NA,2173104,+,NA,cgtttaaagtggagtttgtctttggaaataatcgccttgacgacaagataaaataaaaatCtaaagcaaaggccctgtatg
+584,chr,NA,Synechocystis sp. PCC 6803,NA,NA,NA,NA,2176289,-,NA,cttcccgttggggctgtattgcagttgattgaggcgatcgccgtgggccacaatacttctAatcagggtgccatcaaaatt
+585,chr,NA,Synechocystis sp. PCC 6803,NA,NA,NA,NA,2176909,+, slr0144,tgacaacgttttgtaacagaggtttctcccgcctacaaaagctatgtaagaattagggttAgttggaacttcaacaacagc
+586,chr,NA,Synechocystis sp. PCC 6803,NA,NA,NA,NA,2177093,-, slr0144,tatggtgaaaaaatcagtttggcttggcaggtaacccatctatgggttaaaaaaggattcAggataaaacgggcaaatgct
+587,chr,NA,Synechocystis sp. PCC 6803,NA,NA,NA,NA,2179481,+, slr0148,acggctcaaaccagtttctgcttggttaacagaaggccatgaccatgccaccattatggaAttgctctgtcgccaacaggg
+588,chr,NA,Synechocystis sp. PCC 6803,NA,NA,NA,NA,2192397,+,NA,acctgctactttcactagttctttgcgtcgctccgctgtcagaggaggtatattcagacgAatgactttaccatcgttgtt
+589,chr,NA,Synechocystis sp. PCC 6803,NA,NA,NA,NA,2198126,+,NA,aactccaccatgatgatggcgttgttgaccacaatccccaccaggagtactgtaccaacaAttaccgtggcaccgatcgcc
+590,chr,NA,Synechocystis sp. PCC 6803,NA,NA,NA,NA,2205297,+,NA,cgaagtagaacaaaccgtcaaagcgttgactagtattatagaaccagctatgatggtgctGattgccggtatggtcgggac
+591,chr,NA,Synechocystis sp. PCC 6803,NA,NA,NA,NA,2205702,+,NA,ggggccgctttgccctagggaaacttgcagagaaggttaaacttaaaggaaaatgatcgtAaccaatatccacgggcaaat
+592,chr,NA,Synechocystis sp. PCC 6803,NA,NA,NA,NA,2210183,-, ssl0241,gagaggcgatcgcctactgtgatgccatggtaatcccctgaaagttgctatgctggggaaAgagaaggatcctgtgagggc
+593,chr,NA,Synechocystis sp. PCC 6803,NA,NA,NA,NA,2214944,-,NA,atctacccacaggtttggctgtgcgttgcacccaggaacgttcccagttacaaaataaagAaaaggccctagccattctca
+594,chr,SYR19p,Synechocystis sp. PCC 6803,SYR19p,NA,NA,NA,2215955,+,ncrl1070/ncrl1071,tttgtcaagatttgttaattttgcttggctagtcaaattattatccctatcattttgtaaAtatggatacagaaattattc
+595,chr,NA,Synechocystis sp. PCC 6803,NA,NA,NA,NA,2219261,+, slr1926,gtttagggcaaatttggggattgcgtcgccatccggcaatcagtttgttacaatggcagcGgtcaccacagcctttgaaga
+596,chr,NA,Synechocystis sp. PCC 6803,NA,NA,NA,NA,2219315,-,NA,gcaatacgtttagaaccagtttgctgaatagcggccagttcctgcgctaaggtatctaggGtagggatattaacaacttgg
+597,chr,pilA5p,Synechocystis sp. PCC 6803,pilA5p,NA,NA,NA,2221035,+, slr1928,acgtgtttatgctgaatgtgtcctgggtcactcaatggtgaatggtgttagagtaatatcAtcagccacgatatgctcccc
+598,chr,NA,Synechocystis sp. PCC 6803,NA,NA,NA,NA,2222268,-,NA,tcttgtaagccataatgcaaagtcttgttcaagatcattaggctttagtatatttatagtGatcaaaaaagcaagtggtga
+599,chr,NA,Synechocystis sp. PCC 6803,NA,NA,NA,NA,2225701,-,NA,atatttaaagttaaattactttaagttgacaaaagcacgacagagagttataatggggtcAttgcaaggaaattacttgct
+600,chr,NA,Synechocystis sp. PCC 6803,NA,NA,NA,NA,2226665,+,NA,gtgtttgaaaagttttaagcaagcctttgaagcatgagatgaaccatggcaacatagagcAtggtctcactggtggtaggt
+601,chr,NA,Synechocystis sp. PCC 6803,NA,NA,NA,NA,2234969,+,NA,atcaaggataattttggtaaaaagcttgacaatgggcaccactttcagcacaatagaataCtgtgactcggggctatagct
+602,chr,NA,Synechocystis sp. PCC 6803,NA,NA,NA,NA,2240150,+,NA,cgccctattgacctgtatgagcggttggggacaggtattttactggttatactgtgagctAcaaatggcccggacttccca
+603,chr,NA,Synechocystis sp. PCC 6803,NA,NA,NA,NA,2241357,+,NA,cttcccccagtcagggaaattagtttggtttccctttaaacctgtgccacaatttcccatGggtttttgcattgtaaggag
+604,chr,yib0p,Synechocystis sp. PCC 6803,yib0p,NA,NA,NA,2248539,+, slr1945,actagtactcggtctagggcaggagttgccccggatgtttttgatggtattatcaagggcAtcttttgcagactttataac
+605,chr,"secGp, ycf47p",Synechocystis sp. PCC 6803,"secGp, ycf47p",NA,NA,NA,2250210,+, ssr3307,cgcactccggtcaatctctcccgttaggtagggggatggaaaagcgctaaaataaaaagcCtgtatgatcgccgaggggcg
+606,chr,NA,Synechocystis sp. PCC 6803,NA,NA,NA,NA,2250609,-,NA,gagagaaggaaatctgaatatgttggagcctagaagttatatttattttatgatcggtgtGattaacccaagagcttgtct
+607,chr,NA,Synechocystis sp. PCC 6803,NA,NA,NA,NA,2250620,-, ssr3307,ctccaacgacggagagaaggaaatctgaatatgttggagcctagaagttatatttattttAtgatcggtgtgattaaccca
+608,chr,SYR47p,Synechocystis sp. PCC 6803,SYR47p,NA,NA,NA,2260229,+,ncr1080,ctgtaaaagcgggaatttccaccagcttgtcgaatcattgaaagcaggttaatctttcttAgcagtcttcattcttcatta
+609,chr,NA,Synechocystis sp. PCC 6803,NA,NA,NA,NA,2261867,-, slr0993,actggttcgttattaacttggcgggcaacggtcagggcacttcgaggtaccataggagtcCtgatcggttgagtttgattg
+610,chr,NA,Synechocystis sp. PCC 6803,NA,NA,NA,NA,2262294,-, slr0993,accgccggagttccaaccagaaaacaccacctccccggaagccgctgccataatgggagtAccaatgggagcagcaatgtc
+611,chr,SYR36p,Synechocystis sp. PCC 6803,SYR36p,NA,NA,NA,2262767,-,ncl1110,ttcaaccccaccaagccagctagttaattactgaagtgaagtctaatctaacctagtgtcAtaacctcaaaataaagcaag
+612,chr,NA,Synechocystis sp. PCC 6803,NA,NA,NA,NA,2265073,-,NA,tttgaaaattttttctgatcaatgcttgtggtgaagcaaaagctatgttaacgttataaaTcgtgccaatgaagcacaacg
+613,chr,NA,Synechocystis sp. PCC 6803,NA,NA,NA,NA,2265836,-,NA,gacaagcgggtgaaaaataaaattgccatccaggaggaaacggggttagaaattaatcgtAatgccatggtggtgggtata
+614,chr,NA,Synechocystis sp. PCC 6803,NA,NA,NA,NA,2267081,+,NA,gggcactgcctcaaatactaaccgttgaccagggaacacaactctttcaaaataccaattAgggacattggtaatgcgggc
+615,chr,NA,Synechocystis sp. PCC 6803,NA,NA,NA,NA,2267231,-, sll0944,aaatttgattgtaattatctttacagcggatcgggatcagcgggtgttagctttgtccagAatagttaaaagacctttttt
+616,chr,NA,Synechocystis sp. PCC 6803,NA,NA,NA,NA,2269144,-, slr0320,ccgccaattagaaaaccaagcccttgcgcaactgaagcgtcggcgggctaatatggcagaGtatattatcgccagttagtt
+617,chr,NA,Synechocystis sp. PCC 6803,NA,NA,NA,NA,2270192,+, sll0306,aagagcaacagaataactgtcactgttaccatctttcccaaaaatgtcttagactaagtcAttgatggtggagaatagggt
+618,chr,NA,Synechocystis sp. PCC 6803,NA,NA,NA,NA,2270391,-,NA,ttcggtaatccttcatcttggcccttgtggaatcccttaatgattcgtcatcatggtgatAttgattttttgggtatcttt
+619,chr,NA,Synechocystis sp. PCC 6803,NA,NA,NA,NA,2274373,-,NA,ggtgggagcttcttcggagaagttgcctcgggcttttttgaagcgagaaagaatggaattAgttttgcgggtactgccggg
+620,chr,NA,Synechocystis sp. PCC 6803,NA,NA,NA,NA,2282748,+,NA,gtgctgattccagcgggcaactttgacaattggctggctgattggtgggaaaatatgtggGgcgtaaaaattggtcttctg
+621,chr,NA,Synechocystis sp. PCC 6803,NA,NA,NA,NA,2287098,-,NA,cggcgattttcgaccaaagctaggcttgacggggggattaccatagaatatagtctaccgActgagtaaatatacctgagg
+622,chr,psaCp,Synechocystis sp. PCC 6803,psaCp,NA,NA,NA,2287642,-, ssl0563,aatttgaagttatggcgttttttccgaaaggaaattcaggtgtggggtaaactagcccatAatcctgacaatattattttt
+623,chr,NA,Synechocystis sp. PCC 6803,NA,NA,NA,NA,2289679,+, slr0333,gttagttaagattttattaagataactcaccgtaaaaataaatactgttacagttgaaaaAtaattaaccatcaacctata
+624,chr,NA,Synechocystis sp. PCC 6803,NA,NA,NA,NA,2290638,+, ssr0536,cctgtctatgatagttttgcatttgcactccttgaatcaagtttatgttagactgggcgcAgattagttaagcgttttcag
+625,chr,NA,Synechocystis sp. PCC 6803,NA,NA,NA,NA,2291622,+,NA,gtctaggactggagctagttgggatttgccgatttgttcttggcgttgtagagtctgggcAacggcgggccatgctgcttc
+626,chr,NA,Synechocystis sp. PCC 6803,NA,NA,NA,NA,2291819,+,NA,cccgcggtagatctggccaaatttgtcgacaaacttgacaactagtttgaaaatattcctGcaaaccgtcgcagagcacac
+627,chr,apcEp,Synechocystis sp. PCC 6803,apcEp,NA,NA,NA,2292187,+, slr0335,gcggctttttccctcgttttaaggcgatcgcaattttgttaatgggagataatgaaatccAatgagtgttaaggcaagtgg
+628,chr,NA,Synechocystis sp. PCC 6803,NA,NA,NA,NA,2299296,+, slr0338,cctgggtcggtttttgactggggaaagaagagaaacacggcctgtgctagtatctaaggcAtgaattttcgtgaagttaat
+629,chr,NA,Synechocystis sp. PCC 6803,NA,NA,NA,NA,2304045,+,NA,tagctcaacggcgggccaattccttgaaaaaacggcttgtcgagacttagaatagattggGtataacaaaaaaaagttagg
+630,chr,NA,Synechocystis sp. PCC 6803,NA,NA,NA,NA,2306654,-,NA,cgattggcatgcatgggatcgtcaaattgagcaagactctaagtctggtaagctaaaagcCttagcggaaaaggcattggc
+631,chr,NA,Synechocystis sp. PCC 6803,NA,NA,NA,NA,2306836,-,NA,tagcagaggcgatcgccttggatttttttgctaaagttgacgtctgagtagaataatcttGtaacgccaaacctagctagg
+632,chr,NA,Synechocystis sp. PCC 6803,NA,NA,NA,NA,2308687,-,NA,ccagttggggcaggaattcgcaaccagttggtggcggacatgaagcgctatggtggattaAggattttatcaacatctttt
+633,chr,NA,Synechocystis sp. PCC 6803,NA,NA,NA,NA,2312895,-,NA,agcggaaaaacaaatcaccgagttgggcgataaagtgcccgccgctgataaaatcaaagcGgaaggtttaatcaaagacct
+634,chr,NA,Synechocystis sp. PCC 6803,NA,NA,NA,NA,2329186,+,NA,tttagaatgtagggcttctataccggattgctacgttgtcagttaatttagactagacaaAcacaatctaaatagtctgga
+635,chr,NA,Synechocystis sp. PCC 6803,NA,NA,NA,NA,2330409,-, ssl0294,aaggattttggctgtatttgtccaaacttagccataggctaattgggtataatggcgggtActgactgtctcgaaattttt
+636,chr,leuAp,Synechocystis sp. PCC 6803,leuAp,NA,NA,NA,2338596,+, slr0186,ctaccgattttacctcttcaaagtatgccaacgtctaaatagacaagatacaatcagaatCtatctgtgtctttttcaccc
+637,chr,SYR11p,Synechocystis sp. PCC 6803,SYR11p,NA,NA,NA,2347293,+,ncr1160,aattataaagagaatcttaaaaaaagcggcgatcgcctggggatcagccataattgatccAacgaaataacacggggtcac
+638,chr,NA,Synechocystis sp. PCC 6803,NA,NA,NA,NA,2351032,+,NA,ggaagtcattaggtttagtttgttttgcagacgagctatgaaaaactttaaaattggttgAgtctgccaaggtttattgat
+639,chr,NA,Synechocystis sp. PCC 6803,NA,NA,NA,NA,2365808,+,NA,aaatttaaagaaactctggggattggctccattccccagaaaaacctttaagatgggtggGatctttgcactctggacatt
+640,chr,NA,Synechocystis sp. PCC 6803,NA,NA,NA,NA,2372362,+,NA,tgagcactaactctgggttcacctgattggagtcagcattgagggggggcaaaatgggatAaaagggttgatgtaggctaa
+641,chr,NA,Synechocystis sp. PCC 6803,NA,NA,NA,NA,2375060,+, slr0373,atgcaggcatagtggcttaatggcttgacaggatagtggcgcgtgattaaattggggtacTatacccgatgggtaacctaa
+642,chr,NA,Synechocystis sp. PCC 6803,NA,NA,NA,NA,2375070,+, slr0373,agtggcttaatggcttgacaggatagtggcgcgtgattaaattggggtactatacccgatGggtaacctaatcattagtga
+643,chr,NA,Synechocystis sp. PCC 6803,NA,NA,NA,NA,2382582,-,NA,gatgcaccaagggaaagggctgttgttggcgggccgcctgcaaattttgtatcgtgaattGttggttgagcatggcaaccc
+644,chr,NA,Synechocystis sp. PCC 6803,NA,NA,NA,NA,2382748,+,NA,acattcagtttgttaacagtcgcttgaacctcaaggaaattaggaatttacaatggcagaAtcctcccgttgatcttttag
+645,chr,NA,Synechocystis sp. PCC 6803,NA,NA,NA,NA,2385158,-,NA,ctggccccgaaatattaagaattgttgctgtttcttgtttgatctgttagcgtgtgcttcAgagagtgcatttaaccacgc
+646,chr,NA,Synechocystis sp. PCC 6803,NA,NA,NA,NA,2388633,-,NA,agccgcctacaccgtagaagaatttgtccaactgttggaacgcccccgtaaaatccttgtAatggtcaaagctgggggacc
+647,chr,NA,Synechocystis sp. PCC 6803,NA,NA,NA,NA,2390038,-, sll0327,aaacataaaattgtagcaaaatatactgaattatcaaaagtgaaataggacaattgctcgAcaatctttctaaaaaccagt
+648,chr,NA,Synechocystis sp. PCC 6803,NA,NA,NA,NA,2394740,-,NA,taacttggtcaatcgacttatttcgttgagaacaataagcgatgccagtatgatcgggagAtgattgagctaattttaaaa
+649,chr,NA,Synechocystis sp. PCC 6803,NA,NA,NA,NA,2404983,+,NA,tcttgcggcgtttgcgggcaacgttgccccgtttaactctggtcatagtaactttaaaaaActaaagataatttcagcttt
+650,chr,rpl35p,Synechocystis sp. PCC 6803,rpl35p,NA,NA,NA,2405336,-, ssl1426,taattgccttaattcatctgaaaattccaacagcagggttagccatggtatagtggaagaCtgtgttcgattaccagccac
+651,chr,NA,Synechocystis sp. PCC 6803,NA,NA,NA,NA,2406492,+,NA,ccccagtgcaaaacatcgctacttttttgtttttttgctggtctagattattcttcacatAgtcggggaattggcgaaatt
+652,chr,NA,Synechocystis sp. PCC 6803,NA,NA,NA,NA,2407020,+,NA,aagccataggaaagcggaaaaatccttgcttgttgtgaacttctatggctataatagctgAggtttgttaccaaagggcgt
+653,chr,NA,Synechocystis sp. PCC 6803,NA,NA,NA,NA,2407493,+,NA,atgattgctgctgctgtgagatttggctttacgtccaacccctaagtataatcttttgctTtgtaggtacttgcccgattg
+654,chr,NA,Synechocystis sp. PCC 6803,NA,NA,NA,NA,2410024,+,NA,tacagctcaatgttgccgagatacggttgttgaacaaatacgatcagctatgatcaacagAcaaaatcacaaaaagcgacg
+655,chr,NA,Synechocystis sp. PCC 6803,NA,NA,NA,NA,2411522,-,NA,cgctttattctctgggaatttttgcgccaattgcgagatgcaggcactacggtagtaattAcaagccattacctggaggaa
+656,chr,NA,Synechocystis sp. PCC 6803,NA,NA,NA,NA,2414554,+,NA,tggttcttggccaagtcggtctagttgtcaggggacaggggaatgtatagattagtgtgtAaggataaacttttaggaatt
+657,chr,NA,Synechocystis sp. PCC 6803,NA,NA,NA,NA,2414823,-,NA,acgggattcaaggactcgactattgtggtgctgacagtgaggacattgcataatggctacAaaaaatgagcttagcccaac
+658,chr,NA,Synechocystis sp. PCC 6803,NA,NA,NA,NA,2416782,+,NA,tgaaataactggaaaaacttgcttgatgggatggttggtaatttgtcgtaccctgtacccAagtcagtctaaccgtggtcg
+659,chr,NA,Synechocystis sp. PCC 6803,NA,NA,NA,NA,2417269,-, sll0754,gctggtcagtggattcatttttctctatttcactctgcgggccatgttaggattgaccgtGtagagggagtttgggctaat
+660,chr,NA,Synechocystis sp. PCC 6803,NA,NA,NA,NA,2422099,+,NA,tgtcttcaattaagcggtccataattttgaactgcttgcgagcttgatacaatagttgacTtctgagggcaggtttctgtt
+661,chr,NA,Synechocystis sp. PCC 6803,NA,NA,NA,NA,2427930,-, sll0325,aggatcagggatggagggggttgactccggcggagccgtaaaatcgcatataatcagcgtActatgacggtttgaccaagg
+662,chr,NA,Synechocystis sp. PCC 6803,NA,NA,NA,NA,2437395,-,NA,gttccgattggggcaacgcggctaatttgagtaaggcccaattggcctatgctgccaatgAtgtacgttatttgattcccc
+663,chr,SYR46p,Synechocystis sp. PCC 6803,SYR46p,NA,NA,NA,2446223,-,ncl1230,aagtattagatatgagccgatatgggaaaatacgtgggcgatgatggtagactcgaaaccAtagcacaaaaaaaggtagcc
+664,chr,NA,Synechocystis sp. PCC 6803,NA,NA,NA,NA,2447422,+, slr0354,aatcagaaagagcactggcaaaaccaagaaaattaggccgatcaagctaaaattctaaggAattgtgattgccataatatc
+665,chr,SYR15p,Synechocystis sp. PCC 6803,SYR15p,NA,NA,NA,2453751,+,ncr1240,tttataagtttcggctcttttctattgctatttcttccgacttgagttacactctttgtcAagtagaaacagactttggtt
+666,chr,NA,Synechocystis sp. PCC 6803,NA,NA,NA,NA,2453868,-,NA,tgaaaaatattttgtgaaaaggtgttgacttttcttgcggtattccgtatattgataaatGcgcggttgagagcgaaagcg
+667,chr,NA,Synechocystis sp. PCC 6803,NA,NA,NA,NA,2453870,-,NA,tttgaaaaatattttgtgaaaaggtgttgacttttcttgcggtattccgtatattgataaAtgcgcggttgagagcgaaag
+668,chr,NA,Synechocystis sp. PCC 6803,NA,NA,NA,NA,2464332,-, sll0022,ctttcgtaaataatttttaccaattagtttattccgagaaaatctcaatacaataattccAtcattactgtgtgacccggc
+669,chr,NA,Synechocystis sp. PCC 6803,NA,NA,NA,NA,2464486,+, slr0001,ggaccaaatgcgatccttcaatggggttgattagaggacagggattgttaagctaaggaaAtatggactgccaaattgtca
+670,chr,clpCp,Synechocystis sp. PCC 6803,clpCp,NA,NA,NA,2468905,-, sll0020,acacccacggctgtacccagggcaacagcacaataaaagcgctatgttagaatcagcaatAcacagggcacgctgaggtga
+671,chr,"fbaAp, fdap",Synechocystis sp. PCC 6803,"fbaAp, fdap",NA,NA,NA,2471729,-, sll0018,caggacaaaaaagatcgttaaaaattgtcaaggcgcagaaactagcctaagatgagacccAtataaagaattgtcttgcga
+672,chr,NA,Synechocystis sp. PCC 6803,NA,NA,NA,NA,2475176,+,NA,agcgtttttatacctagagtctaaattgagtgaactaagaatctctgttaatctggaggcAgtttcaagggacaattcaat
+673,chr,NA,Synechocystis sp. PCC 6803,NA,NA,NA,NA,2476702,-,NA,attcggttcaacgtaccgagggattggataaattcccccgcctgggctaatgtttccgggGtgccaatatctaaaaaggga
+674,chr,rbcLp,Synechocystis sp. PCC 6803,rbcLp,NA,NA,NA,2478259,+, slr0009,acagtcaatggagagcattgccataagtaaaggcatcccctgcgtgataagattaccttcAgaaaacagatagttgctggg
+675,chr,NA,Synechocystis sp. PCC 6803,NA,NA,NA,NA,2485282,-,NA,ctagccatttcattgctaatgcttccttgtcaattcaagattttcccgtagtatcagaacAgttaagttttttgaagtagc
+676,chr,NA,Synechocystis sp. PCC 6803,NA,NA,NA,NA,2493926,+,NA,accattatctaaaggcaagttttgccagcgcatcaccgcaatgtcaggcacaatggagcgAtcgccaaaggtacaacgaag
+677,chr,NA,Synechocystis sp. PCC 6803,NA,NA,NA,NA,2494786,+, sll0006,gctgataaccgtcaaaggccaattctgcataacacagatcatggactaacatgatttggtAatggcgggcccaatcggtga
+678,chr,NA,Synechocystis sp. PCC 6803,NA,NA,NA,NA,2503971,-,NA,gtccctaatctgcactttagatttgcccttactgaaattttccttgacataatggtaggaGatacattaggaaagggcttg
+679,chr,guaAp,Synechocystis sp. PCC 6803,guaAp,NA,NA,NA,2504291,+, slr0213,tcttagcgcagatttgccgtgggttattctgggcttcaggtattggggtagaatacggggAttgttgacgaccatggcctt
+680,chr,NA,Synechocystis sp. PCC 6803,NA,NA,NA,NA,2510992,+,NA,gttccacattgcggacttgattattttgcttgaggttaaattcttcaaatacgattgaagAaaagcctcccagggccgtaa
+681,chr,NA,Synechocystis sp. PCC 6803,NA,NA,NA,NA,2512327,+, sll0207,aaagtaaagaaaggttaagaaattaacccccggttgtctttataatacagactctaaattAatgcaaatcccggaggatca
+682,chr,SYR9p,Synechocystis sp. PCC 6803,SYR9p,NA,NA,NA,2512423,-,ncl1255,cctatccccaggactaacctcccccccagcaacttagactagttttgctagaatggtgccAactcaaatcgcagcagatct
+683,chr,NA,Synechocystis sp. PCC 6803,NA,NA,NA,NA,2513181,+, sll0207,attaacggtggccaccccaaaggcgctgggattggacactcgccgcagtagaatcaaggaAtcgagggatttagcctgaaa
+684,chr,petp,Synechocystis sp. PCC 6803,petp,NA,NA,NA,2526307,-, sll0199,ccggggctgaggctgtataatctacgacgggctgtcaaacattgtgataccatgggcagaAgaaaggaaaaacgtccctga
+685,chr,NA,Synechocystis sp. PCC 6803,NA,NA,NA,NA,2526565,+,NA,tggcgatcgccgtcataaaaattagcttgctatcccttcaatgtagatgataatgggaatAgcccagtaggcccagtggtg
+686,chr,NA,Synechocystis sp. PCC 6803,NA,NA,NA,NA,2526566,+,NA,ggcgatcgccgtcataaaaattagcttgctatcccttcaatgtagatgataatgggaataGcccagtaggcccagtggtgt
+687,chr,NA,Synechocystis sp. PCC 6803,NA,NA,NA,NA,2531640,-, sll0195,gcgggatcggttgcgtgcgcttactgggtaaatagtccccaatcctttatcatttgaagtAcgttgcttaacattacgaaa
+688,chr,NA,Synechocystis sp. PCC 6803,NA,NA,NA,NA,2532615,+,NA,cccgccctcagatcagaataattgcccaaaaacgaaaatttaggtgcgataatctttaaaTtattcttgaatataaaagga
+689,chr,NA,Synechocystis sp. PCC 6803,NA,NA,NA,NA,2535313,-,NA,ttgccgtattcggacacttgctttggattagggcgatcgggcaattgatacaatttttgaAttgcaatccgaattcctaaa
+690,chr,SYR24p,Synechocystis sp. PCC 6803,SYR24p,NA,NA,NA,2538944,-,ncl1280,tgtaatcgttccatccttgccatgattgactcatcaatccattgttaataatctgaaggcTttgtcgccttttgtcccctt
+691,chr,NA,Synechocystis sp. PCC 6803,NA,NA,NA,NA,2542773,+, slr0431,attgtctaccatcgaaaatttttccgctgccgagactgccggtcaattaagattaaccctAtctagtgcaaaccatagcat
+692,chr,NA,Synechocystis sp. PCC 6803,NA,NA,NA,NA,2542776,-, sll0414,tttgcaaggtacaatgaagggttgacaacaagttacccactcaatgctatggtttgcactAgatagggttaatcttaattg
+693,chr,NA,Synechocystis sp. PCC 6803,NA,NA,NA,NA,2545087,-,NA,ttttcctggtcagccgtggtttttgatgggagtccgacccgatgcgataccatggttggcAgtgtcagagtttagatcgtt
+694,chr,NA,Synechocystis sp. PCC 6803,NA,NA,NA,NA,2548028,+, sll0409,accactggcttaggcagggggaaattgtaggaataaaatttaacgtgatagggtttatccAtggcccaggctgggattaac
+695,chr,efpp,Synechocystis sp. PCC 6803,efpp,NA,NA,NA,2549362,+, slr0434,agggggcaacagcaaaattttcccacttcaacgcccccatcccctagtagaatgttgggtGaacttttgagtcttccttgg
+696,chr,NA,Synechocystis sp. PCC 6803,NA,NA,NA,NA,2549977,-,NA,aacaaaatacgattagtaaagcttgagctgaccaatgagcctacgggttaaaatccatctAcccaattgatcaagttaagc
+697,chr,NA,Synechocystis sp. PCC 6803,NA,NA,NA,NA,2552042,+, sll0406,gtcttgaggattgcatcccatcagtaactcggcaaaaacgggagccggtataatgatatgGttgcggttggcttccagctg
+698,chr,NA,Synechocystis sp. PCC 6803,NA,NA,NA,NA,2555519,+,NA,cctatgccaaattctagtggattttgcggtggacagcagcgtcagtagtacaatagggaaActagctagcgaaattacgat
+699,chr,NA,Synechocystis sp. PCC 6803,NA,NA,NA,NA,2561303,+, sll0401,agcggcggggactccggctaggccttctttaaacacttcgttatcagtcatcatataattCacctataacggacaatgcca
+700,chr,NA,Synechocystis sp. PCC 6803,NA,NA,NA,NA,2561308,+, sll0401,cggggactccggctaggccttctttaaacacttcgttatcagtcatcatataattcacctAtaacggacaatgccactact
+701,chr,NA,Synechocystis sp. PCC 6803,NA,NA,NA,NA,2570286,-,NA,tggcagaccattggcaaattttttggtactgtgcccgacaaatgacctatgctgacttttAtcaagcatggcatcaaactc
+702,chr,NA,Synechocystis sp. PCC 6803,NA,NA,NA,NA,2576033,+,NA,atcctaccatgcccgccgggcaagcttgcattttgcaaaattcctcactagagttagggaAgctgaagagtagtccgtcgg
+703,chr,NA,Synechocystis sp. PCC 6803,NA,NA,NA,NA,2582357,-, sll0062,tctgggtgcccccagtccactgccatgccctccttgggctgttgctatataatgggcggcAcggtcctatgggcgatcgcc
+704,chr,NA,Synechocystis sp. PCC 6803,NA,NA,NA,NA,2590717,-, slr0063,aattttgccatcctggggcgatcgcctctccgcaatgtccatgtccgccataattttaaaAcgggccaccacggcgggggt
+705,chr,NA,Synechocystis sp. PCC 6803,NA,NA,NA,NA,2591680,-, slr0063,gaaagtgacccgttccacctcctctagggtggtgtagccttcctgcactaaattaagactAtaggccaatagggtgatcat
+706,chr,NA,Synechocystis sp. PCC 6803,NA,NA,NA,NA,2601618,+,NA,gcaccatcaaaaattggggacctgttttggaaaccggcaacggccacctattattggaacAagttcaacccccaggcaaaa
+707,chr,NA,Synechocystis sp. PCC 6803,NA,NA,NA,NA,2607663,+,NA,aagagtttcgttgtgtaacgttgcggtttggaaataaaaaagcttcgttaggatgaaagcAcccagaatatttggccgtta
+708,chr,NA,Synechocystis sp. PCC 6803,NA,NA,NA,NA,2612752,+, slr0476,gagggaaaagaggtcagaagtcatggcggcaaaggagctatagtctgggataatagggctGattaaagataactatcgtgg
+709,chr,NA,Synechocystis sp. PCC 6803,NA,NA,NA,NA,2613620,+,NA,aaaaccaggctccagagaaagtttgctaaagaaggggtcatatcgcgttaacctcattttAtaaagacatcgctccccatt
+710,chr,NA,Synechocystis sp. PCC 6803,NA,NA,NA,NA,2614704,-, slr0479,ttccaatcaaaaatttccccctgctccggggtgagcaccaacaggtcatagactactgtcAataaaacatcatccctggct
+711,chr,NA,Synechocystis sp. PCC 6803,NA,NA,NA,NA,2642791,-,NA,gacaaccaggtgcggtatgtggaattgcccattgcctttgatgccattactgtggtcagcAatcccaaaaatgactggctg
+712,chr,NA,Synechocystis sp. PCC 6803,NA,NA,NA,NA,2644755,+,NA,gtctagttccattacctttcataaacctttgtgtccccaagcagtgtgatatgatggggaGtgctcaatttttagactaaa
+713,chr,NA,Synechocystis sp. PCC 6803,NA,NA,NA,NA,2648418,+,NA,gcccttctccgaggcgatcgccaatttgtcttctgcttccagttctgttaaactttgcagAccgtactgatccactgcaaa
+714,chr,NA,Synechocystis sp. PCC 6803,NA,NA,NA,NA,2658818,+,NA,acggcgatcatcctcttctttgtttggaaaacccctattgggtttggtaggattgaccctAgcgttatatttgttgagggg
+715,chr,NA,Synechocystis sp. PCC 6803,NA,NA,NA,NA,2658835,+,NA,ctttgtttggaaaacccctattgggtttggtaggattgaccctagcgttatatttgttgaGgggctgggggattattacct
+716,chr,NA,Synechocystis sp. PCC 6803,NA,NA,NA,NA,2674273,-,NA,taagcaactttctcggcggtaacattgtcataacgacggaagcggccagagaatagataaAcggtgatgccgtcggagtca
+717,chr,SYR45p,Synechocystis sp. PCC 6803,SYR45p,NA,NA,NA,2676709,-,ncl1330,aagcttaattaatagttaagaaaacctgatacagtccgtcgagagtgttaatttcttagtCtcagcaggtcactgcggcct
+718,chr,NA,Synechocystis sp. PCC 6803,NA,NA,NA,NA,2677333,+, sll0601,aacgtcgtagcaaatggacagccccaaattaccaaagctgtcggagtggtacactgggggAtatttttgcccagccatcac
+719,chr,NA,Synechocystis sp. PCC 6803,NA,NA,NA,NA,2683253,-,NA,gagaccttccccttggcttaacccaggttgaaagccgcaatggggccttaggatgaacatAtttgctatgcgatcgcctag
+720,chr,NA,Synechocystis sp. PCC 6803,NA,NA,NA,NA,2685003,-, slr0415,taatttcaagcgctcaaaaatgggcggcaggatcagggtcaccaataataaaatagtgaaGtcaattaaagggttactcgg
+721,chr,NA,Synechocystis sp. PCC 6803,NA,NA,NA,NA,2686236,-,NA,catttccaacaaatagctcaaggtttggggattttgggtgggcaccaatacggtgaaggtAgaagccttgggggggattag
+722,chr,NA,Synechocystis sp. PCC 6803,NA,NA,NA,NA,2699222,+,NA,tacccctggagtgacccccggtggcttgatcttctctgcaactctgactacaatccagtgGtctggtgatggtgtcaattt
+723,chr,NA,Synechocystis sp. PCC 6803,NA,NA,NA,NA,2699285,-,NA,aatgggagcaaagggacgacggagttgttggaaataatttttaaagctatgtttagagccGttagaaccgatagagctaag
+724,chr,SYR34p,Synechocystis sp. PCC 6803,SYR34p,NA,NA,NA,2706438,-,ncl1350,ttgcattacaaggtgtaaagaatttgttccgtttccaaaaagcagtgggacaatttggatAgtggtgggtgatcaacagca
+725,chr,NA,Synechocystis sp. PCC 6803,NA,NA,NA,NA,2706585,+, sll0375,tttatctctctaataagattttctggggcctaacccccaatttacgtggtagtttgtggaAgcccatagcgaaaatcttgt
+726,chr,NA,Synechocystis sp. PCC 6803,NA,NA,NA,NA,2707724,+,NA,gcgtgggtaatgttgccctggacattgtgcagtaatagttaaaaacctataatttcgggcTatgccattgtccctcagcat
+727,chr,NA,Synechocystis sp. PCC 6803,NA,NA,NA,NA,2708983,-,NA,aattagcaaaggttgacgggacgtttgaacattctggatggctatgttatcctttcccccAttcttggctaattggatcgt
+728,chr,pyrAp,Synechocystis sp. PCC 6803,pyrAp,NA,NA,NA,2716653,-, sll0370,tcaataaacctggatatgggaacgggtggcgatcgccgataaagcctatacaatgattggGatcgaaatccccatcacgtc
+729,chr,NA,Synechocystis sp. PCC 6803,NA,NA,NA,NA,2717383,-,NA,cccctcagtttgactggcaaaagggttgtattggtggatgacgtaatttataaaggccgcActatccgggcggcactcaat
+730,chr,NA,Synechocystis sp. PCC 6803,NA,NA,NA,NA,2722091,+,NA,gttatccccagcggattcttgccattgccaatggggtaaagccaagcccaaaataaagccAtggatgccgagggaactcaa
+731,chr,NA,Synechocystis sp. PCC 6803,NA,NA,NA,NA,2722282,-, sll0188,atggggacagtggcccagggctaacaccgatcgccaaagggtttgtgttattttgagggaActgtgtaaacggcctccagc
+732,chr,NA,Synechocystis sp. PCC 6803,NA,NA,NA,NA,2724523,-, slr0192,tattaaaaaagttgactattgggctaacagttaaccaagtttatgacgataatagacaccAggccatggggacagtcccgt
+733,chr,NA,Synechocystis sp. PCC 6803,NA,NA,NA,NA,2727724,-, slr0197,gacagcgggggattggaccaccaataggttattggcgttgcctcgagtaaaattgtcatcAtagtcgccatgctggtcgct
+734,chr,NA,Synechocystis sp. PCC 6803,NA,NA,NA,NA,2730253,-,NA,gtgatcttggggttttgatccccttgacgttccgccgctgctccatgttacaaaaggtgaAgttcgtgatccccgtaggac
+735,chr,yfr2bp,Synechocystis sp. PCC 6803,yfr2bp,NA,NA,NA,2730523,+,ncr1397,caatctcttaactgtcatagtgtccatggggtaggtgggtgaggaagttattatctagagGtgtgtgaggagtaagttgaa
+736,chr,NA,Synechocystis sp. PCC 6803,NA,NA,NA,NA,2735333,-, sll0183,ataactgagttgcggccatgggggtggggactatccagatatttggctagaatggagagcAattttaagtgcagttccctt
+737,chr,SYR21p,Synechocystis sp. PCC 6803,SYR21p,NA,NA,NA,2741378,+,ncr1420,tcacccgtgaggggtgattgtcgtcattgtcaaactaaatcaaaacattaaacttagactGgtgagatttagcctggcgat
+738,chr,NA,Synechocystis sp. PCC 6803,NA,NA,NA,NA,2744665,+,NA,taatgtcattctcgatgccaaatttgaccgggagcaatggcgatcgcctatggttgaattAgcattacgggagcagctttc
+739,chr,NA,Synechocystis sp. PCC 6803,NA,NA,NA,NA,2744949,+,NA,tacggatatttctcccttcctctgattgatgtttaggtcagcttgggctagggttatggaGcaatcaagctatattgtgcg
+740,chr,NA,Synechocystis sp. PCC 6803,NA,NA,NA,NA,2745852,+,NA,gaaagtcccctaccaaggtaatgcttgcttagcggtggctaacctatgcaaaaatggaaaCtctatgtccacggcgccatt
+741,chr,NA,Synechocystis sp. PCC 6803,NA,NA,NA,NA,2747550,+,NA,ttctcgataaattaaacgatgagcttgggttaattagctattatagatacaattctatttAttagcccagccattgccgat
+742,chr,NA,Synechocystis sp. PCC 6803,NA,NA,NA,NA,2762992,-,NA,gtcaagttcaccggggcgcaataatttgaagattaccgcggagaaaatttacaatgagttGcatccagttgatcccattcc
+743,chr,NA,Synechocystis sp. PCC 6803,NA,NA,NA,NA,2763734,-,NA,gccaccaaccagcgctggaaaccatttggcaaacgtcggcaaaagatgaaaaattgggaaActatagctgggccagtttca
+744,chr,nirAp,Synechocystis sp. PCC 6803,nirAp,NA,NA,NA,2769102,+, slr0898,ttggctgagtgtaatttacgttacaaattttaacgaaacgggaaccctatattgatctctActgttatctggcttgaagcg
+745,chr,NA,Synechocystis sp. PCC 6803,NA,NA,NA,NA,2771397,+,NA,gccgccgttgaaattatccaagcccattggcccaattttggtgatactaccatggatgttGatggtagctatgggagagtt
+746,chr,NA,Synechocystis sp. PCC 6803,NA,NA,NA,NA,2775295,+,NA,acgataattatccggtgggaattggtaattttagtgaccctttttcgctaggataattaaAgtaaaataactcgagggtaa
+747,chr,NA,Synechocystis sp. PCC 6803,NA,NA,NA,NA,2791015,+,NA,atgaatctgccctaaaaataaagtttggcaaaaattcccccgatcagttatgatattcgaAgcgacgcgggatagagcagt
+748,chr,NA,Synechocystis sp. PCC 6803,NA,NA,NA,NA,2793606,+,NA,accgaagaatgtctacgcctaggcattgaagcagttaaacccggcggtaaaattggtgatAttggggccgccattcaaagc
+749,chr,NA,Synechocystis sp. PCC 6803,NA,NA,NA,NA,2794402,+,NA,tgcattgccggttaccagtggtgttgagggtaagccctaggtttttgcgacaataattgaAggccattgaaaagaatacag
+750,chr,NA,Synechocystis sp. PCC 6803,NA,NA,NA,NA,2797105,+,NA,accggggcaaaattttccgccattgacagccaggggaattcctcgataaaactattgggcAcacagcagaaaaactttggg
+751,chr,NA,Synechocystis sp. PCC 6803,NA,NA,NA,NA,2797995,+,NA,atcgcccatagtctgcaccatggcattgccaaaaccatgagtttatttaataatcgtgacGtctgcccttaggtaatggga
+752,chr,NA,Synechocystis sp. PCC 6803,NA,NA,NA,NA,2799650,+,NA,gcattgatgaagtcaccacactgggttgccgaagggaccatggctaactatatttaacccAtgaataaccttgtgggagat
+753,chr,NA,Synechocystis sp. PCC 6803,NA,NA,NA,NA,2803177,-,NA,acaaattgtgtaaagtccaaagacttgagtgaattggcgataaattttaggttggtaaacAgttctcccggagcaagctcc
+754,chr,NA,Synechocystis sp. PCC 6803,NA,NA,NA,NA,2803338,-,NA,tatgagttgctgaccgatcgccgtttggtctagattgccaactctgttataataattggcCggacatggcggcatagccaa
+755,chr,ftrCp,Synechocystis sp. PCC 6803,ftrCp,NA,NA,NA,2804637,-, sll0554,aacaattggggtgattcgtcggtttttggctctgctccaatagtgtgtcaagataaatacAccgacggcaaaattggcgtt
+756,chr,NA,Synechocystis sp. PCC 6803,NA,NA,NA,NA,2805959,+,NA,ccttgatagaatttggcaccgttgaattggaactgggaggttgcccctagaatggttaaaAgtcgcagggaaagccatggc
+757,chr,NA,Synechocystis sp. PCC 6803,NA,NA,NA,NA,2812390,-,NA,caacgggagaaaattcttgcttatttgttaaagcagggctacaaggctaaaattagtggtGgttagattactagggttcaa
+758,chr,NA,Synechocystis sp. PCC 6803,NA,NA,NA,NA,2813476,-,NA,cctttttctgctgcttggcgatcgttggattattaatcgccctaggccacaattttaaggAagtgaacgatttaaaggaaa
+759,chr,NA,Synechocystis sp. PCC 6803,NA,NA,NA,NA,2814971,-, ssl1047,taaaaggcaatcaccttgtcggatgctgtgtcctggtgggtaatttgctaaaatgaacccAgtaaccgcctttgagcacag
+760,chr,NA,Synechocystis sp. PCC 6803,NA,NA,NA,NA,2817164,-,NA,agaactctgttcaccgcccctgattgaaaatatcgttattgcctcgattaccatggtaaaAcctgagaagtagacgagttt
+761,chr,NA,Synechocystis sp. PCC 6803,NA,NA,NA,NA,2820339,-,NA,ccgatcgcttccgccatacctattgggaacatattcaacccaaggagggacaatatctctActttgctggggacggggccc
+762,chr,NA,Synechocystis sp. PCC 6803,NA,NA,NA,NA,2822721,-,NA,cccgcaattgttggtgggtagcattgttaactttcggtgaaggttggcacaataatcaccAcgcctatcagtactctgctc
+763,chr,NA,Synechocystis sp. PCC 6803,NA,NA,NA,NA,2823001,+,NA,taagaattagattattctggcaaaattgataaaatttatcgtcttggatatccttggtgtAgcggggaatatcagctttag
+764,chr,NA,Synechocystis sp. PCC 6803,NA,NA,NA,NA,2823511,+, sll0541,ataattggcgcttgttaaaaacgattaaactattgtcaaaaagtttgcttaaatataggtAttcaatgtttaatgggttta
+765,chr,NA,Synechocystis sp. PCC 6803,NA,NA,NA,NA,2828904,+,NA,cattcgtcgctttgcggaattaatttgccaggaagtggactacgactttaacctgattgaAttcgataccagccgttacgt
+766,chr,rpl33p,Synechocystis sp. PCC 6803,rpl33p,NA,NA,NA,2831068,+, ssr1398,ttgacggccaatgaccaggggcagattttgtcccaagactaatttgtgcaataatcagagTttgcgtataaattaccgtat
+767,chr,NA,Synechocystis sp. PCC 6803,NA,NA,NA,NA,2831843,+, slr0827,taagccaatttctatcctagggaactggaacttttccaactttgcccttatcttaggcgtAtccccttggggaatttgggt
+768,chr,SYR30p,Synechocystis sp. PCC 6803,SYR30p,NA,NA,NA,2833083,+,ncr1460,caccatatcctgggaaattctctgtggcttcaaacaccgtctaccccgtattcttatctaAtcagccatggtgaatccctt
+769,chr,NA,Synechocystis sp. PCC 6803,NA,NA,NA,NA,2835482,+,NA,aagtgcccatatccttaatcatgtttgatatagattgcttcaaaaattacaatgaccgctAtggccatccggagggggatc
+770,chr,NA,Synechocystis sp. PCC 6803,NA,NA,NA,NA,2837572,-,NA,tatagattttatctatctgtatcattgcctgaagtaaaaaccagccctagaatattctctAtggaaatctattttaaatag
+771,chr,NA,Synechocystis sp. PCC 6803,NA,NA,NA,NA,2845100,-,NA,cttgggggattaggtaattttggcctttgccaaggcggaaaatcaggataaccttaagggGctattttggcgatcgcccta
+772,chr,NA,Synechocystis sp. PCC 6803,NA,NA,NA,NA,2845681,+,NA,tacccccatttccaccccaggaatatattgtttgggcaccactccccccacaatggtttcActgaagctaaagccgttacc
+773,chr,NA,Synechocystis sp. PCC 6803,NA,NA,NA,NA,2848396,+,NA,ttggctagattagttaacagtcttatttgctctggcctggattacctgtaaactgcccccCgcatagagatgcttacgaac
+774,chr,NA,Synechocystis sp. PCC 6803,NA,NA,NA,NA,2857454,-,NA,atacacatggtaaacctcaatttttgcctatttttcgctactctagcttagacttagagaTtgtgcctaaactgcaaactg
+775,chr,NA,Synechocystis sp. PCC 6803,NA,NA,NA,NA,2860313,-, ssl1533,acaaggcaaaagtttcatgaagcaaggttctgtttttagttagctgggttaccatggcggAaacagcattggagaaataag
+776,chr,NA,Synechocystis sp. PCC 6803,NA,NA,NA,NA,2862588,+,NA,aaataaatagttaatttaatgggatagttgatgggcaaggatggcttctatactaaagggAtgaagttgacaacaaaaagc
+777,chr,NA,Synechocystis sp. PCC 6803,NA,NA,NA,NA,2869026,+,NA,ccctggatttcctagaaaaacacctttgggattccctggcgggggttttattgtcggaccAtagccgtaattgcccccaag
+778,chr,NA,Synechocystis sp. PCC 6803,NA,NA,NA,NA,2869665,+,NA,aaatttttctgagggaaaagtgtcattgaagctaaaatttgccgtataagataataaagcAtcctactcaggcggcccgct
+779,chr,NA,Synechocystis sp. PCC 6803,NA,NA,NA,NA,2869763,+,NA,gagttaacttttactgcgttcattgttatctttagctcgctggcggtatatgctaggggaGtggccatccaaatttgaggg
+780,chr,NA,Synechocystis sp. PCC 6803,NA,NA,NA,NA,2871408,+,NA,gtcaacaacaggagaaggaaattttggaaccgatgcgtggcagtccagtaaactgaaaggAcaacccccatgctaagcagg
+781,chr,NA,Synechocystis sp. PCC 6803,NA,NA,NA,NA,2874114,+,NA,attttccattctgctaggcaagttggccgatcgccaggcattattgagacaatttgagctActgcactaactaaactaatc
+782,chr,NA,Synechocystis sp. PCC 6803,NA,NA,NA,NA,2881253,+,NA,aaattgaccccagtcggccaaccattgcttaaactaggggaaagtactaagtttagtaggAaaaattgtcagccttgggta
+783,chr,NA,Synechocystis sp. PCC 6803,NA,NA,NA,NA,2884209,+,NA,tcgccccagttaggttggtctggttggcgtaactgccagagggacggtaatatgcccactAcgggaagcaggtataaacaa
+784,chr,NA,Synechocystis sp. PCC 6803,NA,NA,NA,NA,2884971,-,NA,taaccaacatataacacagaacattgatgttaacagcaaactttttggcaaaataatgacAtggtgaaaaaagctaatctc
+785,chr,NA,Synechocystis sp. PCC 6803,NA,NA,NA,NA,2885828,+,NA,atatttagtcacagtgcggggctttggctatcgttttggttagaaaattattatttatttAaacttttttgctcagaacct
+786,chr,NA,Synechocystis sp. PCC 6803,NA,NA,NA,NA,2886039,+, slr0082,tgtataacattacaccaaacgacctcaggttttctggtgtaaatctgttacaatgtctttAcaaataaaaagggtctgacc
+787,chr,NA,Synechocystis sp. PCC 6803,NA,NA,NA,NA,2889998,+,NA,ttggtggcttggtcctgacgatcctttttgtaccattccgtgtaggtgttaagattgcggAaacgatagtccgccgacaga
+788,chr,NA,Synechocystis sp. PCC 6803,NA,NA,NA,NA,2895199,+,NA,aatttatctttctggggccggtgttgcaggagctaaatttagcccagtatggtttggaatAtttattttgtgaccccagtg
+789,chr,NA,Synechocystis sp. PCC 6803,NA,NA,NA,NA,2900607,-,NA,caccttgccccgttgttttcccagtttttgcataaattggtaatcttccataatgggcaaAtcagcaaaccctcccaactg
+790,chr,dnaJp,Synechocystis sp. PCC 6803,dnaJp,NA,NA,NA,2900872,+, slr0093,gcaaaaccgaatcgggggaaccggccaaactccgacgggacttcttgttagagtaagttaGttaggggtaaggctggggca
+791,chr,NA,Synechocystis sp. PCC 6803,NA,NA,NA,NA,2904542,+, slr0498,tctgcatcaatgttgattagatgcttgatggccacggagccagggatttatgtttggcaaAtatcgacagaaaaatcttga
+792,chr,NA,Synechocystis sp. PCC 6803,NA,NA,NA,NA,2906746,+,NA,agttttgggaaaacagactctaacttttggcaatcttctctttacctttaaaatggattaAggctgttctgaaaaaagcca
+793,chr,NA,Synechocystis sp. PCC 6803,NA,NA,NA,NA,2909678,-,NA,gcgatcgccaatatttaccgcatttgccaagaagatctaggggatcagtacaatgttgaaAtcattgacgtgttggaacag
+794,chr,NA,Synechocystis sp. PCC 6803,NA,NA,NA,NA,2924735,-, slr0513,gaaatcttagttgtcatcgaagtctagggcaatggatagtgggcaatttaaaatgaaagtAatcaatagtgcaggctcaac
+795,chr,NA,Synechocystis sp. PCC 6803,NA,NA,NA,NA,2930986,-, slr0517,gatttgggccattaatcccaggggatcttcccgtggaaaaaaagggctatcatggtcgttAtgattagaatttccttgggt
+796,chr,NA,Synechocystis sp. PCC 6803,NA,NA,NA,NA,2932708,-,NA,agatacccaacacccttttgcctgcgttggcatggtcaatgatggcggtcataataggagAaaatctggcgatcgccccac
+797,chr,NA,Synechocystis sp. PCC 6803,NA,NA,NA,NA,2937604,-,NA,ccttctgaacctgtgattttaaattgtccctcaggtttagattcaggttagattgacactAattcaatcttatctgtgtga
+798,chr,bioDp,Synechocystis sp. PCC 6803,bioDp,NA,NA,NA,2939614,+, slr0523,acgtaagcgattgttgtcagataaggcagacagcatcgattgacgtgttaaagtagcgatAcggctcacggcagacacttt
+799,chr,NA,Synechocystis sp. PCC 6803,NA,NA,NA,NA,2946176,-,NA,aacgggagaattttagctttttgcttggtgaccctttcctcggtgacctaaactgctaaaAgacaggattttgtgtagttt
+800,chr,NA,Synechocystis sp. PCC 6803,NA,NA,NA,NA,2947445,+,NA,taccctggtagcgacctgccagcgttggagcaagtggactttactgtttatcctggagaaAtggtggccattgtggggcct
+801,chr,NA,Synechocystis sp. PCC 6803,NA,NA,NA,NA,2948167,+,NA,gcgcataccccgcagcttgctgcgattgggtctttcactgaataaagctatttttaaggtAattataattagatagagttc
+802,chr,NA,Synechocystis sp. PCC 6803,NA,NA,NA,NA,2954793,-, slr0618,ctgggaagtcatatccccctggggtttgagcaaaattggattcatcgctaccctgggaacAgtccccgctgcccaggcctg
+803,chr,NA,Synechocystis sp. PCC 6803,NA,NA,NA,NA,2958230,-,NA,caaagaccgtcggtgccggtgattgctttcactccctcagaaaaggtttaccatagcctcAacttagtttggggtattatt
+804,chr,NA,Synechocystis sp. PCC 6803,NA,NA,NA,NA,2958961,+,NA,ctcaaaccaaattctaagtcttgcttgtctttggtcgtcatggaaggtagggttaggactAaacccggtagattgacccct
+805,chr,trxAp,Synechocystis sp. PCC 6803,trxAp,NA,NA,NA,2961082,+, slr0623,aaattctaagtttcacgatatttttccatacaggggtcaacaattggttatggtagtattCtaatcagcccatcacgaggt
+806,chr,NA,Synechocystis sp. PCC 6803,NA,NA,NA,NA,2962829,+,NA,tttcagagtattttgccaacgttgtagtacggggttaacttgatagcgcaaaataagttgGtccctggtttgcacttccaa
+807,chr,NA,Synechocystis sp. PCC 6803,NA,NA,NA,NA,2963264,-,NA,caaatttcctagctcaccataacttggtgctcaccgaaattctgggtcaaaatgggaaggAattacactaaatcctctagc
+808,chr,NA,Synechocystis sp. PCC 6803,NA,NA,NA,NA,2966699,+,NA,cccaagggtaagggactattttgcttggaaaccacacccatcttaccggacaattcggttAggatgattgactgacctttt
+809,chr,NA,Synechocystis sp. PCC 6803,NA,NA,NA,NA,2971820,-,NA,ggccgttgccagtggagcccaattttgctttaccccccacagtgagccagaattaattacCagcgccgtggcccatggcat
+810,chr,NA,Synechocystis sp. PCC 6803,NA,NA,NA,NA,2973179,+,NA,ccgccttggctgtagctcccccgttgggaatgcaacgtcgatctagtttaaaattggtctCtcaacaggaatatgcacaga
+811,chr,NA,Synechocystis sp. PCC 6803,NA,NA,NA,NA,2984861,+,NA,actacaaaaaaatcctggccaaattgttgacataaaaatctttctttggcatattgataaAagtctgaaatttgcgggtat
+812,chr,NA,Synechocystis sp. PCC 6803,NA,NA,NA,NA,2984862,+,NA,ctacaaaaaaatcctggccaaattgttgacataaaaatctttctttggcatattgataaaAgtctgaaatttgcgggtata
+813,chr,NA,Synechocystis sp. PCC 6803,NA,NA,NA,NA,2991971,-,NA,taccgttgcccctcaacataccacaattgttccttctatttagggaattatactggggtcAgaagccaatttttacccata
+814,chr,NA,Synechocystis sp. PCC 6803,NA,NA,NA,NA,2992025,+, slr0110,ggcttctgaccccagtataattccctaaatagaaggaacaattgtggtatgttgaggggcAacggtaataggtcaaggtag
+815,chr,NA,Synechocystis sp. PCC 6803,NA,NA,NA,NA,3010428,+,NA,attggatgcaatgtttgcaaaaccattgggaatttcggctccgctattacaatcaacaatGgtatgtgttggataatccgc
+816,chr,NA,Synechocystis sp. PCC 6803,NA,NA,NA,NA,3011512,-, slr0300,tagtgttaattaattattaaaaaattgtcctagggtggaaattcgcgctatcatacccatAtgtgccttgttactcggcaa
+817,chr,NA,Synechocystis sp. PCC 6803,NA,NA,NA,NA,3011864,-,NA,gatctgtaaagagatctcgcagtttttgttccagacccgcctcttggataaaatagcggtAagcataggcagtggtggcaa
+818,chr,NA,Synechocystis sp. PCC 6803,NA,NA,NA,NA,3024345,-, sll0284,aataatcagttcgtcaggacttacgcaagatagatgaggttaaggtggtaggatgacaaaAtagtactaaccacaaggttt
+819,chr,NA,Synechocystis sp. PCC 6803,NA,NA,NA,NA,3026295,+,NA,catggagcacaagccaaacgagtttgtgaaacgagccatgaaaatcgatatcattattgtCtacattcagcgatatcgaaa
+820,chr,NA,Synechocystis sp. PCC 6803,NA,NA,NA,NA,3027370,+,NA,aagatgatggatacggatcggttgcgttcggatttggggtgggagttttacaatggctatAatgtcacattcgtgcccagt
+821,chr,NA,Synechocystis sp. PCC 6803,NA,NA,NA,NA,3028781,+,NA,tctggctgtaatagttcggtaacttgcaccctcaagcccctatttttagtcaaattagccAatatctggcgatcgggttcg
+822,chr,NA,Synechocystis sp. PCC 6803,NA,NA,NA,NA,3035059,+,NA,gcaatttgtgcgatcgttaaatttgctcgaattattgtcctgaccacgtatgatagtgacGaagatatttatcggggattg
+823,chr,NA,Synechocystis sp. PCC 6803,NA,NA,NA,NA,3038828,+,NA,gcaaataatacagaaccaaattggttgaatttgctcacagcaatgttctatggtggcatcActgaggaaattctgatgcgc
+824,chr,NA,Synechocystis sp. PCC 6803,NA,NA,NA,NA,3047751,+,NA,actttaggagtgttcagtccttcatggttgactacaggaaagcccgattaaaatgggaagActattggttcaagaccttac
+825,chr,NA,Synechocystis sp. PCC 6803,NA,NA,NA,NA,3048910,+, sll0798,aaataatcactttagtataaaattttgacggcgtaaagttgataaaatagaattaagaatGgactatcggtacagaaaaaa
+826,chr,NA,Synechocystis sp. PCC 6803,NA,NA,NA,NA,3049958,+,NA,cgaaaaagccagcaggttgccttgataatcaaataaacgaatgtaatataaactgcgatcActaatgcccaacgtgtgacg
+827,chr,NA,Synechocystis sp. PCC 6803,NA,NA,NA,NA,3060473,-,NA,actggcttggagcggcgatcgccttggttggtgtattagtgatgatgtatgctaacagggCttagagcgtgtttgaaaagc
+828,chr,NA,Synechocystis sp. PCC 6803,NA,NA,NA,NA,3063069,-,NA,ttcagcaacaaaggcatctaaaccaatttgctgggcaacggattgagctactatttcactAtccccggtcagcatcacggt
+829,chr,NA,Synechocystis sp. PCC 6803,NA,NA,NA,NA,3066657,-,NA,cccttttttcggtggtttttaccgattggctatctgccgctattacgctaggttgaaggcTcttgccactctggaggcggc
+830,chr,NA,Synechocystis sp. PCC 6803,NA,NA,NA,NA,3111980,+,NA,acttattaactaaagtttagataaattgccaaagtgtgacgagactgataagaagagtatAgcaagccactcttttatgac
+831,chr,NA,Synechocystis sp. PCC 6803,NA,NA,NA,NA,3116774,-, ssl1263,aatgttaatttttgctacaatttatgccagtttcttagctagttgggccaaaactagaatAacttctggtttgccgggacc
+832,chr,petMp,Synechocystis sp. PCC 6803,petMp,NA,NA,NA,3118135,+, smr0003,aaactcatacaatccatgctcaatcaggtttaaggggagattcctatgggataatgaaccAccgacaacaaagattttttc
+833,chr,NA,Synechocystis sp. PCC 6803,NA,NA,NA,NA,3119507,-,NA,cctccatgcgtccccatactggatttgcgatcgcctaagttttttactagacttactccgGtggagttagccaatgggcaa
+834,chr,NA,Synechocystis sp. PCC 6803,NA,NA,NA,NA,3123127,+,NA,catagtcaaaaaattagttcaggggttgatcaatgacgttttctccatcagactagcatcAaggttgctggcctttggctg
+835,chr,SYR5p,Synechocystis sp. PCC 6803,SYR5p,NA,NA,NA,3138743,-,ncl1570,gccgcgattcactcaatcgggtgagtggagggccctaaattttggtttagaatcgtagatAcagtgaggttaagaaataag
+836,chr,NA,Synechocystis sp. PCC 6803,NA,NA,NA,NA,3138861,-,NA,gttaaagttctttttccgactttgccttgcccttggccatggtcgattaatttggaaaatGtgttggttaaggtgacatta
+837,chr,NA,Synechocystis sp. PCC 6803,NA,NA,NA,NA,3139084,-,NA,tgtgcccgcattggggaaagggaatttgccattctttgtattgagtgccatattagccaaGcagattttattcgggaaagg
+838,chr,NA,Synechocystis sp. PCC 6803,NA,NA,NA,NA,3139981,+,NA,tatttgcttggcatattcccaaatgattgtccctgcctccattttagctatgttgttgttAtgggacataaaaaaacctcc
+839,chr,ycf12p,Synechocystis sp. PCC 6803,ycf12p,NA,NA,NA,3140221,-, sll0047,ttatgtatttttatgacggcaagtccaggggacgaaaccaacccagctattatagacattGgttttattatccttgcttac
+840,chr,NA,Synechocystis sp. PCC 6803,NA,NA,NA,NA,3140222,+, slr0022,cataatttctcctgttaaaaactgctggctagactcaacgtaagcaaggataataaaaccAatgtctataatagctgggtt
+841,chr,NA,Synechocystis sp. PCC 6803,NA,NA,NA,NA,3154702,-,NA,tcgatgaagttttcttgcgtactttggcgacccatacccctttcagggcaagctatagatAtgcccccctcctgctgttga
+842,chr,SYR23p,Synechocystis sp. PCC 6803,SYR23p,NA,NA,NA,3164387,-,ncl1600,tttcggagaatgtctccaacaatattgacaataatttgcagtaatctgtatagtgatttcAcagtgttctcttctcaagga
+843,chr,SYR28p,Synechocystis sp. PCC 6803,SYR28p,NA,NA,NA,3165667,+,ncr1570,cccgacacgtcaacaatgcccagagcaattcacggaaaggtttagggtaaactatatcctAcaaccaagttcgagaacctt
+844,chr,NA,Synechocystis sp. PCC 6803,NA,NA,NA,NA,3169300,-,NA,tagcggaggcccagttggcttgtttggagacttccacaccggtcatgccatatttggcaaAgaaacctttttcttgagcaa
+845,chr,NA,Synechocystis sp. PCC 6803,NA,NA,NA,NA,3177484,-,NA,gtgtctttcttgggttggttctggttgaccaaggcgcccaactttgactacaatcccagcTtggccgatgcccttccagta
+846,chr,"rbp1p,rbpAp",Synechocystis sp. PCC 6803,"rbp1p,rbpAp",NA,NA,NA,3182134,-, sll0517,atatcaggaattcaagacctaatatccccagccgaggggagaacgtgttactatgcccccAtagagtaatgatcggttggt
+847,chr,NA,Synechocystis sp. PCC 6803,NA,NA,NA,NA,3182260,-,NA,ggtcatggaaagctaagctcgaaaatttgagttaggtaaaggttggtataagctataggcAcgagccgtctaagcaatggt
+848,chr,murEp,Synechocystis sp. PCC 6803,murEp,NA,NA,NA,3184700,+, slr0528,tttgcaaccagtacaccaggagctaacctccgttggaacatctcgggtatattgaccttcAttgacggcagatttgattgg
+849,chr,NA,Synechocystis sp. PCC 6803,NA,NA,NA,NA,3194013,-, slr0534,ggttaaatccttgaaataatcctgcaattgggcctttgatttcttgtgcataatgttggaAtaatgccaaaccacaactct
+850,chr,NA,Synechocystis sp. PCC 6803,NA,NA,NA,NA,3197397,-,NA,aatgtccgccacggtaccgccaccgttgtcccccagcacttttaggggcataattttagcCttgggggcaatacctgctac
+851,chr,NA,Synechocystis sp. PCC 6803,NA,NA,NA,NA,3198692,+,NA,aagactaaatcccctgatcctcaaggattgggggcaccgggggaaatgataagctagcaaAggcgtaattttacaaaaaaa
+852,chr,NA,Synechocystis sp. PCC 6803,NA,NA,NA,NA,3198959,-, slr0536,ctttactttcgatgatgtcgaagggaatgccaataccgggcagaggagttaaaatgtccgAaaacatgatcaccccatcgg
+853,chr,NA,Synechocystis sp. PCC 6803,NA,NA,NA,NA,3200901,-, sll0509,gcaatccttgcaaattatttgacgggtagtgctctccacccctcggtgtaggatcaagggAcggctcaagtaaaacccagc
+854,chr,NA,Synechocystis sp. PCC 6803,NA,NA,NA,NA,3201660,+, slr0537,ccatccggtaaattaatctaaccattgtcagtcaagccattctgccctaggataacattcGttataaagtggaatccgtga
+855,chr,NA,Synechocystis sp. PCC 6803,NA,NA,NA,NA,3224044,+,NA,atctgaccaacccagaaaaaaatattttgaccatcaacaataaggtgttatgatggctaaTcgtgaaagcaatgggtcgat
+856,chr,NA,Synechocystis sp. PCC 6803,NA,NA,NA,NA,3234050,+,NA,ggttttagtgccactaccaattacggttgcatgcttgctcaccccgtcataattagccgtAatggtaccggcccccacatt
+857,chr,glmUp,Synechocystis sp. PCC 6803,glmUp,NA,NA,NA,3235209,-, sll0899,gactggctggtagttttccccctgaatttgccttgccccaatcacgatatactcaatggcGacgatcaggacagaaaacca
+858,chr,NA,Synechocystis sp. PCC 6803,NA,NA,NA,NA,3235409,+, ssr1562,attgtaatcgataatacagcaaagcccccctttgtttgtatttggggttaggttatagttGtgtatgagtttcaactttgg
+859,chr,NA,Synechocystis sp. PCC 6803,NA,NA,NA,NA,3235415,+,NA,atcgataatacagcaaagcccccctttgtttgtatttggggttaggttatagttgtgtatGagtttcaactttggtggctt
+860,chr,NA,Synechocystis sp. PCC 6803,NA,NA,NA,NA,3235443,-, ssr1562,ctcatccttgagcatattaatgtcgtaaccggaggaaggaaggggtgttaaagttgcagtActcataaaagccaccaaagt
+861,chr,dnaJp,Synechocystis sp. PCC 6803,dnaJp,NA,NA,NA,3238302,-, sll0897,tgcggaggtggggatttctgggcaaccatctgggggcgagagtttgctacagtaaacactAcagaagccttgtcaattatt
+862,chr,SYR17p,Synechocystis sp. PCC 6803,SYR17p,NA,NA,NA,3247937,+,ncr1590,ggctgggaaggactgcagaaatcggtctgtgggcccttctacccgtgttatgctaggttcActtagaccgagggaaatgtt
+863,chr,tigp,Synechocystis sp. PCC 6803,tigp,NA,NA,NA,3248009,-, sll0533,gcgggaaaagattctcgccctaggaaaaaatggcacccggcttatattatgatcaattggGttgaccgccacaggtcttcc
+864,chr,SYR20p,Synechocystis sp. PCC 6803,SYR20p,NA,NA,NA,3250530,+,ncr1600,tttctcaatttttttctcagaataggtacctatccggaatgtatatgctagaatggcatgAacttaagagcgaagtaagtt
+865,chr,NA,Synechocystis sp. PCC 6803,NA,NA,NA,NA,3261854,-, slr0556,agttccccaaaggttagttggcgatcgccaggggaaagacccaggggtaaaatagtcattAagccacaaatttttagattt
+866,chr,NA,Synechocystis sp. PCC 6803,NA,NA,NA,NA,3264154,-, sll0524,caggggagattttttgtcgctgattttctgcaatttgatctgagaagttacgatggtagtCtacgccagtcctacttttgg
+867,chr,gap2p,Synechocystis sp. PCC 6803,gap2p,NA,NA,NA,3279185,-, sll1342,cccaccccccctttgaaattcgggatctaagtgttcaggcaataggatatgattggtgtcAttaataatccttaaatgtac
+868,chr,murCp,Synechocystis sp. PCC 6803,murCp,NA,NA,NA,3279336,+, slr1423,taccgtggcctctgggttttgtctatgcctgggggtagagtttttgctatgatgtcgctcAattacaggtgcggtgaaccg
+869,chr,NA,Synechocystis sp. PCC 6803,NA,NA,NA,NA,3287331,+,NA,cttccagtctatcacggtatccctgttgaaactttgtccctgggcccataccatggggacAatgttttttgttgggagccc
+870,chr,NA,Synechocystis sp. PCC 6803,NA,NA,NA,NA,3290568,-,NA,tagctaggaatctgggactacctatttgtttagtgggtttgatggtggaagatgaaataaAtattgtatctgcagtaggta
+871,chr,NA,Synechocystis sp. PCC 6803,NA,NA,NA,NA,3291101,+,NA,cagtggtgattttagtcagaaacctttggccatagagggtagaattgctaaatttgatggAagccaagatcgaacaacggc
+872,chr,NA,Synechocystis sp. PCC 6803,NA,NA,NA,NA,3296393,-, sll1329,cctgcgatgtgtgatgatggccatattgcccttgtcaggcagtctatttactatatcaagAttcgacatggagactttttg
+873,chr,NA,Synechocystis sp. PCC 6803,NA,NA,NA,NA,3296914,+,NA,tccttggttggccacgggcattattttgcagggtttgggttccctcgctacagtaggattAttgctctggcaacggcgaaa
+874,chr,NA,Synechocystis sp. PCC 6803,NA,NA,NA,NA,3311619,+,NA,tggtcagagctatgtttgatcaattctttgtcactactttgccactgttatgatcaaagcTcaaagtcaagcatcgtcttg
+875,chr,fusp,Synechocystis sp. PCC 6803,fusp,NA,NA,NA,3313507,+, slr1463,cggcgatcgcctcctctgcctggggactctgttggggcacatataatttacaattgttacAattgtggctgttttaaatag
+876,chr,NA,Synechocystis sp. PCC 6803,NA,NA,NA,NA,3313517,+,NA,ctcctctgcctggggactctgttggggcacatataatttacaattgttacaattgtggctGttttaaataggcctcccctt
+877,chr,NA,Synechocystis sp. PCC 6803,NA,NA,NA,NA,3316888,-,NA,aggttaaccccaacggatgctttgtttggctcttctctagttagctaaacaatcaagactCagactagagcatcccaccat
+878,chr,ssrAp,Synechocystis sp. PCC 6803,ssrAp,NA,NA,NA,3317166,-,ncl1680,ggctggaggtggcactgctcctttttgccatccccccaaaaaatggtttataatcggggtGtatatcaaggggccgcaatg
+879,chr,ilvCp,Synechocystis sp. PCC 6803,ilvCp,NA,NA,NA,3318736,-, sll1363,tttgatcctacaacacttacaggacagaataagcagaccggcctttgctatgattaaaagTttgcagagcaccattcaatc
+880,chr,NA,Synechocystis sp. PCC 6803,NA,NA,NA,NA,3322944,-,NA,tgaccacgactttttttcacattgctggtgagcggggacagaaagacttaaaattattgcCgatgattgacctaactgggg
+881,chr,NA,Synechocystis sp. PCC 6803,NA,NA,NA,NA,3330165,+,NA,gagtagttggagggtttcgcttttggcgctgatgggctgatggaatgataaacatggataGttggcagaaatagggttttc
+882,chr,NA,Synechocystis sp. PCC 6803,NA,NA,NA,NA,3331305,-, slr0655,attgggagtggggtaaaaccaggccacgttatctcgccggcgatcgcctaaactgaaatgAtaataaccagcctccccttt
+883,chr,NA,Synechocystis sp. PCC 6803,NA,NA,NA,NA,3331597,+,NA,ttagccagtcgatgcaggggctggttgcagcggagagcaatatttcgttagattaccgaaAagcacccgattgctgttgca
+884,chr,NA,Synechocystis sp. PCC 6803,NA,NA,NA,NA,3333119,-,NA,gctattatttcttgacaaaagcctgttgacttccagtcaatcctgggggatgatggtcttTcggtaagcaaaaccaccgca
+885,chr,NA,Synechocystis sp. PCC 6803,NA,NA,NA,NA,3335414,-, slr0658,ctttcttgaatagtgttccgaaatgaacattattgtaaataatgccttatcctgataaatCtcagaaagatagtcgtagag
+886,chr,NA,Synechocystis sp. PCC 6803,NA,NA,NA,NA,3336297,+,NA,gcctaacgcgccttgcacgattttttggaaatttgcccgagttttggttaaatgcacaacAttcagtcgatttatgggatg
+887,chr,proCp,Synechocystis sp. PCC 6803,proCp,NA,NA,NA,3338657,+, slr0661,atctccccgacttagccataggattcggtggagttgggggttcaaggtataattctgaatActattgggaatagcctaaat
+888,chr,NA,Synechocystis sp. PCC 6803,NA,NA,NA,NA,3342214,-,NA,aaagatgaaatggtgttagagcttgccgtcaaagcgggctgtcagactataatcacctatAacgctcgtgattttgtcggc
+889,chr,NA,Synechocystis sp. PCC 6803,NA,NA,NA,NA,3342832,+,NA,ccctcagagtcactgggcaagttgggatagttcactgtagttgggcttaaaatcaaaggcAgtttacttaccgctggagca
+890,chr,NA,Synechocystis sp. PCC 6803,NA,NA,NA,NA,3345803,-, sll0623,taggggtggcataatcaggctccgggattattaacgggataggctagtatggtggtcgagAagctattgattgtgagggcg
+891,chr,NA,Synechocystis sp. PCC 6803,NA,NA,NA,NA,3345806,-, sll0623,tcctaggggtggcataatcaggctccgggattattaacgggataggctagtatggtggtcGagaagctattgattgtgagg
+892,chr,NA,Synechocystis sp. PCC 6803,NA,NA,NA,NA,3347045,+,NA,gaggggattgagccaaccggaccattgccgcagttgcaataaccgctttaaactgccagcAaacaggccaactaaaataag
+893,chr,NA,Synechocystis sp. PCC 6803,NA,NA,NA,NA,3351512,-, slr0665,acgactagtagtcctgtagcaattgcagtgattgtcgcgttgtccatttaaaattgggatAgttagaaaatttgagccaga
+894,chr,NA,Synechocystis sp. PCC 6803,NA,NA,NA,NA,3352562,+,NA,tttagtccgatatctacgagcattggttaggtgatcgccaacgtggtctataatgttagcAataaatgtttggtggtttac
+895,chr,NA,Synechocystis sp. PCC 6803,NA,NA,NA,NA,3355104,+,NA,gtgatttaaccattgccggttttgcttcgtgtcgggcaaatttaacagacaatctaaggtCagattctgggttttgctcaa
+896,chr,NA,Synechocystis sp. PCC 6803,NA,NA,NA,NA,3359688,-, slr1556,aggagcttggtcattaacgaagaggcaaataacggggcaatcctccgctaaaatagcggtAtcaaggttgagttgggcatc
+897,chr,NA,Synechocystis sp. PCC 6803,NA,NA,NA,NA,3361815,+,NA,ctggtagccggtcatacccgtgttgaataccacctctcccactgtggtaccatcggccccGaaggaccaaccgggataagg
+898,chr,NA,Synechocystis sp. PCC 6803,NA,NA,NA,NA,3361905,+, sll1498,cgcaaggacaagaagggccggtttcgccgcagcaattggcataatgatatattgcaaggtAgctggaataggaccattcgg
+899,chr,carAp,Synechocystis sp. PCC 6803,carAp,NA,NA,NA,3361998,-, sll1498,atcaggacaatttgacattagtggaacagacgacaggggcgaatctgctaatatgtggttGattcggcggcggccgggcaa
+900,chr,NA,Synechocystis sp. PCC 6803,NA,NA,NA,NA,3362830,-,NA,agaagcttctattaggggcaaaattgaaactagctctgcggtgtttgctagggtttgtttGgtggccactggggtgggaat
+901,chr,NA,Synechocystis sp. PCC 6803,NA,NA,NA,NA,3362859,-,NA,tccaccactaggtagcagtttttgggcatagaagcttctattaggggcaaaattgaaactAgctctgcggtgtttgctagg
+902,chr,NA,Synechocystis sp. PCC 6803,NA,NA,NA,NA,3367370,-,NA,gtgatggaaggcatggggagcaattgttaatttaaatggagccatgctatattactaaatTgctaggacgtatagctcagt
+903,chr,NA,Synechocystis sp. PCC 6803,NA,NA,NA,NA,3391514,-, sll1484,cccactttttacttgcgtgctacctttacaggggaagtgcctccgggcatagtgaaacttGttcgggagtgggatggaaaa
+904,chr,NA,Synechocystis sp. PCC 6803,NA,NA,NA,NA,3394905,+,NA,acccataaagcaaaaagggccaatagcttgaaaatgctaaatggattgtaacattttgatAcgggaggattcagggcacgg
+905,chr, yfr2cp,Synechocystis sp. PCC 6803, yfr2cp,NA,NA,NA,3398352,-,ncl1725,ttaagtttttttccaggtctgaagccttgacaatccccgttggtgatttatacttaggacAggtgtgaggaaattagaaaa
+906,chr,NA,Synechocystis sp. PCC 6803,NA,NA,NA,NA,3398636,+, sll1476,tttcggttaagagttgtataaaggccatcgccattttaataatcacgctaagatcacggaGgattggcaaaaagcccaggc
+907,chr,NA,Synechocystis sp. PCC 6803,NA,NA,NA,NA,3404522,+, slr1584,gttacatttcgcaacatgaattaacccagacctgttcaccccttcaggtaagctgaggttGatagagaaaagcacaatggg
+908,chr,NA,Synechocystis sp. PCC 6803,NA,NA,NA,NA,3410410,+,NA,ccaatttttgcaattaatccaagatttgggggattggggaaatcacggtaacttagtggtGtatgtggacagttcccaggg
+909,chr,NA,Synechocystis sp. PCC 6803,NA,NA,NA,NA,3415997,+, slr0749,agccagattaataccccaaactatttctccaagaccccaaacctcgttaataatgcgatcAgcgcagcggagaccacacaa
+910,chr,NA,Synechocystis sp. PCC 6803,NA,NA,NA,NA,3419464,+,NA,aaaaaggtaaattccatagctttgcttgatcacttttgctatctttgatatctttggcacAgttcccaatccattttctct
+911,chr,NA,Synechocystis sp. PCC 6803,NA,NA,NA,NA,3421775,+, sll0732,aaagtgttttaaagttcccctagcccaagggttggggttacttcgggagataatcaaaccAttgccaacaggttcttttgg
+912,chr,SYR38p,Synechocystis sp. PCC 6803,SYR38p,NA,NA,NA,3422536,+,ncr1680,tggccataacgaagaagcatggggaaggagatgattgacgcttgtgctagaatcaaacgtCaatagataacagtaacaagt
+913,chr,NA,Synechocystis sp. PCC 6803,NA,NA,NA,NA,3424391,+,NA,gtggtagcggctttatttgtggcttggttaatgtttacccaacagggttaaaaataagaaAgcttaattggactttgcctg
+914,chr,NA,Synechocystis sp. PCC 6803,NA,NA,NA,NA,3427616,-,NA,acaaagcccaaaatagtagtaattttgacgaccggtgcaaaaacctttaacaatttagggGcaaaatctgtctaagggaag
+915,chr,NA,Synechocystis sp. PCC 6803,NA,NA,NA,NA,3428321,+,NA,cccaattccctaggggttaacaattgcgctaaactaacctcagctattatttttatttctAacttctattctatttcttag
+916,chr,NA,Synechocystis sp. PCC 6803,NA,NA,NA,NA,3428456,+,NA,gtggtattcctttccgcagggatcgtttgtctatctttgtggatgggaataatatgttttAtgcacaacagaaaaatgggt
+917,chr,pgmp,Synechocystis sp. PCC 6803,pgmp,NA,NA,NA,3433018,-, sll0726,ttatctctttgcccatggatagcccttggctagttaaccctttttggctaggatttgggtGtctaagcccctgatcgccgc
+918,chr,NA,Synechocystis sp. PCC 6803,NA,NA,NA,NA,3439412,+,NA,actatccgttgctgaaccagtgcttgtcgccacactgagatcgccagtaaaataccggtcAttgggtaagtgcccctcact
+919,chr,NA,Synechocystis sp. PCC 6803,NA,NA,NA,NA,3444872,-,NA,agttttacctttgataattctttgtttgaaaatgttataggcaacaatgataatagtattGtcgatgagcaagatgattta
+920,chr,NA,Synechocystis sp. PCC 6803,NA,NA,NA,NA,3458192,+,NA,aaggcgaaggttaggctggaaaggtttgaagactaatggtcttttaattgaaaatgtctaAccatctttgggtgggtcagg
+921,chr,NA,Synechocystis sp. PCC 6803,NA,NA,NA,NA,3460034,-,NA,tcccctagtttttgtcgccattgggcatccaccacgtccccatgttgcatgatggtttccAcaataatttctaggtcttcc
+922,chr,NA,Synechocystis sp. PCC 6803,NA,NA,NA,NA,3463063,-,NA,tcaagctaaacaggtgcaaaaatttgcgcgacgggtggcggagcagttacacttgccgttGgagtatatggatgaacggtt
+923,chr,NA,Synechocystis sp. PCC 6803,NA,NA,NA,NA,3465380,-,NA,gagcaaattttctcctcagtgttgctttgcgaggggttgataacaatggacaatgggaaaGttaagttagggacggttaat
+924,chr,NA,Synechocystis sp. PCC 6803,NA,NA,NA,NA,3473024,-,NA,atactgaccccggtacaccggcaattgatcctggggcacagggtaatagatcatggtactAatccccatgccttgcattgc
+925,chr,NA,Synechocystis sp. PCC 6803,NA,NA,NA,NA,3475205,-, ssl2999,tcgattgctccgtcgttatcatggaaaagtcaaagccctaaatccagtaagcttcattttAttattaacagagggagagcg
+926,chr,NA,Synechocystis sp. PCC 6803,NA,NA,NA,NA,3475969,+, slr1667,tagtgaaagtccagtattagtgccaatacgcacaaattgtcatttccctacaataaagaaGtaaagaaaaaaacaacattc
+927,chr,NA,Synechocystis sp. PCC 6803,NA,NA,NA,NA,3476394,-, slr1667,agtttccatatctcctacaccagcagcaagtgttttatctgacccgttatagttgatagtGtagataatggtatcgccagc
+928,chr,NA,Synechocystis sp. PCC 6803,NA,NA,NA,NA,3488520,-,NA,tcccagtttatggaaagaatatttcttgctagtggaaaccacggaagagtatggtgagttAgcttttcgggtggatcagcc
+929,chr,NA,Synechocystis sp. PCC 6803,NA,NA,NA,NA,3488908,+,NA,tctaaccaagtgcccggtaacaaaccctttgttttgtggaaataaagattatcttggaaaAtatccgccggggtagcaaaa
+930,chr,NA,Synechocystis sp. PCC 6803,NA,NA,NA,NA,3492038,-, sll0444,tttgtctcggctatagccactattaaattgcttaatcaaaatttttgctaatcttcacgtAttagttcggcaggatagggg
+931,chr,NA,Synechocystis sp. PCC 6803,NA,NA,NA,NA,3498719,-,NA,aattgcatgtgcgcataattttggttgtcgcacccagagaatatgcgtataatcttctttAtacttctacttatggtttaa
+932,chr,NA,Synechocystis sp. PCC 6803,NA,NA,NA,NA,3498870,+,NA,taagttgactttttgtggccaggcttgagcaaaggggaataaaccatcgacaatggacagAagcatagattcgctacgaga
+933,chr,NA,Synechocystis sp. PCC 6803,NA,NA,NA,NA,3501696,-,NA,ctcgtgcatgccccccatgggaacttggtgcgatcgccaaaaaccttctaccttatggccAtcaacatagtcaggccccgt
+934,chr,glgCp,Synechocystis sp. PCC 6803,glgCp,NA,NA,NA,3516536,+, slr1176,gccggaatttccgtccagattccctttccagatgtccccctcggttctaaacttgacttcGaagtgtgttgttggcaatcg
+935,chr,NA,Synechocystis sp. PCC 6803,NA,NA,NA,NA,3532529,+,NA,tggggtaaccgtcaatacaacattggctccatggctggtcaatccattacaatttgggttAttcggtgacgccccaacctc
+936,chr,NA,Synechocystis sp. PCC 6803,NA,NA,NA,NA,3541769,-,NA,ccattgatcgagctgggggctggctttgacccggatttgtgtgtgcgggataatattattCtctacggtgtgatgttggga
+937,chr,NA,Synechocystis sp. PCC 6803,NA,NA,NA,NA,3542989,+,NA,agagccataaaaaattctaaaagattgcggggcggcgccgagctaaacaagaattgtataGagttgtgtgacctttgtcga
+938,chr,NA,Synechocystis sp. PCC 6803,NA,NA,NA,NA,3546646,-, sll0572,aggcaaagtattgtaacaaaggttctgggaataatcccgttgctgtttatgataaaaggtAgaaaagcaaccggggatcaa
+939,chr,SYR43p,Synechocystis sp. PCC 6803,SYR43p,NA,NA,NA,3549847,-,ncl1780,tatgtcaagtggtcgggaatttcccggttttagaaagtgtttgaaaagtacactaggtatTtatccccctaaatctcctca
+940,chr,NA,Synechocystis sp. PCC 6803,NA,NA,NA,NA,3552622,+, sll0567,atcgatcaactgaaaaccctctttttcacactgcttcaagctctgcttgagaatggaatcAttcttaaattcgatggtgcg
+941,chr,NA,Synechocystis sp. PCC 6803,NA,NA,NA,NA,3552989,-,NA,tctattctcaataagactccactattgcaactgctgagccaagggactatgatggatcccAtcgcccagactgcttctaag
+942,chr,purHp,Synechocystis sp. PCC 6803,purHp,NA,NA,NA,3553949,+, slr0597,caaccgcctagtctggacaggaaagggtaagggagaccaactcctgggggataatgggggAtggaaaaattaccaagagga
+943,chr,hisIEp,Synechocystis sp. PCC 6803,hisIEp,NA,NA,NA,3569623,+, slr0608,gcggggagaatgcagttgctcaacttcctgcgggaatacggccagtgataggctagaaagAtaaatgtcaagccgttctgc
+944,chr,SYR52p,Synechocystis sp. PCC 6803,SYR52p,NA,NA,NA,3573067,-,ncl1790,cgctgatgccggagcaaaaaaagatccccggactcgggctggctgtgttaggctaggggtAaggatttgcaatcaattaca

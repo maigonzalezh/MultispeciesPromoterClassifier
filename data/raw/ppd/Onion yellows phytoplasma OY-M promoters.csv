@@ -1,0 +1,232 @@
+id,Type,PromoterName,SpeciesName,GeneName,GeneStart,GeneEnd,GeneProduct,TSSPosition,Strand,Locus_tag,PromoterSeq
+1,chr,mTSS01,Onion yellows phytoplasma OY-M,ibpA,37635,38057,molecular chaperone,37612,+,pam028,tcatctaaaatcgctttaagttcaaatgaacaaattatagaaaatcgttttttcatttttTaagttagaaagaagaaaaaa
+2,chr,mTSS02,Onion yellows phytoplasma OY-M,NA,89402,90103,hypothetical protein PAM_069,89321,+,pam069,tctctttatgaaggtaaacacaataacgataaagccaaagaagctgaaaataataaaagaAccagggaggactggtgataa
+3,chr,mTSS03,Onion yellows phytoplasma OY-M,NA,107898,108221,hypothetical protein PAM_084,107574,+,pam084,gcaagacgcgccaatattaaaatgaaaaatcctgcaaataataaaaatgaatacgttcatAttctaaacggttcaggtttg
+4,chr,mTSS04,Onion yellows phytoplasma OY-M,NA,120521,121441,hypothetical protein PAM_095,120512,+,pam095,aaaagataatcaattaaatgaaccaaaagaagaaaatcaagaacaacaaaaagaagcgtgTggttcttggttgtggaataa
+5,chr,mTSS05,Onion yellows phytoplasma OY-M,pcnB,128312,127074,tRNA nucleotidyltransferase/polyA polymerase,128808,-,pam102,gcaggcatcaaaaacctttattatggcacaagcatggaaaaatcatattcttttaatgatAtgtcatctatccaaaatatg
+6,chr,mTSS06,Onion yellows phytoplasma OY-M,NA,129157,128672,cytosine/adenosine deaminase,129182,-,pam103,gcaaaacttcaccaaccaatctaaataactccactaaaataattcatctcaataattcttTtggaatgtggattaatactt
+7,chr,mTSS07,Onion yellows phytoplasma OY-M,amp,144248,144949,antigenic membrane protein,144167,+,pam122,aaagctttatttttttaattattgtctcccatttttccttttttcatgttaaaataatagTaggttttgattgtcttttaa
+8,chr,mTSS08,Onion yellows phytoplasma OY-M,NA,162349,162891,conserved hypothetical protein,162298,+,pam137,attttccttgcatttaatttactcaaaccaaccccaacccccaaaaattacttacacacaCacgcgcaactaaacgcataa
+9,chr,mTSS09,Onion yellows phytoplasma OY-M,rbfA,178391,178732,ribosome-binding factor A,178371,+,pam151,attttacttgatggttttaatgattttgaaattaatgatataatagaaacatctaaactaAgcaaagtagaggaataaaaa
+10,chr,mTSS10,Onion yellows phytoplasma OY-M,NA,181000,179708,hemolysin,181164,-,pam153,aaccagcaattattttactttataaattgacattttttattatttatgttaaaatgaaatCagttagttattaaaaatata
+11,chr,mTSS11,Onion yellows phytoplasma OY-M,NA,186349,186032,hypothetical protein PAM_156,186482,-,pam156,atcaaagactaaatcataaaattgcaagcaaaacattagctattagcacacctcaaatccAaactctcaaaaactataaaa
+12,chr,mTSS12,Onion yellows phytoplasma OY-M,NA,192132,192719,hypothetical protein PAM_160,191918,+,pam160,ttatcttaaaaaaccaccaaaatcaattgacaattgtttctttttttgattaaataaaggTgtagatataaagttttatga
+13,chr,mTSS13,Onion yellows phytoplasma OY-M,NA,192132,192719,hypothetical protein PAM_160,192017,+,pam160,tatttaagttttttataaagctaacaaataaagtataaaagttttacaaacgcttttattAggaggttggttttttgagat
+14,chr,mTSS14,Onion yellows phytoplasma OY-M,rplC,243429,243902,ribosomal protein L3,243200,+,pam200,cacaattgcaattacaatttcaatcaacttttgaaaatcactttaaaaaactttttacaaActttaaaccaaaattaaaaa
+15,chr,mTSS15,Onion yellows phytoplasma OY-M,rpsS,245705,245986,ribosomal protein S19,245566,+,pam204,gaataagaccaacagtaagaggttctgcgatgaacccgaacgatcaccctcatggcggtgGtgaaggtagagctcctattg
+16,chr,mTSS16,Onion yellows phytoplasma OY-M,rplV,246003,246392,ribosomal protein L22,245901,+,pam205,ggacacaaaatcgctgtttataacggacgcgaacacattccagtctacattacagaaaacAtggtaggacataagttaggt
+17,chr,mTSS17,Onion yellows phytoplasma OY-M,rplP,247112,247534,ribosomal protein L16/L10E,246680,+,pam207,ggaaaagatggcgatacacgcaacaaattagttgccaaactcaaagaacttacccaaaaaGacgttaatcttaacgtgtta
+18,chr,mTSS18,Onion yellows phytoplasma OY-M,rplP,247112,247534,ribosomal protein L16/L10E,246928,+,pam207,tgaaatagctcgtagcgaaggacatgccgaaggcagagttcctctacacactctaagagcAgacatcgattacgctgctgt
+19,chr,mTSS19,Onion yellows phytoplasma OY-M,rpmC,247531,247851,ribosomal protein L29,247517,+,pam208,agaaatggaagctttaagacttgcgtctcacaaactaccgattaaaactaaaatcgttaaAaaaggtgctgaagtatgaaa
+20,chr,mTSS20,Onion yellows phytoplasma OY-M,rplN,248127,248489,ribosomal protein L14,247871,+,pam210,ttagatgacactgtagaaactatcaaggaggagcaacaataatgcaacgcaattttagaaAaactttcgtaggtaaagtag
+21,chr,mTSS21,Onion yellows phytoplasma OY-M,himA,270744,271028,bacterial nucleoid DNA-binding protein,270717,+,pam242,ataatttcaaataattgttggtttgcgcttgtaaattattttttgatgttataataagtaCgtaaataaaaagaaaaggag
+22,chr,mTSS22,Onion yellows phytoplasma OY-M,pepP,272915,274171,xaa-Pro aminopeptidase,272577,+,pam245,ttagtttgtacagagtgcaaaagagaaaattatcatactgataaaaataaaaaaaagaccCcaggacgtttagaattaaaa
+23,chr,mTSS23,Onion yellows phytoplasma OY-M,rpmH,276574,276708,ribosomal protein L34,276499,+,pam247,tttataaacattttattttttacatttttacccccacaaccactattttttaattattcaAaacttttaggcttgacattt
+24,chr,mTSS24,Onion yellows phytoplasma OY-M,16S rRNA,279394,280928,16S ribosomal RNA,279302,+,pam_r001,ccgtaaggtacggtggttcgaatccacctcccttcaccattaatttttttaatctttgaaAactgaagatgataattaacg
+25,chr,mTSS25,Onion yellows phytoplasma OY-M,rplU,292922,293431,ribosomal protein L10,292536,+,pam258,gaccaagatttaattgataaaattgccaaaaactggtttgattttgatgtcttagttgctActcccgaaatgatgccgcaa
+26,chr,mTSS26,Onion yellows phytoplasma OY-M,fusA,302934,305000,translation elongation factor EF-G,302716,+,pam264,ttagaagtacgcacgcgtcgtatgggtggtcaaaattaccaagtgccttccgaagttcgtCccgaaagacgccagtcttta
+27,chr,mTSS27,Onion yellows phytoplasma OY-M,fusA,302934,305000,translation elongation factor EF-G,302884,+,pam264,ttaggtaacggagtattagttaaaaaaagagaagaaacgcatcgcatggcagaagctaatAaagcctttgctcattatcgt
+28,chr,mTSS28,Onion yellows phytoplasma OY-M,gidB,308241,307603,S-adenosylmethionine-dependent,308253,-,pam267,ggacaagcaacaagaatattaggagtcaatcaagttgatatttcgattttattagtttatTtggaaaaacatcatgcttta
+29,chr,mTSS29,Onion yellows phytoplasma OY-M,gidB,308241,307603,S-adenosylmethionine-dependent,308316,-,pam267,gatattaaaaatttatcaaaagaagctcaagaaaaacttgatttaatcaaaccccaaactTtaggacaagcaacaagaata
+30,chr,mTSS30,Onion yellows phytoplasma OY-M,NA,310833,310138,hypothetical protein PAM_269,311072,-,pam269,gacaagtatttttatccaacaaaactaaggtagccttttcaaaccttatcattcaacaatAagagacgaatttggtcaggt
+31,chr,mTSS31,Onion yellows phytoplasma OY-M,NA,314047,315633,conserved hypothetical protein,314001,+,pam272,tattttttgttttgcattacaaatcattaaactaaattcaaaaagaaaaagaggtaaaacAatgattttacatttgttaac
+32,chr,mTSS32,Onion yellows phytoplasma OY-M,NA,316651,317526,tRNA delta(2)-isopentenylpyrophosphate,316153,+,pam275,ctttggattttcatgccgaagccactagtgaaaaaattgctttaactcattattttgatgGtagaattgatgctattgtag
+33,chr,mTSS33,Onion yellows phytoplasma OY-M,NA,325982,327466,hypothetical protein PAM_282,325821,+,pam282,tacactacttttggtgatctttttgaaaaaacttatgaaaaaaatgaattatttaatgtaGtagctaaattgttgtaaaat
+34,chr,mTSS34,Onion yellows phytoplasma OY-M,NA,336308,335094,hypothetical protein PAM_288,336657,-,pam288,aatgtaattgcagaagaagtaggaaacccagattcaactaaagacttagttatgcaaaaaGttcaagaagcagtcgaactt
+35,chr,mTSS35,Onion yellows phytoplasma OY-M,argE,337963,339339,acetylornithine deacetylase,337669,+,pam290,tttttttataaaaaaaatatttttcttcttttaaatgctaaaataatgttaaaatttaagTattaagatgtagataaagta
+36,chr,mTSS36,Onion yellows phytoplasma OY-M,NA,347034,346579,Hollyday junction resolvase,347106,-,pam304,ttaaacaattattaataaaattatttgcccaaaaacacaaaaaaattgataaaatgaagtTgaaccaaaaccaagaaaaaa
+37,chr,mTSS37,Onion yellows phytoplasma OY-M,NA,357507,357839,hypothetical protein PAM_311,357405,+,pam311,ggttgtatttttatatttgcagcttataaacttggttttattgttcccgatgcaactaaaAttacatggattaaataaatg
+38,chr,mTSS38,Onion yellows phytoplasma OY-M,NA,358034,358504,hypothetical protein PAM_312,357772,+,pam312,aatgaagaattttttttaactattggtttaatttcgtttattagtttgtttttattttttTtaatggctcgctttatgcct
+39,chr,mTSS39,Onion yellows phytoplasma OY-M,NA,358034,358504,hypothetical protein PAM_312,357891,+,pam312,aaaagaataaaggaaaattagatgagaaaatataatttatttgataattttatttgtttaTtgatgggtgcaattattggt
+40,chr,mTSS40,Onion yellows phytoplasma OY-M,NA,398554,398871,hypothetical protein PAM_351,398069,+,pam351,ttggccgtttttttgtaagcttcttcaatgatcgtggttaaatcacgattagagagatttTtgccttgaatattgtaggcg
+41,chr,mTSS41,Onion yellows phytoplasma OY-M,NA,399066,399539,hypothetical protein PAM_352,398599,+,pam352,aaaggatttttttaaaatggataaaaaacaaaaaataaagaaagaattttacgaacattgTcaatgttgcggaagtgattt
+42,chr,mTSS42,Onion yellows phytoplasma OY-M,NA,406254,406544,bacterial nucleoid DNA-binding protein,413685,+,pam357,gtgaactccaaaaagaaccttccaacttagttttttacatcaaagatcgtcatcctttcgAccgttggaataaaaatggcg
+43,chr,mTSS43,Onion yellows phytoplasma OY-M,NA,458352,458035,hypothetical protein PAM_412,458683,-,pam412,aaatttcaaaaacttaaaaaaaactttaaattattgaaattattaatgctataatataggTaataagaaaaagattttttt
+44,chr,mTSS44,Onion yellows phytoplasma OY-M,NA,464291,463872,hypothetical protein PAM_416,464426,-,pam416,atttgataattttatttgtttattgattggttcaattattggtatatttttatatattaaTttttttgttgaaaataataa
+45,chr,mTSS45,Onion yellows phytoplasma OY-M,acpS,481644,482027,phosphopantetheinyl transferase,481599,+,pam440,caaatcactaaatcaggactaaattattattttcaaaaaatcaaaaaactagcttgtgaaAttgaaactccccaaattttg
+46,chr,mTSS46,Onion yellows phytoplasma OY-M,sodA,483706,484314,superoxide dismutase,483214,+,pam442,attaaaattattgatttgagtatttcttcaacaggacttactgaaaatgtagccaaagctTtaggtaaaaactatggtact
+47,chr,mTSS47,Onion yellows phytoplasma OY-M,lon,494478,492103,ATP-dependent Lon protease,494865,-,pam448,ttgtttcccaagaacaaatccgcctccaaaaagaatttgaagcacaattaaaacaacaaaAtttaactttggaacaataca
+48,chr,mTSS48,Onion yellows phytoplasma OY-M,NA,515715,515398,hypothetical protein PAM_462,515804,-,pam462,tatttgcagcttataaacttggttttattgttcctgatgcaactaaaattatatggattaAataaatgagtgtttttttaa
+49,chr,mTSS49,Onion yellows phytoplasma OY-M,NA,544533,544021,hypothetical protein PAM_485,544918,-,pam485,agttatttgctaaaagaaagttatttgataaaagtataaaagcatctaaaataaacttaaGtgtttaggctcaaggaaaaa
+50,chr,mTSS50,Onion yellows phytoplasma OY-M,NA,546002,546577,hypothetical protein PAM_486,545723,+,pam486,tgaaataaaatttaaaaaattaaaaaggcaaatacaaaaatagaaaataaataaattttaAaaatcatctttgtagaatca
+51,chr,mTSS51,Onion yellows phytoplasma OY-M,NA,546002,546577,hypothetical protein PAM_486,545950,+,pam486,tcaggtcattttaaaacggttttttagatacaaaacatttaaattatgatataataaaccTacaggatgatagttacttta
+52,chr,mTSS52,Onion yellows phytoplasma OY-M,artM,546971,547669,"ABC-type amino acid transport system, permease",546947,+,pam487,caaataatttaagtaaaattgtataaaattatatcaaaaaatacaattaaatatacaaaaAaggaagaaactgtggaacga
+53,chr,mTSS53,Onion yellows phytoplasma OY-M,16S rRNA,557518,555984,16S ribosomal RNA,557609,-,pam_r006,attatttattcttaatttattttttcacaaatttttaccaaaactaccttaatctttgaaAactgaagatgataattaacg
+54,chr,mTSS54,Onion yellows phytoplasma OY-M,artI,560544,559537,"ABC-type amino acid transport system, periplasmic component",560665,-,pam495,agcaatattattggatatatacgaaaaaataaaaaacacattctaagatttaatttaattCatatttgcttttggtcgtgg
+55,chr,mTSS55,Onion yellows phytoplasma OY-M,NA,576248,576075,hypothetical protein PAM_509,576390,-,pam509,aaagaataaaggaaaattagatgaaaaaatataatttatttgataattttatttgtttatTgatgggtgcaattattggta
+56,chr,mTSS56,Onion yellows phytoplasma OY-M,NA,576775,576443,hypothetical protein PAM_510,576877,-,pam510,ggttgtatttttatatttgcagcttataaacttggttttattgttcccgatgcaactaaaAttacatggattaaataaatg
+57,chr,mTSS57,Onion yellows phytoplasma OY-M,uvrD,596129,593013,ATP-dependent DNA helicase,596442,-,pam527,caatataaatctgctggatatactgcgaaagaattaaaagatgcaggatatacagttgaaCaattaaaatattctggatat
+58,chr,mTSS58,Onion yellows phytoplasma OY-M,NA,598042,597674,hypothetical protein PAM_530,598227,-,pam530,tggtgccttagttagattaatggcacatatgggtaattacttaggtatatataagaaaacAtgttgaaacaatgattaaag
+59,chr,mTSS59,Onion yellows phytoplasma OY-M,NA,598042,597674,hypothetical protein PAM_530,598363,-,pam530,cttttatctttggtatttttatttattggctttatttttatattaaagaattgaaaagtaAatatgattttagtgatgaat
+60,chr,mTSS60,Onion yellows phytoplasma OY-M,NA,599015,598683,hypothetical protein PAM_531,599117,-,pam531,ggttgtatttttatatttgcagcttataaacttggttttattgttcccgatgcaactaaaAttacatggattaaataaatg
+61,chr,mTSS61,Onion yellows phytoplasma OY-M,NA,622001,622333,hypothetical protein PAM_555,621899,+,pam555,ggttgtatttttatatttgcagcttataaacttggttttattgttcccgatgcaactaaaAttacatggattaaataaatg
+62,chr,mTSS62,Onion yellows phytoplasma OY-M,NA,622961,623635,hypothetical protein PAM_557,622788,+,pam557,atggtgccttagttagattaatggcacatatgggtaattacttaggtatatatagaaaacAtgttgaaacaatgattaaag
+63,chr,mTSS63,Onion yellows phytoplasma OY-M,dnaE,665511,667388,DNA polymerase III alpha subunit,665272,+,pam591,accttttttggttaaaagatggttcgcaagcagaaccaaaacaaagagatgcaataataaAttcgtcgtcatcaagaacta
+64,chr,mTSS64,Onion yellows phytoplasma OY-M,aceF,680390,681574,dihydrolipoamide acyltransferase,680237,+,pam602,aatatctaaataaaactaaaaaccacaatcataaccataaccaccaaccaaaacacatacCaaaataaaaattaaaaacta
+65,chr,mTSS65,Onion yellows phytoplasma OY-M,aceF,680390,681574,dihydrolipoamide acyltransferase,680324,+,pam602,caaacaacaaaaccccaaccaaactaaactgcattataatcaaggagataaaaatatgttTgaatttaaatttgctgatgt
+66,chr,mTSS66,Onion yellows phytoplasma OY-M,NA,685229,684894,hypothetical protein PAM_606,685379,-,pam606,atttattacaaatatttttttatcaaaataaaatttataataatttgctataatagtaaaTgaaatgttaaataaaaaact
+67,chr,mTSS67,Onion yellows phytoplasma OY-M,rpsU,707185,707358,ribosomal protein S21,707141,+,pam623,tttaattatttttttgctttttcttattgacaaacaacaaaaaaagagatacaatataagTagtattgctaatttttaatt
+68,chr,mTSS68,Onion yellows phytoplasma OY-M,GRS1,709131,710489,"glycyl-tRNA synthetase, class II",708749,+,pam626,acatgattactgatcaaaaaaaagaactttggatagcagaaataatccgcgaaaaagtccTttattatgtccacgaagaaa
+69,chr,mTSS69,Onion yellows phytoplasma OY-M,NA,713780,714223,conserved hypothetical protein,713707,+,pam629,tttagaagaagtaggcactttatttggagttactagagaaagaatccgccaaattgaatcCaaagctctaagacgactcag
+70,chr,mTSS70,Onion yellows phytoplasma OY-M,tra5,757625,756675,putative transposase,757800,-,pam666,gaaaaacctagcgaatttttgatataaaaaaaacccctaaatccccaaaggggactttatAggaggggtgtaataggttaa
+71,chr,mTSS71,Onion yellows phytoplasma OY-M,clpX,758197,759327,"ATP-dependent protease Clp, ATPase subunit",758151,+,pam667,attattttataataaaattggatattttatcgagcgcctttgtcgtgttagacgataaagGagtaggttggagagtctata
+72,chr,mTSS72,Onion yellows phytoplasma OY-M,cspC,761965,762189,cold shock protein,761920,+,pam671,aaataaaaaaaagtgtgtaaaaatgttcgactctaaaaataaatgagttataatagataaTaggttatgaaaccgaaataa
+73,chr,mTSS73,Onion yellows phytoplasma OY-M,tmk,782120,781491,thymidylate kinase,782294,-,pam688,ttttaatttattttaatgacacaaattatcatgtagttcgcatttaccaagataataactTcattaataaaatgattaaag
+74,chr,mTSS74,Onion yellows phytoplasma OY-M,NA,784008,783211,hypothetical protein PAM_691,784036,-,pam691,ggatggtaacaataatgaatatttttttgcattattgttctatttatgttaaaataaaagTaagttaaaaaaaggaaattt
+75,chr,mTSS75,Onion yellows phytoplasma OY-M,hrcA,799183,798155,heat-inducible transcription repressor,799210,-,pam706,aaatataacaaaatgaaaatatagggttgacattcaacaaaaaaagtaatacaatattatTggcaatcgttaatgtgagtg
+76,chr,mTSS76,Onion yellows phytoplasma OY-M,NA,801872,802084,hypothetical protein PAM_708,801754,+,pam708,ttttcacttttttaactgtttttgagcgatttttacgcaaaaaaaagagtaaaataaaggTaaggaggtaaatttataatg
+77,chr,mTSS77,Onion yellows phytoplasma OY-M,NA,809729,809376,hypothetical protein PAM_717,810169,-,pam717,tattagtgcatctttttggggcaaagccaaaaccgtttttacattcgttgccatcatttgCcttttttttgggttgtatac
+78,chr,mTSS78,Onion yellows phytoplasma OY-M,citS,812376,811261,malate/citrate symporter,812814,-,pam720,tcctttaataaagaagtagttaaacaaattgctttggcagtttgtaaagtagctaaagaaActggagtagtaagaaaatga
+79,chr,mTSS79,Onion yellows phytoplasma OY-M,NA,823978,825231,HD superfamily phosphohydrolase,823546,+,pam730,tgcaaaaaattttggcattactgacaaacaaatggtaagtattgaaattgaaggcactaaAcctggcatcttaaaacaagt
+80,chr,mTSS80,Onion yellows phytoplasma OY-M,norM,830638,829139,Na+-driven multidrug efflux pump,830671,-,pam734,cctcctctaaatatcaccttttgcctcccaaaacccctctaattttgataaaatataatgTgtgttatagcttttatttac
+81,chr,mTSS81,Onion yellows phytoplasma OY-M,rplT,838373,837750,ribosomal protein L20,838407,-,pam742,caaaaccgccaactaagaggagttacttgtgttaaactttgtgattacaacagaatcaaaActcttattagaggattatag
+82,chr,mTSS82,Onion yellows phytoplasma OY-M,asnS,852062,850542,aspartyl/asparaginyl-tRNA synthetase,852499,-,pam754,atttattgcttttttttcaaaaaaatatcaaaatataacttaaaaatgataaaataaattTgtaattgtttttaattcttt
+83,chr,iTSS01,Onion yellows phytoplasma OY-M,NA,20275,20865,conserved hypothetical protein,20669,+,pam017,attgattttaaagtgggtgctacccaagaagacgatagaatccatcaagctcttttgcaaGcgggttttgaggtcgtcttg
+84,chr,iTSS02,Onion yellows phytoplasma OY-M,ibpA,37635,38057,molecular chaperone,37900,+,pam028,ttagtagttgaggctaaaaattctaaaaaaaatcaaattaaagaagctaattttatacgtAaagaaagatttcaaggattt
+85,chr,iTSS03,Onion yellows phytoplasma OY-M,mdlB,76501,78225,"ABC-type multidrug/protein/lipid transport system, ATPase component",78116,+,pam059,gccttagtgttaattgttgctcaaagaattacttctgttattaatgctgataaaattattGttttagaagaaggaaaaatg
+86,chr,iTSS04,Onion yellows phytoplasma OY-M,rpsT,105231,105491,ribosomal protein S20,105442,+,pam081,ttaagtgtagcttataaaaaatttgataaaggggtttctaaaagagtttatcacgctaacTtttctgctagaaacaaatct
+87,chr,iTSS05,Onion yellows phytoplasma OY-M,serS,106430,107704,seryl-tRNA synthetase,106798,+,pam083,ttacccccaatttaccacacgattctttaccaattggcacaaacgataaggacaataaggAattgtattgcgcaggacaaa
+88,chr,iTSS06,Onion yellows phytoplasma OY-M,obg,110486,111754,conserved hypothetical protein,111103,+,pam089,ccaaagttgcttcctatccttttaccacaattaaacctcatttaggagttgttgaagtagAtggttttagttttgtagttg
+89,chr,iTSS07,Onion yellows phytoplasma OY-M,NA,161563,161895,conserved hypothetical protein,161563,+,pam135,ttttttccacaatttagtcttttttttcatcaaataaagtaaaataaggtataatactctTgtggataatatgaaattaat
+90,chr,iTSS08,Onion yellows phytoplasma OY-M,NA,162349,162891,conserved hypothetical protein,162553,+,pam137,tgtaaaagcagatgccaatttagctactattaatcctttagaatacgattttttagttatTcctggaggaccttacgtagc
+91,chr,iTSS09,Onion yellows phytoplasma OY-M,thiI,169118,170422,thiamine biosynthesis protein,169697,+,pam143,tgaaactcaagctttaggagggtttcctgtttcttctggtggtggaggaactgttttgatGagtggtggtattgattctcc
+92,chr,iTSS10,Onion yellows phytoplasma OY-M,ppa,171465,172019,inorganic pyrophosphatase,171581,+,pam145,tagttattgaaatttctcaaggaagtaaaaaaaaatatgagattgacaaagaaacaggtcTtttgttgcttgatcgttttt
+93,chr,iTSS11,Onion yellows phytoplasma OY-M,pth,179034,179600,peptidyl-tRNA hydrolase,179268,+,pam152,gattaaaccacaaacgtatatgaatttatcaggtgaagtggtaaaaaaaattataaataaAtatcgcattaagatagaaaa
+94,chr,iTSS12,Onion yellows phytoplasma OY-M,NA,192132,192719,hypothetical protein PAM_160,192295,+,pam160,aacgaacaacctcaaattcccaatgttttgattaataacaaagactttgattctaattgtTtaattaatttaaaattaatg
+95,chr,iTSS13,Onion yellows phytoplasma OY-M,NA,192132,192719,hypothetical protein PAM_160,192400,+,pam160,aaccgttcgcaaaccgatcttttagaattaaagcataaaatgcttgaaacttattttaatCaaaagatctttgaattagaa
+96,chr,iTSS14,Onion yellows phytoplasma OY-M,NA,192132,192719,hypothetical protein PAM_160,192519,+,pam160,gcaatccaaagctgataccattcctaataatgcccaaacttttaactcacaaaagaatttTtgggatgaaatcccagaaac
+97,chr,iTSS15,Onion yellows phytoplasma OY-M,NA,192132,192719,hypothetical protein PAM_160,192622,+,pam160,ttaaataacatcgaagaaatgcagttcgaaattttacaagattacactaaaaaaacttatTacaattctgatgatagagtt
+98,chr,iTSS16,Onion yellows phytoplasma OY-M,NA,192132,192719,hypothetical protein PAM_160,192655,+,pam160,ttacaagattacactaaaaaaacttattacaattctgatgatagagttttgtacgttcatCcagaagactttttgcacatc
+99,chr,iTSS17,Onion yellows phytoplasma OY-M,tsf,197515,198351,translation elongation factor Ts,197686,+,pam166,cgaaaaagccatcgtgtttttaagagaaaaaggcatcattaaagcagctcaaaaacaaggAcgtgcaacttctgaaggcat
+100,chr,iTSS18,Onion yellows phytoplasma OY-M,frr,199169,199723,ribosome recycling factor,199563,+,pam168,agaagaaaagctttaatgaaagaagtagagcaactagcagaaaagaccaaagtagctattAgaaacgtgcgtcgcgaaggc
+101,chr,iTSS19,Onion yellows phytoplasma OY-M,gapA,205969,206976,glyceraldehyde-3-phosphate dehydrogenase,206540,+,pam175,aaccaagcttttatgactaccgttcatagttacaccagtgaccaaagtttaattgatcaaAaccatcccaaaggcatttgg
+102,chr,iTSS20,Onion yellows phytoplasma OY-M,dppB,228054,227128,"ABC-type dipeptide/oligopeptide transport system, permease component",227992,-,pam190,tgataaaatatatttttaaaaaaagtttatacactataacattatttataacagtcatatTtatcagtttttttactatga
+103,chr,iTSS21,Onion yellows phytoplasma OY-M,tufB,305131,306315,translation elongation factor EF-Tu,306143,+,pam265,ggacgtcacactgcctttttctctcaataccgtcctcaattctatttccgtactacagatAttacaggagtagttgaatta
+104,chr,iTSS22,Onion yellows phytoplasma OY-M,NA,306887,307555,conserved hypothetical protein,307314,+,pam266,tattgttcttttgctttggtggtttcttatatagttcgtttagtgttgtctttatgcagcAtttggacaattgaaaatatt
+105,chr,iTSS23,Onion yellows phytoplasma OY-M,gidB,308241,307603,S-adenosylmethionine-dependent,307856,-,pam267,tcaagccatttggaattagataatatatgtttttttcaccaaagagtagaacaatatgacAtagccaaaaatggcagttat
+106,chr,iTSS24,Onion yellows phytoplasma OY-M,NA,310833,310138,hypothetical protein PAM_269,310658,-,pam269,accaaagtagaattttattatttggatcaaagcaaatattatagtactctttttcaatcaCgccaatttgctgtttggact
+107,chr,iTSS25,Onion yellows phytoplasma OY-M,norM,323790,322195,Na+-driven multidrug efflux pump,323304,-,pam280,cggagtaccaaaggcaataacaactgaggaaaaaaatctttgcattaacgcttttagattAcaaatgttgggcactatttt
+108,chr,iTSS26,Onion yellows phytoplasma OY-M,pfkA,324839,325837,6-phosphofructokinase,324891,+,pam281,aattttaaaatgaaaaatgaaaaccaaaaagcaaaaacaaaaacaaaagaaaacaaaaaaAttgctgtgttaacttcaggc
+109,chr,iTSS27,Onion yellows phytoplasma OY-M,NA,325982,327466,hypothetical protein PAM_282,326370,+,pam282,gcaattatttcttctttattctttttagtggttttgggtttaggtgtccttttaccagctCcatttggagatatattttta
+110,chr,iTSS28,Onion yellows phytoplasma OY-M,pgi,327589,328869,glucose-6-phosphate isomerase,328328,+,pam283,gcttatcacgacacttttcaagaagacctttttcaaaatcaagcctatcagtacgctttaGcaaggtatttgcttcacacc
+111,chr,iTSS29,Onion yellows phytoplasma OY-M,eno,329038,330330,enolase,329123,+,pam284,gcgcgcgaagtgctagattccagaggaaatcctacagtagaagtagaagtttatacagaaTcaggagcgtttggaagagct
+112,chr,iTSS30,Onion yellows phytoplasma OY-M,eno,329038,330330,enolase,329899,+,pam284,tagccaagaattagttcattattacgaaactttagtttctaaatatccaattatttcaatCgaagacggacttgatgaaaa
+113,chr,iTSS31,Onion yellows phytoplasma OY-M,gpmI,330452,331990,phosphoglyceromutase,330980,+,pam285,aagtcctcattcaggtattaactacattaaagaccttcttgattatggctttaatattgcTtctgttgttggtagatatta
+114,chr,iTSS32,Onion yellows phytoplasma OY-M,gpmI,330452,331990,phosphoglyceromutase,331210,+,pam285,ttattaccaatccaaatggtttaattaatgataatgatgcagttatttttgttaattttcGtcctgaccgtgccatgcgtc
+115,chr,iTSS33,Onion yellows phytoplasma OY-M,gpmI,330452,331990,phosphoglyceromutase,331776,+,pam285,gacagctgtcttaaagaagttttaaatgccatttttgcagttaaaggcaaagcctgtattGtagcagatcatggaaatgcc
+116,chr,iTSS34,Onion yellows phytoplasma OY-M,citS,332415,333560,malate/citrate symporter,333029,+,pam286,acaaaaacaataaacttacacccaaaccaacagagaaaaaaactcctttagaatataaaaAtattggtatgggtttaacga
+117,chr,iTSS35,Onion yellows phytoplasma OY-M,NA,336308,335094,hypothetical protein PAM_288,335981,-,pam288,aaaaacattgtatccacaaataacagaaattgaagaaaatgaagaaataaaagaaacaccCaaatacagaccaaaagcaac
+118,chr,iTSS36,Onion yellows phytoplasma OY-M,ksgA,350438,351805,dimethyladenosine transferase,351350,+,pam306,gcttgaatttgaaggaaaacaagacacaggtttaaaaacaggtgaaaaaattttggaactAggagcaggcagtggtaatgt
+119,chr,iTSS37,Onion yellows phytoplasma OY-M,NA,357507,357839,hypothetical protein PAM_311,357588,+,pam311,gaaaaaagaattttacgaacattgtcaatgttgcggaagtgatttgggaatcaatataaaTgctgcttgtttgaatttatt
+120,chr,iTSS38,Onion yellows phytoplasma OY-M,NA,359173,360414,conserved hypothetical protein,359252,+,pam314,ggcaataaacattataaaataattccttttttaattactactggaacattactgttttttGtgttttggataggtgggatt
+121,chr,iTSS39,Onion yellows phytoplasma OY-M,NA,359173,360414,conserved hypothetical protein,359441,+,pam314,cttaaaaaagaaaacgaatatatgaaagatactccttatgagtttataagagataatggaGaaaaagaatattataattta
+122,chr,iTSS40,Onion yellows phytoplasma OY-M,NA,359173,360414,conserved hypothetical protein,359606,+,pam314,actgatagatataataatgttgaagagtacggttcacatggtaaattaatcaaaaaaactTtatcagatggcgtttggatg
+123,chr,iTSS41,Onion yellows phytoplasma OY-M,NA,400208,401287,conserved hypothetical protein,400333,+,pam354,cattaattttttttgttttttggataggcgggcttgcttataaatatcatttagaaaccgAagaaagacgtaaattacaag
+124,chr,iTSS42,Onion yellows phytoplasma OY-M,NA,400208,401287,conserved hypothetical protein,400461,+,pam354,aatgaaaataaaaaacttaaaaaagaaaacgaatatatgaaagatactccttatgagtttCaaagagataacggagaaaaa
+125,chr,iTSS43,Onion yellows phytoplasma OY-M,NA,400208,401287,conserved hypothetical protein,400560,+,pam354,actaataaattagttaaaaaaattgataaagatgatacaatttgggaatatgataaaaatAatggtcttttgttgaaaaaa
+126,chr,iTSS44,Onion yellows phytoplasma OY-M,uvrD,461282,458850,ATP-dependent DNA helicase,460319,-,pam413,aaaattatgtgttttatttaaggaaatttctaaaaatatttataaagtacaaaaaaaagaTaatggttatgagactcgttt
+127,chr,iTSS45,Onion yellows phytoplasma OY-M,NA,463150,462170,conserved hypothetical protein,463105,-,pam414,gaaaagaggtttaaaaatgtcaagttttagaataggtaataaacattataaaataattccTtttttaattactactggaac
+128,chr,iTSS46,Onion yellows phytoplasma OY-M,NA,464833,464516,hypothetical protein PAM_417,464788,-,pam417,aaaggatttttttaaaatggataaaaaacaaaaaataaagaaagaattttacgaacattgTcaatgttgcggaagtgattt
+129,chr,iTSS47,Onion yellows phytoplasma OY-M,hcaD,482172,483515,uncharacterized NAD-dependent dehydrogenase,482344,+,pam441,tcttttctttcttgtggaattgccttgtatgttggaggagttatcaaagacagtctaggaCttttttattcaaatcctgat
+130,chr,iTSS48,Onion yellows phytoplasma OY-M,lepA,486559,488376,conserved hypothetical protein,486615,+,pam445,aaaaaatgaacatagaacaattaaaagaaaggcaaaaacgcatacgtaatttttccattaTcgcccacattgaccacggta
+131,chr,iTSS49,Onion yellows phytoplasma OY-M,pmbA,490572,491948,conserved hypothetical protein,491894,+,pam764,atttttttgatattcttaaaaatgtagacaccattgctaatgattttgaatttcaaacttCaggatttggtagttctagcg
+132,chr,iTSS50,Onion yellows phytoplasma OY-M,lon,494478,492103,ATP-dependent Lon protease,492602,-,pam448,cttttagatgaacaaaaagaaaaaataggctccactaacggacttgcctatacttattttGgaggcgatttgcttccagta
+133,chr,iTSS51,Onion yellows phytoplasma OY-M,lon,494478,492103,ATP-dependent Lon protease,493811,-,pam448,cttaaagaagctcaccttaataaaagaattttttatattcttcaagacatccaaagtttaCttataggacttgatttagaa
+134,chr,iTSS52,Onion yellows phytoplasma OY-M,NA,513976,512960,conserved hypothetical protein,513460,-,pam459,aaagtttaaagaaatagataaaaatggtaaagttaaattttttaaaactaaactttatcaAaatatttcggattttaagaa
+135,chr,iTSS53,Onion yellows phytoplasma OY-M,NA,513976,512960,conserved hypothetical protein,513749,-,pam459,atgagtttataagagataatggagaaaaagaatattataatttatttgctcaccaattagTtaaaaaaatcgataaagatg
+136,chr,iTSS54,Onion yellows phytoplasma OY-M,NA,515715,515398,hypothetical protein PAM_462,515616,-,pam462,acattgtcaatgttgcggaagtgatttgggaatgaatataaatgatgtttatttgaatttAtttggtgtaataatggcttt
+137,chr,iTSS55,Onion yellows phytoplasma OY-M,trpS,522922,523959,tryptophanyl-tRNA synthetase,522991,+,pam466,aataaaaaaggaggtgataaaattgataccaaataaaagattagtgtcagggatcaaaccAacgggcgatcttactttagg
+138,chr,iTSS56,Onion yellows phytoplasma OY-M,secA,532699,530192,preprotein translocase subunit SecA,531422,-,pam474,agcccgattttatttttgtttctttaaaagaaaaatacgacgctttaattgaagaaataaCttctcgccacaaaaaaagac
+139,chr,iTSS57,Onion yellows phytoplasma OY-M,secA,532699,530192,preprotein translocase subunit SecA,532337,-,pam474,aaactggggaaggaaaaacccttactgccatcatgcctgcttatcttaacgctttaagtgGtaaccctgttcacattgtta
+140,chr,iTSS58,Onion yellows phytoplasma OY-M,NA,546002,546577,hypothetical protein PAM_486,546066,+,pam486,ttaaaaaaatcagttaaaaacaattatttaattttcttgatattaattacatttgtgtttAtttcatgtttcttatcagca
+141,chr,iTSS59,Onion yellows phytoplasma OY-M,NA,546002,546577,hypothetical protein PAM_486,546301,+,pam486,tatcatgttcttgcgtggcttacaaaatgaaattatatttaaaagccaaaaatcctaaatCtcaatctgaagttggaacac
+142,chr,iTSS60,Onion yellows phytoplasma OY-M,NA,546002,546577,hypothetical protein PAM_486,546452,+,pam486,taaatgcacatatgatgatgataatacaaaagcaaatttaataagcatattaacaatgatTtttaaagaagctaaaacact
+143,chr,iTSS61,Onion yellows phytoplasma OY-M,artI,548612,549574,"ABC-type amino acid transport system, periplasmic component",548676,+,pam489,aaacagaataaaaatttaattattagtttagttgttggtgcttttgtaattttaggcataAtaggaggaattgtatggtgg
+144,chr,iTSS62,Onion yellows phytoplasma OY-M,artM,549577,550311,"ABC-type amino acid transport system, permease",549938,+,pam490,aaaggaactggttattttaaatggttaactccattgcaatctggtttatttgtaattattTttaactcagctgcttatctt
+145,chr,iTSS63,Onion yellows phytoplasma OY-M,NA,558833,558252,hypothetical protein PAM_493,558556,-,pam493,catttgttttatgccaataaacacaaatatttccttattaacactgattttatcttgataTtggagtgttgtattcaatgg
+146,chr,iTSS64,Onion yellows phytoplasma OY-M,NA,574626,573949,conserved hypothetical protein,574395,-,pam506,atttacttttcaacaaattaaagaagcgggatatactgcgaaagaattaaaagatgcaggTttaagtttgcaagaattaaa
+147,chr,iTSS65,Onion yellows phytoplasma OY-M,NA,574626,573949,conserved hypothetical protein,574509,-,pam506,atttaaagaaatagataaaaataataaagttaaattttttaaaactaaactttatcaaaaTatttcggattttaagaaatt
+148,chr,iTSS66,Onion yellows phytoplasma OY-M,NA,575107,574616,hypothetical protein PAM_507,575063,-,pam507,agaaaagaggtttaaaaatgtcaagttttagaataggtaataaacattataaaataattcCttttttaattactactggaa
+149,chr,iTSS67,Onion yellows phytoplasma OY-M,NA,576775,576443,hypothetical protein PAM_510,576726,-,pam510,gattttttcaaaatggataaacaacaaaaattgaaaaaagaattttacgaacattgtcaaTgttgcggaagtgatttggga
+150,chr,iTSS68,Onion yellows phytoplasma OY-M,NA,597347,596565,conserved hypothetical protein,596792,-,pam528,tattgataattctattgaagaatttgatgataatgaagaaaagtttaaagaaatagataaAaatggtaaagttaaattttt
+151,chr,iTSS69,Onion yellows phytoplasma OY-M,NA,597347,596565,conserved hypothetical protein,597098,-,pam528,atataatgaaaataaaaaacttaaaaaagaaaacgaatatatgaaagatactccttatgaGtttcaaagagataacggaga
+152,chr,iTSS70,Onion yellows phytoplasma OY-M,NA,597347,596565,conserved hypothetical protein,597229,-,pam528,actggaacattaattttttttgttttttggataggcgggcttgcttataaatatcatttaGaaaccgaagaaagacgtaaa
+153,chr,iTSS71,Onion yellows phytoplasma OY-M,NA,599015,598683,hypothetical protein PAM_531,598881,-,pam531,atataaatgctgcttgtttgaatttatttggttttataatgagttttatttcgtttattaGttgtgggattttattattat
+154,chr,iTSS72,Onion yellows phytoplasma OY-M,NA,599015,598683,hypothetical protein PAM_531,598965,-,pam531,attttttcaaaatggataaacaacaaaaattgaaaaaagaattttacgaacattgtcaatTttgcggaagtgatttgggaa
+155,chr,iTSS73,Onion yellows phytoplasma OY-M,NA,623667,624746,conserved hypothetical protein,623737,+,pam558,tttagaataggcaataaacattataaaataattccttttttaattactactggaacattaCtgttttttgtgttttggata
+156,chr,iTSS74,Onion yellows phytoplasma OY-M,NA,623667,624746,conserved hypothetical protein,623997,+,pam558,aaaagaatattataatttatttactaataaattagttaaaaaaattgataaagatgatacAatttgggaatatgataaaaa
+157,chr,iTSS75,Onion yellows phytoplasma OY-M,NA,623667,624746,conserved hypothetical protein,624173,+,pam558,tatggatggaatataatcctgttaataaaaaattaataaaacgcaaaaatattgataattCtattgaagaatttgatgata
+158,chr,iTSS76,Onion yellows phytoplasma OY-M,NA,652699,652100,hypothetical protein PAM_582,652530,-,pam582,ttaaaaaaggatagtaattttggattaaaaattgctgctcctgcagaattgtcagtttccAaacccgcagatcttcacgac
+159,chr,iTSS77,Onion yellows phytoplasma OY-M,artM,661450,659720,"ABC-type amino acid transport system, permease",659794,-,pam588,tgcttgtgcttctaatgctttgtatagtagtgttgcaagccctaaaccttattatatttcTtctattatttatttgattat
+160,chr,iTSS78,Onion yellows phytoplasma OY-M,artM,661450,659720,"ABC-type amino acid transport system, permease",659955,-,pam588,attgaggcttccttgtctttgggaatgacacatactcaaacaatgcgctatattgttttgCcccaagctattaaaagatca
+161,chr,iTSS79,Onion yellows phytoplasma OY-M,phnL,676146,677774,"ABC transporter, ATPase component",677169,+,pam599,tatgttttttgcttttacatttttgagttataaatggttcggaatctgtgataaaatataTcaaatgtatgaattatttga
+162,chr,iTSS80,Onion yellows phytoplasma OY-M,lpd,681596,682969,fatty acid/phospholipid biosynthesis enzyme,681724,+,pam603,ctcaaatgggtgctaaagttgctttagtagaaaaacataaattaggtggtatttgtcttaAttatggctgtattcctacca
+163,chr,iTSS81,Onion yellows phytoplasma OY-M,dnaX,695425,693977,"DNA polymerase III, gamma/tau subunit",694842,-,pam617,attgctgctttggaaaatatgtttatcactgaagatgccatcaaaagcattgcttgccatTcggaaggtggaatgcgaaac
+164,chr,iTSS82,Onion yellows phytoplasma OY-M,uvrD,703793,706036,ATP-dependent DNA helicase,704552,+,pam621,agttgatgaattccaagatactgattttttccaataccaaattttgactcttttagcccaAaaccaccaaaatatttttgt
+165,chr,iTSS83,Onion yellows phytoplasma OY-M,hflB,746226,744430,ATP-dependent Zn protease,745820,-,pam658,aatgaaatgaaccctttgcctcgtaaagatttaccaagaggagttttattgtacggtcctCcaggaacaggaaaaacttat
+166,chr,iTSS84,Onion yellows phytoplasma OY-M,cspC,761965,762189,cold shock protein,761977,+,pam671,taataggttatgaaaccgaaataatttaaaagaaggagtattattaataatgcaagacaaAaaacaacagggaacatgtag
+167,chr,iTSS85,Onion yellows phytoplasma OY-M,dnaJ,795207,794434,molecular chaperone DnaJ,794560,-,pam703,ataaatgttatgcttgtcatggacaaaaacgtcaaaaagttaagcaatcagctacctttaAtattcctgcagggattcaag
+168,chr,iTSS86,Onion yellows phytoplasma OY-M,NA,800947,801594,hypothetical protein PAM_707,801338,+,pam707,gaaaatattttaaaaataaatagcaaaatggatgacatatcattgagcagcaaaaaaataAataaagatataaaagtttta
+169,chr,iTSS87,Onion yellows phytoplasma OY-M,srmB,806944,808602,superfamily II DNA and RNA helicase,807323,+,pam714,tatggtggtgaatcttacaccaaacaatttagagccctagaagctaaacctcatttaattAttgctactcctggacgtgca
+170,chr,iTSS88,Onion yellows phytoplasma OY-M,sfcA,813967,812795,malic enzyme,813807,-,pam721,ttagcttatactccaggagtagcagagccttgtttaaaaattaaggaaaatcctagtgatGtttatcgttatactatgaaa
+171,chr,asTSS01,Onion yellows phytoplasma OY-M,NA,30684,29578,hypothetical protein PAM_023,30218,-,pam023,accaataatagtccaaaaagaaatacctacttttagcattaacaccaacaccaaagtcatAaagggcaaatagcttaaaaa
+172,chr,asTSS02,Onion yellows phytoplasma OY-M,tdk,129216,129845,thymidine kinase,129839,+,pam104,gttttgcctgcaaacattggtccacaaacaacttcaataaacccttgcccttgttcttttTgggtcattcttttgaactcc
+173,chr,asTSS03,Onion yellows phytoplasma OY-M,cysS,167031,165715,cysteinyl-tRNA synthetase,165779,-,pam141,tctggtgtttcctaaatgcaggtgattatagacagtaggtccacaaacatacatgttaatTtggggcggatgggcagggtt
+174,chr,asTSS04,Onion yellows phytoplasma OY-M,NA,186032,186349,hypothetical protein PAM_156,186235,+,pam156,ggtaaaagttgatttttattggcatcttgtaaaactctttgaaaaccttgttctagattaTcagctcggaaatagattcta
+175,chr,asTSS05,Onion yellows phytoplasma OY-M,truA,258465,257734,pseudouridylate synthase,257958,-,pam229,agttcatttgtctaactctaatatcaggaggcaaaagataattaagagttttttggaaatGtgtgggttttagaaaaaaag
+176,chr,asTSS06,Onion yellows phytoplasma OY-M,holB,260122,259133,"DNA polymerase III, delta prime subunit",260005,-,pam231,cttggttagataatatattttgttttttgtaaatttggtgaataatttttaaaatattaaAagtggttggaaggggcaggg
+177,chr,asTSS07,Onion yellows phytoplasma OY-M,NA,315633,314047,conserved hypothetical protein,315392,-,pam272,ataagatttggcaactccttctgttgcattagcaatagtttctaatttggttagtctttgGatgtagttttctactgattc
+178,chr,asTSS08,Onion yellows phytoplasma OY-M,hflB,351876,353144,ATP-dependent Zn protease,352403,+,pam307,gctttttgaaataaatctcttattctagaagctccaacgcctacataaacttcgacaaatTcagaaccagaaacagcataa
+179,chr,asTSS09,Onion yellows phytoplasma OY-M,NA,353275,353958,hypothetical protein PAM_308,353662,+,pam308,caatatagggaagaaaaaatctgtaaaggaaaataagggctttgcttgcatgttcgttttCgtggtcatgactgtgattat
+180,chr,asTSS10,Onion yellows phytoplasma OY-M,NA,386376,386744,hypothetical protein PAM_340,386594,+,pam340,acatcaataatatcgtaatctttacaacatttccaacaatgaattttattatctgaagttAaatggcaacaagttgggttt
+181,chr,asTSS11,Onion yellows phytoplasma OY-M,hflB,404838,406211,ATP-dependent Zn protease,405828,+,pam356,cttcttgtttttctttttgattttggtttaacgcttttctttgttctaataaattatcgaCtaaggtttgttgggtttgtt
+182,chr,asTSS12,Onion yellows phytoplasma OY-M,hflB,404838,406211,ATP-dependent Zn protease,406097,+,pam356,tgttctaatttgatttggttttcgatcttttgttgttttgttgatgagggttgtttagttAatgataggtttttagttggt
+183,chr,asTSS13,Onion yellows phytoplasma OY-M,NA,429335,428877,hypothetical protein PAM_383,429289,-,pam383,ttagttggtgaagacttagtttgacagtgaaaagatagaatttaagaacataataaatggTgataattggaataaatgaaa
+184,chr,asTSS14,Onion yellows phytoplasma OY-M,hflB,448592,446232,ATP-dependent Zn protease,446607,-,pam403,ttttctttttgattttggtttaacgcttttctttgttccattaaattattaactaaggttTgttgggtttgttgttgattt
+185,chr,asTSS15,Onion yellows phytoplasma OY-M,dnaB,589774,588275,replicative DNA helicase,588701,-,pam523,ttatgaggaattgaagagataaaattccttaatttatcaaatatttcttggtaatataaaTttttgtggtaagggtcttgg
+186,chr,asTSS16,Onion yellows phytoplasma OY-M,dnaB,616287,617783,replicative DNA helicase,617292,+,pam550,gattatcggtgtcaaaaaattcaggatgtaaaaagaccatttggtttaaattaaagagagTtttatcatttttttggggga
+187,chr,asTSS17,Onion yellows phytoplasma OY-M,NA,629731,630261,hypothetical protein PAM_562,630179,+,pam562,attgttcattaattgaattttttcttttctttgtttagaaaagtaattagttaaagcgaaAatggatgtggtagtgaaaaa
+188,chr,asTSS18,Onion yellows phytoplasma OY-M,psd,690633,691631,phosphatidylserine decarboxylase,690703,+,pam612,tgtttgtacttcgctttctttatgattggcttgtgtggtgcaattggagttttgatttgaTtttggttggggtgtaatggg
+189,chr,asTSS19,Onion yellows phytoplasma OY-M,potC,749977,748973,"ABC-type spermidine/putrescine transport system, permease component II",749031,-,pam661,ataaataaagcttaacactaaaatgatatataaggtgttagtaatggtttttttgggtttTtttgggattttggtagaagc
+190,chr,asTSS20,Onion yellows phytoplasma OY-M,tra5,756675,757625,putative transposase,756953,+,pam666,ctaattaaaaacccttttttagttaattttttttgtacttttagagattgataaactttaCcttggtcagaatgaataata
+191,chr,asTSS21,Onion yellows phytoplasma OY-M,tra5,756675,757625,putative transposase,757103,+,pam666,gtgtggaaggcaataatttgattattaaaagaatcaataatacacgaaaaataaataaatCcttggggagtgggaaaataa
+192,chr,asTSS22,Onion yellows phytoplasma OY-M,clpX,759327,758197,"ATP-dependent protease Clp, ATPase subunit",758694,-,pam667,ttctatacttaaatgctttttctattgctgcagaatagatattatgttctataatagaaaTgtagttagtgatgttgtact
+193,chr,asTSS23,Onion yellows phytoplasma OY-M,NA,759809,760351,conserved hypothetical protein,760166,+,pam669,aatgtaattgttttccttgttgatcataaaaacaataataagtgtaatcactatcccaatTaacttgtttgtcttcttctg
+194,chr,asTSS24,Onion yellows phytoplasma OY-M,dnaC,762974,763792,DNA replication protein,762989,+,pam672,cccaaaaagaatatttttaatccttgaccaagttaaaactgtcttattaggaatcttgttTttcggaaaaatcataaaagt
+195,chr,asTSS25,Onion yellows phytoplasma OY-M,NA,774814,775392,hypothetical protein PAM_682,775095,+,pam682,tctatgggtatcttacttattaattctttaatatagtctttttgttcgttgagataattaAtttggaagatagggaaatgt
+196,chr,asTSS26,Onion yellows phytoplasma OY-M,NA,774814,775392,hypothetical protein PAM_682,775139,+,pam682,ttcgttgagataattaatttggaagatagggaaatgtgttttaagggtattattttggcaTtttgggggtgatatggggtt
+197,chr,asTSS27,Onion yellows phytoplasma OY-M,dnaG,777846,779171,DNA primase,778157,+,pam685,cctgtttcatcattatctaaggcaataatgacttttatattttctttttttaggatttctAgttgggattgggaaagcaat
+198,chr,asTSS28,Onion yellows phytoplasma OY-M,dnaG,777846,779171,DNA primase,778785,+,pam685,ggttaaataagggtgatatttctttaaataattgtgtttttttggcattaatttctttttCgtcggtgggatttgatgcgt
+199,chr,asTSS29,Onion yellows phytoplasma OY-M,dnaG,777846,779171,DNA primase,779054,+,pam685,caacaatgaattttgttgtctgaagttatttggcaacaagttgggttttggccttgatggAtggggcaggggaaacgatat
+200,chr,asTSS30,Onion yellows phytoplasma OY-M,dnaB,779198,780697,replicative DNA helicase,780212,+,pam686,caaaaaattcagggtgtaaaaaggccatttggtttaaattgaagagagtttggtcggattTgtgggggattgaagaaataa
+201,chr,asTSS31,Onion yellows phytoplasma OY-M,dnaB,779198,780697,replicative DNA helicase,780273,+,pam686,gtgggggattgaagaaataaagattcttaatttatcaaaaatttcttggtaatataaattTttgtggtatgggtcttggtt
+202,chr,oTSS01,Onion yellows phytoplasma OY-M,rfaG,10428,11675,"1,2-diacylglycerol 3-glucosyltransferase",9927,+,pam008,tttttgggatttgttccttatgataatttaggaatttattatcaattgggaaattgttttTtgagtgcttctttatttgag
+203,chr,oTSS02,Onion yellows phytoplasma OY-M,NA,42625,43755,hypothetical protein PAM_031,41683,+,pam031,tttgactaaattttatattttagtattttgttaactgatatataaaaaatatttgcaaggCtataatggtggataaaatta
+204,chr,oTSS03,Onion yellows phytoplasma OY-M,NA,42625,43755,hypothetical protein PAM_031,42118,+,pam031,gattaaattataacaaaacaaaaaataaaagctaataataaatgttaaaaaaatgcattaTtttgggaatttggaaccaaa
+205,chr,oTSS04,Onion yellows phytoplasma OY-M,NA,65281,63851,hypothetical protein PAM_052,65520,-,pam052,gtaatttgttcttttaaaaaaagaataaaatctttaactttcatttcagttctcgtttttTcaaggggtttttgtaggcga
+206,chr,oTSS05,Onion yellows phytoplasma OY-M,nrdA,69651,67342,ribonucleotide reductase alpha subunit,69982,-,pam054,ttttcattgatttactccttttttcttttagggtttttgaatttttcagtataaattaatTgggataaaattgaaagggtt
+207,chr,oTSS06,Onion yellows phytoplasma OY-M,obg,111754,110486,conserved hypothetical protein,111996,-,pam089,tattttattataactcaattttgatgaattaggttatatttttgattggggaaagtaaaaTtttgggttgtttaagggggg
+208,chr,oTSS07,Onion yellows phytoplasma OY-M,NA,133602,134309,hypothetical protein PAM_109,132585,+,pam109,acccaaaaaataattaaccctgaatattgacaaaccccttataatttgttaaaatataatTgaactttaaccttttggtta
+209,chr,oTSS08,Onion yellows phytoplasma OY-M,NA,187236,188186,conserved hypothetical protein,187144,+,pam157,ttgtgattttgaaaaattgtagtaaaaaaacttattttgaagttaaaaatcagattctttTtgtcaatccctcaagtgaaa
+210,chr,oTSS09,Onion yellows phytoplasma OY-M,NA,379044,378595,conserved hypothetical protein,381146,-,pam333,tcgaaaaattcaggatgacaagaggacatttgatttaaagttaataaagttttgtcggatTtgtgcgggattaaagatata
+211,chr,oTSS10,Onion yellows phytoplasma OY-M,NA,401287,400208,conserved hypothetical protein,401453,-,pam354,taacatcttattctcctttataatattaaaaaccccctaaatccccaaaggggactttatAggaggggtgtaataggttaa
+212,chr,oTSS11,Onion yellows phytoplasma OY-M,tmk,420486,420049,thymidylate kinase,422035,-,pam374,tcgaaaaattcaggatgacaagaggacatttgatttaaagttaataaagttttgtcggatTtgtgcgggattaaagatata
+213,chr,oTSS12,Onion yellows phytoplasma OY-M,uvrD,461282,458850,ATP-dependent DNA helicase,462008,-,pam413,taggcggccagccgaagaacattacaattaacctattacacccctcctataaagtcccctTtggggatttagggggttttt
+214,chr,oTSS13,Onion yellows phytoplasma OY-M,NA,462170,463150,conserved hypothetical protein,462010,+,pam414,ttgataaattaaataacatcttattctcctttataatattaaaaaccccctaaatccccaAaggggactttataggagggg
+215,chr,oTSS14,Onion yellows phytoplasma OY-M,NA,501172,500774,hypothetical protein PAM_452,501571,-,pam452,ataaattaattttgttgcaataaattgttgaaaaaaacttatttccagttaaaatataagTaagtctttgacttgattata
+216,chr,oTSS15,Onion yellows phytoplasma OY-M,NA,515715,515398,hypothetical protein PAM_462,516559,-,pam462,cttgtaaatttggtattcttctatctttttcatttttttaggcaaaaacattcccaaaccTtgagggcaagcagaatgact
+217,chr,oTSS16,Onion yellows phytoplasma OY-M,NA,544533,544021,hypothetical protein PAM_485,545292,-,pam485,tacaacatatttttggtctattttgtgaaagcaagatagattatagcagaaaataaaagcAaaaaaacgagaaactgttta
+218,chr,oTSS17,Onion yellows phytoplasma OY-M,NA,573949,574626,conserved hypothetical protein,573821,+,pam506,aaataacatcttattctcctttataatattacccccctaaatccccaaaggggactttatAggagggggtgtaatagatta
+219,chr,oTSS18,Onion yellows phytoplasma OY-M,NA,592800,592342,conserved hypothetical protein,592846,-,pam526,aaatttcaaaaacttaaaaaaaactttaaattattgaaattattaatgctataatataagTaataagaaaaagattttttt
+220,chr,oTSS19,Onion yellows phytoplasma OY-M,NA,598042,597674,hypothetical protein PAM_530,598631,-,pam530,aaaagaataaaggaaaattagatgaaaaaatataatttatttgataattttatttgtttaTtgatgggtgcaattattggt
+221,chr,oTSS20,Onion yellows phytoplasma OY-M,NA,609119,608739,hypothetical protein PAM_544,610667,-,pam544,cgaaaaattcaggatgacaagaggacatttgatttaaagttaataaagttttgtcggattTgtgcgggattaaagatataa
+222,chr,oTSS21,Onion yellows phytoplasma OY-M,hflB,628484,629596,ATP-dependent Zn protease,628302,+,pam561,aatataagtaataagaaaaagattttttttaaaagaaacaatatttttaaaaaactcagtAatcgcctacaaaaacccctt
+223,chr,oTSS22,Onion yellows phytoplasma OY-M,hflB,628484,629596,ATP-dependent Zn protease,628435,+,pam561,gaaatattctaagatattagggatattttctttttctataacattgatatcgtatcttttGaatttgggtcgagtgtttaa
+224,chr,oTSS23,Onion yellows phytoplasma OY-M,NA,647355,646867,hypothetical protein PAM_577,647939,-,pam577,gttgcttcttggttaaatattggtaaaattgaaccattattcctttgtttagttggtgaaTacttagtttgacagtgaaaa
+225,chr,oTSS24,Onion yellows phytoplasma OY-M,NA,653913,654704,uncharacterized ACR,653826,+,pam584,cctaattttcgtttattcatttatttgtttccttttcgtctttgattggtatatttggttTgggggttgaggttagttggg
+226,chr,oTSS25,Onion yellows phytoplasma OY-M,dnaC,762974,763792,DNA replication protein,762465,+,pam672,caaataacaaatataaaaataacttgatttaaaaaaggtttttgagttaaaataaaaataTggggatgttttggatttgcc
+227,chr,oTSS26,Onion yellows phytoplasma OY-M,dnaC,762974,763792,DNA replication protein,762524,+,pam672,atggggatgttttggatttgccaggtaacgaaatttatatagcatatcttggttacgcaaGtaaaaacgtcgaggttataa
+228,chr,oTSS27,Onion yellows phytoplasma OY-M,dnaC,762974,763792,DNA replication protein,762672,+,pam672,aatgaattttgcaaacagtttttcttcacaattagcttttgcttaaataaataagcaaaaAccgcacttaaattaacttac
+229,chr,oTSS28,Onion yellows phytoplasma OY-M,fliA,793223,792597,DNA-directed RNA polymerase sigma subunit,793798,-,pam702,tttattaatatttatcatattaaattaactactcattaaatatttgagttataataaaggCataaagtcttttattatatt
+230,chr,oTSS29,Onion yellows phytoplasma OY-M,fliA,793223,792597,DNA-directed RNA polymerase sigma subunit,794313,-,pam702,gctgttttaggaactaatattttgattcctactatttatggtgaagtagctttaaaaattCctgcagggattcaatcaggc
+231,chr,oTSS30,Onion yellows phytoplasma OY-M,hrcA,799183,798155,heat-inducible transcription repressor,800832,-,pam706,ttttattttatcatttttttattattttaataatttattattttaaaagtttttttatatTataaagtttttggggttgta

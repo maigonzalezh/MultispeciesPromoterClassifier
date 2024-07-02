@@ -1,0 +1,893 @@
+id,Type,PromoterName,SpeciesName,GeneName,GeneStart,GeneEnd,GeneProduct,TSSPosition,Strand,Locus_tag,PromoterSeq
+1,chr,pyotss0001,Streptococcus pyogenes strain S119,NA,NA,NA,chromosomal replication initiator protein DnaA  ,175,+,SP119_0001,aaactaactattatccatcgttctgtggaaaactagaatagtttatggtagaatagttctAgaattatccacaagaaggaa
+2,chr,pyotss0002,Streptococcus pyogenes strain S119,NA,NA,NA,DUF951 domain-containing protein?,2896,+,SP119_0003,acgaacaaactaagtaagaaaaagctcccttttaggagtttttttgttattataaatattAacgataatataagtggagaa
+3,chr,pyotss0003,Streptococcus pyogenes strain S119,NA,NA,NA,redox-regulated ATPase YchF,3422,+,SP119_0004,atctgaaattttcttcttattcataccgctttttcttctattttttggtataataatcttGattgaaatttgaatggagat
+4,chr,pyotss0004,Streptococcus pyogenes strain S119,NA,NA,NA,hypothetical protein  ,8856,+,SP119_0007,tttgctgcgaaattaggatcttttctaccatttaaaaaataaaaatgataaaatgaagagGattgtaggagaaattatgag
+5,chr,pyotss0005,Streptococcus pyogenes strain S119,NA,NA,NA,hypothetical protein,9361,+,SP119_0009 (end of SP119_0008),tgttgattttgaaaagcaaaatcaacaggtggttaaattaaaaaaagagtataatgaattGtcaaagagtacaaaaaaaga
+6,chr,pyotss0006,Streptococcus pyogenes strain S119,NA,NA,NA,as SP119_0010,10231,-,SP119_SR001,cacttgtttgtgtgttgagttgctttacaaaaattgaataatttgggttattatatttttGtaagagcatttcctggactt
+7,chr,pyotss0007,Streptococcus pyogenes strain S119,NA,NA,NA,NA,10420,+,int SP119_0010,caaaaacaattacaaaaaaagaaattagcagagaataaaactttgacttatactaaagatGttaatcatttttatggagac
+8,chr,pyotss0008,Streptococcus pyogenes strain S119,NA,NA,NA,NA,11872,+,int SP119_0011,ttacaaaaatcgttcctaagactgagttagttaaagaagaaaaaatgttagaatacgataGtaacttatgctacagagatt
+9,chr,pyotss0009,Streptococcus pyogenes strain S119,NA,NA,NA,hypoxanthine phosphoribosyltransferase,12173,+,SP119_0012 (end of SP119_0011),tgtattgataggtaataaaacttatttgagaaaagcttgtaaacatgatataatgttggcTaaactgtatattgataaatt
+10,chr,pyotss0010,Streptococcus pyogenes strain S119,NA,NA,NA,amino acid permease  ,15050,+,SP119_0014,agtttcagtcaaccaataagatgaaatttacaatcattactaactatgatacacttagtaGaaaatcatttactatagaag
+11,chr,pyotss0011,Streptococcus pyogenes strain S119,NA,NA,NA,CHAP domain-containing protein?SibA,31104,+,SP119_0015,acatataactgtaacaattgcgtaatattaaatacttttttttttggtaaaatataagatGtcttatcgaaaaggagtagt
+12,chr,pyotss0012,Streptococcus pyogenes strain S119,NA,NA,NA,ribose-phosphate pyrophosphokinase 1  ,32560,+,SP119_0016,ttctttaacggtttttcaatttcatttgataattcacttgaaaagcgttaaaatggtataGgattaaaactttggaggaaa
+13,chr,pyotss0013,Streptococcus pyogenes strain S119,NA,NA,NA,DNA repair protein RecO  ,33671,+,SP119_0017,ggtattaattattgtgggatgaactatgcaattctaaaggattttgggtataataagaaaGataacaacagtttattgtaa
+14,chr,pyotss0014,Streptococcus pyogenes strain S119,NA,NA,NA,phosphate acetyltransferase PlsX?,34540,+,SP119_0018,gaaatgatagggtctctttcgtttatgggaattggtttcagaatatgctataataaaaatAttattaatagattgtgtaag
+15,chr,pyotss0015,Streptococcus pyogenes strain S119,NA,NA,NA,phosphoribosylaminoimidazolesuccinocarboxamide synthase  ,35955,+,SP119_0020,aaaacttataaacgtaaataatatcttgaatatttttatagagtatgttactcttaaatgAaaacagaaagaaaggcgaat
+16,chr,pyotss0016,Streptococcus pyogenes strain S119,NA,NA,NA,phosphoribosylamine--glycine ligase  ,47062,+,SP119_0027,ttcaattattgataactaatacattatgtaaaaaagcgaacgtttatgatataatatctaAttataatacgaaagaggtgg
+17,chr,pyotss0017,Streptococcus pyogenes strain S119,NA,NA,NA,XRE family transcriptional regulator Rgg3,53270,+,SP119_0032,atattttctttaaaaatattaaaaaggttagtttttaattagacgctgtgatataataaaGaaaacagttgttggagagaa
+18,chr,pyotss0018,Streptococcus pyogenes strain S119,NA,NA,NA,Holliday junction ATP-dependent DNA helicase RuvB,54431,+,SP119_0033,ggtggcgattataataaaagtaggccactgctctcttttactttatgttataatagtcttAtggctagaattttagacaat
+19,chr,pyotss0019,Streptococcus pyogenes strain S119,NA,NA,NA,low molecular weight phosphotyrosine protein phosphatase,55553,+,SP119_0034,ttgacagaaaattattagattgatttctccgatatcagttagaaatttgatataataattCaaaggagtatttaatgaaaa
+20,chr,pyotss0020,Streptococcus pyogenes strain S119,NA,NA,NA,bifunctional acetaldehyde-CoA/alcohol dehydrogenase,58465,+,SP119_0037,aacttcacaaatttattgtgaaatgatttacaaaatttcaaaaagtgctataataattttGtaaacaaaattgtgaaactt
+21,chr,pyotss0021,Streptococcus pyogenes strain S119,NA,NA,NA,alcohol dehydrogenase AdhP,61361,+,SP119_0038,gtttcagaaacttttcaggtttctattgactttcattgtgaaaagatgtacaatttatttGtaaccgattacaaaaaagtc
+22,chr,pyotss0022,Streptococcus pyogenes strain S119,NA,NA,NA,NA,62008,+,int SP119_0038,taaaaaagtctttaatgcacatgttgtcgcagtggacattaataatgataaacttgagttAgctaaagaagttggcgcaga
+23,chr,pyotss0023,Streptococcus pyogenes strain S119,NA,NA,NA,MATE family efflux transporter  ,62574,+,SP119_0039,tcgagagtgctattttgatacattgaaagttgctaaatgaagaatatattatataatagaAaaaattcgtttggagtcctt
+24,chr,pyotss0024,Streptococcus pyogenes strain S119,NA,NA,NA,NA,62825,+,int SP119_0039,gaaaaaatcgtttgatcaagaattttttattaggggacataaatgatatataataatagaAgaaaaattttctctttagct
+25,chr,pyotss0025,Streptococcus pyogenes strain S119,NA,NA,NA,30S ribosomal protein S10  ,64169,+,SP119_0040,ttttttttgaaaaaaatgcctaaaaagcttgcaatgactaaatgattctgttattatattGtggtgctgtaaaaatacagc
+26,chr,pyotss0026,Streptococcus pyogenes strain S119,NA,NA,NA,NA,69476,+,int SP119_0050,ttgtagttgaaactaaacgtaaccacccagtctatggtaaacgtatcaactattctaaaaAatataaagcacatgacgaaa
+27,chr,pyotss0027,Streptococcus pyogenes strain S119,NA,NA,NA,NA,74461,+,int SP119_0061,atgccaagagcttagagcaattaagtgaactccctttcttaaatatgttaaacttagttaGtggtaatgcgatgagaaatt
+28,chr,pyotss0028,Streptococcus pyogenes strain S119,NA,NA,NA,translation initiation factor IF-1  ,76423,+,SP119_0063,actcaaataaattatacaaatctacttgcataagtagattagtaatgatatactagtttaGtctgacttataattgttacc
+29,chr,pyotss0029,Streptococcus pyogenes strain S119,NA,NA,NA,hypothetical protein  ,86130,+,SP119_0069,aatctcttatattactgataaggtctatttaatgcgcaagatttgtggtatgatgaatatGattgagtattgatgctttat
+30,chr,pyotss0030,Streptococcus pyogenes strain S119,NA,NA,NA,4-diphosphocytidyl-2C-methyl-D-erythritol kinase  ,86834,+,SP119_0070,catcaatcttagaagtaataatttttgaattttttctgaggtttgtgtatatttgatagtGtactgatgtaagaagtaagg
+31,chr,pyotss0031,Streptococcus pyogenes strain S119,NA,NA,NA,transcriptional regulator  AdcR,87658,+,"SP119_0073, p2 (end of SP119_0072)",caggaagtggaccgactgtttttgctttgtgccaaaccgaaaaacaaactataatagtttAaaaggactttgcaaggaagt
+32,chr,pyotss0032,Streptococcus pyogenes strain S119,NA,NA,NA,transcriptional regulator  AdcR,87749,+,"SP119_0073, p1",agaatgttgtaatattttgttgggattgcttctttggaagcttcatgttataattaactgGttaatgaaagaggagattta
+33,chr,pyotss0033,Streptococcus pyogenes strain S119,NA,NA,NA,tyrosine--tRNA ligase  ,91500,-,SP119_0077,cattataccaaactttgataaagcttgcatagcagtagcgttttttgatataatgattcgAaactataatgaaaatggaga
+34,chr,pyotss0034,Streptococcus pyogenes strain S119,NA,NA,NA,penicillin-binding protein,91567,+,SP119_0078,attatatcaaaaaacgctactgctatgcaagctttatcaaagtttggtataatgataaatGaggtattttatggtgaaatg
+35,chr,pyotss0035,Streptococcus pyogenes strain S119,NA,NA,NA,DNA-directed RNA polymerase subunit beta  ,93914,+,SP119_SR002/SP119_0079,aacttcgggttcagaaaaaattaggttgccatttatcgataaaaagggtataatagtaatAactatttgtcgtccaatcta
+36,chr,pyotss0036,Streptococcus pyogenes strain S119,NA,NA,NA,dipicolinate synthase  ,101570,+,SP119_0081,tcttagtcccaatgagcagatgtttttcaaaatacttatgatttagctataataatgcatAagaggaatgggtaatgtgtt
+37,chr,pyotss0037,Streptococcus pyogenes strain S119,NA,NA,NA,SAM-dependent methyltransferase,105764,+,SP119_0089,atatagtaattaaaggtgacacttcttttcatttcaagtgtaatttggtatgataaggttAtgacttttgaaaaaattgaa
+38,chr,pyotss0038,Streptococcus pyogenes strain S119,NA,NA,NA,acetate kinase  ,106742,+,SP119_0090,aatttcaaaaaatggaaactgagtaatgtcaattaattgattttttgttataataaaaaaGcatcacagaaaacgatttca
+39,chr,pyotss0039,Streptococcus pyogenes strain S119,NA,NA,NA,glutamyl aminopeptidase  ,110483,-,SP119_0093,ctctgggatttttcttttctgtgaaacccattcttacttaaaaagtggtagaatataaggAgatgaccgcgttgaactggt
+40,chr,pyotss0040,Streptococcus pyogenes strain S119,NA,NA,NA,hypothetical protein,110789,-,SP119_0094,aactaaagatttctactgttatgtattgacaaaaatagtaaaaacaactaaactaaaggtAcgttgattaggtgtggttta
+41,chr,pyotss0041,Streptococcus pyogenes strain S119,NA,NA,NA,DUF4651 domain-containing protein,110900,+,SP119_0095,atctttagttttcttatttcagatcgtccaatttgatctttttatgataaaatgagggatAtgagtaaaaagaaaataggt
+42,chr,pyotss0042,Streptococcus pyogenes strain S119,NA,NA,NA,as SP119_0095,111082,-,SP119_SR003,ggtgaattggtactgtttgccgtttgacataacaaccccacctgaaatataatcttgtttGacctgacaaggattgatata
+43,chr,pyotss0043,Streptococcus pyogenes strain S119,NA,NA,NA,Single-stranded DNA-binding protein 1  ,112282,+,SP119_0098,tgttttcaaaaacgtttaaaatgaaacttattttaccacaatttttacgaataataagatAaggaggtcagtatgtataat
+44,chr,pyotss0044,Streptococcus pyogenes strain S119,NA,NA,NA,redox-regulated molecular chaperone Hsp33,115446,-,SP119_0101,attgatttttcaagcaatcctgtcaatacaagttttacactttatgctataatctaagttAtggataaaataattaaatca
+45,chr,pyotss0045,Streptococcus pyogenes strain S119,NA,NA,NA,transcriptional regulator ,117149,-,SP119_0102,gactttttaccaaaaaccattagatttgacttctatttttagcttagatagaattgaaatAggagaatacacttatcaaag
+46,chr,pyotss0046,Streptococcus pyogenes strain S119,NA,NA,NA,pilus ancillary protein 1,117336,+,SP119_0103,gtgaaaaacttagtacgaatatatttctttgacttcaatagaatgatatgatgtcacattGagaggagagaaaatgaaaaa
+47,chr,pyotss0047,Streptococcus pyogenes strain S119,NA,NA,NA,hypothetical protein  ,124339,-,SP119_0109,aaaaatttcaaaaagtcatgatttctattgaactcatggcttttcttcaggtataatgaaGaaaatatcaggaggaagacc
+48,chr,pyotss0048,Streptococcus pyogenes strain S119,NA,NA,NA,hypothetical protein ,124913,-,SP119_0111,atgtaagcgtccaataacagggtatctaccgtgattctcaatcctccagtatactgttagTaaaactagtctatcggagga
+49,chr,pyotss0049,Streptococcus pyogenes strain S119,NA,NA,NA,IG-as  3'UTR SP119_0113 ,125893,+,SP119_SR004,ggggtacggtggggatatcgtacagaagagctccttcggttactttaagtataataaaagAaataaaaagagtctgagcaa
+50,chr,pyotss0050,Streptococcus pyogenes strain S119,NA,NA,NA,hypothetical protein ,126661,-,SP119_0113,attatgataaaaaactaaaaaataatttactttttagtttttttgttataatatattagtAttaaaagaaaggtttttcat
+51,chr,pyotss0051,Streptococcus pyogenes strain S119,NA,NA,NA,LysR family transcriptional regulator  ,129432,-,SP119_0116,atagaaacttctcctttttcattattgaaacgcttacatttttattatataatgtgaactAtaataaacaaatatcgtttt
+52,chr,pyotss0052,Streptococcus pyogenes strain S119,NA,NA,NA,DNA-binding protein  ,132828,-,SP119_0120,aaattattattaaggtgattggcaattgttttttagtctaaaatgtattactatatttgtAaataagaagatagatatagg
+53,chr,pyotss0053,Streptococcus pyogenes strain S119,NA,NA,NA,"reactive intermediate/imine deaminase, RidA family protein ",132947,+,SP119_0121,tttttatcaaaaagagaatttattattgactgtgaatgcggtttcctgtaaaatttaactAtattatcaatgaggaggttc
+54,chr,pyotss0054,Streptococcus pyogenes strain S119,NA,NA,NA,IG sRNA,134445,+,SP119_SR005,agaaactaataaacatctttttgacaggacttttaacaagatagcagttatactgttatcAcattggcttggctattggct
+55,chr,pyotss0055,Streptococcus pyogenes strain S119,NA,NA,NA,hypothetical protein  ,146028,-,SP119_0133,ttctcttaaaacattagctcttttctttcagaaatagcggttttaaggtaaaataatagtAagttacctctatgagatagc
+56,chr,pyotss0056,Streptococcus pyogenes strain S119,NA,NA,NA,adenylosuccinate synthetase  ,146253,+,SP119_SR006/SP119_0134,tttttccttaataatgctaagaaatctagcagaaaaaatcattttttgctataataagttGtaagatatatgctagcaggt
+57,chr,pyotss0057,Streptococcus pyogenes strain S119,NA,NA,NA,?BMP family ABC transporter substrate-binding protein?,147957,+,SP119_0135,gaaaaagagatttttcagcaaaaatagtaggataaaactgatttttttgatatactaaacTtttcgttctagagcataagt
+58,chr,pyotss0058,Streptococcus pyogenes strain S119,NA,NA,NA,transcription termination/antitermination protein NusG,149195,+,SP119_0136,ggtgtcaagtagctccacagatacgttgacaccagccctgtcttttattataatgaaggtGatagaaaacagcgcaaaagc
+59,chr,pyotss0059,Streptococcus pyogenes strain S119,NA,NA,NA,N-acetylglucosamine-1-phosphate uridyltransferase Nga,150139,+,SP119_0137,cctaaaacgatgttaataaatcgcattgacaaaaactagttgttaatgtatagtttacttAaaaataatataaggtggttt
+60,chr,pyotss0060,Streptococcus pyogenes strain S119,NA,NA,NA,hypothetical protein ,153947,+,SP119_0140,attattcttttctcacatcgtgaccttgaagctaagctgcttctaatctataatactaacAagctgctttttaacaagcaa
+61,chr,pyotss0061,Streptococcus pyogenes strain S119,NA,NA,NA,hypothetical protein,155456,-,SP119_0142,aataataaaaacattaaaataacactttatttattaacaaaaagttagtataatataatcAcaatacaaattaaaggagtt
+62,chr,pyotss0062,Streptococcus pyogenes strain S119,NA,NA,NA,cystathionine beta-lyase domain protein,155944,+,SP119_0143,tgtttttcactatatttctctcctaaaaataaatagtattttagcggtatactataagacGcatggtgaaaacaagttctg
+63,chr,pyotss0063,Streptococcus pyogenes strain S119,NA,NA,NA,PLP-dependent transferase,156193,+,SP119_0144,agcttggtcaaagatgataaaagggcttgcaaacttagctaaaggttgtataataaacgtAatcgatctaaaaatgatatt
+64,chr,pyotss0064,Streptococcus pyogenes strain S119,NA,NA,NA,leucine--tRNA ligase  ,157708,+,SP119_0145,ccaaggtgctagtcatgtcttgaccattcctaaaagcttcatctcatgctataataagaaGactagattttttacatggga
+65,chr,pyotss0065,Streptococcus pyogenes strain S119,NA,NA,NA,transcription antiterminator,165556,+,SP119_0152,ttatggtgagtttttcaaaacttggctgcgcagtcactgaaatcatgataaaataagcaaGgatggattttcagagaggag
+66,chr,pyotss0066,Streptococcus pyogenes strain S119,NA,NA,NA,NA,167083,+,int SP119_0152,gactaaaatcccgatgcttattgttaaccctattttaagtgacgatgatatcatcaaattGatacgcttttcaaagcaagg
+67,chr,pyotss0067,Streptococcus pyogenes strain S119,NA,NA,NA,L-ascorbate-6-phosphate lactonase  ,167452,+,SP119_0153,acacagatctgtgtgacacttggtctttttatcattgacaagaaagtctatacttaaagtAtagaaatgaagaacaaattc
+68,chr,pyotss0068,Streptococcus pyogenes strain S119,NA,NA,NA,glycine betaine/L-proline ABC transporter ATP-binding protein ,168916,+,SP119_0154,cattaccagatcgagttattgtccttgacaaaaagtgaccacacgtgataatatagttatGttctgtttcggcagattctt
+69,chr,pyotss0069,Streptococcus pyogenes strain S119,NA,NA,NA,DNA polymerase I ,172135,+,SP119_0156,tatcagcaaaaccaatggcttaaaggagaaaagcccgtccctctgtgttataataaggctAtggaaaacaagaataaatta
+70,chr,pyotss0070,Streptococcus pyogenes strain S119,NA,NA,NA,as SP119_0156,172964,-,SP119_SR007,atctggctagcaagacctttcttgagttgcacaaaatccatctcatcgtaaaattgagagAggctagcaacatctggacca
+71,chr,pyotss0071,Streptococcus pyogenes strain S119,NA,NA,NA,CoA-binding protein  ,174827,+,SP119_0157,aagccaaataagttttcttacttgttatttctcattttgacaacttatgttataataaacTaaaaaattgtaggagaagtc
+72,chr,pyotss0072,Streptococcus pyogenes strain S119,NA,NA,NA,IS3 family transposase,179988,-,SP119_0165,gctagcttccttaagttagatttattgtctaacttaaggttggacttggtataataaagtAgacacaaaattaagtggaaa
+73,chr,pyotss0073,Streptococcus pyogenes strain S119,NA,NA,NA,DUF975 domain-containing protein,185040,-,SP119_0170,aaaaaagtatagtcaaaataatggttagctgtctcattttgttttatggtataatgaaatAaaggagtctgttatgtcaat
+74,chr,pyotss0074,Streptococcus pyogenes strain S119,NA,NA,NA,Queuine tRNA-ribosyltransferase,185145,+,SP119_0171,ttgactatacttttttgggaaagcatgacaaattatggattttttgataaaatgataggcGctagaacaacatgtcatctt
+75,chr,pyotss0075,Streptococcus pyogenes strain S119,NA,NA,NA,hypothetical protein,186593,+,SP119_0172,cagttacccttttgtaaaaatagagttgacaaatcataagcttttgattaaactattacaAgaggatgagatatgacggac
+76,chr,pyotss0076,Streptococcus pyogenes strain S119,NA,NA,NA,"Ribonuclease BN, tRNA processing enzyme ",187575,+,SP119_0174,aggacctgtttttggtgggtctcaatcctctttgacactaatttttgttataataagagtTaaagcaagaaagaagggttt
+77,chr,pyotss0077,Streptococcus pyogenes strain S119,NA,NA,NA,as SP119_0176,190525,+,SP119_SR008,ctttttttagaagccggcgtcaaactgatgatttcacgaaattgtgctaaactatcgtatAaagtgaggtaattttcttgt
+78,chr,pyotss0078,Streptococcus pyogenes strain S119,NA,NA,NA,S-layer homology domain,190750,-,SP119_0176,tgctttttgaaaatctttccctctccccattccagctattctctatgttataataagattAttagattagaatgggagtta
+79,chr,pyotss0079,Streptococcus pyogenes strain S119,NA,NA,NA,IG sRNA,190949,+,SP119_SR009,aagtgattttacttagttggaaaacttgcaaactgtccgtaatatgatataataataggcGgagcaacacttgtgcgtgaa
+80,chr,pyotss0080,Streptococcus pyogenes strain S119,NA,NA,NA,glucose-6-phosphate isomerase  ,192269,+,SP119_0180,cacaggtgaaaaccactaaaaaccattgaaatattagatagaaaaggttatcatactaatGaaacttaaaattttaaggga
+81,chr,pyotss0081,Streptococcus pyogenes strain S119,NA,NA,NA,IG-as 5'UTR rivR (SP119_0181),195681,+,SP119_SR010,aaaagcagcaaacttcatcaatagattgattgatgcgtgtttttagcccataattgagagAgctaagaacacgcgggtgaa
+82,chr,pyotss0082,Streptococcus pyogenes strain S119,NA,NA,NA,IG sRNA,195874,-,SP119_SR011,taaaggcattctaaagaatcatttaagaaaactttaaggttactatcgtagaatgaaaacAtcctaaaaagcggtttacct
+83,chr,pyotss0083,Streptococcus pyogenes strain S119,NA,NA,NA,DUF1751 domain-containing protein,197335,+,SP119_0183,ggcgtggctagtttcttgtcagccttgaacctttttcctaatttatggtatgataagaagAtgatgaaaaaagagattctc
+84,chr,pyotss0084,Streptococcus pyogenes strain S119,NA,NA,NA,glycerol-3-phosphate dehydrogenase (NAD(P)(+))  ,200262,-,SP119_0185,tagccaagaccatataccttttctaatagagctaatcaaggtgttatgttataatagagtGactagctcttgaaggagaat
+85,chr,pyotss0085,Streptococcus pyogenes strain S119,NA,NA,NA,MarR family transcriptional regulator  ,200500,+,SP119_0186,tttttaaaaataaagatattttaattgacaatagttatctagagaactaaaatacttatcAtagaaactattaaagaaaat
+86,chr,pyotss0086,Streptococcus pyogenes strain S119,NA,NA,NA,hypothetical protein  ,204557,+,SP119_0189,gttttttggtgaacaataaagcagtcaagctttcttttctgatatggtataatagcaagcAagagaaaaaacaattagaaa
+87,chr,pyotss0087,Streptococcus pyogenes strain S119,NA,NA,NA,deoxyuridine 5'-triphosphate nucleotidohydrolase  ,205431,+,SP119_0190,ggtccgtttaaagttgaccgcttttttgctattcttttacgaatagtctataataagaggAtatgattgacttgaaaggat
+88,chr,pyotss0088,Streptococcus pyogenes strain S119,NA,NA,NA,carbonic anhydrase,207492,+,SP119_0192,cgataccgaccgtctaagaggttaatccagctattttccataaaagatgttaagataagaCaaactaacagcaaaaatagc
+89,chr,pyotss0089,Streptococcus pyogenes strain S119,NA,NA,NA,TIGR00266 family protein  ,208137,+,SP119_0193,tatttttaaaaattattgaaaatattagacaaagaaatagggaagcgttataataattgtAtcaagttattcatacaaaca
+90,chr,pyotss0090,Streptococcus pyogenes strain S119,NA,NA,NA,glutamate--tRNA ligase  ,208955,+,SP119_0194,atcagctttttagggctgatttttttcgcctaagcaagtaaaatatgctataataagaaaGattttagaagaagtctgaaa
+91,chr,pyotss0091,Streptococcus pyogenes strain S119,NA,NA,NA,sensor histidine kinase FasB,210784,+,"SP119_0195, p2",ttgattagtgtgatttaaagaaatggtttttatgaatcaattagtgtacaatatttttttGgtatatactgaaagagacta
+92,chr,pyotss0092,Streptococcus pyogenes strain S119,NA,NA,NA,sensor histidine kinase FasB,210800,+,"SP119_0195, p1",aaagaaatggtttttatgaatcaattagtgtacaatatttttttggtatatactgaaagaGactagtttagtactcactta
+93,chr,pyotss0093,Streptococcus pyogenes strain S119,NA,NA,NA,IG sRNA,214362,+,SP119_SR012,aaaagcaacatttcaggaaatgatgctcttattgaaacatttttcgctataataattagtGtaaataaagatttacgaagt
+94,chr,pyotss0094,Streptococcus pyogenes strain S119,NA,NA,NA,ribonuclease P protein component  ,214788,+,SP119_0198,ggcttaatctgaaagggttagggctttttaattttttaggggatgtggtataatggtaatAatttagatattggagttaaa
+95,chr,pyotss0095,Streptococcus pyogenes strain S119,NA,NA,NA,50S ribosomal protein L34  ,217135,+,SP119_0201,aactgttgaaaaacgaaaataaatcttgacagtagaccctctttaagatagaatattataGtatgtttagtaactgatatc
+96,chr,pyotss0096,Streptococcus pyogenes strain S119,NA,NA,NA,N-acetylmannosamine-6-phosphate 2-epimerase  ,217565,+,SP119_0202,agtagattctaaaagtctcattgctattgaaagcgctttattttttgttataataactttGtgaacgttatttttattaaa
+97,chr,pyotss0097,Streptococcus pyogenes strain S119,NA,NA,NA,as SP119_0203,219533,-,SP119_SR013,accattgggaaccaaagagttctcatttcagcaaacccatcaatcgtgttatagtatggtGagtagaattttgtccattca
+98,chr,pyotss0098,Streptococcus pyogenes strain S119,NA,NA,NA,MurR/RpiR family transcriptional regulator,225191,-,SP119_0209,aatctgtatcacaaaaagggtcgctaccttctgttagcgatctatgctatactagtaggtAgttaaactgtaaggagtgtg
+99,chr,pyotss0099,Streptococcus pyogenes strain S119,NA,NA,NA,TatD family deoxyribonuclease,225448,+,SP119_0210,cggcagaagttctcaccaagttttctgatgtggttaagatctttatgttataataacatcAtgacaaataaagtagaaaaa
+100,chr,pyotss0100,Streptococcus pyogenes strain S119,NA,NA,NA,ribosome small subunit-dependent GTPase A,228186,+,SP119_0213,agcgagtgaaacttagactcaaatgctgatttgggagcggttttctgatataatagagttAttatagtagggcaaaggagc
+101,chr,pyotss0101,Streptococcus pyogenes strain S119,NA,NA,NA,pur operon repressor  ,232822,+,SP119_0218,aaaaaaccaatattttcctaatcgaatgttcgttttttattaactttatggtataatagcAaaaagtacataaaaatgggg
+102,chr,pyotss0102,Streptococcus pyogenes strain S119,NA,NA,NA,30S ribosomal protein S12  ,236377,+,SP119_0220,attgcatcaaaggaaaaattctatttgacatgaagtgccgtctgtgttattatattagacGgtactttttacttttggtct
+103,chr,pyotss0103,Streptococcus pyogenes strain S119,NA,NA,NA,translation elongation factor 2 (EF-2/EF-G) ,237752,+,SP119_0222,atttagataacgggtaggtcctgcctatccgtttttgctaaatagtgctataatgaaagaGtaaactaaaaaaataggaga
+104,chr,pyotss0104,Streptococcus pyogenes strain S119,NA,NA,NA,type I glyceraldehyde-3-phosphate dehydrogenase,240099,+,SP119_0223,ccctttatgaaaatggctaatttatttgcattttttctgaaatagttatataatagttctGttgaaaggttgttacagatg
+105,chr,pyotss0105,Streptococcus pyogenes strain S119,NA,NA,NA,hypothetical protein,241590,-,SP119_0224,caaaaagaatttgtcataaaatactttaccagttaactattttatgctatacttatttttGttaacgttaataatttatat
+106,chr,pyotss0106,Streptococcus pyogenes strain S119,NA,NA,NA,glutamine ABC transporter substrate-binding protein  ,244028,-,SP119_0226,tttcaacctattcactgataatatattgaaataggatgcaaattgctgtaaaataggtctGaatactatttttgaaacagg
+107,chr,pyotss0107,Streptococcus pyogenes strain S119,NA,NA,NA,DUF2207 domain-containing protein,244180,+,SP119_0227,ataagatgaaggacttggtttaggttttgtcatctccttaaaatatggtaaaatgagggcAgaaagaggatgttgccatga
+108,chr,pyotss0108,Streptococcus pyogenes strain S119,NA,NA,NA,adaptor protein MecA  ,247123,+,SP119_0229,ttgtagacgaggagttagtcataaattgcgaaattacagcatttctagtataataaaatgActacgcgtgcgaggtattga
+109,chr,pyotss0109,Streptococcus pyogenes strain S119,NA,NA,NA,ABC transporter ATP-binding protein  ,249121,+,SP119_0231,aaaagaaggatttgaaacactaaaaaagccgagtaaggctttttttgctataatagatgcAgtgaccattataaaaaaagc
+110,chr,pyotss0110,Streptococcus pyogenes strain S119,NA,NA,NA,D-alanyl-D-alanine carboxypeptidase  ,255824,-,SP119_0236,aatcctaacaatttttcaaaaaaacttcacattgtattagcaaagtgatatactgaaaatGcattacatttaaaggagtcg
+111,chr,pyotss0111,Streptococcus pyogenes strain S119,NA,NA,NA,D-alanyl-D-alanine carboxypeptidase  ,257231,-,SP119_0237,attacatcactactcttgtgaggtaagtcattaccttagacaaaaatatggtataattaaAaaaataatacttgagtaagg
+112,chr,pyotss0112,Streptococcus pyogenes strain S119,NA,NA,NA,peptide ABC transporter substrate-binding protein,257468,+,SP119_0238,attcagataatttttcatttcattattttctttaagaaagttttatgatataatgtcttcAattaaccaatttcatttagc
+113,chr,pyotss0113,Streptococcus pyogenes strain S119,NA,NA,NA,as SP119_0242,263884,-,SP119_SR014,aaacaaagtgatttggtttgatttcaaccattgatggcttatctaatgtataatcatgttGgtctggatgatagacaacaa
+114,chr,pyotss0114,Streptococcus pyogenes strain S119,NA,NA,NA,SP119_t044,270194,+,SP119_SR016,gaggtaggaagcgtcctatctttttttgcattttagagaagagtgtggtaagatagaggcAagatatgcgttggcaccctt
+115,chr,pyotss0115,Streptococcus pyogenes strain S119,NA,NA,NA,ISAs1 family transposase  ,271276,+,SP119_0244,agcttggcagtgaatttatagagtgtcaaacaacgagtgttttgtgttacactaaccattAgaagagtctattgttgagca
+116,chr,pyotss0116,Streptococcus pyogenes strain S119,NA,NA,NA,YqeG family HAD IIIA-type phosphatase,272732,+,SP119_0246,ggcgtgatttaactatggttttaaatgctatttcaaaaaaaatatgataaaatagaaagtActaattattttggagatgac
+117,chr,pyotss0117,Streptococcus pyogenes strain S119,NA,NA,NA,YebC/PmpR family DNA-binding transcriptional regulator,278964,+,SP119_0254,gcttaaaacgattttatatttctattttaccaaagcttttcaaagtgctataataagggaGttagagtcaatattagtaac
+118,chr,pyotss0118,Streptococcus pyogenes strain S119,NA,NA,NA,amino acid ABC transporter substrate-binding protein?,279929,+,SP119_0255,tatcaacttgataggaatcaattattagtgaactctaattaaaaatggtaaactagacacAagaacaaaaaggagagatag
+119,chr,pyotss0119,Streptococcus pyogenes strain S119,NA,NA,NA,O-sialoglycoprotein endopeptidase,281094,+,SP119_0256,tggtatatgctagccattatcaatttgaaaactatatctaattaagatacaataatgatcGtaaacaaaatgaatcgagga
+120,chr,pyotss0120,Streptococcus pyogenes strain S119,NA,NA,NA,branched-chain amino acid transport system II carrier protein,285474,-,SP119_0259,ctaagaattttcagtcaatttctattgactatcgaagtaatcttagatataataacctttGttgttattttgacacataat
+121,chr,pyotss0121,Streptococcus pyogenes strain S119,NA,NA,NA,serine/threonine transporter SstT,285606,+,SP119_0260,gttaagatatgtagctcattcgatttgacgaatagatagaattatattattataaaaaacAtgtaactttagtaaggatgt
+122,chr,pyotss0122,Streptococcus pyogenes strain S119,NA,NA,NA,V-type Na+-ATPase subunit J,288983,-,SP119_0262,tagtaccaaaggctaagatgaaacttagcttttttaacttatttttgttattatagtaggAgatattatgtctggaggaaa
+123,chr,pyotss0123,Streptococcus pyogenes strain S119,NA,NA,NA,16S rRNA (guanine(527)-N(7))-methyltransferase RsmG?,289783,-,SP119_0263,gtgttatttctgatgatttattggattttgttataggctattttatgatagaatggtaacAactatcaaaaacagaggata
+124,chr,pyotss0124,Streptococcus pyogenes strain S119,NA,NA,NA,LemA family protein,289886,+,SP119_0264,aatcatcagaaataacacctcattacttgctattagcctagaaattgctataattgagacAcaaagattaaaggagaccca
+125,chr,pyotss0125,Streptococcus pyogenes strain S119,NA,NA,NA,hypothetical protein,291620,+,SP119_0266,aacgtcagaaaataaatgcaaaactattgacaaatcttttagatagtagtaaaaataaatGagagttttattaggagaaga
+126,chr,pyotss0126,Streptococcus pyogenes strain S119,NA,NA,NA,DNA-binding response regulator  CsrR/CovR,292244,+,SP119_0267,tattaaagatgtctgtaatttttatttgaaaaaacagctattctttgatatactctttagAgaatatggttacttatctaa
+127,chr,pyotss0127,Streptococcus pyogenes strain S119,NA,NA,NA,NrdR family transcriptional regulator  ,294819,+,SP119_0269,aaagaaatactgtcaatcgcgatgtcttttgttatccttgagaatatggtaaaatagtatAttagattaatttgatagaat
+128,chr,pyotss0128,Streptococcus pyogenes strain S119,NA,NA,NA,RNA helicase  ,298968,+,SP119_0273,gcaaacaaagaaaaaggattttgacaagaaatatcagtcggtttttgctataatgaaaggAtaagcaaaaaggtggaaaaa
+129,chr,pyotss0129,Streptococcus pyogenes strain S119,NA,NA,NA,hypothetical protein  ,302302,+,SP119_0274,gtcatagaatcatcaaggaatgctttgaaaaataacagtatttaagttataatagaggatGctacaagaagggagaatcaa
+130,chr,pyotss0130,Streptococcus pyogenes strain S119,NA,NA,NA,"endolytic transglycosylase MltG, partial",304922,+,SP119_0277,ataagtaacaaatgcatcatttaattgcaattaggatacttttaagttataatggcggttGattatatttaggaggattgg
+131,chr,pyotss0131,Streptococcus pyogenes strain S119,NA,NA,NA,NA,307782,-,int SP119_0279,aaattaaagaagaatacgctaaaaacccgcctaaagcataccaatcaacttcttctcgtaAggacgttacgccttcacaaa
+132,chr,pyotss0132,Streptococcus pyogenes strain S119,NA,NA,NA,membrane protein insertase YidC,308641,-,SP119_0279,aagtaaaaatcggccttcagaactattgtgaatttctgaaaaaaactgtaaaatagataaGtatattaaaattaaaggata
+133,chr,pyotss0133,Streptococcus pyogenes strain S119,NA,NA,NA,acylphosphatase  ,308989,-,SP119_0280,acggcgtggtagacaattagctaaagagatttcctgctaagtatgtgctataataaaagcAaggaggcccttcttatgcaa
+134,chr,pyotss0134,Streptococcus pyogenes strain S119,NA,NA,NA,23S rRNA methyltransferase  ,310560,+,SP119_0282,aaattgaccatctaagaagttgatgctttcaaatgctgtcgcgtatggtataataggcgcAtggttattacatcaaaagca
+135,chr,pyotss0135,Streptococcus pyogenes strain S119,NA,NA,NA,haloacid dehalogenase  ,311320,+,SP119_0283,ccgtagcagcaggaatcctcattttcagcttgatttaagctaatatgatataataaccaaGtgaggtaattatgttatgca
+136,chr,pyotss0136,Streptococcus pyogenes strain S119,NA,NA,NA,hypothetical protein ,312689,+,SP119_0285,ggctgctaaaagacctagtgttaatttgtaaactctttctttttttggtatactattaagGattaaatacgaggagaatat
+137,chr,pyotss0137,Streptococcus pyogenes strain S119,NA,NA,NA,Putative tRNA (cytidine(34)-2'-O)-methyltransferase,319023,+,SP119_SR017/SP119_0295,aggcatgactttatcaaaaaatggcttgacattgatagctgaagtgttataatggaaaatAagcattcgttggtttaaatc
+138,chr,pyotss0138,Streptococcus pyogenes strain S119,NA,NA,NA,ECF transporter S component,319809,+,SP119_SR018/SP119_0296,gcttttaaaaatttagtcaaagctattgctatctaggtttaaatctgctatgctagaagtGtcttcagggcagggtgtgat
+139,chr,pyotss0139,Streptococcus pyogenes strain S119,NA,NA,NA,PAP2 family protein,320541,+,SP119_0297(end SP119_0296),tttaatcttgttgaagggttgatatttgcaattaccttttattttgtgtatattgcaagtAaaccaattttagaaagatac
+140,chr,pyotss0140,Streptococcus pyogenes strain S119,NA,NA,NA,TIGR01212 family radical SAM protein  ,321518,+,SP119_0298,tgagctatcttttgcatagatgactatcttgctagtaatgatttgtgctacaatagaaacAtgaaaaaaagatatcagaca
+141,chr,pyotss0141,Streptococcus pyogenes strain S119,NA,NA,NA,HlyC/CorC family transporter,323133,+,SP119_0300,tttcggtggaaaaagaagaaatcccataggctttggctataaatgtgatataatgaagtcActatattatttttttaggag
+142,chr,pyotss0142,Streptococcus pyogenes strain S119,NA,NA,NA,pyruvate formate lyase-activating protein  ,324543,+,SP119_0301,tattgaggaagactaggctccatgcctagtctttttgatgaaaagtgttataatgaaaatGtaaaaacgtttacaagtaat
+143,chr,pyotss0143,Streptococcus pyogenes strain S119,NA,NA,NA,manganese-dependent inorganic pyrophosphatase  ,325471,+,SP119_0302,ataagcagatcttttgtaatcttcctttgattttagggggtaattttgctaaaataaaatGaataaacaaaatgaggtaga
+144,chr,pyotss0144,Streptococcus pyogenes strain S119,NA,NA,NA,DUF1803 domain-containing protein,326509,+,SP119_0303,aaaggacttgatttttttgaccaagtccttttgtcactcttctatgttataatagaaggtAtgataacagtatttcattca
+145,chr,pyotss0145,Streptococcus pyogenes strain S119,NA,NA,NA,ABC transporter ATP-binding protein  ,331095,-,SP119_0307,tcctaaaaatcacatcaaaaaaggctttgttaagccttttttctatgctataatagtgaaGattttgagaaaataagctac
+146,chr,pyotss0146,Streptococcus pyogenes strain S119,NA,NA,NA,UDP-N-acetylmuramoyl-L-alanyl-D-glutamate--L- lysine ligase  ,332678,-,SP119_0308,tttattataaacttttgcttgtgacttgtaaaacaagaactttaaggataaaataagggtAtgataaccattgaacaatta
+147,chr,pyotss0147,Streptococcus pyogenes strain S119,NA,NA,NA,polysaccharide biosynthesis protein  ,332742,+,SP119_0309,cttattttatccttaaagttcttgttttacaagtcacaagcaaaagtttataataaagctAatagaaactaggaaagaata
+148,chr,pyotss0148,Streptococcus pyogenes strain S119,NA,NA,NA,NA,332949,+,int SP119_0309,tggatggggcaatacgcgattcaagccaacgctcttttcaatatggggtataatgtttatGcttattttttattgatttca
+149,chr,pyotss0149,Streptococcus pyogenes strain S119,NA,NA,NA,uracil phosphoribosyltransferase  ,334537,+,SP119_0310,agctgataaaaaatcaggatttcccaagcaaactactgatatttttggtataatgataaaAgtgtaaaaaaatagaaggaa
+150,chr,pyotss0150,Streptococcus pyogenes strain S119,NA,NA,NA,ATP-dependent Clp protease proteolytic subunit  ,335337,+,SP119_0312,tttaaaggaaaagcaagtttatgatttgacctttattgaccaaaatattataataaagacAatcagtaaaaaagagatgac
+151,chr,pyotss0151,Streptococcus pyogenes strain S119,NA,NA,NA,UPF0298 protein SPy_0397/M5005_Spy0329,336267,+,SP119_0313,aaggatgacctagccagtctttcttcgtctcttttacttaaagtgtggtataatcagattAtgctagccaaaactaaaaaa
+152,chr,pyotss0152,Streptococcus pyogenes strain S119,NA,NA,NA,dTMP kinase,337005,+,SP119_0314,aatagagcactgcaaagatatgccagtgctttttagctcattttttgataaaatagaactActaaaaagtgaaggaaataa
+153,chr,pyotss0153,Streptococcus pyogenes strain S119,NA,NA,NA,initiation-control protein YabA  ,339102,+,SP119_0318,tgaaggtgtcttttaccaataaagcaagaaaaaattccctgaatatggtaccatagtagaGacaagtgatggccctgcaac
+154,chr,pyotss0154,Streptococcus pyogenes strain S119,NA,NA,NA,copper homeostasis protein CutC  ,341522,-,SP119_0321,gtccatgatttgacaaaaatgtttcctgatgactagcttcattcgtgctataatattactGataaaggagatctaaaaatg
+155,chr,pyotss0155,Streptococcus pyogenes strain S119,NA,NA,NA,arsenate reductase family protein  ,341603,+,SP119_SR019/SP119_0322,gaagctagtcatcaggaaacatttttgtcaaatcatggacattatgctatactcactagtAttaaaagtaggccaaaacag
+156,chr,pyotss0156,Streptococcus pyogenes strain S119,NA,NA,NA,exodeoxyribonuclease  ,343088,-,SP119_0323,ttttatgggggctaggtgcccaaagtcgcttatcgtttcgttttttgttacaataacaacAagactatctgttagaaagag
+157,chr,pyotss0157,Streptococcus pyogenes strain S119,NA,NA,NA,L-lactate oxidase  ,343250,+,SP119_0324,aggaggtgatcagtgagcatatcgtttgacagttaagagtaggattactataatagaagcAtaaatgtaagcgctaacaaa
+158,chr,pyotss0158,Streptococcus pyogenes strain S119,NA,NA,NA,hypothetical protein,349949,+,SP119_0327,aatgacctcgaatcaccaaaaggacttgatttgatagcttccctatgctatactaagcctAttctttcaagaaggactcct
+159,chr,pyotss0159,Streptococcus pyogenes strain S119,NA,NA,NA,methionine--tRNA ligase  ,351259,+,SP119_0329,ttactcaccctcctttgattgactggttttgctgccccttaaaatatgatataatagaccAttgatagctgttacttaaca
+160,chr,pyotss0160,Streptococcus pyogenes strain S119,NA,NA,NA,Ribonucleoside-diphosphate reductase subunit beta,353632,+,SP119_0330,aactatatcttgtcataaaaaagattgcaaaacactatatcttgtgttattatggtttttAtaaaagttaagcatacttaa
+161,chr,pyotss0161,Streptococcus pyogenes strain S119,NA,NA,NA,ADP-ribosyltransferase   SpyB,358628,-,SP119_0333b,ctaactaaaaaacggttgctatggattgacaaatcgctcataatagcataatatcatgatAagagagtctgtttagggaga
+162,chr,pyotss0162,Streptococcus pyogenes strain S119,NA,NA,NA,putative membrane associated protein,358929,+,SP119_0334,tgtttaaaatgataaaaacatgaacttgaaatgaaataatgagaggagtaaactagaaccAtatcaaaaaataatgaaatg
+163,chr,pyotss0163,Streptococcus pyogenes strain S119,NA,NA,NA,hypothetical protein ,359584,+,SP119_0336,agcaaattgttttgaaaaagaacactttataaatagttcatatttatggtataatacctaAttcaagtatttttaaatggt
+164,chr,pyotss0164,Streptococcus pyogenes strain S119,NA,NA,NA,as SP119_0339 (speJ),362527,+,SP119_SR020,cggaagaccaaaaatatttactttttgatttttcgtaaactttgttgtaatatagctctcGacctcagaatcaactgaaaa
+165,chr,pyotss0165,Streptococcus pyogenes strain S119,NA,NA,NA,exotoxin  SpeJ,362783,-,SP119_0339,atgggaaccaaaaaagtcctcaatgttgattttatggttttttaggataaagtagtttgtGgggtacgaggtgaacgagga
+166,chr,pyotss0166,Streptococcus pyogenes strain S119,NA,NA,NA,hypothetical protein  ,363650,-,SP119_0340,cccaaccacaagacataaactccctatctttttagcgcaagaattggtataataagtcttAtcttaaaaatgagcaaaagg
+167,chr,pyotss0167,Streptococcus pyogenes strain S119,NA,NA,NA,DUF2829 domain-containing protein,363870,+,SP119_0341,gtgttttgaggttgccaatacttttagttgctttttgacaaaaatgcgttatgatagactAaataaaagaagatagcattt
+168,chr,pyotss0168,Streptococcus pyogenes strain S119,NA,NA,NA,MFS transporter  ,366235,+,SP119_0344,agcagtaaaatcgaatttgtaagcgttgacactgttgcataactctgttacactaagagaAtgtcatgacaaaaattacag
+169,chr,pyotss0169,Streptococcus pyogenes strain S119,NA,NA,NA,bifunctional UDP-N-acetylglucosamine diphosphorylase/glucosamine-1-phosphate N-acetyltransferase GlmU?,367755,+,SP119_0345,aagacaagaaaatgctaggatgtttcaggaaaaaaagagaaaatatgctataatgagaagGtatttaaattatatagtaag
+170,chr,pyotss0170,Streptococcus pyogenes strain S119,NA,NA,NA,hypothetical protein  ,370838,+,SP119_0349,ttgttttgaaacctaaaaataagaattgcaatcacttgaccaaacgctataatgggttaaGtaacgatagattactaaaag
+171,chr,pyotss0171,Streptococcus pyogenes strain S119,NA,NA,NA,metal-dependent transcriptional regulator MtsR,371983,-,SP119_0350,atatcctcttttaggctttttgtcaagctttttcctaaaaattctgatataataatcattAtaaataagagaaaggccaaa
+172,chr,pyotss0172,Streptococcus pyogenes strain S119,NA,NA,NA,metal ABC transporter substrate-binding protein,372053,+,SP119_0351,tatatcagaatttttaggaaaaagcttgacaaaaagcctaaaagaggatatccttatagcAtaattaactaaacttaatta
+173,chr,pyotss0173,Streptococcus pyogenes strain S119,NA,NA,NA,peptidylprolyl isomerase?,375657,-,SP119_0354,aaaaataggcgtttttaactctttactactattttctgttgcattttatgataaaataaaGaaaatcattcttaggagtag
+174,chr,pyotss0174,Streptococcus pyogenes strain S119,NA,NA,NA,DNA translocase FtsK  ,375851,+,SP119_0355,taaaacaccttggttttttagagctatttcctaatagttaaaaaatggtataatagtgttAtggttaaaagaaatcaaaga
+175,chr,pyotss0175,Streptococcus pyogenes strain S119,NA,NA,NA,DUF3397 domain-containing protein?,378679,-,SP119_0356,ttctatcacaacaggtaagtatcagtttacaagtaagggatttgagtataaaatagacctAtgatgatctataaattaact
+176,chr,pyotss0176,Streptococcus pyogenes strain S119,NA,NA,NA,50S ribosomal protein L11  ,378849,+,SP119_0357,ggcatcagctattttaacaaaaagacttgatttattttggcaataagctataatggtaagGtatgcaatattgcatatctg
+177,chr,pyotss0177,Streptococcus pyogenes strain S119,NA,NA,NA,Uridylate kinase,380443,+,SP119_0359,attagcctctaaaatgtcctttccctattcataattgagggtttgtggtaaaatagtaagGacaaactaaggagaacatag
+178,chr,pyotss0178,Streptococcus pyogenes strain S119,NA,NA,NA,peptide-methionine (S)-S-oxide reductase  ,382789,+,SP119_0362,actgaattaataggataaaaatgctttgccactggcaaagttttttgttacaatgaagacCattaagtgaagaaaaagggg
+179,chr,pyotss0179,Streptococcus pyogenes strain S119,NA,NA,NA,hypothetical protein  ,383671,+,SP119_0364,ctttctttcaaaaaaatgacaagctactttttttcttaaaaatatgctatgatatagcttAgaaaaaaataaaaaggaagc
+180,chr,pyotss0180,Streptococcus pyogenes strain S119,NA,NA,NA,oleate hydratase  ,385056,+,SP119_0365,tatgtctaaaagagatggtttttattagcgcaaatatgggtttaggggtaaaataaaggtAattaacctgatatgatcatg
+181,chr,pyotss0181,Streptococcus pyogenes strain S119,NA,NA,NA,phosphate starvation protein PhoH  ,387081,+,SP119_0366,ataaaggaaaagtctgacgtgaacgtcacataagaatttaaaatttgttataatgtaagcAataaagatgaaagaaagagg
+182,chr,pyotss0182,Streptococcus pyogenes strain S119,NA,NA,NA,rRNA maturation RNase YbeY,388838,+,SP119_0368,aaataggccctgatttacctagcattcccatttttaaggggcttgtggtataatgggtaaAtaacaaatgctgattgaaag
+183,chr,pyotss0183,Streptococcus pyogenes strain S119,NA,NA,NA,as SP119_0376 (transposase),393614,+,SP119_SR022,aattcatcaatatcttgtttttgtgctaggaagttaagtaattctgtggtaaactgagtcAtgggaataaatctctttcta
+184,chr,pyotss0184,Streptococcus pyogenes strain S119,NA,NA,NA,helix-turn-helix domain-containing protein Rgg2,398481,+,SP119_0383,tttttcatgactgtctcctttctgattttctattttgtacttgtattatataatggatttAgcagattttaattttttgtt
+185,chr,pyotss0185,Streptococcus pyogenes strain S119,NA,NA,NA,NA,399315,+,int SP119_0383,atgcggcaggccttgcagatttttaagtatcttggagaggactcattgtattatagttatAaggaacattaccgtcaaata
+186,chr,pyotss0186,Streptococcus pyogenes strain S119,NA,NA,NA,DUF853 domain-containing protein,401082,+,SP119_0386,ctaaaactagctggtcccttttaaattagcgcatcaagggttatatgttataatagtattAagagtgagacccttctaaac
+187,chr,pyotss0187,Streptococcus pyogenes strain S119,NA,NA,NA,MFS transporter,402734,+,SP119_0387,gatgagacttagcactattatgggacactgtttttggcagaaatgtgttataataatcaaAggcccaatggaaagaagatg
+188,chr,pyotss0188,Streptococcus pyogenes strain S119,NA,NA,NA,preprotein translocase subunit SecG  ,404147,+,SP119_0388,aaggagagaaaagtgaccctgcatgttgaaacttgataagaattgtgttagaatggtcatGacaatagtggaggaaataac
+189,chr,pyotss0189,Streptococcus pyogenes strain S119,NA,NA,NA,pyroglutamyl-peptidase I,408817,-,SP119_0392,agtcacattgccttaatgtatttacttgcttattattaacttttttgctaagttagtagcGtcagttattcattgaaagga
+190,chr,pyotss0190,Streptococcus pyogenes strain S119,NA,NA,NA,DUF969 domain-containing protein,410470,-,SP119_0394,aaaggaactattaggttgagcctttttgcaaatcctagcgactaatgttataatcgtcatActattgaaaaaggagttctt
+191,chr,pyotss0191,Streptococcus pyogenes strain S119,NA,NA,NA,glycosyltransferase?,411611,-,SP119_0395,gggacaatctcattattaacagagttttgaaatatctcagcttttgtgttacaattgcccTaaaattccatttgaaagaaa
+192,chr,pyotss0192,Streptococcus pyogenes strain S119,NA,NA,NA,aminopeptidase P family protein,413934,-,SP119_0398,agttttcaaaaattaactcgaagcttgattttttaagctttttttgaaaaaatagtaagtAgaaagaaggttagcctatga
+193,chr,pyotss0193,Streptococcus pyogenes strain S119,NA,NA,NA,catabolite control protein A  ,414055,+,SP119_0399,ttttcaaaaattaacctataacacttgaaagtggttacaaatcatgctaaaatactttttGaaagcgtcattttcaaatag
+194,chr,pyotss0194,Streptococcus pyogenes strain S119,NA,NA,NA,glycosyl transferase family 1  ,415223,+,SP119_0400,tagggctgatttttgcatgtcttagtgaaaaatactataaaatgagctataatagaacttAtgaaagtcttattgtattta
+195,chr,pyotss0195,Streptococcus pyogenes strain S119,NA,NA,NA,threonine--tRNA ligase  ,417595,+,SP119_SR023/SP119_0402,ctatcaaagattttctggattaagacttgtaaatttttgaaaacttgctataattatcttGaagacaagttagattggaca
+196,chr,pyotss0196,Streptococcus pyogenes strain S119,NA,NA,NA,sugar ABC transporter ATP-binding protein  ,420018,+,SP119_0403,tctttcttaaaaaattaagcaaacggttgcaccgtcttttttatggtgttataataaattGtttagtaacggtgataagac
+197,chr,pyotss0197,Streptococcus pyogenes strain S119,NA,NA,NA,DUF3114 domain-containing protein,425831,+,SP119_0408,ttcgttttgcttatagtgagatacaagtgacgattcagctttagatgtgttataatatggTcaaaaaagatgaggagaagg
+198,chr,pyotss0198,Streptococcus pyogenes strain S119,NA,NA,NA,DNA-binding response regulator  VicR,426916,+,SP119_0409,ctctatttgtaacggtagtcgtcattgtcaattaggctgaatttttggtataatcaggtaGaaataatttagaaaaatata
+199,chr,pyotss0199,Streptococcus pyogenes strain S119,NA,NA,NA,NA,427895,+,int SP119_0410,ttcggatgatgagccataaaatccgagacttgattaatggtcgctatactgatataatcgAcgaaaaagcagacattgagt
+200,chr,pyotss0200,Streptococcus pyogenes strain S119,NA,NA,NA,ribonuclease 3  ,430292,+,SP119_0412,aaatcacgaaaaatccacttagagtcggttttctaggtggatttttggtatactaaataaGgtctactgacaaatatgaaa
+201,chr,pyotss0201,Streptococcus pyogenes strain S119,NA,NA,NA,MutR family transcriptional regulator  Rgg3,435701,-,SP119_0414,aaaaattttgaaattttcttcataagcggacttcctttcagtttttatttattgtacaatAaaaaaaaacggaattgattt
+202,chr,pyotss0202,Streptococcus pyogenes strain S119,NA,NA,NA,type II toxin-antitoxin system RelB/DinJ family antitoxin,448997,+,SP119_0429,tgagcgagggatattgagtttttagttgagtcaactctaaaaacgtgatacaatgtcgttAcaaaaaaggaggataaccat
+203,chr,pyotss0203,Streptococcus pyogenes strain S119,NA,NA,NA,IG sRNA,450916,+,SP119_SR024,aggcaagggcgtatcaattcggcacgtccttttttagtttatctgtggtataatgaaagaAgttatattgggagttgagat
+204,chr,pyotss0204,Streptococcus pyogenes strain S119,NA,NA,NA,NA,452531,+,int SP119_0436,aaaaagaatattttaattgtaggtggaggtccagagataactatatgttatgatttaattAacaatagtacggagtataat
+205,chr,pyotss0205,Streptococcus pyogenes strain S119,NA,NA,NA,IG sRNA,455963,+,SP119_SR025,atttagaataataatcacatattgttgtcaacgaaacccaccatagtctataatgaaagcCtagtagggatgagctatata
+206,chr,pyotss0206,Streptococcus pyogenes strain S119,NA,NA,NA,Cof-type HAD-IIB family hydrolase,457579,+,SP119_0441,aaatataatctggctgttttttacgaatggaatgaaagctgctttttatgatataataagAaaaattgaacagaatgcaga
+207,chr,pyotss0207,Streptococcus pyogenes strain S119,NA,NA,NA,MFS transporter  ,462301,-,SP119_0444,tattgatttagcaaaaaagagtttctgacaattttaagattatatgatacaataacaatcGattagataaaggagttatca
+208,chr,pyotss0208,Streptococcus pyogenes strain S119,NA,NA,NA,transcription antiterminator BglG  ,462444,+,SP119_SR026/SP119_0445,ctttcagagaattttttgaaaacgcttgacagaatcttaaagagatgataacattaaagcGttctcagatgtgattacttc
+209,chr,pyotss0209,Streptococcus pyogenes strain S119,NA,NA,NA,hypothetical protein,468903,-,SP119_0450,gaaagaagtaaacaacacttccgctttggcattgttctcaaatgatagtataatagacttAtcttgaatgaaagaaggtca
+210,chr,pyotss0210,Streptococcus pyogenes strain S119,NA,NA,NA,RNA-binding transcriptional accessory protein,469108,+,SP119_0451,attaggacaatgtttcgctatcattttttgcattaacatggtttgtgttataatagcaatAttatggaaaataacaataat
+211,chr,pyotss0211,Streptococcus pyogenes strain S119,NA,NA,NA,PspC domain-containing protein?,471708,+,SP119_0453,tggaaaaaaatcagtcgtaagactggttttattttgcgaaaaacaatgtaaactagtatcAtagaatgaggaggtaaagaa
+212,chr,pyotss0212,Streptococcus pyogenes strain S119,NA,NA,NA,HPr kinase/phosphorylase,472353,+,SP119_0454,tttagtagtgaaaaaatgagtatttgcaagggtctaacggtcgatttgtgttataatattGaaaaaggagaaattatgacc
+213,chr,pyotss0213,Streptococcus pyogenes strain S119,NA,NA,NA,DUF3270 domain-containing protein,475382,-,"SP119_0458, p2",tcttttaaaaaaagatgacaagaagagacttttatgatagaattacttagtatgttaagtAaaggagaggactatgcctgc
+214,chr,pyotss0214,Streptococcus pyogenes strain S119,NA,NA,NA,DUF3270 domain-containing protein,475393,-,"SP119_0458, p1",atcttttcaaatcttttaaaaaaagatgacaagaagagacttttatgatagaattacttaGtatgttaagtaaaggagagg
+215,chr,pyotss0215,Streptococcus pyogenes strain S119,NA,NA,NA,peptidase U32,475566,+,SP119_0459,cgtttgggcttttgcaagaaatatgcttaaggtcttaaaatttttggtataataaagcttAtatggaaaaaataattatta
+216,chr,pyotss0216,Streptococcus pyogenes strain S119,NA,NA,NA,hypothetical protein ,478000,+,SP119_0462,ttttttttgaaaattggatatcacaatagcttattttctcaaaacttgatagaataatagGagaatgagtcataaaaaaag
+217,chr,pyotss0217,Streptococcus pyogenes strain S119,NA,NA,NA,lysine--tRNA ligase  ,480180,-,SP119_0464,agtcgcattttccaacgaaatataggtgtattctagccccttttatgatacaatggaaagGaaatcgtattggaggaaaat
+218,chr,pyotss0218,Streptococcus pyogenes strain S119,NA,NA,NA,HAD family hydrolase,480304,+,SP119_0465,gcggggcatttttttgaaaatgaaattgaaaagcctaatggaaaatagtataatgattggGatattaaactagaaaagaaa
+219,chr,pyotss0219,Streptococcus pyogenes strain S119,NA,NA,NA,aminoacyl-tRNA deacylase,482819,-,SP119_0468,tcccaaagactaatttttagtcatttgaatcttacattaaaaaaatggtataataatgttGttataccatttttttatgtt
+220,chr,pyotss0220,Streptococcus pyogenes strain S119,NA,NA,NA,energy-coupled thiamine transporter ThiT  ,483578,-,SP119_SR030/SP119_0469,gtcaataatttaaaaccccttatccttgacaaggagattatctcatcatataatgaaagcActataatatttcacaaagga
+221,chr,pyotss0221,Streptococcus pyogenes strain S119,NA,NA,NA,N-acetylmuramoyl-L-alanine amidase  ,484548,-,SP119_0470,atataagaaaacagttaggatattttgattttttttagtaattagggtacaataacagttAatgagaagaaaaataaaacc
+222,chr,pyotss0222,Streptococcus pyogenes strain S119,NA,NA,NA,membrane protein  ,484849,+,SP119_0471,atcatttgataaataagtgagctccaaactggtaaacgctctgtaaatctgtcataatagAgaaaaaaacgaggaagaagt
+223,chr,pyotss0223,Streptococcus pyogenes strain S119,NA,NA,NA,oligoendopeptidase F  ,488086,-,SP119_0474,aaagaatgtttggataggtttagtctccatattccactaaaattctgttatactagtcttGagtatattgttaaggagaca
+224,chr,pyotss0224,Streptococcus pyogenes strain S119,NA,NA,NA,phosphoenolpyruvate carboxylase  ,488231,+,SP119_0475,aaaaacaaacgttatgaacatgatcacttttatttttggtaaaaagtggtatgatagaagAaactagcaaagaaggagatg
+225,chr,pyotss0225,Streptococcus pyogenes strain S119,NA,NA,NA,FtsW/RodA/SpoVE family cell cycle protein,491161,+,SP119_0476,tttttgaggattcttgactttttcttttgtttgatatagaaagatgttataatgctaaatGattatctcaagaagtagagg
+226,chr,pyotss0226,Streptococcus pyogenes strain S119,NA,NA,NA,elongation factor Tu  ,492753,+,SP119_0478,gaaatggcaaaaaacataaaatacttgcattttcattgtaatttgctacaatagtaaggtAaagttagactgtatggccta
+227,chr,pyotss0227,Streptococcus pyogenes strain S119,NA,NA,NA,NA,493235,+,int SP119_0478,gtgagcacatccttctttcacgtcaggttggtgttaaacaccttatcgtgttcatgaacaAagttgaccttgttgatgacg
+228,chr,pyotss0228,Streptococcus pyogenes strain S119,NA,NA,NA,triose-phosphate isomerase  ,494224,+,SP119_0479,aatattcctaaaatataagcaattccttttaatcgtcggtcatttgtgctaaaatagaagAtataaataaaaaaagaagag
+229,chr,pyotss0229,Streptococcus pyogenes strain S119,NA,NA,NA,Putative phosphatase,498412,-,SP119_0482,ttccttaagtttcctttcccatcccatgacaaaagcacctatttttagtaagataggaggGagaacatttttaagataaac
+230,chr,pyotss0230,Streptococcus pyogenes strain S119,NA,NA,NA,HD domain-containing protein,500125,-,SP119_0484,ctcgtctgtttattctatcaatttctccttattttatcaatttttgatataataaaaattAtgaatgaaaaagtatttcgt
+231,chr,pyotss0231,Streptococcus pyogenes strain S119,NA,NA,NA,DUF1934 domain-containing protein?,500181,+,SP119_0485,ttcataatttttattatatcaaaaattgataaaataaggagaaattgatagaataaacagAcgagcttagaatagaaagaa
+232,chr,pyotss0232,Streptococcus pyogenes strain S119,NA,NA,NA,cation-translocating P-type ATPase,500670,+,SP119_SR031/SP119_0486,aaatcatctgattagggattattcttgttttttagtcaggtttttactataatggttattAtatcaagggagtagcagacg
+233,chr,pyotss0233,Streptococcus pyogenes strain S119,NA,NA,NA,NA,501398,+,int SP119_0486,cagcgcttactggagaatctgtaccggttgaaaaagacttgtcaacggctgtttcagaagAtgccggtattggtgatcgcg
+234,chr,pyotss0234,Streptococcus pyogenes strain S119,NA,NA,NA,LacI family transcriptional regulator  ,504614,-,SP119_0487,aatgagattattcgattgaaacactaaatcttttacgagtccttatgttataatatgactAaccattactattttaaagga
+235,chr,pyotss0235,Streptococcus pyogenes strain S119,NA,NA,NA,as SP119_0488,505418,+,SP119_SR032,cttctttgtaagtgtatcgcccagcatcacagaaaagtggttgtcctttataatagagacAgagactattttggtcgctat
+236,chr,pyotss0236,Streptococcus pyogenes strain S119,NA,NA,NA,PTS N-acetylgalactosamine transporter subunit IIA,510443,-,SP119_0493,tttcaaaaatctttttaaaaaagtattgacaaagaattttgaaagcgctacaatatttttGagtaaaccggtaaaccgaag
+237,chr,pyotss0237,Streptococcus pyogenes strain S119,NA,NA,NA,gluconate 5-dehydrogenase  ,510706,+,SP119_0494,attttgaaccgttttcattaaaatgattgacaaaactagtttactttgttatagtcttggTaaacaggtttacttaattta
+238,chr,pyotss0238,Streptococcus pyogenes strain S119,NA,NA,NA,NA,511173,+,int SP119_0494,attgtgtcaaaagctgtattaccatcaatgattgcaaagggacatggtaaaattataaatAtctgttctatgatgagcgaa
+239,chr,pyotss0239,Streptococcus pyogenes strain S119,NA,NA,NA,HAD family phosphatase,514157,+,SP119_0498,tgatatcacttagaatggactagctgtacagcttttacagcaacttatgctaaaatagaaAaaaggagaaatgttgatgat
+240,chr,pyotss0240,Streptococcus pyogenes strain S119,NA,NA,NA,tRNA epoxyqueuosine(34) reductase QueG,515515,+,SP119_0499,tgattagaattgtccttctttttccttgaagtcttaacttattttgattatgatagtagtAtgactattaaggcagaaatt
+241,chr,pyotss0241,Streptococcus pyogenes strain S119,NA,NA,NA,peptide chain release factor 2  ,516683,+,SP119_0500,ataaatggcaattttaagccttttatggtatttttaagaaccttatgataaaataaaacaGattaacaaagattggagaaa
+242,chr,pyotss0242,Streptococcus pyogenes strain S119,NA,NA,NA,MBL fold metallo-hydrolase,520384,-,SP119_0503,ccatttattttccgctactctttttttaacaaagtcttgattttttggtacactatccttAtgaaaatctataaaacaata
+243,chr,pyotss0243,Streptococcus pyogenes strain S119,NA,NA,NA,acetoin reductase  ,520519,+,SP119_0504,aaatatgagatctcacagcaatttcttgacaccgttttcataaaggtgtatcataaaagtAatcaataagccaagcctaaa
+244,chr,pyotss0244,Streptococcus pyogenes strain S119,NA,NA,NA,bifunctional DnaQ family exonuclease/ATP-dependent helicase,521526,+,SP119_0506,tggcacctttgaggtatagtcatgttttgttttatagatatagcgtgctataatagacttActatgacccagaaaaaactt
+245,chr,pyotss0245,Streptococcus pyogenes strain S119,NA,NA,NA,pyridoxal phosphate-dependent aminotransferase?,523996,+,SP119_0507,ctcaacaaaattttcacgattgtctagtagaaacggactgttttctgatataatggaaagGatctattatatcagaaaaat
+246,chr,pyotss0246,Streptococcus pyogenes strain S119,NA,NA,NA,RNase adapter RapZ,527266,+,SP119_0509,caaaatgtgttaccactttttcacttcttagctttcttatgtatgtggtataatgaaggtGgacggttcgatagagaaagg
+247,chr,pyotss0247,Streptococcus pyogenes strain S119,NA,NA,NA,IG- as 3'UTR  SP119_0512,530173,+,SP119_SR033,ctaaaagtcgttttccattgtttttttgaagtgtctgatgttctgtgatatgataaaaggGataataacgtttgtaaagga
+248,chr,pyotss0248,Streptococcus pyogenes strain S119,NA,NA,NA,IG -as 3'UTR SP119_0513,531696,+,SP119_SR034,ctagagtaaatagctacttttctcattgttttttacctcattttttgttaaaatgagtacAgtaaagagacctacttaaag
+249,chr,pyotss0249,Streptococcus pyogenes strain S119,NA,NA,NA,XRE family transcriptional regulator ,532965,-,SP119_0514,cgtttatttgttttttagcgttttattgtatttttttgggaacgatggtataatgatattActaaataacattaaggataa
+250,chr,pyotss0250,Streptococcus pyogenes strain S119,NA,NA,NA,XRE family transcriptional regulator,533082,+,SP119_0515,aacgtattttttttagaaaaaatcgttgacaatttggaacgtaggttttataataaaggtGttccaaaacgggaacaaaaa
+251,chr,pyotss0251,Streptococcus pyogenes strain S119,NA,NA,NA,IG-as 3'UTR SP119_0516,533406,-,SP119_SR035,gaaaacagtgaacttttggggtccattgctcttttttgtttttcatggtaaaattgcctcAtaagaatctgtctgtcccgt
+252,chr,pyotss0252,Streptococcus pyogenes strain S119,NA,NA,NA,IG -as SP119_0534-0533,545850,-,SP119_SR036,attagcttttgttgtcggaatgttgcccatctaactctccattcatgatataatattgttGggtatttaatcatggaggcg
+253,chr,pyotss0253,Streptococcus pyogenes strain S119,NA,NA,NA,adenine methyltransferase ,546367,+,SP119_SR037/SP119_0536,aatactaattagatacaaattgatactacataatactaatagctgtgttaatattgtagtAtagcaaaatagcaagaagag
+254,chr,pyotss0254,Streptococcus pyogenes strain S119,NA,NA,NA,IG sRNA,547698,+,SP119_SR038,ctaaactaaaaatcccttaaaaccgttgacttaacagtgtttcagagctatcatgtgatcAcaaagacaaagaggtaaata
+255,chr,pyotss0255,Streptococcus pyogenes strain S119,NA,NA,NA,NA,552512,+,int SP119_0540,tagaaaagaaaaagctaaattagataaacgtagggatgttgaaagtgctataataggagtAgaaactagtgaagggatacc
+256,chr,pyotss0256,Streptococcus pyogenes strain S119,NA,NA,NA,as speC (SP119_0561),570112,+,SP119_SR039,ttttctgattttaaagtcaatttcctggaaagttacgatatctttttctagaataattttGttatttaagttctgttgaga
+257,chr,pyotss0257,Streptococcus pyogenes strain S119,NA,NA,NA,DNAse SpdI,571474,-,SP119_0562,attgataaattaattttattaattttaagtttttttaatttaaagtgatataattaactaGaaaagtgcaatatttgatcc
+258,chr,pyotss0258,Streptococcus pyogenes strain S119,NA,NA,NA,dipeptidase,571710,+,SP119_0563,gctgctggaattatgaaaatttttgtatccagttcaatggatatttgatataatcgtcttAaaaaggaggtcgtgaaatgg
+259,chr,pyotss0259,Streptococcus pyogenes strain S119,NA,NA,NA,Zinc-binding protein AdcA,573261,+,SP119_0564,aaagtaatcgcaaaaagacaaaaacttggaaaaaaaatcaaagtatgctatacttaactgGtcaatttttaaccagttaat
+260,chr,pyotss0260,Streptococcus pyogenes strain S119,NA,NA,NA,IG- as adcA (SP119_0564),574938,-,SP119_SR040,ttggcatcttattcacctctaacttgttataaccacttaaagtatattataatcataagtGtccgtcaaattaatgttgag
+261,chr,pyotss0261,Streptococcus pyogenes strain S119,NA,NA,NA,GntR family transcriptional regulator  ,574965,+,SP119_0565,aaatttaataattctcaacattaatttgacggacacttatgattataatatactttaagtGgttataacaagttagaggtg
+262,chr,pyotss0262,Streptococcus pyogenes strain S119,NA,NA,NA,type B 50S ribosomal protein L31,577339,-,SP119_0567,tttaaaaaataaggaaagaaaagccttgtcaagtcattcaagttttgttacactagaatgGttaataactatgatgcatta
+263,chr,pyotss0263,Streptococcus pyogenes strain S119,NA,NA,NA,bifunctional oligoribonuclease/PAP phosphatase NrnA,578509,-,SP119_0568,cttttcttcctagattaatttaccattatctagagcttacttttatgctataataaaataGgatatgattttcagataaaa
+264,chr,pyotss0264,Streptococcus pyogenes strain S119,NA,NA,NA,flavodoxin  ,578714,+,SP119_0569,tatcaaccttctcgttaaacaattagtgcttttcctaaaaaagtgtgctaaaataaacatAgtttagtaattttgggagga
+265,chr,pyotss0265,Streptococcus pyogenes strain S119,NA,NA,NA,chorismate mutase  ,579334,+,SP119_0570,attgaaaaaaacaatcagcttcaccttgcttctgatcctcttattaactataataaaaagAtaatctaatacatctagaaa
+266,chr,pyotss0266,Streptococcus pyogenes strain S119,NA,NA,NA,50S ribosomal protein L19  ,580941,+,SP119_0572,atcagatggatttaaaaaaatagctttacaataaagaagctttttgttagaataaatctcGtgtgtaatggacacacgaaa
+267,chr,pyotss0267,Streptococcus pyogenes strain S119,NA,NA,NA,SP119_t045,581595,+,SP119_SR041,ctttcagttatctgatatttcatcttgcattaccttattttctaggttaaaatagaagacAaggtgagtataagatagacc
+268,chr,pyotss0268,Streptococcus pyogenes strain S119,NA,NA,NA,SP119_t045,581612,+,SP119_SR041,tttcatcttgcattaccttattttctaggttaaaatagaagacaaggtgagtataagataGaccccttagttcaatggata
+269,chr,pyotss0269,Streptococcus pyogenes strain S119,NA,NA,NA,hydrolase  ,582377,+,SP119_0573,tacctgttttatttgtgaaataactataatattaagtgaatttgtgatataatgaaaggtAtgaattatcaagattatata
+270,chr,pyotss0270,Streptococcus pyogenes strain S119,NA,NA,NA,septation ring formation regulator EzrA  ,585146,+,SP119_0575,gattgttgaattagtcaaatatattttgaaatgcattttaaagtatgttataatcgtaatGttatagtgtattttaaataa
+271,chr,pyotss0271,Streptococcus pyogenes strain S119,NA,NA,NA,DUF1694 domain-containing protein,587598,-,SP119_0576,acacatttaccgaaaattttcaaattggtattttattgtagaaatcgatataataaagaaActattataaagaagcgaggg
+272,chr,pyotss0272,Streptococcus pyogenes strain S119,NA,NA,NA,Enolase,587765,+,SP119_0577,gcttttcatgagattgctttttaagttgattaaaggcctagtttgtggtattatgaacatGtaaaatattaaaactcataa
+273,chr,pyotss0273,Streptococcus pyogenes strain S119,NA,NA,NA,IG- as 3'UTR  SP119_0578 (transposase),589576,+,SP119_SR042,aagtgtacaagaaaaaaaccttgcctagtatttttaagatcaaggtgttacaatgatagaGcaacaacgactttaatgatt
+274,chr,pyotss0274,Streptococcus pyogenes strain S119,NA,NA,NA,"transcriptional regulator , partial",592464,-,SP119_0581,ttaaacacgcgtcaccattgaattatttgactgttttatttaattatgtgataattaaatAaatacgagtttctgctataa
+275,chr,pyotss0275,Streptococcus pyogenes strain S119,NA,NA,NA,putative extracellular matrix binding protein,592721,+,SP119_0582,ttaacaattcatttaaattctaatcagctgtaacgttccggggcgtgttaaactgtctgaAcatagaaaatacaagtttct
+276,chr,pyotss0276,Streptococcus pyogenes strain S119,NA,NA,NA,streptolysin S family bacteriocin  SagA,599796,+,SP119_0583,ttttgataatattaaaaagaaagggtttacatattaatcattttttactataataaaagtGataagaactagatagttgtt
+277,chr,pyotss0277,Streptococcus pyogenes strain S119,NA,NA,NA,nuclease  ,608559,+,SP119_0592,tattaaaaaaagttttgaaaacgtatttattttatgggatgtttttgttacaataagcatGtatcgaatgctataaagctg
+278,chr,pyotss0278,Streptococcus pyogenes strain S119,NA,NA,NA,queuosine transporter QueT  ,611714,+,SP119_0593,agacagctttacttgctaaagacttttgtcaagctaattgttttatggtacaatgtaaccGttgctttgcaacccttggtg
+279,chr,pyotss0279,Streptococcus pyogenes strain S119,NA,NA,NA,NAD-dependent DNA ligase LigA,612504,+,SP119_0594,tttgatgttgttatgatatagaaatagctcatttgttatcttttatgataaaataaaagtAtgaaaaaacgcataaaagaa
+280,chr,pyotss0280,Streptococcus pyogenes strain S119,NA,NA,NA,F0F1 ATP synthase subunit C  ,615730,+,"SP119_0596, p2",ttttaggggtgttattataccctttttggaatcttgttgcctttttgttataataagagtGtaattctatttttaaaaaga
+281,chr,pyotss0281,Streptococcus pyogenes strain S119,NA,NA,NA,F0F1 ATP synthase subunit C  ,615862,+,"SP119_0596, p1",agcgtacccagactaaagaaatctgttgacattcttaattttaaggaatagaatagcaaaGtaaaaaaaattttaaggagt
+282,chr,pyotss0282,Streptococcus pyogenes strain S119,NA,NA,NA,membrane protein,622586,+,SP119_0604,agaagatgtcaacttaattgataagttggacggatcaagatggtatgttataataatcctAtggaattattaatgaagatc
+283,chr,pyotss0283,Streptococcus pyogenes strain S119,NA,NA,NA,UDP-N-acetylglucosamine 1-carboxyvinyltransferase  1,622857,+,SP119_0605,agacgctcttttttgagttccgctaatactggaataaaagaagtatggtataattttactAcgactaagagatagataagg
+284,chr,pyotss0284,Streptococcus pyogenes strain S119,NA,NA,NA,phenylalanine--tRNA ligase subunit alpha,624983,+,SP119_SR045/SP119_0608,taagcgaaaagtcactgatttaagattgtcactaagcactttttttgatagaatagaactAattgaataagtgtctatgag
+285,chr,pyotss0285,Streptococcus pyogenes strain S119,NA,NA,NA,OsmC family peroxiredoxin,628913,+,SP119_0610,ctgaagtacgctaagaaaaaaactgggcctctaaggctccgtttttttctgttataatagAggaaaaaagaactccagttc
+286,chr,pyotss0286,Streptococcus pyogenes strain S119,NA,NA,NA,ABC transporter permease  ,629784,+,SP119_0612,ggtccttaaatgctaaacagaaaagtagggatttctgggaagttatgctaagctagtgatAtaaataagggggaatgagag
+287,chr,pyotss0287,Streptococcus pyogenes strain S119,NA,NA,NA,neutral zinc metallopeptidase  ,632600,-,SP119_0614,tttagttataatctcatcataaaaatagcaattctaatagaattattttataataaaatcAagaaatagatgggagaaact
+288,chr,pyotss0288,Streptococcus pyogenes strain S119,NA,NA,NA,ATP-dependent helicase/deoxyribonuclease subunit B,632698,+,SP119_0615,tttatgatgagattataactaaaaataggaaaagcaataggtatttgctataatataacaAgggtagattcagtttgtata
+289,chr,pyotss0289,Streptococcus pyogenes strain S119,NA,NA,NA,30S ribosomal protein S21  ,640626,+,"SP119_0618, p1",gtttggaataaacaataaaagaggtttgacttttttaaaaaaataatgtaatataattggGaacgtgaaaatgttacaata
+290,chr,pyotss0290,Streptococcus pyogenes strain S119,NA,NA,NA,30S ribosomal protein S21  ,640652,+,"SP119_0618, p2",tgacttttttaaaaaaataatgtaatataattgggaacgtgaaaatgttacaatatcttgAggaggtgaaacacatgtcaa
+291,chr,pyotss0291,Streptococcus pyogenes strain S119,NA,NA,NA,large conductance mechanosensitive channel protein MscL?,641359,-,SP119_0619,aatttaaaaactgaagtgattccattggattttgtttactaattatgctatgcttaacttAgagatattaaaaagggggaa
+292,chr,pyotss0292,Streptococcus pyogenes strain S119,NA,NA,NA,DNA primase  ,641452,+,SP119_0620,ccaatggaatcacttcagtttttaaatttacaaaaaagagtttcggtggtataataaaacGtaaaactaaaatgggatttt
+293,chr,pyotss0293,Streptococcus pyogenes strain S119,NA,NA,NA,NA,643774,+,int SP119_0621,tgtctcaattgcaaaacgttatgttggacgtggaatgcaatttcttgatttaattcaagaAggtaacatgggactcatgaa
+294,chr,pyotss0294,Streptococcus pyogenes strain S119,NA,NA,NA,dTDP-4-dehydrorhamnose reductase,645022,+,SP119_0623,ttcgctaatcattgatagtaaagggatgaaatattcccttttttgatgtagaataaaaggAaatacaggtgaaagcctttg
+295,chr,pyotss0295,Streptococcus pyogenes strain S119,NA,NA,NA,glycosyltransferase family 1 protein?,646051,+,SP119_0624,ccaactctttttcatgggtttaaggtcgcattagccttctaattgtggtataatatcactGattatattttagaatggggt
+296,chr,pyotss0296,Streptococcus pyogenes strain S119,NA,NA,NA,peptidase T  ,659458,+,SP119_0635,aggctttaaaaaacttagcttgaataagtattttaaagccttttatgctataattaaattGagaaattattgaggtggcct
+297,chr,pyotss0297,Streptococcus pyogenes strain S119,NA,NA,NA,ferredoxin,661415,-,SP119_0637,ttctttagccatgatcgtccccccttgttaatttaacaaaatcatattagaataatagttAtgaaagtatctatcattcca
+298,chr,pyotss0298,Streptococcus pyogenes strain S119,NA,NA,NA,translation initiation factor IF-3  ,662657,+,SP119_SR046/SP119_0640,atccaagaaaaagcagaaaaaatagttgacatgtcctagagcctatgttagaatagtaacAatgagaaaagtagaagtgag
+299,chr,pyotss0299,Streptococcus pyogenes strain S119,NA,NA,NA,LTA synthase family protein,666502,-,SP119_0643,atcctactaaatttgaacttacaacaagcattagcttcacatttttggtataatttaatcTgagattttatttggagatga
+300,chr,pyotss0300,Streptococcus pyogenes strain S119,NA,NA,NA,class I SAM-dependent rRNA methyltransferase,666593,+,SP119_0644,tgcttgttgtaagttcaaatttagtaggattttttatcagattttgttataataaaaactAtgaataaactctatattgat
+301,chr,pyotss0301,Streptococcus pyogenes strain S119,NA,NA,NA,YlbF/YmcA family competence regulator,669736,+,SP119_0647,cgtgcctacgtcaagcaattttagatagcgagatactggcttttatggtatcatacaggtAttaatgaacaaaaggagact
+302,chr,pyotss0302,Streptococcus pyogenes strain S119,NA,NA,NA,glutathione-disulfide reductase  ,670219,+,SP119_0648,gtgtttattttctttgtatcagaaagttgagcctctttcttatttgtgatatagtcaaatAaagtgaccaaaatagcaggc
+303,chr,pyotss0303,Streptococcus pyogenes strain S119,NA,NA,NA,membrane protein  ,673578,-,SP119_0650,ttgtcctagacataaggtaaaccgttgacttcactttttttctagattatactgatagatGaagtgttaaagaggagctag
+304,chr,pyotss0304,Streptococcus pyogenes strain S119,NA,NA,NA,cysteine desulfurase,673711,+,SP119_0651,ggcttattgtaatacgaatattcttgatttcattttagctattttgtgatagaataaagtAttgagtaaaaatgaaggtga
+305,chr,pyotss0305,Streptococcus pyogenes strain S119,NA,NA,NA,capsule biosynthesis protein  CapA,676223,+,SP119_0653,ataagggcttttttgctgcaatgaaggaggaaaattttgaggcaagatgttataatagagAaaaaggagggtgtgtcttga
+306,chr,pyotss0306,Streptococcus pyogenes strain S119,NA,NA,NA,50S ribosomal protein L21  ,677524,+,SP119_SR047/SP119_0654,aatagagattaaacttaatttttccttgataaaaagcagttatggtgctaaaatagtaacGttgactaaatgcacatcctg
+307,chr,pyotss0307,Streptococcus pyogenes strain S119,NA,NA,NA,LysR family transcriptional regulator  ,678944,+,SP119_0657,cagcataataaaacaatgtcataagatgttgttataacgggctttatggtataattaaggAtactcattttaggaaggaaa
+308,chr,pyotss0308,Streptococcus pyogenes strain S119,NA,NA,NA,bifunctional pyr operon transcriptional regulator/uracil phosphoribosyltransferase PyrR,681463,+,SP119_SR048/SP119_0660,tagatgctaggtattgtcttttttacttgtttttcttttctttttttgctatactgattgAaataaaatattcctttaaaa
+309,chr,pyotss0309,Streptococcus pyogenes strain S119,NA,NA,NA,NA,681926,+,int SP119_0660,cagtagatattacaggcaaggatgtgattttgattgatgatgtgctttatactggtcgtaCcatccgcgcagccatcgata
+310,chr,pyotss0310,Streptococcus pyogenes strain S119,NA,NA,NA,ABC transporter substrate-binding protein  ,689110,+,SP119_0665,ttttcgactaagggctaagaatttcttgacaacaatataaaaaggtcatatacttgtcttAtacaaatagtacaaaagagg
+311,chr,pyotss0311,Streptococcus pyogenes strain S119,NA,NA,NA,ABC transporter permease  ,691017,+,SP119_0667 (end of SP119_0666),acaggtcagcaaattatggaactcttgacagagttaaacaaagaaggtaaaacaattattAtggttactcatgaaccagaa
+312,chr,pyotss0312,Streptococcus pyogenes strain S119,NA,NA,NA,30S ribosomal protein S16  ,694406,+,SP119_0669,taaggaaagtgtcaagaaaaaaacttgacactttctttaaactgagttatactgtttaacAtaggaatttagcgtagctgt
+313,chr,pyotss0313,Streptococcus pyogenes strain S119,NA,NA,NA,cell surface protein  ,695406,+,SP119_0671,tacaaattatcctaacatgatgtattgaaaggggaaatagtttatgttagtatactgattAagtgaagctgtaatgaggct
+314,chr,pyotss0314,Streptococcus pyogenes strain S119,NA,NA,NA,TetR/AcrR family transcriptional regulator,700430,+,SP119_0674,aaaataatggtgacttttttacttgctggcataattttctccttttgttatactggtaatAtgtatagtagaatgctttat
+315,chr,pyotss0315,Streptococcus pyogenes strain S119,NA,NA,NA,cation transporter  ,700449,-,SP119_0673,tattgaacaggtgctcatttttggttatagtaattgtattttaacttttagataatagaaTaaagcattctactatacata
+316,chr,pyotss0316,Streptococcus pyogenes strain S119,NA,NA,NA,ribosome maturation factor RimM  ,701177,+,SP119_0675,taacagataaagacaaaactgtaagtgcaaaatagactataacgtgataaaataataggtAatttggttctgaaaaagaag
+317,chr,pyotss0317,Streptococcus pyogenes strain S119,NA,NA,NA,PTS transporter subunit IIC,703624,+,SP119_0678,caaatggtttttacctaagtcttcgtgacaagttttatactttgtgataaaatagtcattGtgaaaaaagtgtgatggttt
+318,chr,pyotss0318,Streptococcus pyogenes strain S119,NA,NA,NA,DeoR/GlpR transcriptional regulator,705876,+,SP119_0680,atttgatagattttgaaaggttatgcttgacttttagttataaaatagtataataattgtAaacgatttcagttaggggtg
+319,chr,pyotss0319,Streptococcus pyogenes strain S119,NA,NA,NA,N-acetylmuramidase,709567,+,SP119_0683,acttttttcttactaaaactagaatctgtcaaggttctagttttttgctatactagagttAaaggataagaaatgaggacc
+320,chr,pyotss0320,Streptococcus pyogenes strain S119,NA,NA,NA,N-acetylmuramidase  ,710308,+,SP119_0684,aatctcattaaattatctgtggaaaagttaatttaaacgttcgtgtgctataatagaaacAtagaaaatgaataaaaaagg
+321,chr,pyotss0321,Streptococcus pyogenes strain S119,NA,NA,NA,nucleoside-diphosphate kinase  ,713501,+,SP119_0689,ccaatagtctggtactttcctattttttgtctgttaaaacgtttttattttataatggatAaaagaagaagggcggagcga
+322,chr,pyotss0322,Streptococcus pyogenes strain S119,NA,NA,NA,DUF1149 domain-containing protein,713768,+,"SP119_0690, p2",tgttttaattgaggtgcagtacaagaccactaacgggtgtttttttggtataatgtcagtAtaaggacgactaaatataaa
+323,chr,pyotss0323,Streptococcus pyogenes strain S119,NA,NA,NA,DUF1149 domain-containing protein,713900,+,"SP119_0690, p1",tgcgaaaatagtagtttaggggctactttaataattttcaaatctatgctataatggatcAtattgataccaaggagaata
+324,chr,pyotss0324,Streptococcus pyogenes strain S119,NA,NA,NA,peptide deformylase  ,718880,+,SP119_0694,aaaaagttaagtcaactgaaaaacttgacagaaatattcagaaaatttataatactaactAttaacaacatatcagctatt
+325,chr,pyotss0325,Streptococcus pyogenes strain S119,NA,NA,NA,bifunctional metallophosphatase/5'-nucleotidase,721788,-,SP119_0695,tgtacgttattttttaaaaataccattgaattacaaacaaaatcatagtaaacttgatctAtaacgattacgttaacttat
+326,chr,pyotss0326,Streptococcus pyogenes strain S119,NA,NA,NA,GTP pyrophosphokinase  ,721976,+,SP119_0696,agataaccgatcattgcagagatttaagcatttgttgagaaaatttgttataataagcgtAtgaaagaaagactagaacat
+327,chr,pyotss0327,Streptococcus pyogenes strain S119,NA,NA,NA,mevalonate kinase ,724794,+,SP119_0699,gaaatgattttaaaaagatatatcatcgcattttctaatcatttagtgtaaaatagtaagGtaaaagtttagaagaattag
+328,chr,pyotss0328,Streptococcus pyogenes strain S119,NA,NA,NA,hydroxymethylglutaryl-CoA synthase  ,731318,-,SP119_0704,aggataaaacaaataactttatcagtctaattttgcagtaaaatgtgatagaatgggtaaGactataaaaataactaaaag
+329,chr,pyotss0329,Streptococcus pyogenes strain S119,NA,NA,NA,thymidylate synthase  ,731468,+,SP119_0705,aagtttttcgaatgtttatttattctggtattttttggtaaaattagttagaatagtatgAagtatgcttacagaaaggtt
+330,chr,pyotss0330,Streptococcus pyogenes strain S119,NA,NA,NA,dihydrofolate reductase  ,732390,+,SP119_0706,atttaaactttatttagattttttgtgagcattttgttcataaatttggtaaaataaataGagtttaaaatgaaggaaata
+331,chr,pyotss0331,Streptococcus pyogenes strain S119,NA,NA,NA,NA,734892,+,int SP119_0709,tacgtcatgccccttcaaaagaagatattcagatgtatgactttttgaagtactatgacaTtcctgttattgttgtggcaa
+332,chr,pyotss0332,Streptococcus pyogenes strain S119,NA,NA,NA,hypothetical protein  Vfr,735205,+,SP119_0710,atagttaggtttaccgattttacttgacgccttaatgatgacatgctagtattttatattAaggagatgagtcatgacaca
+333,chr,pyotss0333,Streptococcus pyogenes strain S119,NA,NA,NA,NA,736162,-,int SP119_0711,agtttaacgattactgatgacgctaaagctcatttgatagatttagggtacaatcacgctAtgggagctcgtccattacga
+334,chr,pyotss0334,Streptococcus pyogenes strain S119,NA,NA,NA,as SP119_0711,736330,+,SP119_SR049,caacaatttcttctaaactttctttttgcagatgattaaatttaatgatactattaaaacGgttcaaaaactctggtctga
+335,chr,pyotss0335,Streptococcus pyogenes strain S119,NA,NA,NA,ATP-dependent Clp protease ATP-binding subunit  ClpL,738249,-,SP119_0711,tttttgaaaatcaagtgttttttgtttgacctttactgaccttttgattataataatactAtaagatgagtaaaaataatg
+336,chr,pyotss0336,Streptococcus pyogenes strain S119,NA,NA,NA,ribose-5-phosphate isomerase  ,738465,+,SP119_0712,caatgagagaaaaacaaatgttttcattaacaagttggcgctttcatggtataataaagtGctaagacgcaattctattat
+337,chr,pyotss0337,Streptococcus pyogenes strain S119,NA,NA,NA,LysR family transcriptional regulator?CpsY,744861,-,SP119_0718,tctaaacccatgatgacgtttgtgcttgcgtctttattttttttgagctagactgtacttAtgagaattcaacaactgcat
+338,chr,pyotss0338,Streptococcus pyogenes strain S119,NA,NA,NA,hypothetical protein  ,745041,+,SP119_0719,ttgagagttgaatctatcaatttcattgcccttttatttttcttgtgttatattaatagtAttaacaaataggtatttttc
+339,chr,pyotss0339,Streptococcus pyogenes strain S119,NA,NA,NA,orotidine 5'-phosphate decarboxylase  ,745741,+,SP119_SR050/SP119_0720,aagatgtgttcaaataacaaaaagttttgacatcttgttttaaaaaagctataatagtttAaatttagacacctttaagtg
+340,chr,pyotss0340,Streptococcus pyogenes strain S119,NA,NA,NA,amidase  ,747432,+,SP119_0722,cacattctaatttctaaccttttaatggtggttttcttttatttgtgttttaataaaaaaGaatgttttaggattcatatc
+341,chr,pyotss0341,Streptococcus pyogenes strain S119,NA,NA,NA,ABC transporter substrate-binding protein  ,749024,+,SP119_0723,ttttaaagagattgagtgctcactgataacacaacttaatcaaaatgttatactattcttAtcttaataaaggagttacta
+342,chr,pyotss0342,Streptococcus pyogenes strain S119,NA,NA,NA,uracil-DNA glycosylase  ,750667,+,SP119_0725,ttaaccctggaaatatcatattttcagggtctttctatttaaaatgtggtaaactagataGaaaaggacatcgtatttaac
+343,chr,pyotss0343,Streptococcus pyogenes strain S119,NA,NA,NA,glycerol-3-phosphate acyltransferase,753471,-,SP119_0727,ttttccgaattcttttccagatctagttctccaatctatgaatatgttataataaggattAtgaaattactactttttatt
+344,chr,pyotss0344,Streptococcus pyogenes strain S119,NA,NA,NA,DNA topoisomerase IV subunit B  ,753495,+,"SP119_0728, p2",gtaaataggcaatggtaataaaaagtagtaatttcataatccttattataacatattcatAgattggagaactagatctgg
+345,chr,pyotss0345,Streptococcus pyogenes strain S119,NA,NA,NA,DNA topoisomerase IV subunit B ,753582,+,"SP119_0728, p1",attcggaaaaaattagcaaattattttgcaaaattggtaaaaaacttgtaagataaaaaaGatgaaactgtctggaggtcg
+346,chr,pyotss0346,Streptococcus pyogenes strain S119,NA,NA,NA,branched chain amino acid aminotransferase  ,758204,+,SP119_0730,gaatattaatacaaaagaatagaataaacttgaaaattattgaaaaaaagttacaatagaAaaaagcagaaaagaggtacg
+347,chr,pyotss0347,Streptococcus pyogenes strain S119,NA,NA,NA,DUF2969 domain-containing protein,759301,+,SP119_0731,agtagattaaaatagagcttgctcttgcaagcttttttgattttgtgtaaaatagacaaaGtgaggtaaagtgatgagtaa
+348,chr,pyotss0348,Streptococcus pyogenes strain S119,NA,NA,NA,SP119_t046,759597,+,SP119_SR051,accattaaaattagacaaaaacacttgccagcttacaaaaactatgatagaatagtttttGttgttacggaaagatagcga
+349,chr,pyotss0349,Streptococcus pyogenes strain S119,NA,NA,NA,SP119_t048,761235,+,SP119_SR053,tattgtcttctggttagaaaagttatttcatattatttcattttatgatatactataaggGtattgacaaagttgtgacca
+350,chr,pyotss0350,Streptococcus pyogenes strain S119,NA,NA,NA,hypothetical protein  ,762000,-,SP119_0733,cccattactcctttaagcaaatcattagaagctttatttagaaaatgctaagataaaacaAggaggccaaaatgacttatg
+351,chr,pyotss0351,Streptococcus pyogenes strain S119,NA,NA,NA,rhodanese domain-containing protein,762162,+,SP119_0734,tgaaaaaaagacaaacaaatgacttgcctagacttgtttttcctagatataataggaagtAactgaataacaatgaaggag
+352,chr,pyotss0352,Streptococcus pyogenes strain S119,NA,NA,NA,C4-dicarboxylate ABC transporter  ,764095,+,SP119_0736,gccttaaattttctttcgcgggtggtgtcaaaaatgctcgaaatgtgataaaataaacaaGattatgtcactaaaaatagc
+353,chr,pyotss0353,Streptococcus pyogenes strain S119,NA,NA,NA,DUF3042 domain-containing protein,765394,-,SP119_0737,agcgtgtccaaaaacgccttttacttgaaaattagcttatttttcgctaccatatattatAacataagattaaggaccact
+354,chr,pyotss0354,Streptococcus pyogenes strain S119,NA,NA,NA,tRNA dimethylallyltransferase,765407,+,SP119_0738,tattctccatttctagtgaaggacctcagtggtccttaatcttatgttataatatatggtAgcgaaaaataagctaatttt
+355,chr,pyotss0355,Streptococcus pyogenes strain S119,NA,NA,NA,GTPase HflX,766422,+,SP119_0739,aaagagaagtcatgacgcaaaattagcagaatctgttgaagatatgttataatagaatttAcggaatttggaggattggta
+356,chr,pyotss0356,Streptococcus pyogenes strain S119,NA,NA,NA,adenine phosphoribosyltransferase  ,772340,+,SP119_0744,ataaacaataatgtcagaagtcttattttacgaaaaatatgtttcgtgatataatgaagaGtattttatatttggcaattt
+357,chr,pyotss0357,Streptococcus pyogenes strain S119,NA,NA,NA,tRNA (adenine-N(1))-methyltransferase,774364,+,SP119_0747,atcgaaagcctagcctttggttttctttttttatggaggtaattttgctataatagaaccAttacgttttagaaagaaatc
+358,chr,pyotss0358,Streptococcus pyogenes strain S119,NA,NA,NA,glucose-1-phosphate thymidylyltransferase  ,777030,+,SP119_0750,accttttgcggtctactggtaaagcgtgacactgctttcaaaaaatgatagaatgataggGtatatagaagaataggagca
+359,chr,pyotss0359,Streptococcus pyogenes strain S119,NA,NA,NA,NA,778906,+,int SP119_0752,gttcatgtaactgtccttgataaattgacatatgcaggtaatcgtgctaacattgaagctAttcttggtgatcgtgttgag
+360,chr,pyotss0360,Streptococcus pyogenes strain S119,NA,NA,NA,8-oxo-dGTP diphosphatase,779999,+,SP119_0753,gtattcacactttgactcataaaatgatagcatattttctagagattggtataatagaaaCaaagatggaaaggaaagaga
+361,chr,pyotss0361,Streptococcus pyogenes strain S119,NA,NA,NA,DUF814 domain-containing protein;Fibronectin/fibrinogen-binding protein??,784711,-,SP119_0756,aaaaaaattgcaagctctttcgtccatatttttagtcaagtatttgtggtataatgaagaGattagaattcagaaaggaga
+362,chr,pyotss0362,Streptococcus pyogenes strain S119,NA,NA,NA,peptide ABC transporter substrate-binding protein  ,784790,+,SP119_SR054/SP119_0757,tacttgactaaaaatatggacgaaagagcttgcaatttttttgatttaggttataatgttAaaaaaacgagaaaggaagtc
+363,chr,pyotss0363,Streptococcus pyogenes strain S119,NA,NA,NA,NA,785900,+,int SP119_0757,tatttctcaaaatcagtacgatttgggagttcaaacagctaatcaggtgttaaaattaatCaaaggaaagcgtgttgtaga
+364,chr,pyotss0364,Streptococcus pyogenes strain S119,NA,NA,NA,IG- as  SP119_0758,786293,-,SP119_SR055,ctctcgccagtataaaccctttctttacattaatttttagatttgttttatacttagttcAgcaccgtggcttagtctttt
+365,chr,pyotss0365,Streptococcus pyogenes strain S119,NA,NA,NA,ribonuclease J ,788131,+,SP119_0761,aatctgaaagtatcaaggctatttagagaaaaaacgcctcaaatatgatatactatagaaGatagtagcatagctacataa
+366,chr,pyotss0366,Streptococcus pyogenes strain S119,NA,NA,NA,ABC transporter ATP-binding protein  ,791193,+,SP119_0764,tcttttggaaactaggctgaaaatgtcctcaaaagggtatttttttgttagaatgaaagtAtgattattttacaaggaaac
+367,chr,pyotss0367,Streptococcus pyogenes strain S119,NA,NA,NA,pyruvate dehydrogenase E1 subunit alpha  ,793362,+,SP119_0765,aaggtagaaagcgatttaattatttgcaaattgtgaaaaaaagttttatcataaaaaggtAatatgataatatggaggccg
+368,chr,pyotss0368,Streptococcus pyogenes strain S119,NA,NA,NA,hyaluronate lyase  HylA,802237,-,SP119_0769,actcagccattatttatgtaagggtttataaaaatactttaacgtggtatatttttacttAgtaaatcaatttacttttat
+369,chr,pyotss0369,Streptococcus pyogenes strain S119,NA,NA,NA,lipoate--protein ligase A  ,802385,+,SP119_0770,gaagatgtcatacagaataggacacttgtcttttatatttgttttcattatactagagagGtagattacatttttgaaagg
+370,chr,pyotss0370,Streptococcus pyogenes strain S119,NA,NA,NA,DUF1727 domain-containing protein,805650,-,SP119_0772,atatcatgatcaaagatttttccctatctaaaatcaataaacttatgataaaatataagcAtgaaaatgaagacattactc
+371,chr,pyotss0371,Streptococcus pyogenes strain S119,NA,NA,NA,TIGR00159 family protein,805725,+,SP119_0773,ataagtttattgattttagatagggaaaaatctttgatcatgatatgatataatatagctAataacttttttgatatagaa
+372,chr,pyotss0372,Streptococcus pyogenes strain S119,NA,NA,NA,phosphoglucosamine mutase  ,807576,+,SP119_0775,tgagccgtcagtagtgaccgttcagttgacaaccaccaaaaaataatggataataactagGaaaattgaatggaggaagcc
+373,chr,pyotss0373,Streptococcus pyogenes strain S119,NA,NA,NA,coproporphyrinogen III oxidase  ,809808,+,SP119_0777,aatcaagggaaatggtttattcatagaaacattttatcatcaaagtggtataataagaccAtgtcaaaaaaacctacttca
+374,chr,pyotss0374,Streptococcus pyogenes strain S119,NA,NA,NA,tracRNA,813283,-,SP119_SR056,ctgataaatttctttgaatttctccttgattatttgttataaaagttataaaataatcttGttggaaccattcaaaacagc
+375,chr,pyotss0375,Streptococcus pyogenes strain S119,NA,NA,NA,tracRNA,813362,-,SP119_SR056,aaatagattataacacaaaattcttttaaaaagtagtttattttgttatcattctatagtAttaagtattgttttatggct
+376,chr,pyotss0376,Streptococcus pyogenes strain S119,NA,NA,NA,type II CRISPR RNA-guided endonuclease Cas9  ,813423,+,SP119_0781,actatagaatgataacaaaataaactactttttaaaagaattttgtgttataatctatttAttattaagtattgggtaata
+377,chr,pyotss0377,Streptococcus pyogenes strain S119,NA,NA,NA,NA,818456,+,int SP119_0782,cccaaaataaagagagagttatttactttgttttcagatacattttcatataatggtaaaGagatgtatctcacgaatatt
+378,chr,pyotss0378,Streptococcus pyogenes strain S119,NA,NA,NA,crispr,819549,+,SP119_SR057,cgcagtatattttagatgaagattatttcttaataactaaaaatatggtataatactcttAataaatgcagtaatacaggg
+379,chr,pyotss0379,Streptococcus pyogenes strain S119,NA,NA,NA,"nucleoside-diphosphate kinase , partial",819973,+,SP119_0785,taccagcagtcggataccttcctattctttctgttaaagcgttttcatgttataataggcAaaagaagagtagtgtgatgg
+380,chr,pyotss0380,Streptococcus pyogenes strain S119,NA,NA,NA,elongation factor 4  ,820494,+,SP119_0787,ttgcaagataatccgtaagaaaagataggcaaaggcctaccttttttgttataatagaagGaaagactaaatgtataggaa
+381,chr,pyotss0381,Streptococcus pyogenes strain S119,NA,NA,NA,hypothetical protein  ,822472,+,SP119_0788,atggttatcttatacaaaaagaactttacaatcattcgcacataatgttataataatattAtaatgttatctcattattag
+382,chr,pyotss0382,Streptococcus pyogenes strain S119,NA,NA,NA,peptide-methionine (R)-S-oxide reductase  ,823648,+,SP119_0789,gtctgaggtgctgtgaacaaatcagttaccgctcacctctttttttggtaaaatgtaagcActaaaacatcaaaaggagtt
+383,chr,pyotss0383,Streptococcus pyogenes strain S119,NA,NA,NA,putative sulfate exporter family transporter,824208,+,SP119_0790,gattggtgaggcgtacgggtcagttttacaagcctttgtaaaaggtctataatagggaatGaaaaaaggaggttagtatgt
+384,chr,pyotss0384,Streptococcus pyogenes strain S119,NA,NA,NA,PTS mannose transporter subunit IIA  ,825364,+,SP119_SR058/SP119_0791,gtctacattttaaagagaataatgcatttttaaaacgttttcatttgataaaataaacctAtcgttaaaccagttcagtaa
+385,chr,pyotss0385,Streptococcus pyogenes strain S119,NA,NA,NA,NA,827931,+,int SP119_0794,agcagcttctattcaagattaccttgaccaattgtttattggtattgtaccattaatggtAacactagcagctttttggct
+386,chr,pyotss0386,Streptococcus pyogenes strain S119,NA,NA,NA,sensor histidine kinase,828164,+,SP119_0795,tgatgagacttgttttgatgaaaaacgtagtagcattaagaaatttgttataatgaaaggAgcttaagatgcgaggtgaac
+387,chr,pyotss0387,Streptococcus pyogenes strain S119,NA,NA,NA,YkgJ family cysteine cluster protein,831722,+,SP119_0798,agtatggtattgtcaacttgaaaaaggtcctaaggccttttttctatgttataattaagaAtcatcttcagttgagaaagt
+388,chr,pyotss0388,Streptococcus pyogenes strain S119,NA,NA,NA,succinate-semialdehyde dehydrogenase  ,833774,+,SP119_0801,cctttaaaaatagcgtagtcattttttgaaatcgatttcataatctggtagactaaggttAtcacgaaaaggaggctatat
+389,chr,pyotss0389,Streptococcus pyogenes strain S119,NA,NA,NA,UvrABC system protein C,835297,+,SP119_0802,caaggcgttacactcttcttttttaaagtcaaaattttaaaaatttgataaactagtaacAtgaacgaactgattaaacat
+390,chr,pyotss0390,Streptococcus pyogenes strain S119,NA,NA,NA,NAD(P)H nitroreductase  ,837241,+,SP119_0803,aaggttgcgaagtgtagtgagtttatgattttaaaaactattttatggtaaaataaaatgGtattaaaaaaaacagattta
+391,chr,pyotss0391,Streptococcus pyogenes strain S119,NA,NA,NA,tRNA uridine-5-carboxymethylaminomethyl(34) synthesis GTPase MnmE  ,840858,-,SP119_0805,cctattttctatacaaataacaccttgctttctactaggacttgatttaaaatagagggcAtgagtataactaaagaattt
+392,chr,pyotss0392,Streptococcus pyogenes strain S119,NA,NA,NA,50S ribosomal protein L10  ,841025,+,SP119_SR059/SP119_0806,aaaaatcattttttaatagtttttattgacaatagtattataaaagaatataatgatataGgttttgataaaaaactgacc
+393,chr,pyotss0393,Streptococcus pyogenes strain S119,NA,NA,NA,DNA-binding response regulator  ,845021,+,SP119_0815,aaaattatcgatacttctcgaaatgaaatacaatgggagtaattatgatataatttgggtGgtagcaatttttatatcaga
+394,chr,pyotss0394,Streptococcus pyogenes strain S119,NA,NA,NA,lantibiotic streptin  ,847284,+,SP119_0817,ttttggctaaaatactttttttctgaacaaattctgaacttggggtgtcataataatcatGtaaatatatcggatgcaaaa
+395,chr,pyotss0395,Streptococcus pyogenes strain S119,NA,NA,NA,XRE family transcriptional regulator,850628,+,SP119_0822,agtcttgtccaaataggacaattaaacattttttaatcaaatctcctttatactgatattAggagaatgttagatgtatcc
+396,chr,pyotss0396,Streptococcus pyogenes strain S119,NA,NA,NA,pseudogene,851276,+,SP119_0823,aatagctataaaaaagttgaagaagctcgcgaacttgaacaaaatgcggtacaattaagtAaatcgccctttgacaataga
+397,chr,pyotss0397,Streptococcus pyogenes strain S119,NA,NA,NA,D-alanyl-D-alanine carboxypeptidase,852683,+,SP119_0827,aaggtgtgtgccactatacttccttccaaatttctgagaatttttgttataatagtaactAtgaaagatataatgataaaa
+398,chr,pyotss0398,Streptococcus pyogenes strain S119,NA,NA,NA,polysaccharide deacetylase family protein,855035,-,SP119_0828,aaacaagaaaaaaggctgacttcaagccttcttttctctaaaaaatgttacaatagaggtActtatatcaaaaaaaggagc
+399,chr,pyotss0399,Streptococcus pyogenes strain S119,NA,NA,NA,bifunctional folylpolyglutamate synthase/dihydrofolate synthase?,855325,+,SP119_0829,aaagggtactactctaggttatctgctgtcacttttttttatatatggtatactaaagatAgatgtgaggtatgaaatgac
+400,chr,pyotss0400,Streptococcus pyogenes strain S119,NA,NA,NA,UDP-N-acetylenolpyruvoylglucosamine reductase  ,858997,+,SP119_0834,aatccataaagttttgccaaattcatcgttattttttctaaaatttgatataatagtatcGgctttatgccgattttttta
+401,chr,pyotss0401,Streptococcus pyogenes strain S119,NA,NA,NA,sensor histidine kinase,866011,-,SP119_0840,ttcaagttatttaattaatttaagctagcaggtcatttcttatcgtgttatactcaataaAgaggagaccttatgaaaaaa
+402,chr,pyotss0402,Streptococcus pyogenes strain S119,NA,NA,NA,alcohol dehydrogenase  ,869868,-,SP119_0843,attatcataatcgatttaaaaaatattgaaaaccctttcttaaaatattataatatctgtGtaaaaatgaattggttgatt
+403,chr,pyotss0403,Streptococcus pyogenes strain S119,NA,NA,NA,class B acid phosphatase,870042,+,SP119_0844,actattataagaatttgaaaccgctttacttaaaccgtgtatttttgtacaataatgattAaggaggtttttagatgaaaa
+404,chr,pyotss0404,Streptococcus pyogenes strain S119,NA,NA,NA,ClC family H(+)/Cl(-) exchange transporter?,870937,+,SP119_0845,gaaatcagttctaaaaaagaatcactggtaacttaaggttgtctttgatacaatggtaacAgtgtatttaaaagaaagaga
+405,chr,pyotss0405,Streptococcus pyogenes strain S119,NA,NA,NA,lipase/acylhydrolase,872637,+,SP119_0846,tctgaaccaaagtgaaacgcttttgatgaagtcaagtaggctttttgttatactaacaatAaagataagctaaggaggctg
+406,chr,pyotss0406,Streptococcus pyogenes strain S119,NA,NA,NA,AI-2E family transporter  ,873442,+,SP119_0847,ttctttcaaatcaaaagattatgatatcgctatgttgagttttagtgtataatgataattAaaggagttaccatgaaattt
+407,chr,pyotss0407,Streptococcus pyogenes strain S119,NA,NA,NA,redox-sensing transcriptional repressor Rex,876698,-,SP119_0850,actcatacaaaaacaatcaaaatgttgcatttttcacaatctttttgttacaataaagacAgacatatttaacgagaaatc
+408,chr,pyotss0408,Streptococcus pyogenes strain S119,NA,NA,NA,Putative ribose-phosphate pyrophosphokinase 2  ,879437,-,SP119_0853,ataatggctaaaagcgacagaaaaactgaaatttttctgtttttctgttaaaatagggatGtcaattaaacacttttgggt
+409,chr,pyotss0409,Streptococcus pyogenes strain S119,NA,NA,NA,GTP pyrophosphokinase  ,880107,+,SP119_0855,ttatattcgatttctaggttagtcatgggaaattccttttaatttgtgctataataaattGttatttcaattttatattat
+410,chr,pyotss0410,Streptococcus pyogenes strain S119,NA,NA,NA,CYTH domain-containing protein,880109,-,SP119_0854,ctaaggtcatctattgtctcctttcttgtcaaagccaggataataatataaaattgaaatAacaatttattatagcacaaa
+411,chr,pyotss0411,Streptococcus pyogenes strain S119,NA,NA,NA,phosphate acetyltransferase  ,882520,+,SP119_0858 (end of SP119_0857),aagtgattgtagctgtgcaatacacttgacagatgactttgatagcgttatcataggtttAcagaaaaaagatagaggtta
+412,chr,pyotss0412,Streptococcus pyogenes strain S119,NA,NA,NA,hypothetical protein  ,885325,-,SP119_0861,ctatgatgatagataagcagattaattgtcttttctagaaaatacagctatcatacaattAtgaaaaatgctatttccatt
+413,chr,pyotss0413,Streptococcus pyogenes strain S119,NA,NA,NA,ABC transporter ATP-binding protein  ,885511,+,SP119_0862,ataagggggtaatagtctcattatttgacttatagtgggaaactttttataatggtcaacAacaaacgacaagaaaataat
+414,chr,pyotss0414,Streptococcus pyogenes strain S119,NA,NA,NA,GMP reductase,888137,+,SP119_SR060/SP119_0864,taaaattaaaaatagcatataaatttgacaaaacataaacaaataagtaatctataaaatGaaaggtaagtttttacctaa
+415,chr,pyotss0415,Streptococcus pyogenes strain S119,NA,NA,NA,xanthine phosphoribosyltransferase  ,889366,+,SP119_SR061/SP119_0865,gatgcttttatcatatctctgtaggtattgaaaaaaataagaaacatggtaaaatagtaaAttattataatgaattcaata
+416,chr,pyotss0416,Streptococcus pyogenes strain S119,NA,NA,NA,4-oxalocrotonate tautomerase,892685,-,SP119_0868,gttttcccagccattgaaaacagtgtatactttttcacagcattatgttacaatgatgccCaataacataaaggagtaaca
+417,chr,pyotss0417,Streptococcus pyogenes strain S119,NA,NA,NA,thymidine kinase  ,892772,+,SP119_0869,aaaagtatacactgttttcaatggctgggaaaacttcagcctttgtggtaaaataggtagAatactatagaaagtaggatt
+418,chr,pyotss0418,Streptococcus pyogenes strain S119,NA,NA,NA,NA,902157,+,int SP119_0878,gaacttgatgctggtagcatcaagttagataaagttcctattaagtgttatgctaaggaaGaacttaggtccattactggc
+419,chr,pyotss0419,Streptococcus pyogenes strain S119,NA,NA,NA,NADH oxidase  ,902862,+,SP119_0879,taactcaaaaaagtgagcaatatatttggaagcgttttttgactgtggtataatagagccCtatataatattgtgaaatga
+420,chr,pyotss0420,Streptococcus pyogenes strain S119,NA,NA,NA,L-lactate dehydrogenase  ,905449,-,SP119_0880,tattttcattatttttctgaattcaatgacaaacaattatcaatatgttaaaataagaccGtatgagcttttgctctaata
+421,chr,pyotss0421,Streptococcus pyogenes strain S119,NA,NA,NA,DNA gyrase subunit A  ,905567,+,SP119_0881,atagtttactgataacgcttccaataagaaaaaataaggaatttatggtataatgaaatcTagtattgactagaaaaggag
+422,chr,pyotss0422,Streptococcus pyogenes strain S119,NA,NA,NA,hypothetical protein,909573,+,SP119_SR062/SP119_0884,aataactataggaaaagcaaaatatttgacgataaactcttacagtgttataatgacaatAtaagttaataactgtgttgt
+423,chr,pyotss0423,Streptococcus pyogenes strain S119,NA,NA,NA,diacylglycerol kinase  ,911321,-,SP119_0886,aggcttaatgtgatgatttgatgtaagacatcaattcttagaagtggtataatggatagcAagtaataagctgtcaaagga
+424,chr,pyotss0424,Streptococcus pyogenes strain S119,NA,NA,NA,DUF1836 domain-containing protein,912523,-,SP119_0888,tcttttaagtctttacagtttttgcttgcaataagttttcattaatcatataatctagttAtcaaaactagatagagagac
+425,chr,pyotss0425,Streptococcus pyogenes strain S119,NA,NA,NA,ribosome biogenesis GTPase YlqF  ,912631,+,SP119_0889,aagacttaaaagaggaaagtagaaatggcgaagtgaagctaatcatgctataatgttaaaGaattgattgggatagatgcc
+426,chr,pyotss0426,Streptococcus pyogenes strain S119,NA,NA,NA,type I DNA topoisomerase,915317,+,SP119_0892,tttcttcctatatagcatttttttattgacagtttcttaaaaatgggatattatgctataAgctttaaacaaactgttata
+427,chr,pyotss0427,Streptococcus pyogenes strain S119,NA,NA,NA,"PTS transporter subunit IIC, truncated",918258,+,SP119_0895,tccgcaacaatttgattaaagtcatccacaaggtctttgcctttgtgataaaatatctccAgcttcggttagtagtagctg
+428,chr,pyotss0428,Streptococcus pyogenes strain S119,NA,NA,NA,DNA-binding protein  ,920092,+,SP119_0897,ataattctaaaaattcctttataatggacttttttgtattagtccgttataatagactgtAagaaaggggactcttatgac
+429,chr,pyotss0429,Streptococcus pyogenes strain S119,NA,NA,NA,FADH(2)-oxidizing methylenetetrahydrofolate--tRNA-(uracil(54)-C(5))-methyltransferase TrmFO,921564,+,SP119_0899,agagactaacgcttagtctctttctttttctttcttcttatttctgttataataagtcagGtaactacattagaaagattt
+430,chr,pyotss0430,Streptococcus pyogenes strain S119,NA,NA,NA,HMGL-like family protein  ,923121,+,SP119_0900,aatgcacaaaaaatacatgaatagactatggtcactagaagcaatattatataatgaataGtactcattagttgattcagt
+431,chr,pyotss0431,Streptococcus pyogenes strain S119,NA,NA,NA,GntR family transcriptional regulator  ,928182,-,SP119_0905,atttttcagaactcatctagtcctattggaatgtttcacaaatttaagtataataaagtgAggacactagcattaaggaga
+432,chr,pyotss0432,Streptococcus pyogenes strain S119,NA,NA,NA,citrate transporter  ,929744,-,SP119_0906,ttgtgtctttctgcacaaagaagtatttattttataagcgctttcatctatactgaaatcAtaacttgaaaaaggagataa
+433,chr,pyotss0433,Streptococcus pyogenes strain S119,NA,NA,NA,hypothetical protein ,930057,+,SP119_0907,gctcttagaaagaacacaaaaaagccatctcaaaaaagattggtagtatataataaacttActagttccttaaataggtaa
+434,chr,pyotss0434,Streptococcus pyogenes strain S119,NA,NA,NA,hypothetical protein  ,938681,-,SP119_0917,ttaaccttttagaacaaggtttatcgcatactatttttagacattttgttataataaaaaGaaacgacttgaggagataaa
+435,chr,pyotss0435,Streptococcus pyogenes strain S119,NA,NA,NA,tyrosine recombinase XerS  ,940515,-,SP119_0918,atctttccgaaaaactgtaattttcttgaaaaatatttataggtgtgatatactgctcttGtagagaatgaatgtcataaa
+436,chr,pyotss0436,Streptococcus pyogenes strain S119,NA,NA,NA,XRE family transcriptional regulator,940868,+,SP119_0919,gaattaattgtagaaaatgttacacttgctttcgttttatttttttgatactattagtaaAgttataactttactaaagga
+437,chr,pyotss0437,Streptococcus pyogenes strain S119,NA,NA,NA,putative DNA-binding protein,943621,-,SP119_0921,agcacaaggcaattaatttgctactgttaaaaacaatcatagtatgataaaatgaacattAtggaaattgaaaaaacaaac
+438,chr,pyotss0438,Streptococcus pyogenes strain S119,NA,NA,NA,GntR family transcriptional regulator  ,944440,-,SP119_0922,atgccaaatacctcaatatttacaattcaattttcatcaaaaatatgataaaatagatgaAtaaccgacttgaggagtgtg
+439,chr,pyotss0439,Streptococcus pyogenes strain S119,NA,NA,NA,hypothetical protein  ,945965,-,SP119_0923,acattacaatttctctagctcgttggaaaaaaacgtaatcgttatgttacaatagaggctAtgaaagggaattaagacaac
+440,chr,pyotss0440,Streptococcus pyogenes strain S119,NA,NA,NA,GMP synthetase  ,946056,+,SP119_0924,ttttccaacgagctagagaaattgtaatgtcttttcgatgaaaatatgctacaataagttGacaactatcaacctgacggt
+441,chr,pyotss0441,Streptococcus pyogenes strain S119,NA,NA,NA,as SP119_0926,949319,+,SP119_SR063,tagtaatttctgtgtaaaaaattaaggaatagtttaggttaacttactaaaatcccaagtAtcggttacccacccattgta
+442,chr,pyotss0442,Streptococcus pyogenes strain S119,NA,NA,NA,ABC transporter ATP-binding protein,950886,-,SP119_0926,agcaaggtacacttttagtcaaatattgacaaaaggttacaattttgccataatgaaataActataaagccgttttgacgg
+443,chr,pyotss0443,Streptococcus pyogenes strain S119,NA,NA,NA,pyridoxamine kinase  ,952391,-,SP119_0928,ccatacagttaagtgttataactattgtatcttatgcctctttttcttacaatagttattAtagaaaagaggtaatagcta
+444,chr,pyotss0444,Streptococcus pyogenes strain S119,NA,NA,NA,GntR family transcriptional regulator  ,952435,+,SP119_0929,tattacctcttttctataataactattgtaagaaaaagaggcataagatacaatagttatAacacttaactgtatggggac
+445,chr,pyotss0445,Streptococcus pyogenes strain S119,NA,NA,NA,hypothetical protein  ,954497,-,SP119_0930,gtttttcgggtatgagtgctatgacttgacaaatgctaataacatttgcataatgtaggtAgagatgaaaacttatgaaaa
+446,chr,pyotss0446,Streptococcus pyogenes strain S119,NA,NA,NA,sRNA asd,954776,-,SP119_SR064,tattagtacgaacaattgcccctctcttgtaattttcgtaaaatatgttataatatctgtAtgcgatgagtcgattgtgac
+447,chr,pyotss0447,Streptococcus pyogenes strain S119,NA,NA,NA,cardiolipin synthase  ,956400,-,SP119_0931,ttgctcgaataattcgagcaagcgctcctttcttcccgctttactgtgatataataaggtAaatgagattttggagggatg
+448,chr,pyotss0448,Streptococcus pyogenes strain S119,NA,NA,NA,formate--tetrahydrofolate ligase  ,958161,-,SP119_0932,caataattgttttaattcaaataaatgtacgtatgatatgaattgtgatataatgacgtcAttacgtaaaattgaggagtc
+449,chr,pyotss0449,Streptococcus pyogenes strain S119,NA,NA,NA,lipoate--protein ligase family protein,964439,-,SP119_0939,agttctggaaagcaagacactatagtagctaaaatctaaattttaaggtaaaatagagcaAgcggtttcaagtgtgaaagg
+450,chr,pyotss0450,Streptococcus pyogenes strain S119,NA,NA,NA,phosphopantothenate--cysteine ligase  ,964613,+,SP119_0940 $,caatgtctggcgtcattatcttccgtttactatcagctccttttttgataaaatatgactAtgaaattaataataacatca
+451,chr,pyotss0451,Streptococcus pyogenes strain S119,NA,NA,NA,phospho-sugar mutase?,966613,+,SP119_0943,ttttgtaaacagctgcaaataattagtgtttttttcccttcaaaatgatataatgaaagcGtttataaatattgaaggagt
+452,chr,pyotss0452,Streptococcus pyogenes strain S119,NA,NA,NA,class I SAM-dependent methyltransferase,975063,-,SP119_0949,ataaaattgttaaaaaacaagcgtcttgtaaaccatttcaaagtatgatagaatgaaaaaGtaccttaaaaagataggaaa
+453,chr,pyotss0453,Streptococcus pyogenes strain S119,NA,NA,NA,type I pantothenate kinase  ,975282,+,SP119_0950,tttcgtgtaaatactaacgaaaaattatttattttttaactaaaatggtataatgtaagcActgtcaaatgattaggagct
+454,chr,pyotss0454,Streptococcus pyogenes strain S119,NA,NA,NA,30S ribosomal protein S20  ,976268,+,SP119_0951,aatttacctcaaaaagtgataaagggttgccaaacgcatatattttctatataataatgtAgttagattaatttggaggtg
+455,chr,pyotss0455,Streptococcus pyogenes strain S119,NA,NA,NA,DNA-binding response regulator   CiaR,978706,-,SP119_0953,tgccttaaaggagtattaatattttagtaaaccttaagctttttgtagtatagtctcgttAgaaattgttatcagaaatga
+456,chr,pyotss0456,Streptococcus pyogenes strain S119,NA,NA,NA,aminopeptidase N  ,981695,-,SP119_0954,ttgtttatcttaaaactggaaaaattattgaattataagaaattatgctataatgagactGggaaacagcttgccagtccc
+457,chr,pyotss0457,Streptococcus pyogenes strain S119,NA,NA,NA,phosphate-binding protein?,986775,-,SP119_0960,gttaaatatttaaagaaaaaatgctttcaaagcataggtagatatgttactataaagaatAtgtggcacttagtttctaca
+458,chr,pyotss0458,Streptococcus pyogenes strain S119,NA,NA,NA,regulatory protein Spx  ,989656,-,SP119_0964,cgaacagcattaaattggaaaaaagatagcaaattatcttaaatttttgtataataaggtAagtaaatttgatagaggaaa
+459,chr,pyotss0459,Streptococcus pyogenes strain S119,NA,NA,NA,tRNA pseudouridine(55) synthase TruB,991553,-,SP119_0966,gctaaaattggttaagcgtttattttggcaaaactgatgataaagcggtagaatagaatcAgtaacaattactaattagag
+460,chr,pyotss0460,Streptococcus pyogenes strain S119,NA,NA,NA,DUF2130 domain-containing protein,992999,-,SP119_0967,acttcttatctatgacagcttgggacttaacttcctgagcttttttgctataataaaatgAagaatctcagaatggagaca
+461,chr,pyotss0461,Streptococcus pyogenes strain S119,NA,NA,NA,restriction endonuclease subunit S?,994664,-,SP119_0969,gtgaaaagacagatatagacagcacttgaaaagttaatcatattatgatagtatctaaatActataatttaatagaaagat
+462,chr,pyotss0462,Streptococcus pyogenes strain S119,NA,NA,NA,ABC transporter ATP-binding protein  ,998120,-,SP119_0971,atcaacagttgcgtcagatttgttcttgttaaatacttagggccattatataataaggctAtaattaaatcaacactatgt
+463,chr,pyotss0463,Streptococcus pyogenes strain S119,NA,NA,NA,TetR/AcrR family transcriptional regulator,998143,+,SP119_0972,gcccctccattatttgaacatagtgttgatttaattatagccttattatataatggccctAagtatttaacaagaacaaat
+464,chr,pyotss0464,Streptococcus pyogenes strain S119,NA,NA,NA,GntR family transcriptional regulator?,999560,-,SP119_0973,tgtcacggttaaaaagatacggactattgtcatctctctaaaaatatgatttaattagatAtaaatttttcaaattattag
+465,chr,pyotss0465,Streptococcus pyogenes strain S119,NA,NA,NA,GlsB/YeaQ/YmgE family stress response membrane protein,1002298,-,SP119_0979,aattttaagttttaggagcatatcagttgcattttaaatttaaaggtgtataataacaatAtaaattaaataacgagtggt
+466,chr,pyotss0466,Streptococcus pyogenes strain S119,NA,NA,NA,DNA helicase PcrA,1004798,-,SP119_0980,atctctttacttttggggtcttctttgctatttttcttggaaacatgatataattttaagGttgataaaagagatgtcact
+467,chr,pyotss0467,Streptococcus pyogenes strain S119,NA,NA,NA,sodium:alanine symporter family protein?,1004974,+,SP119_SR065/SP119_0981,attccttatttttttgctattttggttgacttcattcgttttttgaggtatgatagtcctAatttaataaaccgaatgatg
+468,chr,pyotss0468,Streptococcus pyogenes strain S119,NA,NA,NA,cation transporter?,1006709,+,SP119_0982,gccaagttcaagacgctaggcttttttcttaagcccctttttatggtataatataaagttGaaatcaaaggagttattatg
+469,chr,pyotss0469,Streptococcus pyogenes strain S119,NA,NA,NA,CAMP factor,1009177,-,SP119_0983,tcttattttctggaaattaaagaaatattgaccttagtaaaaacaagtagtatgataacgTtataagcgcttataaattaa
+470,chr,pyotss0470,Streptococcus pyogenes strain S119,NA,NA,NA,amino acid ABC transporter permease  ,1011628,-,SP119_0986,tggttgtatttttataaaaaacctctccccaaatacgttcaaatttggtataatagtgaaAtattcagttttaggaggcaa
+471,chr,pyotss0471,Streptococcus pyogenes strain S119,NA,NA,NA,hypothetical protein  ,1012072,-,SP119_0987,atcttctgatgagaacgtattcatcttgtcaaatcattgattctaaagtaaaatggtaacAttaagaaatgtttaggagtg
+472,chr,pyotss0472,Streptococcus pyogenes strain S119,NA,NA,NA,glutamine--fructose-6-phosphate aminotransferase  ,1014147,-,SP119_0988,taattagactataccaattttatgtttgacaagacattgtggatattatatactgtaaacAtaatgtttttatcggtataa
+473,chr,pyotss0473,Streptococcus pyogenes strain S119,NA,NA,NA,signal peptidase I  ,1014807,-,SP119_0989,ttggtattgatcaaaaattgtttactttttttctagcttagaacatggtataataagacaAtagactaggagttaatatgg
+474,chr,pyotss0474,Streptococcus pyogenes strain S119,NA,NA,NA,6-phosphofructokinase  ,1017614,-,SP119_0991,tttcgataaaaatggacaattagtgaagtattttgcaaatgaatgtgctataataagaccGttaaattaattaaaggagta
+475,chr,pyotss0475,Streptococcus pyogenes strain S119,NA,NA,NA,NA,1020735,-,int SP119_0992,ataaccaaaggaggaacttatgtttgctcaacttgatactaaaactgtatactcatttatGgatagtttaattgacttaaa
+476,chr,pyotss0476,Streptococcus pyogenes strain S119,NA,NA,NA,DNA polymerase III subunit alpha  ,1020798,-,SP119_0992,agacgtagattagagagaaaattgaagcaagaaaacctttttcatagtataatagggaacAagataaccaaaggaggaact
+477,chr,pyotss0477,Streptococcus pyogenes strain S119,NA,NA,NA,GntR family transcriptional regulator  ,1020925,+,SP119_0993,caaagagtgaaaaatggcataaaacttgacattccctttttttttctgtaccatttaattAgtacaaatatctatattact
+478,chr,pyotss0478,Streptococcus pyogenes strain S119,NA,NA,NA,TVP38/TMEM64 family protein,1023566,-,SP119_0996,ctattctatcaaaactttttttaaatagcaaaattttacagcttatggtatgattagtctAtgacaaaacgtaattcaaaa
+479,chr,pyotss0479,Streptococcus pyogenes strain S119,NA,NA,NA,tmRNA,1023632,+,SP119_SR066,aatcataccataagctgtaaaattttgctatttaaaaaaagttttgatagaatagttagtGtaagaaattggttaattatc
+480,chr,pyotss0480,Streptococcus pyogenes strain S119,NA,NA,NA,IG sRNA,1047704,-,SP119_SR067,gctagtttttatacagtaataagatagtttatacatatttttacatgttattatagtattAtcaaaataacaagaagagat
+481,chr,pyotss0481,Streptococcus pyogenes strain S119,NA,NA,NA,IG sRNA,1048226,+,SP119_SR068,tggatatcaatctctggaaaaaacgtcatgaaagcccccccaatgtggtataatttatttAagcttaaatttaaccaaggg
+482,chr,pyotss0482,Streptococcus pyogenes strain S119,NA,NA,NA,hypothetical protein  ,1055888,+,SP119_1045,atctgatcggtttttaagctcattgtactctttgacagatattgtgataaaatctttgttAtcttttgtagtatcgctata
+483,chr,pyotss0483,Streptococcus pyogenes strain S119,NA,NA,NA,hypothetical protein  ,1056538,+,SP119_1046,tagcattttttcttttctccttttattagttttgttcctcctgcgtgctataataaagctAtcattacgaaaggaggaaaa
+484,chr,pyotss0484,Streptococcus pyogenes strain S119,NA,NA,NA,hypothetical protein  ,1057138,+,SP119_1048 $,gtcattcccccacctcctttctatctgtttttagttcctccaatctgctataatatgggcAgaaaggaggtgaatgtgatg
+485,chr,pyotss0485,Streptococcus pyogenes strain S119,NA,NA,NA,hypothetical protein  ,1057774,+,SP119_1050,gctatacggatattttttggggcgcatctattccaccccctttctgtggtataatttaaaTaaaatgattggagaaaatca
+486,chr,pyotss0486,Streptococcus pyogenes strain S119,NA,NA,NA,IG sRNA,1058636,+,SP119_SR069,attcatgcaacctctcctttcattcttgcggagatacagccaatgtgctaaactaaacttAccccgttagggggagaggac
+487,chr,pyotss0487,Streptococcus pyogenes strain S119,NA,NA,NA,IG sRNA,1058819,-,SP119_SR070,aattcaatatttttgtttaacacgcttgacaatgaatgtttaacgtgttaaactataatcAagcttaagggattaagcaaa
+488,chr,pyotss0488,Streptococcus pyogenes strain S119,NA,NA,NA,XRE family transcriptional regulator,1058907,+,SP119_1052,attgtcaagcgtgttaaacaaaaatattgaattattttttgttgtgttgtataatgtattAaacaatcattctaggaagag
+489,chr,pyotss0489,Streptococcus pyogenes strain S119,NA,NA,NA,IG- as 3'UTR SP119_1053,1060777,-,SP119_SR071,tcctttttatatgatttaattttcattgcataccatctttcaatttgataaaataggtacAagaaaatgacctttttaatg
+490,chr,pyotss0490,Streptococcus pyogenes strain S119,NA,NA,NA,DUF3862 domain-containing protein,1062239,+,SP119_1056,agcgcatgcgctatggggaatcatagctatatcttgtttataatttatgatataatacagCaaaaatagtttaggaaataa
+491,chr,pyotss0491,Streptococcus pyogenes strain S119,NA,NA,NA,4-alpha-glucanotransferase  ,1066960,-,SP119_1058,aatgttactttttttaggaaactggttgacttacgcaagcgcttgcgttataatctcatcAtgaatagatttcacaaggag
+492,chr,pyotss0492,Streptococcus pyogenes strain S119,NA,NA,NA,as SP119_1059,1067286,+,SP119_SR072,aattagaattattaaaagtgataattgacatatcatctggcacttttatatcataaaaagAtaataactgtaccatacgaa
+493,chr,pyotss0493,Streptococcus pyogenes strain S119,NA,NA,NA,LacI family transcriptional regulator  ,1068126,-,SP119_1059,aaatgacaagggaatcttgattgaagttgattttttgaaagataattgtataatggaaacGaaatacatgacaaacccatg
+494,chr,pyotss0494,Streptococcus pyogenes strain S119,NA,NA,NA,maltose/maltodextrin ABC transporter maltose/maltodextrin-binding protein,1068282,+,SP119_1060,acgaccttttttttaaaaaaaggcttgactttttctgcaagcggttgcataatattaagtGtaagaaatatatcttaggag
+495,chr,pyotss0495,Streptococcus pyogenes strain S119,NA,NA,NA,as SP119_1067,1076565,+,SP119_SR073,gcttggtaactattgctggtttgcttatcggcagttgtcactgaaatgttataataatttGctggaaccgtcggtactttt
+496,chr,pyotss0496,Streptococcus pyogenes strain S119,NA,NA,NA,sugar ABC transporter substrate-binding protein  ,1081601,-,SP119_1069,aaagaaaagaaaagtaaaaaagttattgacaaatgaaagcgattacgataaacttaacttAaacgtttaagtttcgaaact
+497,chr,pyotss0497,Streptococcus pyogenes strain S119,NA,NA,NA,IG- as SP119_1070,1081867,+,SP119_SR074,gtagagattatagagctttttgaatatcaaaaaagtcccataagatttataatgaaaagcAaccaaactctcattagaaag
+498,chr,pyotss0498,Streptococcus pyogenes strain S119,NA,NA,NA,teichoic acid D-Ala incorporation-associated protein DltX?,1087575,-,SP119_1075,ttctttttaataatatgacttttagcttgtcaagttaggttttttcgagtagaattttttAggacattatttcactaatac
+499,chr,pyotss0499,Streptococcus pyogenes strain S119,NA,NA,NA,UvrABC system protein B,1089825,-,SP119_1076,tgacatgttttttacgcttattggaggtgattctggcttatctatgttaaaatagtctatAagagagtaagactattagag
+500,chr,pyotss0500,Streptococcus pyogenes strain S119,NA,NA,NA,amino acid ABC transporter permease  ,1089960,+,SP119_1077,tttatgacatataaataacaaatttcttgcttaatgttcaatattttgttataattaaccAtattttttagttttataagg
+501,chr,pyotss0501,Streptococcus pyogenes strain S119,NA,NA,NA,glycoside hydrolase family 1 protein,1100508,-,SP119_1086,taaggaaaaaacagattttttaaagcgtttacatcacctgtttttcttcttataataaaaAgagaagtgagcaaagaaagg
+502,chr,pyotss0502,Streptococcus pyogenes strain S119,NA,NA,NA,nicotinamide riboside transporter PnuC,1100703,+,SP119_1087,acttcttatcaaaaccaagcccctattgacagatgccttagcctatgtttgaataggggtAtggcttatttaaactacttt
+503,chr,pyotss0503,Streptococcus pyogenes strain S119,NA,NA,NA,DUF4044 domain-containing protein,1103156,-,SP119_1090,catagcgtaaatattcatctgatatttgcctaaaacgatctttcatgttaagatataagaAgaaaaatcaatagatgaggt
+504,chr,pyotss0504,Streptococcus pyogenes strain S119,NA,NA,NA,IG sRNA,1103277,+,SP119_SR075,taggctattactgagtattgtatcttgtgaatttcatatgaatatgatacattagcatttGcaaaataatgttacagataa
+505,chr,pyotss0505,Streptococcus pyogenes strain S119,NA,NA,NA,NA,1103691,+,int SP119_1091,acttctagtatgctctcaaggtggatagcgcaatacaagaaaaacggttatactattcttGaaaaaccaagagggagaccg
+506,chr,pyotss0506,Streptococcus pyogenes strain S119,NA,NA,NA,rRNA pseudouridine synthase,1105515,-,SP119_1093,ataatatattaagcgcttacagtcatgaaactactgtttttttatgttatacttaataatGaattttctttgaaagggtta
+507,chr,pyotss0507,Streptococcus pyogenes strain S119,NA,NA,NA,diaminopimelate epimerase  ,1105585,+,SP119_1094,tataacataaaaaaacagtagtttcatgactgtaagcgcttaatatattataataggcttAtagaaacgaggagattaact
+508,chr,pyotss0508,Streptococcus pyogenes strain S119,NA,NA,NA,MFS transporter  ,1107508,-,SP119_1095,atgtatccgctatgttcaaaagaacttgacaattaaaatgagctttactatactagtaacAattaaatactactttaaaca
+509,chr,pyotss0509,Streptococcus pyogenes strain S119,NA,NA,NA,DUF1846 family protein,1107672,+,SP119_1096,aaatgaggtatccctgcaaaaaaccttttctttcttggaatttctttgttataatgctttAcagaggtgaaaaaatgaaga
+510,chr,pyotss0510,Streptococcus pyogenes strain S119,NA,NA,NA,thioesterase  ,1109716,-,SP119_1097,ctactgatttttgaaacatgagctctgccttctgttcctatttgtagtataatgaggcttGtattgcttttagactaagct
+511,chr,pyotss0511,Streptococcus pyogenes strain S119,NA,NA,NA, tRNA (uracil-5-)-methyltransferase ,1111996,-,SP119_1099,taagtatcagaaaacgttagccaaattaggtctgcgctaagatatggtataatggagagtAactaaagttgctcttctttt
+512,chr,pyotss0512,Streptococcus pyogenes strain S119,NA,NA,NA,LytR family transcriptional regulator  ,1113510,-,SP119_1100,attctataatgattaaaattttgagaggacaatctggctaatataggttataatggtagtAttcgttaaaagtgcaattgt
+513,chr,pyotss0513,Streptococcus pyogenes strain S119,NA,NA,NA,methionine aminopeptidase  ,1117536,-,SP119_1104 (end SP119_1105),ccctcacgaaaaagcaccaaaaaaatatcattatcgaacaaatgatggtatactttttacAtgctattcaaattgaggatg
+514,chr,pyotss0514,Streptococcus pyogenes strain S119,NA,NA,NA,N-acetyltransferase,1119257,-,SP119_1106,ggatagataaagactaagactgttatagaatatttgcaaaagatttgttataatggacccAatacaggtattgtgaaaggt
+515,chr,pyotss0515,Streptococcus pyogenes strain S119,NA,NA,NA,protein G alpha 2M-binding protein  (Grab),1120198,-,SP119_1107,ataatatataaattagataataaacttgattttatgcaattaatctgtataataaaagatGgaattattaattataatttc
+516,chr,pyotss0516,Streptococcus pyogenes strain S119,NA,NA,NA,UDP-N-acetylglucosamine 1-carboxyvinyltransferase  ,1121771,-,SP119_1108,tgattaaaaattaagacgtcaataattgtcaggcttcatgatttatgataaaatgaaaagGttgaattctagtataagaaa
+517,chr,pyotss0517,Streptococcus pyogenes strain S119,NA,NA,NA,as metK (SP119_1109),1122431,+,SP119_SR076,gacctccaataacaaaacgtcctgttggattaatgaagaactttgtgtcatcatctaaatAatctgctggaattacagcct
+518,chr,pyotss0518,Streptococcus pyogenes strain S119,NA,NA,NA,S-adenosylmethionine synthase  ,1123486,-,SP119_SR077/SP119_1109,aaataggataatgagtgaaaagaatggcacctaaatggctaaaacatgttataatagattGttattgagtcccgataagac
+519,chr,pyotss0519,Streptococcus pyogenes strain S119,NA,NA,NA,internalin A  ,1126046,-,SP119_1110,aactaatagttatcctaaaaagagcttgaggaaaaacaagtgatgtgatatacttaaccaGttaaataaaaaggagggttg
+520,chr,pyotss0520,Streptococcus pyogenes strain S119,NA,NA,NA,bifunctional biotin--[acetyl-CoA-carboxylase] synthetase/biotin operon repressor,1126228,+,SP119_1111,acaaaaaaactaacttttcttttcctttgaaaataagatcttttataatatactatacatAtgaaaacatcagaaaaaatt
+521,chr,pyotss0521,Streptococcus pyogenes strain S119,NA,NA,NA,DUF3272 domain-containing protein,1127347,-,SP119_1112,cccacgttttatctcgttacttttcttcatagtacagtatttttttgttataataaagctAtgactattcgacaatttctt
+522,chr,pyotss0522,Streptococcus pyogenes strain S119,NA,NA,NA,GAF domain containing protein  ,1129609,-,SP119_1114,gaagcgaaagatagtcgtaaaaaatactcgaatagacccagatatgctataataaaaggtAtgaataagtctaaaaaaatt
+523,chr,pyotss0523,Streptococcus pyogenes strain S119,NA,NA,NA,PrsW family intramembrane metalloprotease?,1129720,+,SP119_1115,ctttcgcttcagtcagtttttaaaatggtttttgaggttgtttatgatataattttcaatAttattaatatcatcttaata
+524,chr,pyotss0524,Streptococcus pyogenes strain S119,NA,NA,NA,uridine kinase  ,1131613,-,SP119_1117,ttttactattgtttctatattcattatagcattatagtctcaattttggtaaaatagtgaGaaagactttttagatttgga
+525,chr,pyotss0525,Streptococcus pyogenes strain S119,NA,NA,NA,ATP-dependent helicase,1131658,+,SP119_1118,atctaaaaagtctttctcactattttaccaaaattgagactataatgctataatgaatatAgaaacaatagtaaaaggaag
+526,chr,pyotss0526,Streptococcus pyogenes strain S119,NA,NA,NA,deacetylase  ,1134170,-,SP119_1119,aagttaggttaacttaactttttgtttatttttttaatgttttttgttacaatagtctatAcagatggaggcaactattga
+527,chr,pyotss0527,Streptococcus pyogenes strain S119,NA,NA,NA,NADP-dependent glyceraldehyde-3-phosphate dehydrogenase  ,1135699,-,SP119_1120,tttcagatatttagtatagccaaatcttgaattatatcggaaaagtgatagaataagattActatcataaaaggagataaa
+528,chr,pyotss0528,Streptococcus pyogenes strain S119,NA,NA,NA,phosphocarrier protein HPr  ,1137917,-,SP119_1122,ttttgtcgtttaaatatttaatcttgaaaataaaaaagcattgtgctataatcggttgttGtaagggttatcatgtgatgg
+529,chr,pyotss0529,Streptococcus pyogenes strain S119,NA,NA,NA,NrdH-redoxin  ,1138206,+,SP119_1123,gttgtgtttcagataagtttatagcttgctttttagctttattttttatatgctattataGtaattccatttaagatggaa
+530,chr,pyotss0530,Streptococcus pyogenes strain S119,NA,NA,NA,chloride channel protein  ,1142005,+,SP119_1126,agtgctcacgagactgataatctatcagtctcttttcttaacttttgttataatagtcttAtgaaacgacactttttactc
+531,chr,pyotss0531,Streptococcus pyogenes strain S119,NA,NA,NA,IS3 family transposase,1143333,+,SP119_1127,actgcaccccaaaagttggacattatattttaagcaaagttggacttggtataataaagtAgacacaaaattaagtggaaa
+532,chr,pyotss0532,Streptococcus pyogenes strain S119,NA,NA,NA,transposase  ,1144202,+,SP119_1129,atgggctaacgtatgcaagacaagttggtaacagaagctttcaatcaagcttataatagaGaaaagcctaaagaaggggta
+533,chr,pyotss0533,Streptococcus pyogenes strain S119,NA,NA,NA,hypothetical protein,1146548,-,SP119_1133,atcataacctttttgactattatcgttgtcaaaaagaaaaagatatgttacaattatagtAacaaatagacatgaggaggt
+534,chr,pyotss0534,Streptococcus pyogenes strain S119,NA,NA,NA,alanine--tRNA ligase  ,1149623,-,SP119_SR078/SP119_1134,cagctgcacaataagtaggattttattgactaatcagttaaaaaaacttataataatttaGttaagaattgtttatcaagg
+535,chr,pyotss0535,Streptococcus pyogenes strain S119,NA,NA,NA,foldase PrsA,1150754,-,SP119_1135,caagcagatattgtattaccagattaagtaacattgataaatttatgttataataaattaGttaaagataaaaaggagctc
+536,chr,pyotss0536,Streptococcus pyogenes strain S119,NA,NA,NA,O-methyltransferase  ,1151495,-,SP119_1136,tataaaaaatttaaaagtaaaccctagcaaagcctagggtttttttatataattaggtttAtggttaaatcatacagtaaa
+537,chr,pyotss0537,Streptococcus pyogenes strain S119,NA,NA,NA,MFS transporter  ,1152814,-,SP119_1137,cgcataaaacatatttttattatatttgacattttataaaagagataatagaattaaaatActaacatttatgttttttaa
+538,chr,pyotss0538,Streptococcus pyogenes strain S119,NA,NA,NA,oligoendopeptidase F  ,1154962,-,SP119_1138,gaaaaggataagaaggtgcaaacgcttttttcaccaaaatattatgttaaaatggatagtAatagaaaatgagaaggagat
+539,chr,pyotss0539,Streptococcus pyogenes strain S119,NA,NA,NA,rRNA pseudouridine synthase,1156924,-,SP119_1140,agaagaagtcttgtaacttctatttcttttgcaagggtaaatttatgttacactactaatAtgcgtttagataaattatta
+540,chr,pyotss0540,Streptococcus pyogenes strain S119,NA,NA,NA,glucosamine-6-phosphate deaminase  ,1157783,-,SP119_1141,tttcatcagaaagtaaaggataggcttgacaaaaattggtatataccatataataaaaacAcgaaaggtctataccaatta
+541,chr,pyotss0541,Streptococcus pyogenes strain S119,NA,NA,NA,S-adenosylmethionine:tRNA ribosyltransferase-isomerase,1157887,+,SP119_1142,tttactttctgatgaaagattaaagatgacgggttagacgacaagtgatataatagaaaaGatttatcttacatgaaagag
+542,chr,pyotss0542,Streptococcus pyogenes strain S119,NA,NA,NA,hypothetical protein  ,1161380,-,SP119_1146,atagtttgtctttttaatgtaattccttgatttttagctaaatttagctagaatagaatgGataggagattttaggtgtta
+543,chr,pyotss0543,Streptococcus pyogenes strain S119,NA,NA,NA,superoxide dismutase [Mn]  SodA,1162163,-,SP119_1147,gctttccaagagataatcaaattagttgaaagctcttattttttgcgataagatagacgtAtcataaaggaaaagaggaca
+544,chr,pyotss0544,Streptococcus pyogenes strain S119,NA,NA,NA,DNA polymerase III subunit delta  ,1163274,-,SP119_1148,agcctgacgaagaaacaagcagtcgctttccttttaggagaaagatgatataataaaagcAtgattgcgatagaaaagatt
+545,chr,pyotss0545,Streptococcus pyogenes strain S119,NA,NA,NA,1-acyl-sn-glycerol-3-phosphate acyltransferase  ,1167196,-,SP119_1151,tgaatgtttgaagagtgattttgactttcgaaaagtcagctttcgtgatacaataagtaaGattattctattaaaggagaa
+546,chr,pyotss0546,Streptococcus pyogenes strain S119,NA,NA,NA,tRNA1(Val) (adenine(37)-N6)-methyltransferase,1167289,+,SP119_1152,aaagtcaaaatcactcttcaaacattcacctcaagcctattttatgttaaaataacaggtAtgataaaagcaatcttaaaa
+547,chr,pyotss0547,Streptococcus pyogenes strain S119,NA,NA,NA,potassium transporter Kup  ,1170401,-,SP119_1154,cagctctttttaattttctgaaaaagttgcttttataatggaatctgttataatggtttcAgttatttttgtgataatttt
+548,chr,pyotss0548,Streptococcus pyogenes strain S119,NA,NA,NA,NA,1170696,-,int SP119_1155,gtggtcacggcaataaaaatggcaaaggtggtcgtggacgtgacaaccgtaaccgtggtgAtcgccgtggcggctatcgtg
+549,chr,pyotss0549,Streptococcus pyogenes strain S119,NA,NA,NA,ATP-dependent helicase,1172178,-,SP119_1155,tattgcttatattagccttatttcctatctttttgattctaattgtgttacactagttagGttgttaatcaaacgacgaaa
+550,chr,pyotss0550,Streptococcus pyogenes strain S119,NA,NA,NA,peptide chain release factor 3  ,1174162,-,SP119_1156,ctttctctaaagaaaagtaggtcgttgaaaaagcacttaaaatcagctataataagaagaGtctgggatgatttccaggct
+551,chr,pyotss0551,Streptococcus pyogenes strain S119,NA,NA,NA,TIGR02206 family membrane protein,1174916,-,SP119_1157,ttttataaaactttcagagaaaggcttgttctctcatgaagattaaggtataatgaaaaaAtatagaaagggacgattatg
+552,chr,pyotss0552,Streptococcus pyogenes strain S119,NA,NA,NA,UDP-N-acetylmuramoyl-tripeptide--D-alanyl-D- alanine ligase  ,1176407,-,SP119_1158,gtcattaagggagtttgacattttagaaatttttctaatgttttgtgctataatagatagGacatcgtaaatactagtgtt
+553,chr,pyotss0553,Streptococcus pyogenes strain S119,NA,NA,NA,D-alanine--D-alanine ligase  ,1177635,-,SP119_1159,gtgcctttactcgcaaagagaggttttgaaaaggctacatctttttgttataataaaaaaAcattcaattcagataagaaa
+554,chr,pyotss0554,Streptococcus pyogenes strain S119,NA,NA,NA,recombination protein RecR  ,1179029,-,SP119_1160,ttagactgagggcgtcctattctcagtcttctttttataatttatggtaaaataagaagcGaagtttaaaaaatttagcta
+555,chr,pyotss0555,Streptococcus pyogenes strain S119,NA,NA,NA,formate/nitrite transporter,1179916,-,SP119_1161,tgacgagccctttcttgttgaaagggcttgcattttttaggaaaattgatatactaaagtGtgtgtttgtgaatacagtaa
+556,chr,pyotss0556,Streptococcus pyogenes strain S119,NA,NA,NA,hypothetical protein  ,1180561,-,SP119_1162,aaaaataccaaaagatacaggtgtcttgatagttattggtttttaaggtatactatttttGaaaaggagataaaatgacta
+557,chr,pyotss0557,Streptococcus pyogenes strain S119,NA,NA,NA,transcription repressor NadR,1181248,-,SP119_1164,tttggttctatatcctaagaagaaagaaaaccctgcttaaaaatatgatatgatagaaatAaaaaaggatagatagattat
+558,chr,pyotss0558,Streptococcus pyogenes strain S119,NA,NA,NA,phosphoglycerate mutase,1182074,-,SP119_1165,attttcaataaagtcagaatagactagcttttttgctatattttttgtaaaataggaactGtaaaaaggtagcaaccttta
+559,chr,pyotss0559,Streptococcus pyogenes strain S119,NA,NA,NA,dihydroorotate oxidase,1182240,+,SP119_1166,taatatatttacatttttgtaaaaatagcttgctattattcatgcctagtggtagaatagAaaaaatttgtctaaaatatg
+560,chr,pyotss0560,Streptococcus pyogenes strain S119,NA,NA,NA,hypothetical protein,1183460,-,SP119_1167,actttcttttaaataatttagaaacttgcttgaaaacttgaaagtgtttataataatagtAagacttatgaaagagaaaac
+561,chr,pyotss0561,Streptococcus pyogenes strain S119,NA,NA,NA,PerR-regulated metal transporter A; heavy metal translocating P-type ATPase,1185409,-,SP119_1168,tttatttagaatgtttctaaattacttgacttatttatttagaattattataattaatatAtcttaaagattgaataactt
+562,chr,pyotss0562,Streptococcus pyogenes strain S119,NA,NA,NA,IG sRNA,1185569,+,SP119_SR079,tcaactatttgcaaatatgaaaaaaactccccctacctgcggaaatgatatactaatagaAggatgactgaccattataga
+563,chr,pyotss0563,Streptococcus pyogenes strain S119,NA,NA,NA,paratox ,1186100,-,SP119_1169,tgttaattaaatttaaacgacctttaaatttaattatattatttcctgtaaaatacgaatAaataagtaggagggtaaaaa
+564,chr,pyotss0564,Streptococcus pyogenes strain S119,NA,NA,NA,DNA-entry nuclease ,1186293,+,SP119_1170,attgataaattaattttattaattttaagtttttttaatttaaagtgatataattaacctGtaaataataaaaggaggaca
+565,chr,pyotss0565,Streptococcus pyogenes strain S119,NA,NA,NA,NA,1202845,-,int SP119_1194,caaaaatgatatcgctaagttagatatgacaaaggttggtccgagtgatataattgatatAgggaaacgtatcaattatca
+566,chr,pyotss0566,Streptococcus pyogenes strain S119,NA,NA,NA,IG sRNA and as to SP119_1199-1200-1201,1206341,+,SP119_SR080,gtcttttaaaattgccttagctttgctcactaactagctcctttttgatataatagatttGtcaaattattaactaaggag
+567,chr,pyotss0567,Streptococcus pyogenes strain S119,NA,NA,NA,IG sRNA,1212854,+,SP119_SR081,ctctataagtaatttctgcttttggcatattaatatcctctctcttgtggtataattaagTaaattaatctagttttgagt
+568,chr,pyotss0568,Streptococcus pyogenes strain S119,NA,NA,NA,hypothetical protein  ,1213173,+,SP119_1214,ttgataactttttatatacaatatattgatttttcaatatagtcttgatataatattcgtAtgattcaacaagatctctcg
+569,chr,pyotss0569,Streptococcus pyogenes strain S119,NA,NA,NA,hypothetical protein  ,1213616,+,SP119_1215,ccgctatacggatatcgttttggtctcatgtggttctcctttctgtggtataatttaaatAaaaacgaggtttgttatgtt
+570,chr,pyotss0570,Streptococcus pyogenes strain S119,NA,NA,NA,IG sRNA,1215714,+,SP119_SR082,ctgctcaataatttttgtaaccatcttgatttttttgacttacaatcttataatgaaagtAcctttattacagaaaggagc
+571,chr,pyotss0571,Streptococcus pyogenes strain S119,NA,NA,NA,IG sRNA,1215943,+,SP119_SR083,gatggagtggtggcatgacacgtaaaaatattgccgttattcgacttaggggtatagagtCgttgttgctacctataaacc
+572,chr,pyotss0572,Streptococcus pyogenes strain S119,NA,NA,NA," type I addiction module toxin, Fst family",1216186,+,SP119_1218 $,tatacttttaaacaaaaaagtacgctatccaatcgataacgtacatgatataatattgacTggcactactatacctgcctt
+573,chr,pyotss0573,Streptococcus pyogenes strain S119,NA,NA,NA,IG- as 3'UTR SP119_1218,1216417,-,SP119_SR084,ctaactttattacttacaagttctttgacaattgaatatcgtatgtgatatgatatagggGaagtgaagatagtttcgtcg
+574,chr,pyotss0574,Streptococcus pyogenes strain S119,NA,NA,NA,XRE family transcriptional regulator [Streptococcus pyogenes] ,1216532,+,SP119_1219,agttagtaaaaatttaaatttttcattgacattttttagagtatactttaaaatagaggcAtaagaaaaacatagttataa
+575,chr,pyotss0575,Streptococcus pyogenes strain S119,NA,NA,NA,IG- as 5'UTR  SP119_1219,1216646,-,SP119_SR085,tttaaagaatttcaataaaaaccgttgactttttacggagaatactctaaaatagtttttGtaagatagttagttagtaaa
+576,chr,pyotss0576,Streptococcus pyogenes strain S119,NA,NA,NA,IG- as 3'UTR SP119_1221,1217841,-,SP119_SR086,cgttatcagtttcttctatccacatttgttttttacctcattttttgttaaaatgagtatAagaaaacgacctatttaatg
+577,chr,pyotss0577,Streptococcus pyogenes strain S119,NA,NA,NA,DNA-binding protein HU  ,1219426,-,SP119_1223,ataagctcaaataacgttaaatacttgacctaatcgctttttttagatatgataatatctGttaaagcattaagcttacta
+578,chr,pyotss0578,Streptococcus pyogenes strain S119,NA,NA,NA,hypothetical protein  ,1221752,-,SP119_1226,tgattattcaatagcactaccagttttgctttatttagtaaggagtgttagaataaagagGtgagaaactagtttagaatg
+579,chr,pyotss0579,Streptococcus pyogenes strain S119,NA,NA,NA,peptidase  ,1222917,-,SP119_1227,cctctgttaatctggcttggtttgccttgacaaacctctgagaaatagtagaatagataaGagaattttaagctgagggga
+580,chr,pyotss0580,Streptococcus pyogenes strain S119,NA,NA,NA,exodeoxyribonuclease VII large subunit  ,1228476,-,SP119_1233,atggcttccttttttgtttttctgctcactatttattcagaaaaatggtataattgcattAgtatgcaaagggactatgtc
+581,chr,pyotss0581,Streptococcus pyogenes strain S119,NA,NA,NA,bifunctional protein FolD; methylenetetrahydrofolate dehydrogenase/methenyltetrahydrofolate cyclohydrolase,1229457,-,SP119_1234,tactaaaaaataagtaagagtataaagaacaggcatctatttttttgttataatagaaaaAtgaaattaaagggagatgtc
+582,chr,pyotss0582,Streptococcus pyogenes strain S119,NA,NA,NA,phospho-sugar mutase,1231411,-,SP119_1235,aagattatttaatttaaaaaataagttgactttatttagattatttgatactattcagttGtctcccttagagaaagcgat
+583,chr,pyotss0583,Streptococcus pyogenes strain S119,NA,NA,NA,deoxyribodipyrimidine photo-lyase  ,1232963,-,SP119_1236,ttttataatttgctaaggcattttataggagattacttttctttttgttaaaataaaaagAaatagttgcattatttgcat
+584,chr,pyotss0584,Streptococcus pyogenes strain S119,NA,NA,NA,amino acid ABC transporter permease,1234528,-,SP119_1238,aggtttttttattgtcaaaaagtattgtattaatattcatcagatggtataattatctttAttgtaatgaacctaggactt
+585,chr,pyotss0585,Streptococcus pyogenes strain S119,NA,NA,NA,DUF1797 domain-containing protein,1234876,-,SP119_1239,atatcaataaatatattactttccttgttagtttcccttgttttgtgttaaaataagaggGataaaaaacgaataggagaa
+586,chr,pyotss0586,Streptococcus pyogenes strain S119,NA,NA,NA,ATP-dependent Clp protease ATP-binding subunit  ,1235085,+,SP119_1240,taacgctaaagcgataaactttttacttgatttcccaagccgtggtgctataatatgaatAtaaagtttgaccatttttga
+587,chr,pyotss0587,Streptococcus pyogenes strain S119,NA,NA,NA,NUDIX hydrolase  ,1237538,+,SP119_1241,attttttattaaactaaacaaattgataagaataattagcaaaaatttagtataatgaagAaaaaggaaaggtaaataaaa
+588,chr,pyotss0588,Streptococcus pyogenes strain S119,NA,NA,NA,DUF1827 domain-containing protein,1238042,+,SP119_1242,aatggcaaaaaaagcatcattctactaactaaggctttaaattagtgctataataggtacAggaatactaaggaggacatt
+589,chr,pyotss0589,Streptococcus pyogenes strain S119,NA,NA,NA,cell division protein FtsA  ,1247638,-,SP119_1250,tatataacaaaaaacgtaaaatgataacattttacgtttttttatggtataatattttctGaatgattctgttttttagca
+590,chr,pyotss0590,Streptococcus pyogenes strain S119,NA,NA,NA,NA,1247996,-,int SP119_1251,ttgaaacttccctattatcaaaaattgaaaaaaaaccttgaaaatgatagtatagtggatAtggaagtgggaatttatact
+591,chr,pyotss0591,Streptococcus pyogenes strain S119,NA,NA,NA,UDP-N-acetylmuramoylalanine--D-glutamate ligase  ,1251400,-,SP119_1253,actcaagaacggtatttttaaaatgttgaaaaagcatctaaataaaggtaaaatagaaatCaaatagaatggatagtgtga
+592,chr,pyotss0592,Streptococcus pyogenes strain S119,NA,NA,NA,IG sRNA or as 3' SP119_1254,1251558,+,SP119_SR088,gcccatatttgtgagattattgatacgtttttttaagtaaaataagataaaatactagtcAgaggtcttaactgtcactac
+593,chr,pyotss0593,Streptococcus pyogenes strain S119,NA,NA,NA,translational GTPase TypA,1253985,-,SP119_1255,gaaaacatttacaattgattaaaaccagttttttaaaacattttgtgttatacttatctaGttaaaatatatttacttaga
+594,chr,pyotss0594,Streptococcus pyogenes strain S119,NA,NA,NA,DUF910 domain-containing protein,1255720,-,SP119_1258,catagaaagcgattccatacttgtcttgaaatctgccgtagaatttgctaaaatctacttAtatgaaaacactatatgatg
+595,chr,pyotss0595,Streptococcus pyogenes strain S119,NA,NA,NA,Dps-like peroxide resistance protein; DNA starvation/stationary phase protection protein,1256550,-,SP119_1259,atttattcgaaaagaaatcaaatacttgcaatctttccttaatcattgtagaatatagatAtaaaacgataatgattctaa
+596,chr,pyotss0596,Streptococcus pyogenes strain S119,NA,NA,NA,DUF1027 domain-containing protein,1259181,-,SP119_1262,aatgagatagcaagtctctcatttacttacaaaagtcaaaaaatagtgtataatggttgaGttacagataacactgcaaaa
+597,chr,pyotss0597,Streptococcus pyogenes strain S119,NA,NA,NA,16S rRNA (guanine(966)-N(2))-methyltransferase RsmD,1262908,-,SP119_1266,atattgaaaaaagaaatcatttttaaggtttagagctagaaatttgctataataaatgttAtgagagttgtatcaggtgaa
+598,chr,pyotss0598,Streptococcus pyogenes strain S119,NA,NA,NA,as asnA (SP119_1267),1263046,+,SP119_SR089,aagtctcttatacaagtggaaaacttagcaaaatgatgtgattacttataaaatattatcGtagctatcacgaacttcttg
+599,chr,pyotss0599,Streptococcus pyogenes strain S119,NA,NA,NA,aspartate--ammonia ligase,1264140,-,SP119_1267,aggctaattttattgagaattagccttttcttttagctttgataggtgtataataaccatActattttttatttttcaaaa
+600,chr,pyotss0600,Streptococcus pyogenes strain S119,NA,NA,NA,arginine deiminase  ,1271197,-,SP119_1273,actcaaaatagctgtgagaaataccctatttttatcttttttaaggagtacactaggaatAtaagcaagagttaagaatct
+601,chr,pyotss0601,Streptococcus pyogenes strain S119,NA,NA,NA,Crp/Fnr family transcriptional regulator,1272111,-,SP119_1274,aaggtgtaaagtttttgatgaaccgcttacaaaatggcttttttatggtaaaataaagatGatgtttagaaaaaggagatt
+602,chr,pyotss0602,Streptococcus pyogenes strain S119,NA,NA,NA,arginine repressor,1272197,+,SP119_1275,attttgtaagcggttcatcaaaaactttacaccttctcctctttttgctatactcggattGttatcaattacgttaaagga
+603,chr,pyotss0603,Streptococcus pyogenes strain S119,NA,NA,NA,hypothetical protein  ,1273606,-,SP119_1276 (end of SP119_1277),ccaagacgattaagccctcaattaattgcatttttaaaggaaaaagagtattttaaagagAacaactaaaggagaataaga
+604,chr,pyotss0604,Streptococcus pyogenes strain S119,NA,NA,NA,DNA-binding response regulator  ,1277276,-,SP119_1279,atggttatttattatcatctgtagaatagggttaggcctaaaaatctgatataatagaagAaagactagtatgagagggcc
+605,chr,pyotss0605,Streptococcus pyogenes strain S119,NA,NA,NA,CRISPR-associated helicase/endonuclease Cas3,1288462,-,SP119_1289,tgaagtttaattatgagaaaaacgctttctttatttaaagagttatgttacaatactattAcaatcatcgtacaaatagtg
+606,chr,pyotss0606,Streptococcus pyogenes strain S119,NA,NA,NA,N-acetyltransferase,1292346,-,SP119_SR092/SP119_1292,gctttaaaaaatagtcatcttctcgttgcttaatggctataaatttgttagaatattagcAatcagaggtgcattgagttg
+607,chr,pyotss0607,Streptococcus pyogenes strain S119,NA,NA,NA,DUF1912 domain-containing protein,1293087,-,SP119_1294,tgagggtaccagttattaataacatggcacaagaggcctgccttatggtataatggtaaaGataatttcagaaagaggaag
+608,chr,pyotss0608,Streptococcus pyogenes strain S119,NA,NA,NA,SP119_t049,1293224,+,SP119_SR093,ttaaggaaatatttttaagaaaagcttgcatcaattaataacttatagtattataaaaagGtagccgctgtagttaaatgg
+609,chr,pyotss0609,Streptococcus pyogenes strain S119,NA,NA,NA,3-deoxy-7-phosphoheptulonate synthase  ,1293439,+,SP119_1296,agaacatagacaatctagggtttacttgctatttcatcttgtttatggtatcatttcacaGgctaagggtgcttcatggat
+610,chr,pyotss0610,Streptococcus pyogenes strain S119,NA,NA,NA,cupin domain-containing protein ,1296547,-,SP119_1299,ttttaccagaacaggcaaaaatctctgctatattgctgtaaaaagtgtaaaataaaccttAgaccaacctgtccatacaac
+611,chr,pyotss0611,Streptococcus pyogenes strain S119,NA,NA,NA,class I SAM-dependent methyltransferase,1297504,-,SP119_1300,acctcttttaggtgatgagtaacactttttaagtaagcttaattatgatatattaataagAgatggagcagtcatcatggg
+612,chr,pyotss0612,Streptococcus pyogenes strain S119,NA,NA,NA,shikimate dehydrogenase (NADP(+) ),1298488,-,SP119_1301,aaagaagacttctttggcaccaggtctgatgaattctgtaaaataaggtataataaaaaaCaaataggcgtcctttattac
+613,chr,pyotss0613,Streptococcus pyogenes strain S119,NA,NA,NA,DUF624 domain-containing protein,1305920,-,SP119_1305,atgttactactcttagtaaagcggtttccaaaagcctataaagtgtgctatattagaagaGtctaaactattaatcagagt
+614,chr,pyotss0614,Streptococcus pyogenes strain S119,NA,NA,NA,N-acetylmannosamine kinase  ,1309669,+,SP119_1309,caaagtatagaatcacttagaaagccttttcgttgttgcttaaatctgtcatactaagatGagacatgatcgtctattcta
+615,chr,pyotss0615,Streptococcus pyogenes strain S119,NA,NA,NA,AraC family transcriptional regulator?,1315463,-,SP119_1313,ctttgtctataggtttttgaaaaggtttacaactcttttttgacatgttatactgataacAggagtaaagaatgacaaaat
+616,chr,pyotss0616,Streptococcus pyogenes strain S119,NA,NA,NA,metal-independent alpha-mannosidase,1315550,+,SP119_1314,agttgtaaaccttttcaaaaacctatagacaaagtttaacttatcatttataatgaaaccGaagataaatgatatatcatt
+617,chr,pyotss0617,Streptococcus pyogenes strain S119,NA,NA,NA,sensor histidine kinase RocA,1321149,-,SP119_1316,cttaatcaagcttttcgtaatttaactgttagaatgacagaacttatgataaaataaagaAtatgattaaaatgaaaaagc
+618,chr,pyotss0618,Streptococcus pyogenes strain S119,NA,NA,NA,23S rRNA (uracil(1939)-C(5))-methyltransferase RlmD,1323146,-,SP119_1317,tcttttcaattttagtgattttcatactttgattatatcaaaaatggtaaaatagaagacGaaaatactgctaaaaatgtg
+619,chr,pyotss0619,Streptococcus pyogenes strain S119,NA,NA,NA,regulatory protein RecX  ,1323182,+,SP119_1318,gcaacacatttttagcagtattttcgtcttctattttaccatttttgatataatcaaagtAtgaaaatcactaaaattgaa
+620,chr,pyotss0620,Streptococcus pyogenes strain S119,NA,NA,NA,DUF402 family protein,1324007,+,SP119_1319,aattatttatagactgacaaaagaagtgattttttcacacatttatgatagactatagagGataagtttaattgtagaaag
+621,chr,pyotss0621,Streptococcus pyogenes strain S119,NA,NA,NA,Ribosome hibernation promotion factor,1332853,-,SP119_1321,aaagtttgtcaattgcacgttaaaacttgcaaattttcatgaaagcagtataatagtattAaagataaagtaagcgcttca
+622,chr,pyotss0622,Streptococcus pyogenes strain S119,NA,NA,NA,YigZ family protein  ,1334909,+,SP119_1324,tccatactttattattcgcttttttttgctaatttttatcttttcttgtacaatttttttAtggaacattttaagacaatc
+623,chr,pyotss0623,Streptococcus pyogenes strain S119,NA,NA,NA,cysteine synthase A  ,1335630,+,SP119_1325,atcagagtgatagtaaatctgtattttactttaataatatctctccttatacttaaatacAcagcgtatttattttgtatc
+624,chr,pyotss0624,Streptococcus pyogenes strain S119,NA,NA,NA,Cof-type HAD-IIB family hydrolase,1338425,-,SP119_1327,tctatgcttttcgacatcatttagtcccccaagacgataattaatgctataatatagggtAtagcaaattggaggaaagta
+625,chr,pyotss0625,Streptococcus pyogenes strain S119,NA,NA,NA,protein liaF,1340785,-,SP119_1330,ctttttaactactcgtcatataaagatgcaattttccaggaattctgataaaatacaaagAaataaggggaaactaatgaa
+626,chr,pyotss0626,Streptococcus pyogenes strain S119,NA,NA,NA,NA,1343756,-,int SP119_1333,cagctagagatattgtctagtgtttgtcaaaccttgcgtaaaggtggtataataacatacAgtacttgcactatttttgat
+627,chr,pyotss0627,Streptococcus pyogenes strain S119,NA,NA,NA,methionyl-tRNA formyltransferase  ,1345827,-,SP119_1334,aacaatttttataaggtaaatcactaaatctaggatgatcagttatgatataataaaaatAcaaagaggaaagtcatgata
+628,chr,pyotss0628,Streptococcus pyogenes strain S119,NA,NA,NA,guanylate kinase  ,1349317,-,SP119_1337,tctttatgacttgcctttgaaaatgttcttgaaaaagactagcctttttgataaactattAaaaagcaactaataaggaga
+629,chr,pyotss0629,Streptococcus pyogenes strain S119,NA,NA,NA,ribonucrease Y ,1351050,-,SP119_1338,aatttttttaaaaatgaattggaattgtgtaaacgctcaatttatgataaactaagagatGgctttctattaatgaaatct
+630,chr,pyotss0630,Streptococcus pyogenes strain S119,NA,NA,NA,as SP119_1339,1351289,+,SP119_SR095,caagaaatgggacgttccattggaatacacttaatgtcctttaattggtataattctgtaAtaggtttgggacaaatagtt
+631,chr,pyotss0631,Streptococcus pyogenes strain S119,NA,NA,NA,LysR family transcriptional regulator  ,1352078,-,SP119_1339,taaatttttttgatagagttggcaatagcatttaacatctacttgtgtcataatataggtAattataccggaaaaagcaat
+632,chr,pyotss0632,Streptococcus pyogenes strain S119,NA,NA,NA,acetyl-CoA acetyltransferase  ,1352095,+,SP119_1340,ataggattctccttgtcttatcaattgctttttccggtataattacctatattatgacacAagtagatgttaaatgctatt
+633,chr,pyotss0633,Streptococcus pyogenes strain S119,NA,NA,NA,S-ribosylhomocysteine lyase  ,1357026,+,SP119_1345,ttcttagccttttctcctccacaagtagccactttctcactatttgtgttatgataaagtGtaaaacaaaggagattgaaa
+634,chr,pyotss0634,Streptococcus pyogenes strain S119,NA,NA,NA,hypothetical protein  ,1359330,-,SP119_1346 (end of  SP119_1347),tcctccttatggagaacggttgcttgatgacaaagcggttgacatcttgtataatgaaatGggacaaacctttgcaccatt
+635,chr,pyotss0635,Streptococcus pyogenes strain S119,NA,NA,NA,class I SAM-dependent RNA methyltransferase,1360466,-,SP119_1347 (int RNAse P),cggtaaacccctcaagctagcaacccaaactttggtaggggcatgggatagttggaaacgAacaagctatcctgactgtca
+636,chr,pyotss0636,Streptococcus pyogenes strain S119,NA,NA,NA,cell cycle protein GpsB  ,1361132,-,SP119_1348,ttaggggtattggtatttaaatacttgctttttgaactatttttctgtatcattgataatAatactgaaatataattttgg
+637,chr,pyotss0637,Streptococcus pyogenes strain S119,NA,NA,NA,Holliday junction resolvase RecU  ,1361758,+,SP119_1350,tgtaattagaatcgcagtcattaggtgttatcctttcaaaaaatatgttataataaaagtGcttaaatttttagcattaac
+638,chr,pyotss0638,Streptococcus pyogenes strain S119,NA,NA,NA,DUF1273 domain-containing protein,1361775,-,SP119_1349,ctttttgtcgaataagattatgaggataattaaccattgttctcctaatattatctagttAatgctaaaaatttaagcact
+639,chr,pyotss0639,Streptococcus pyogenes strain S119,NA,NA,NA,as recU (SP119_1350),1362288,-,SP119_SR097,ggacttgtggaaaggctccaaatgctaccttaaagccattttttctgatataatcaatggGcatcgatttactgccattat
+640,chr,pyotss0640,Streptococcus pyogenes strain S119,NA,NA,NA,aminopeptidase C  ,1366442,-,SP119_1352,aaagttaggttatcctaacttttttcttgaagaaaatcaaataaggtctataatagaagtAatcctttagaatagaatggc
+641,chr,pyotss0641,Streptococcus pyogenes strain S119,NA,NA,NA,nicotinate phosphoribosyltransferase  ,1368842,-,SP119_1354,ctcaagttatttctaaaccctagccaaagagtcttttttaaaatatgttataatagtaacAataattcaaaggagtcccct
+642,chr,pyotss0642,Streptococcus pyogenes strain S119,NA,NA,NA,amino acid permease,1370393,-,SP119_1355,tccttaatatctttcctagataaatgttgaaaattttctgaaaaaaggatataataaataGtattttagtgaatggagttt
+643,chr,pyotss0643,Streptococcus pyogenes strain S119,NA,NA,NA,NA,1371433,-,int SP119_1356,ctaaaatattggcaagagtagattaaaggagaaaaatcatgtacgatacattaattattgGttcaggaccagcaggaatga
+644,chr,pyotss0644,Streptococcus pyogenes strain S119,NA,NA,NA,thioredoxin-disulfide reductase  ,1371480,-,SP119_1356,tttggttgtcataaaatcctaatcattgcaagaagggattatcattgctaaaatattggcAagagtagattaaaggagaaa
+645,chr,pyotss0645,Streptococcus pyogenes strain S119,NA,NA,NA,DUF4059 domain-containing protein,1371820,-,SP119_1357,attttttgcaagctattcaaaaacatacatttaatgttattcttttgttataataaaaagGtctaggtatccctgggcttt
+646,chr,pyotss0646,Streptococcus pyogenes strain S119,NA,NA,NA,amino acid ABC transporter permease  ,1373418,-,SP119_1359,tattgctataatacgaatttactattttacatgtgggtctaagagtgttagaatattaagAcaaacaaatacaaaggggaa
+647,chr,pyotss0647,Streptococcus pyogenes strain S119,NA,NA,NA,ATP-dependent helicase,1374947,-,SP119_1360,ttttgcgagtgttgtcccactccttttgcttgtctctaacaataatgatataatatggaaGaaaacgaggtaaaacatgtc
+648,chr,pyotss0648,Streptococcus pyogenes strain S119,NA,NA,NA,16S rRNA (cytosine(1402)-N(4))-methyltransferase RsmH,1379638,-,SP119_1364,aaatccttttctcttactttttcatttctaaaccttttgaagtatggtacaattaaagttAtgacaaaagaatttcatcac
+649,chr,pyotss0649,Streptococcus pyogenes strain S119,NA,NA,NA,glutamate 5-kinase,1382239,-,SP119_1367,gagggatcattattcggaaaaacagtcctctggggctgttttttatgctataatttgggtAtgatgaaacgacaatttgaa
+650,chr,pyotss0650,Streptococcus pyogenes strain S119,NA,NA,NA,bacteriocin immunity protein  ,1385014,-,SP119_1370,atacacttcttttgataagaagtcattgacaaaacgattcataaaaattataatttaattGttattgtattagcgtaaaag
+651,chr,pyotss0651,Streptococcus pyogenes strain S119,NA,NA,NA,transketolase  ,1387194,-,SP119_1371,tttagggactttggaggattttctgaaaaaagcgtctatttttgtgatacaatagacaatAgaaaacgtttaattttagtt
+652,chr,pyotss0652,Streptococcus pyogenes strain S119,NA,NA,NA,fructose-6-phosphate aldolase,1388092,-,SP119_1372,acacaaaactgtgtgatacttggtcttttctaaggactgttacacttttataataataaaGtaggatagtctaaaggtaga
+653,chr,pyotss0653,Streptococcus pyogenes strain S119,NA,NA,NA,NAD(P)/FAD-dependent oxidoreductase,1390975,-,SP119_1374,tttctttataggattaggtaaaacgctttcatatcttaaaaaaactgctataataatactAttatgacattaacgacaaag
+654,chr,pyotss0654,Streptococcus pyogenes strain S119,NA,NA,NA,glycerol kinase ,1395199,-,"SP119_1377, p1",tttttttagctttaaaaattcttgataatatatttctgataaaattagctataatagaatCaaataggaaaacgcttactt
+655,chr,pyotss0655,Streptococcus pyogenes strain S119,NA,NA,NA,glycerol kinase  ,1395209,-,"SP119_1377, p2",ttatcagctttttttttagctttaaaaattcttgataatatatttctgataaaattagctAtaatagaatcaaataggaaa
+656,chr,pyotss0656,Streptococcus pyogenes strain S119,NA,NA,NA,putative lipoprotein [Streptococcus pyogenes str. Manfredo],1395893,-,SP119_1378,gtttttatattgtatagtcaaaatattgggaaaaaccatgtgtttgagttataatagaagAaatcaaagaaagaaggtagt
+657,chr,pyotss0657,Streptococcus pyogenes strain S119,NA,NA,NA,glycine--tRNA ligase subunit alpha  ,1400115,-,SP119_SR099/SP119_1381,tcgaacaaaaccttaagctcatgatggacaaactaatggctttatgctaaactagactctAggaaaaaggatgcaagtatc
+658,chr,pyotss0658,Streptococcus pyogenes strain S119,NA,NA,NA,isoprenylcysteine carboxyl methyltransferase  ,1400738,-,SP119_1382,cgctaaatcttttttgaaaacggtttgacaaaggtttatcatttagctataatctttattAgtgttttgtgaaagaaacta
+659,chr,pyotss0659,Streptococcus pyogenes strain S119,NA,NA,NA,aldo/keto reductase,1401706,-,SP119_1383,gtagctatgtctggcaggccaattctttttgtattttctttctttatgatagaatagattAaagtaatcgcttacagatat
+660,chr,pyotss0660,Streptococcus pyogenes strain S119,NA,NA,NA,N-acetylglucosamine-6-phosphate deacetylase  ,1402954,-,SP119_1384,ttttgaatcccaaaagtggtatataccatttacaaagtaaagaataaggcgtataataagGaaaaaagggaggaaaaaaga
+661,chr,pyotss0661,Streptococcus pyogenes strain S119,NA,NA,NA,Na/Pi cotransporter family protein?,1404711,-,SP119_1385,atacacagaaacgcttaaaaaaaccttgtgataaagaccgtaatacattaaaatagaataGactaaaaaattgagcgagga
+662,chr,pyotss0662,Streptococcus pyogenes strain S119,NA,NA,NA,hypothetical protein  ,1404891,+,SP119_1386 $,tacatcatttgtttttgcacaaatcttttcatttcgtttaattagaggtataatatggctAcgatgaaacaatatcataaa
+663,chr,pyotss0663,Streptococcus pyogenes strain S119,NA,NA,NA,DegV domain-containing protein,1406795,-,SP119_1387,agtgttacatctgatgagttatcagtagcaaaaaccgacttaataatgatataattttatGggaaaagtcttaatttgtca
+664,chr,pyotss0664,Streptococcus pyogenes strain S119,NA,NA,NA,TetR/AcrR family transcriptional regulator,1406809,+,SP119_1388,tgaggctcctgataactaactttagttgacaaattaagacttttcccataaaattatatcAttattaagtcggtttttgct
+665,chr,pyotss0665,Streptococcus pyogenes strain S119,NA,NA,NA,membrane protein  ,1408932,-,SP119_1390,atccttacattttatctttttctacttattttttaaaggaaaacgtggtaaactaaaagaAgactaaaagacaatagggta
+666,chr,pyotss0666,Streptococcus pyogenes strain S119,NA,NA,NA,as SP119_1391-1395 (lacABCD.1),1408991,+,SP119_SR100,cttcttttagtttaccacgttttcctttaaaaaataagtagaaaaagataaaatgtaaggAtaaaaaagcaaggataaaac
+667,chr,pyotss0667,Streptococcus pyogenes strain S119,NA,NA,NA,hypothetical protein,1409053,-,SP119_1391,aaaaatctaaaacaaccttatcctatcaagcagctctcattgatgtgataagataagtatGgggataattgtttgaatctt
+668,chr,pyotss0668,Streptococcus pyogenes strain S119,NA,NA,NA,PTS galactose transporter subunit IIA  ,1414108,-,SP119_1398,gaacaaaaaatattgcgtaaaaatgttgaattatgttgaaggttatactataatgattttGtaaacggttaccaatttgtt
+669,chr,pyotss0669,Streptococcus pyogenes strain S119,NA,NA,NA,DeoR/GlpR transcriptional regulator,1414239,+,SP119_1399,tttttgttttgtttattttgttttattgaaatatgaaggtctatatgctatgataaacatAagtaaataaactatagaaag
+670,chr,pyotss0670,Streptococcus pyogenes strain S119,NA,NA,NA,CopY/TcrY family copper transport repressor,1418162,-,SP119_1402,atagaaaaatgagaaaagttatttatttacaaatgtagttaaattcgttataattaatttAcaaacgtaaatatattgtga
+671,chr,pyotss0671,Streptococcus pyogenes strain S119,NA,NA,NA,as SP119_1403,1418751,-,SP119_SR101,attctgatttttatggtaatagtgttggtaaagattgaccaattttggcatagtatagttAtaggtataacgtggggcttt
+672,chr,pyotss0672,Streptococcus pyogenes strain S119,NA,NA,NA,translation initiation factor IF-2  ,1422966,-,SP119_1405 (end of SP119_1406),tgctggtcctaatgtgacaaaaaaagtgacagataaaagtaattattataatgtagaagtCtccacagtgttgaatgcact
+673,chr,pyotss0673,Streptococcus pyogenes strain S119,NA,NA,NA,ribosome maturation factor RimP ,1425378,-,SP119_SR102/SP119_1409,ttgtgagtaaaacaaagtgcatatccttgcattcctcttaaattatggtataataggcttAaataatacagaaaggtggtg
+674,chr,pyotss0674,Streptococcus pyogenes strain S119,NA,NA,NA,paratox,1425767,-,SP119_1410,aattttaaataagcttcaaatttaattatattatttcctgtaaaatacgaataataagatAaggaggtaatctatgctaac
+675,chr,pyotss0675,Streptococcus pyogenes strain S119,NA,NA,NA,streptodornase  SdaD2,1425967,+,SP119_1411,agttataaattaattttattaatttcatatttttttaatttaaaatggtatacttaatctGtaaataacaaaaggaggaca
+676,chr,pyotss0676,Streptococcus pyogenes strain S119,NA,NA,NA,NA,1427056,+,int SP119_1411,cttctttacaagacactgtatatgtggcaagtaatgggcaatctgatgtatactggtacaAcaaagacagtatgcctaaaa
+677,chr,pyotss0677,Streptococcus pyogenes strain S119,NA,NA,NA,IG- as 3'UTR SP119_1434 and 5'UTR SP119_1432,1445566,+,SP119_SR103,ttgccaaataaacatattttcctccttgatagttttaatagggtgatgtataattgagatAaagaaggatgatggtctaac
+678,chr,pyotss0678,Streptococcus pyogenes strain S119,NA,NA,NA,terminase small subunit ,1450337,-,SP119_1437,aataggaatgtgacacaaaaatgtatggaattgtcatctttttgatgataaattgatagtAtgagtttaaaggtaaggcaa
+679,chr,pyotss0679,Streptococcus pyogenes strain S119,NA,NA,NA,IG- as 3'UTR  SP119_1451 and 5'UTR SP119_1450,1461062,+,SP119_SR104,ctctgctttaaaagttacttcaatcattgtgtttctctctttctgtgttataatttaattGtgtataattgttgacggttt
+680,chr,pyotss0680,Streptococcus pyogenes strain S119,NA,NA,NA,IG- as 3'UTR  SP119_1457,1462501,+,SP119_SR105,ggcccgcttcaaactcatctagcatttgtaataatctgctatccatgataaaattcctttAatatgttttagctaagtcac
+681,chr,pyotss0681,Streptococcus pyogenes strain S119,NA,NA,NA,hypothetical protein  ,1462792,+,SP119_1458,agagctgaccattttttgtgttgttgactcatctgctctcctttctgatataatataaatAaaaatgttgaggtttattat
+682,chr,pyotss0682,Streptococcus pyogenes strain S119,NA,NA,NA,XRE family transcriptional regulator ,1463481,+,SP119_1460,atcgcgaagtttttcaactttagtattgacattttacaaactatattctaaaatcaaggtAtagtaaaaacaccaacaaaa
+683,chr,pyotss0683,Streptococcus pyogenes strain S119,NA,NA,NA,IG- as 5'UTR SP119_1463,1465077,-,SP119_SR106,gaacctaattttcgataaaatgccattgttttcacctcatttttctgttaaaatgggtacAagaaaacgacctttttaatg
+684,chr,pyotss0684,Streptococcus pyogenes strain S119,NA,NA,NA,SP119_t058,1466353,-,SP119_SR107,ttaccgagttgaggcaaatttctagtagtattttgtttcaaaatatgataacataaaggaGttgatacagtattaacttct
+685,chr,pyotss0685,Streptococcus pyogenes strain S119,NA,NA,NA,aminoglycoside phosphotransferase  ,1467852,-,SP119_1465,tctaccttataagttaaagaagatcattgactaagtagcctaaaacaagtaaaataggggTaaacgactataaaagataga
+686,chr,pyotss0686,Streptococcus pyogenes strain S119,NA,NA,NA,ABC transporter ATP-binding protein  ,1469670,-,SP119_1467,aaaaatacaattttccattttatatcaccttctctacttgaatttgttataatatattatAagtatatcaaaaactagaaa
+687,chr,pyotss0687,Streptococcus pyogenes strain S119,NA,NA,NA,HIT family protein,1469676,+,SP119_1468,cctgttagatttttaatgtttaacatataatttctttctagtttttgatatacttataatAtattataacaaattcaagta
+688,chr,pyotss0688,Streptococcus pyogenes strain S119,NA,NA,NA,tRNA (adenosine(37)-N6)-threonylcarbamoyltransferase complex ATPase subunit type 1 TsaE  ,1472839,-,SP119_1472,attggagtcatcttctaggtagtgcttggaagtatgttttttttctgatataatgttgctAtgttttatagtgaaaatgaa
+689,chr,pyotss0689,Streptococcus pyogenes strain S119,NA,NA,NA,NCS2 family permease?,1474566,-,SP119_1473,taatgaataaatgaagttatagacgttgaaaagtgaacaaaaaaatggtaacatattgttAttgttcattttaatacgaac
+690,chr,pyotss0690,Streptococcus pyogenes strain S119,NA,NA,NA,Cof-type HAD-IIB family hydrolase,1474717,+,SP119_1474,tgaatacgcttaacttatcttttctctttatcttggagcaaaatttgctataatttaattAtgactaaaaaattgattgcc
+691,chr,pyotss0691,Streptococcus pyogenes strain S119,NA,NA,NA,PTS mannose transporter subunit EIIAB  ,1475774,+,SP119_1475,ttttgtactatttttccgaaagggcttgattttttagtgaaaacgttttaaaatagaaacGttcttgaatttcgtttaagt
+692,chr,pyotss0692,Streptococcus pyogenes strain S119,NA,NA,NA,DUF956 domain-containing protein,1478789,+,SP119_1478,ggcttcttttttatgctttatgtcaggaaaatcccacttaaaatatggtataataactacAactacgcaatgaaaggaact
+693,chr,pyotss0693,Streptococcus pyogenes strain S119,NA,NA,NA,serine--tRNA ligase  ,1479300,+,SP119_SR108/SP119_1479,tagtggaaaagattccctcatttgagtttactttttcttgttttttgttataatagtcctAacggataagtaatacctttt
+694,chr,pyotss0694,Streptococcus pyogenes strain S119,NA,NA,NA,acyl carrier protein  ,1489411,-,SP119_1489,cttactttccggttttggtggaggtttgacatggggaagtctaattgttagaatctagttAttcatgtgcctagcacattt
+695,chr,pyotss0695,Streptococcus pyogenes strain S119,NA,NA,NA,NA,1490305,-,int SP119_1490,ggtagcccactatgttccacagcagttagtgactaataatgatttagctagcataatggaCactagtcatgagtggatctt
+696,chr,pyotss0696,Streptococcus pyogenes strain S119,NA,NA,NA,MarR family transcriptional regulator,1490852,-,SP119_1491,tcaaggtaagtaagacagctattgcttgcaaaatactttgacctttgatataatttgattGtcaaagtttattgctaggag
+697,chr,pyotss0697,Streptococcus pyogenes strain S119,NA,NA,NA,enoyl-CoA hydratase  ,1491769,-,SP119_1492,cttttatagatatcgtttttttctcttgtcaaaatggtttatttagtatatcataattagGtaattgatttgattatcaaa
+698,chr,pyotss0698,Streptococcus pyogenes strain S119,NA,NA,NA,heat-inducible transcriptional repressor HrcA,1496997,-,SP119_1496,agtgctaatttttttgagtttttttcttgacatgtctcccataaagagtataatagaattAtaaattagcagtctactaaa
+699,chr,pyotss0699,Streptococcus pyogenes strain S119,NA,NA,NA,histidine phosphatase family protein,1499106,-,SP119_1499,ctcaaatagccatcaggaagtgttttgcaagtgttttctttaaatgctataataattaatAagacagtttaggaggttgaa
+700,chr,pyotss0700,Streptococcus pyogenes strain S119,NA,NA,NA,IG sRNA,1499327,-,SP119_SR109,ttgtgtgaaaatttaatatcgttttcttgacaaatagttagattttgttactgttttgacAtcattttgtaacgtcagttt
+701,chr,pyotss0701,Streptococcus pyogenes strain S119,NA,NA,NA,IG sRNA,1499407,+,SP119_SR110,ctaactatttgtcaagaaaacgatattaaattttcacacaactatcttataatgaggatgCaaccaataaaaagataagac
+702,chr,pyotss0702,Streptococcus pyogenes strain S119,NA,NA,NA,NA,1500012,-,int SP119_1501,tttgtatgtcatgttagtgaccgcctataaaaagaccatcatctatgctaaaataagactGacaggtattgctttagaacc
+703,chr,pyotss0703,Streptococcus pyogenes strain S119,NA,NA,NA,Asp-tRNA(Asn)/Glu-tRNA(Gln) amidotransferase subunit GatC?,1503457,-,SP119_1504,ctttctagaattgcattagtcacctatggtaaatgggagcaattgtgatataataattgaGactatgtaaaaatgatgtga
+704,chr,pyotss0704,Streptococcus pyogenes strain S119,NA,NA,NA,cysteine hydrolase,1504944,-,SP119_1508,taatggtagatgcaaatagatgtcttgatacctgtaataaaaactgatacaatgccatatAtaagagataaggggagaggt
+705,chr,pyotss0705,Streptococcus pyogenes strain S119,NA,NA,NA,GTP-sensing transcriptional pleiotropic repressor CodY  ,1505859,-,SP119_1509,gaatagaaaattttctgataattccttgcaaaagcgagttagctttgttataatgaaagcGcaaataattcaaaggaaaag
+706,chr,pyotss0706,Streptococcus pyogenes strain S119,NA,NA,NA,pyridoxal phosphate-dependent aminotransferase?,1507280,-,SP119_1510,tcctaagctttgatggataaattctttctattttaagtattttggtttataatatggaatAcgaggtgtatgagactatga
+707,chr,pyotss0707,Streptococcus pyogenes strain S119,NA,NA,NA,universal stress protein,1507445,+,SP119_1511,ctttagtttagcaaaaataatggatcgctttcaaaatgactcaaaaaagagtataatgaaAaaaagaataaaagctattct
+708,chr,pyotss0708,Streptococcus pyogenes strain S119,NA,NA,NA,Cof-type HAD-IIB family hydrolase,1509486,-,SP119_1512,gactaggatttttttcatttgattgtcaaacttccttttatttatgatataatctattctAtcataaacacaggaggcaaa
+709,chr,pyotss0709,Streptococcus pyogenes strain S119,NA,NA,NA,asparaginase  ,1509497,+,SP119_1513,aaagactgcttttactgtcaaaaccttcttttgcctcctgtgtttatgatagaatagattAtatcataaataaaaggaagt
+710,chr,pyotss0710,Streptococcus pyogenes strain S119,NA,NA,NA,as SP119_1514,1511287,+,SP119_SR111,actaataaataaaagagataagccaaaactaactagcagtttatagattataattaaagtAcgattttgttgtttgaccac
+711,chr,pyotss0711,Streptococcus pyogenes strain S119,NA,NA,NA,ABC transporter ATP-binding protein  ,1512502,-,SP119_1515,atatttttttaataaaaagaagaacttgtcacaaccgtttacagatgttattatgtgtaaGatattgtattgatcgataag
+712,chr,pyotss0712,Streptococcus pyogenes strain S119,NA,NA,NA,DNA helicase RecG,1515068,-,SP119_1516,tttaaaagtactaaaaggcttttatctgaaaataaataggaactcttgtataatagatacAagagtcagaacgtagacaac
+713,chr,pyotss0713,Streptococcus pyogenes strain S119,NA,NA,NA,NA,1518294,-,int SP119_1520,gaatcaggatctggtaaatcaactttggtgaaattaattatgaaatggtataattggaagAcaggagatatttttcttaat
+714,chr,pyotss0714,Streptococcus pyogenes strain S119,NA,NA,NA,NA,1528649,-,int SP119_1526,ttagttgaagagataggcccttacgctagtcaatcagctggaaaagagtattataaacatAttgaaaagattattgttgat
+715,chr,pyotss0715,Streptococcus pyogenes strain S119,NA,NA,NA,CHAP domain-containing protein  ,1530881,-,SP119_1527,attaagaaaatcatgtaaaaataattgcattgtgcttatctttaatgttataataaagtgAggacattagaaagaagtgac
+716,chr,pyotss0716,Streptococcus pyogenes strain S119,NA,NA,NA,protein translocase subunit SecA  ,1535049,-,SP119_1530,ggcgtgataactttaccaacctttcttgaactgcctgcatatttatgttaaaatgaaatgAttagatgatcgaaaggaaag
+717,chr,pyotss0717,Streptococcus pyogenes strain S119,NA,NA,NA,"mannose-6-phosphate isomerase, class I  ",1537455,-,SP119_1533,ttttgcctgcttgtctagtaaaagaaagcgcagtcagctagaacatgctataataaacagAgattaacatcagaagcgagg
+718,chr,pyotss0718,Streptococcus pyogenes strain S119,NA,NA,NA,PTS beta-glucoside transporter subunit EIIBCA  ,1543877,-,SP119_1536,tataaaataaaaatatgttaaacgcttgacataaaaaatattagtgataaaatgatagtcAagaagtgaagcggattcact
+719,chr,pyotss0719,Streptococcus pyogenes strain S119,NA,NA,NA,sucrose-6-phosphate hydrolase  ,1543985,+,SP119_1537,tttttattttatatgctttaaattcttgatttttaaacagaaaacgtttagtatattcttGaagacgactataaaacaagg
+720,chr,pyotss0720,Streptococcus pyogenes strain S119,NA,NA,NA,LacI family transcriptional regulator  ,1545309,+,SP119_1538 (end of SP119_1537),ccaagactatggtacggtgcgctcttgccaaatcccacaaggccatgttacacttaatgtCtatgtggacaattccattct
+721,chr,pyotss0721,Streptococcus pyogenes strain S119,NA,NA,NA,elongation factor P  ,1548029,-,SP119_1541,acctaaaaggacggtcataaaagatttgagccaaggccacttttgtggtaaaatgaagtgAtaaatattttagtaagaggt
+722,chr,pyotss0722,Streptococcus pyogenes strain S119,NA,NA,NA,aminopeptidase P family protein,1549714,-,SP119_1543,gagttcgtttgagctccttttaatcttttaaatgctctcaaatcatggtaaacttaaagtAgttttttcatgctacaatat
+723,chr,pyotss0723,Streptococcus pyogenes strain S119,NA,NA,NA,excinuclease ABC subunit UvrA,1552648,-,SP119_1544,tataccaaaattcgcaaagtttggggcaataggttatcagaaatttttgttataatataaGaaagctcgatgaggagggtg
+724,chr,pyotss0724,Streptococcus pyogenes strain S119,NA,NA,NA,magnesium transporter  ,1552717,+,SP119_1545,taacaaaaatttctgataacctattgccccaaactttgcgaattttggtataatagataaGtattgagaatttttcagaaa
+725,chr,pyotss0725,Streptococcus pyogenes strain S119,NA,NA,NA,30S ribosomal protein S6  ,1555953,-,SP119_1549,aacttagtcaagtagaaaaagttccttgcttttaattgactattagtgtacaataagattCtgtgagtatacctcacttac
+726,chr,pyotss0726,Streptococcus pyogenes strain S119,NA,NA,NA,hypothetical protein,1556430,-,SP119_1550,aagagtaaaaaaagattttaggtatttgcgaaaaagaaaaggaaatattataataatattAggtttacctcatctaaatgt
+727,chr,pyotss0727,Streptococcus pyogenes strain S119,NA,NA,NA,A/G-specific adenine glycosylase,1556519,+,SP119_1551,ttcgcaaatacctaaaatctttttttactctttttaagactcctgtgttacaataacaacAtgattgaattaaaagattat
+728,chr,pyotss0728,Streptococcus pyogenes strain S119,NA,NA,NA,thioredoxin,1558729,-,SP119_1553,gatttagcgagttcgtagcaaatagtttcaaaaacaactaaattcttgtacaataggcttAtcattaagatgaaatggaga
+729,chr,pyotss0729,Streptococcus pyogenes strain S119,NA,NA,NA,endonuclease MutS2  ,1561626,-,SP119_1555,gcatgggaacttagtgactttcttgccccattttccatcattttaggtataatgaagagtAtgaataacaagattttagag
+730,chr,pyotss0730,Streptococcus pyogenes strain S119,NA,NA,NA,hypothetical protein  ,1562642,-,SP119_1557,gggttagggcaatggtgttgactattttacgaaagtttcattttacggtataatgctaatGaggtgaccctatgaaaagta
+731,chr,pyotss0731,Streptococcus pyogenes strain S119,NA,NA,NA,ribonuclease HIII  ,1562788,+,SP119_1558,ctttgttaaataaacttatgaattaaccatagtcaactattttatgttaaaataattattAtgaataccttagttttgaaa
+732,chr,pyotss0732,Streptococcus pyogenes strain S119,NA,NA,NA,hypothetical protein  ,1566847,+,SP119_1561,tttccagaaaaaatcctagaaaaacggacatttttgattaatctatggtataatatttttGtattaaacacattgtacaat
+733,chr,pyotss0733,Streptococcus pyogenes strain S119,NA,NA,NA,DNA polymerase IV ,1568576,-,"SP119_1562, p1",acaaactgtattagaatgtatttttttggctttagatagcctaaaaggtataatagagaaAggagggacttatgcttattt
+734,chr,pyotss0734,Streptococcus pyogenes strain S119,NA,NA,NA,DNA polymerase IV ,1568645,-,"SP119_1562, p2",aaacgttttcccaagcaaaattcttgacaaaattaagattcttttataatacagattgttGaaacagtcacaaactgtatt
+735,chr,pyotss0735,Streptococcus pyogenes strain S119,NA,NA,NA,formate C-acetyltransferase,1568728,+,SP119_1563,tcttaattttgtcaagaattttgcttgggaaaacgtttcctatgtgttaaacttagaattGtaaatgtaacagatcgcttt
+736,chr,pyotss0736,Streptococcus pyogenes strain S119,NA,NA,NA,peptidase  ,1572982,-,SP119_1565,tagtaggatgaatacgtataatttcttgtcaaatagaggaattttgtctataatagcagaGgattaggaggaaattatgac
+737,chr,pyotss0737,Streptococcus pyogenes strain S119,NA,NA,NA,sodium:solute symporter  ,1573264,+,SP119_1566,catgttttaatgaagtaaatcacgttgacggctaaggtttttttttgtaaactagtctttAtgaacgaaatgcttatcctt
+738,chr,pyotss0738,Streptococcus pyogenes strain S119,NA,NA,NA,aquaporin family protein,1575378,-,SP119_1567,cattttatttattattttattacctttacattcatcaataagcctgttaaaatggtatttGttatattttattatttggag
+739,chr,pyotss0739,Streptococcus pyogenes strain S119,NA,NA,NA,MFS transporter  ,1577067,-,SP119_1568,taacacttatattataccattgaaatatattatattctgctttttttgtaaaatgtttatGaaaatagagaggagttcatt
+740,chr,pyotss0740,Streptococcus pyogenes strain S119,NA,NA,NA,Crp/Fnr family transcriptional regulator,1577124,+,SP119_1569,tttcataaacattttacaaaaaaagcagaatataatatatttcaatggtataatataagtGttactatcaaagggcattag
+741,chr,pyotss0741,Streptococcus pyogenes strain S119,NA,NA,NA,XRE family transcriptional regulator,1580513,-,SP119_1571,gatggtctaaaaactctctaaaaacttgacttcataaaaaccgaagtttataataaacttAacatgattaactaatctcat
+742,chr,pyotss0742,Streptococcus pyogenes strain S119,NA,NA,NA,XRE family transcriptional regulator,1580622,+,SP119_1572,ttttagaccatcttttacgataccttttgctttaacctcttttatggtatcatattttatAtaaagaaaaggagaaaaata
+743,chr,pyotss0743,Streptococcus pyogenes strain S119,NA,NA,NA,"nucleoid-associated protein, YbaB/EbfC family",1581184,+,SP119_1573,ggctagtctactaactgacattgtttttattgcctctttttatgtgttataatagttagtAttaaattaaggagagtatag
+744,chr,pyotss0744,Streptococcus pyogenes strain S119,NA,NA,NA,DUF536 domain-containing protein,1583651,-,SP119_1576,tggcacgactgaaatgaggtcaaattgacagaatactcctattatggtactatttttaatAagaatattcagtgatagtga
+745,chr,pyotss0745,Streptococcus pyogenes strain S119,NA,NA,NA,NAD(P)/FAD-dependent oxidoreductase,1583823,+,SP119_1577,tgccatgttagttcatttacctgactattaaatcccccgcttttatgctaaaataaggctAtgactcaatacgatacgatt
+746,chr,pyotss0746,Streptococcus pyogenes strain S119,NA,NA,NA,NA,1586620,-,int SP119_1579,ctgccctagttagtctactttattatgtaggaatccttggatttgtagtaaaatggatagGtaagggcgttggtaaaatta
+747,chr,pyotss0747,Streptococcus pyogenes strain S119,NA,NA,NA,uridine phosphorylase  ,1587831,-,SP119_1580,agatgaaaaacaccttaaaaaagcgtttacaaaatagagtgtgtgtgatactatacaagtGtatcaaaaattagacaagta
+748,chr,pyotss0748,Streptococcus pyogenes strain S119,NA,NA,NA,GntR family transcriptional regulator  ,1587933,+,SP119_1581,tttaaggtgtttttcatctcttttttgacaaaaagtacctgagtgtgagatactaacactAtagatgggtacaattctaat
+749,chr,pyotss0749,Streptococcus pyogenes strain S119,NA,NA,NA,30S ribosomal protein S14  ,1588919,+,SP119_1582,aaagataactagttaattttttttatttgcttttgcttttatttattgtataatgattatAtatccacttaaccagttaaa
+750,chr,pyotss0750,Streptococcus pyogenes strain S119,NA,NA,NA,tRNA (adenosine(37)-N6)-threonylcarbamoyltransferase complex dimerization subunit type 1 TsaB  ,1591617,-,"SP119_1585, p1",aatcaaattaagagtcagcctttttgtttatgattcttaatttgtgttataattgatactAgaacttgcagtagaaaggca
+751,chr,pyotss0751,Streptococcus pyogenes strain S119,NA,NA,NA,tRNA (adenosine(37)-N6)-threonylcarbamoyltransferase complex dimerization subunit type 1 TsaB  ,1591674,-,"SP119_1585, p2",ttataccataaacttagcttttagtaaaaaatttaggtacatttatggtatagtctaaatCaaattaagagtcagcctttt
+752,chr,pyotss0752,Streptococcus pyogenes strain S119,NA,NA,NA,hypothetical protein  ,1591742,+,SP119_1586,ctataccataaatgtacctaaattttttactaaaagctaagtttatggtataattgtaatAattgcacagaatcaggaatt
+753,chr,pyotss0753,Streptococcus pyogenes strain S119,NA,NA,NA,MerR family transcriptional regulator,1595790,-,SP119_1589,atgttagataatataacatatatacttgacaggttatttttttcagcctataataaggaaGatgaaaggagtttgtcatga
+754,chr,pyotss0754,Streptococcus pyogenes strain S119,NA,NA,NA,aromatic acid exporter family protein,1596403,-,SP119_1590,aatcataaataaaacgtttaccaaaagggttttatggattgatatgttaaaatagatagtGaagggataggtatgaaaacg
+755,chr,pyotss0755,Streptococcus pyogenes strain S119,NA,NA,NA,phosphoglycerate kinase  ,1597879,-,SP119_1591,tgattattttattattttcatattttatctttatgctaggaattgtggtataatggaggaGtataaaaaatattaaggagt
+756,chr,pyotss0756,Streptococcus pyogenes strain S119,NA,NA,NA,"5'-nucleotidase, lipoprotein e(P4) family  ",1598920,-,SP119_1592,agtattgattaaatgttaagttgtattgacttttaaattaaataagtttaaaatcaacttAataagcaaaaaggagatttt
+757,chr,pyotss0757,Streptococcus pyogenes strain S119,NA,NA,NA,SPFH domain-containing protein,1600078,-,SP119_1593,cacaaagctaatggttacgatttaatttgacaaaacctagaaaaacattataattgtattAtaacaataagtcaagaactg
+758,chr,pyotss0758,Streptococcus pyogenes strain S119,NA,NA,NA,Asp23/Gls24 family envelope stress response protein?,1602309,-,SP119_1595,cggcgtgcgttagctattctatctcttttacattacttctaaaatatgataaaataggatGataaaaactttttgaggtag
+759,chr,pyotss0759,Streptococcus pyogenes strain S119,NA,NA,NA,50S ribosomal protein L28  ,1604005,-,SP119_1597,gttgaaaaagaaaatgggaaataccttgtcaaattaagcaccctatgatagaatagatagGtatgtggtgctagcacatcc
+760,chr,pyotss0760,Streptococcus pyogenes strain S119,NA,NA,NA,fructose-bisphosphate aldolase  ,1605255,-,SP119_1598,aaacgctttaagcttgtgaaaggctagaaatttatggaaaattgtgctagaatgaacaatGtaaacggggagttatcccga
+761,chr,pyotss0761,Streptococcus pyogenes strain S119,NA,NA,NA,SP119_t059,1605518,-,SP119_SR112,ttgaaaaaagttgagaaataagtattgacagttaaactcacagttgctataataatttatGttactgatgagtagcgggga
+762,chr,pyotss0762,Streptococcus pyogenes strain S119,NA,NA,NA,alpha/beta hydrolase,1606484,-,SP119_1599,aacgtgatatttttaggttagcactttctttttcagtcatttttttgtaaaatacttggtAtgaaaactattcgaatagca
+763,chr,pyotss0763,Streptococcus pyogenes strain S119,NA,NA,NA,CTP synthetase  ,1608442,-,SP119_SR113/SP119_1600,tcagaaataaaaatgtaattatcatttgacaaattgtctattatagtttatattattattCgggcacctctttatgaggtc
+764,chr,pyotss0764,Streptococcus pyogenes strain S119,NA,NA,NA,Probable DNA-directed RNA polymerase subunit delta,1609096,-,"SP119_1601, p2",taaaagttttgacgaattactttttttagcgtaaaatggtagagaatgataaaataaggaGaactgccttgaaattagacg
+765,chr,pyotss0765,Streptococcus pyogenes strain S119,NA,NA,NA,Probable DNA-directed RNA polymerase subunit delta,1609113,-,"SP119_1601, p1",gaagtgatatgagttgataaaagttttgacgaattactttttttagcgtaaaatggtagaGaatgataaaataaggagaac
+766,chr,pyotss0766,Streptococcus pyogenes strain S119,NA,NA,NA,trigger factor  ,1610620,-,SP119_1602,cgcgtttgatttcacgcataaaaagctttaaaaacgctttaaattatgataaaatgaactGtatcgaaattattttaagga
+767,chr,pyotss0767,Streptococcus pyogenes strain S119,NA,NA,NA,mechanosensitive ion channel family protein ,1610896,+,SP119_1603,ttggttaaaatattaatttatctcttttcaagattggtttttttttgataaactatcaaaGaaaggatttctcatgacatt
+768,chr,pyotss0768,Streptococcus pyogenes strain S119,NA,NA,NA,as SP119_1603,1611554,-,SP119_SR114,aagtgaactgtccattagagttattttgaggccctaaaatatttggtttgccaacgatttGaggatggtttggcaattcct
+769,chr,pyotss0769,Streptococcus pyogenes strain S119,NA,NA,NA,tRNA pseudouridine synthase A,1614356,-,SP119_1607,ttgggtacagtttgattaaaaatagtttctcttacgtttaagaaatgttaaaatagtaacAtggtaagatacaaagcaacg
+770,chr,pyotss0770,Streptococcus pyogenes strain S119,NA,NA,NA,SP119_t060,1615204,-,SP119_SR115,gaggtaggaagcgtcctatctttttttgcattttagagaagagtgtggtaagatagaggcAagatatgcgttggcaccctt
+771,chr,pyotss0771,Streptococcus pyogenes strain S119,NA,NA,NA,glycerate kinase  ,1621905,-,SP119_1609,agacagatctagcttgactattaatagggttttaaaggatgataatctgctacaatatacAgaaaaggaatttattgaaga
+772,chr,pyotss0772,Streptococcus pyogenes strain S119,NA,NA,NA,DEAD/DEAH box helicase,1622209,+,SP119_1610,ttggaaggtttcaatagcttcgccattctaaaaaggatccgccaatgatataatattactAtatcatgtcgaatggggatt
+773,chr,pyotss0773,Streptococcus pyogenes strain S119,NA,NA,NA,NA,1631516,-,int SP119_1615,ccagaggtgactatcacagactctgggcaaacaataccttattttgatataattaactacAgtgactacaaagagttaatg
+774,chr,pyotss0774,Streptococcus pyogenes strain S119,NA,NA,NA,type A2 lantipeptide,1635835,-,SP119_1619,aaagtcatttttgcactttttactcattgaaaatgaagacgtattatttacaataaaagtGtagaaaatagtcactacata
+775,chr,pyotss0775,Streptococcus pyogenes strain S119,NA,NA,NA,Galactose-6-phosphate isomerase subunit LacA 2,1642880,-,SP119_1626,tttataaaaataaaacaaaaaaatgttgacttttatgtttggtgggtgtatgattaggtcAtagaaataatgaaagcgtta
+776,chr,pyotss0776,Streptococcus pyogenes strain S119,NA,NA,NA,DeoR/GlpR transcriptional regulator,1643187,+,SP119_1627,ttctaatgtttatgtttgttttgtttgatttttttattgatattatgttatgatacctttAatagttataccctaagacac
+777,chr,pyotss0777,Streptococcus pyogenes strain S119,NA,NA,NA,hypothetical protein,1644633,+,SP119_1628,tctgtctcaattaccgagtcttttttattgacttttttgtatatatgatataattaaataAgttacataaaggggttacat
+778,chr,pyotss0778,Streptococcus pyogenes strain S119,NA,NA,NA,50S ribosomal protein L13  ,1647462,-,SP119_1631,tccaataaaatcagctaaagcacttgactggagcctcttaagtttgatatcatagtaggcGgtattgtttaccccatttga
+779,chr,pyotss0779,Streptococcus pyogenes strain S119,NA,NA,NA,hypothetical protein  ,1648306,-,SP119_1633,gtcaatcaattatgtaaaatatatttgacaaaatatccaaaataatttatattatgtcatAtaaagatttaaaggagaaac
+780,chr,pyotss0780,Streptococcus pyogenes strain S119,NA,NA,NA,DegV family protein,1649324,-,SP119_1634,ttagatcgataatgagaattacgactcgccaagtgcgggtttttttgataaaataaaacaAtaattatttgattatcaaac
+781,chr,pyotss0781,Streptococcus pyogenes strain S119,NA,NA,NA,23S rRNA (guanosine(2251)-2'-O)-methyltransferase RlmB  ,1650641,-,SP119_1636,ctagacgaaaataaaagagtctatgcatttattttgaagcattcatggtataataaactcAtggaagataaagatactatt
+782,chr,pyotss0782,Streptococcus pyogenes strain S119,NA,NA,NA,hypothetical protein  ,1651516,-,SP119_1637,tttgtaacaaaaaagacataaaaataatgaaatcattttcgaatagtttataatgagaggGtaagattaatttaaagagga
+783,chr,pyotss0783,Streptococcus pyogenes strain S119,NA,NA,NA,polyribonucleotide nucleotidyltransferase  ,1657770,-,SP119_SR117/SP119_1643,catttcaagagattgcgatctgacagtgaaatttctagtattttatggtaaaatgtagcaGatacgtcgtttgatacaaag
+784,chr,pyotss0784,Streptococcus pyogenes strain S119,NA,NA,NA,NA,1659094,-,int SP119_1645,ttgctaacaaattaattccaaatgctattccagccgtggattgtgcggtattcttcccttAtgcgccaaccgctgttatca
+785,chr,pyotss0785,Streptococcus pyogenes strain S119,NA,NA,NA,PTS fructose transporter subunit IIA  ,1662413,-,SP119_1647,atgagacaattggactcaatttatcttgaaaatgaaaacgcttcattttatactgacattAtaggaggagatgacatgcta
+786,chr,pyotss0786,Streptococcus pyogenes strain S119,NA,NA,NA,30S ribosomal protein S15  ,1663101,-,SP119_1648,agagcttagaataataggataacggttgacctaatattatgaatctgctagaatagagtgGtcgaaagacaaaccaacttt
+787,chr,pyotss0787,Streptococcus pyogenes strain S119,NA,NA,NA,peptide deformylase  ,1663802,+,SP119_1651,cactctaaccactatctgacttttctttaaaaaagaaatgatttgtgatatagtaaatccAgttaaaaaaaagtaaaggag
+788,chr,pyotss0788,Streptococcus pyogenes strain S119,NA,NA,NA,DNA polymerase III PolC-type,1670105,-,SP119_1654,ccctgcttttctttccatctaaaactcgaaaatcatcttgaattgtgataaaataaagccTagtaaaatcaggagaaaatt
+789,chr,pyotss0789,Streptococcus pyogenes strain S119,NA,NA,NA,isoprenyl transferase  ,1675308,-,SP119_1658,gataagatctaattgataaaaaacaagccaaaaggcgtgaaatatgataaaatatgagatAagtatgcttatcaataagga
+790,chr,pyotss0790,Streptococcus pyogenes strain S119,NA,NA,NA,preprotein translocase subunit YajC  ,1675895,-,SP119_1659,aagaagacatcaggtaacgtctagtcttgctataccgcttgatttttgatatagtaagacAtgacttttatagaataaaaa
+791,chr,pyotss0791,Streptococcus pyogenes strain S119,NA,NA,NA,thiol reductase thioredoxin  ,1676348,-,SP119_1660,ctctgagctgtgaaaagaccttgtgattgagaaaattgctactttagtgtatcatgagacCaaaagagaaggagacatcca
+792,chr,pyotss0792,Streptococcus pyogenes strain S119,NA,NA,NA,pullulanase  ,1679996,-,SP119_1661,gttctaagttgaagtgcggcatgtcttgcaagcgcttgcgcaatgtgataagatagtcttGtttgaatgttatactaaatg
+793,chr,pyotss0793,Streptococcus pyogenes strain S119,NA,NA,NA,"Glucan 1,6-alpha-glucosidase",1681805,-,SP119_1662,ttatcatgttatttgcgcaaacgattgcacaaaaagagaaaaaacgttaaaataaaagatGaatgaatgattaataggaga
+794,chr,pyotss0794,Streptococcus pyogenes strain S119,NA,NA,NA,sugar ABC transporter ATP-binding protein  ,1683114,-,SP119_1663,caaagaagtttggtcgctttgtctctgttttgaaagcgctatttttgttataataaaagcAtcatataaaagatatcagtg
+795,chr,pyotss0795,Streptococcus pyogenes strain S119,NA,NA,NA,PucR family transcriptional regulator  ,1684211,-,SP119_1664,caaaatcgtgctgacaacaaaccgaactgtgtgataaagagtcatgtgttataatggtttAaagaccgtcatgaaaggaat
+796,chr,pyotss0796,Streptococcus pyogenes strain S119,NA,NA,NA,Streptokinase G; Ska protein,1684514,+,SP119_1665,ttaaaaacaatcattagatttttgtttgtatctataaaattattatgttattctaataatGgggattgaaacttaactttt
+797,chr,pyotss0797,Streptococcus pyogenes strain S119,NA,NA,NA,Bifunctional (p)ppGpp synthase/hydrolase RelA,1688669,-,SP119_1667,ctaagcgctttcttagcagattctgccttttgcttttgtgtgtaaagtgttaaaatagggAaaagaaatgctagatgagga
+798,chr,pyotss0798,Streptococcus pyogenes strain S119,NA,NA,NA,flavoprotein  ,1690291,+,SP119_1669,ggataccgctaggtttcttctttacttgtttgttggtcttgattgtggtaagcttatgaaGaaaccttgtaggataaaaaa
+799,chr,pyotss0799,Streptococcus pyogenes strain S119,NA,NA,NA,PTS glucose transporter subunit IIABC  ,1694396,-,SP119_1671,gactaacatctgtctaagaaaacgctttacaaattgttgcgaggctagtataataaaggtAtcagatcaatgcaagcgatt
+800,chr,pyotss0800,Streptococcus pyogenes strain S119,NA,NA,NA,ribosomal protein L11 methyltransferase  ,1696990,-,SP119_1674,atcctgccattaagaccttctcttatggtcaatattagtcaaatatgttataattcagttAataaaagttataacagtacg
+801,chr,pyotss0801,Streptococcus pyogenes strain S119,NA,NA,NA,DUF3013 domain-containing protein,1697087,+,SP119_1675,aagagaaggtcttaatggcaggatcacctctagcaaccgcttttatgatataatttgggtAtgcatagaaaaactattatt
+802,chr,pyotss0802,Streptococcus pyogenes strain S119,NA,NA,NA,6S,1700827,+,SP119_SR118,ccgatttcaaaaatcgataattttgcttgaaaaaattttaaaaagtggtattataaaagtAcagaaacattgctgtggcat
+803,chr,pyotss0803,Streptococcus pyogenes strain S119,NA,NA,NA,SP119_t063,1701030,+,SP119_SR119,gcttatactgcgcgggctcaatacaaaaacgtggatcaccggtgccaatacagcattcttGcctccttagctcagttggta
+804,chr,pyotss0804,Streptococcus pyogenes strain S119,NA,NA,NA,N-acetyltransferase  ,1701211,+,SP119_1678,agaagaggatttgttccatcatttatccccgcagtaattttttatggtatgataccaattAaagcgcttaagattaaggtg
+805,chr,pyotss0805,Streptococcus pyogenes strain S119,NA,NA,NA,surface lipoprotein  ,1703873,+,SP119_1682,aaattctaattaaccagttaaacaattgccctcctatttgtttattgctataatgagatgGagtcgttactattattattt
+806,chr,pyotss0806,Streptococcus pyogenes strain S119,NA,NA,NA,CsbD family protein  ,1709187,-,SP119_1687,ataaaagttggataatagcggttttcttttgcaaagaaatggtatccatgttagaatgatAaaaaaaagaggaggattcta
+807,chr,pyotss0807,Streptococcus pyogenes strain S119,NA,NA,NA,adhesion protein  Lmb,1712778,-,SP119_1689,ggcgtgtaaaagatggtagttgccattgacaaagcattgataaaggagtaaaattaactgGttaataactggttaaattat
+808,chr,pyotss0808,Streptococcus pyogenes strain S119,NA,NA,NA,peptidase C5; ScpA protein,1719178,-,SP119_SR120/SP119_1692,ctaagcaactcttaaaaagctgacctttactaataatcatctttgttttataataaatatGttattaatataattgataaa
+809,chr,pyotss0809,Streptococcus pyogenes strain S119,NA,NA,NA,IS5/IS1182 family transposase,1719369,+,SP119_1693,agacaaagtccttagaatcgcttttctaggggctttttatgatatttaggagtataatatAagaaaaaggacttgtgaggt
+810,chr,pyotss0810,Streptococcus pyogenes strain S119,NA,NA,NA, inhibitor of complement protein Sic,1722134,-,SP119_1694,ctaaacaactcttaaaaagctgacctttactaataatcgtctttgttttataatgaaaacAttaacgaaataatttattaa
+811,chr,pyotss0811,Streptococcus pyogenes strain S119,NA,NA,NA,M protein  ,1723807,-,SP119_1695,gtggcaaaagctaaaaaagctggtctttaccttttggcttttattatttacaatagaattAttagagttaaaccctgaaaa
+812,chr,pyotss0812,Streptococcus pyogenes strain S119,NA,NA,NA,M protein trans-acting positive regulator  Mga,1725600,-,"SP119_1696, p1",gactgttttttggattttaatgaaagaatttgaaaggcattttatggtatactttttcttAatataggtcgtactgactta
+813,chr,pyotss0813,Streptococcus pyogenes strain S119,NA,NA,NA,M protein trans-acting positive regulator  Mga,1725913,-,"SP119_1696, p2",gaaacgttttcaagagctaatgttggtgtaaattgactgaagtatgatagaatttttaatGgttgtaccataacagtcaaa
+814,chr,pyotss0814,Streptococcus pyogenes strain S119,NA,NA,NA,NA,1730919,-,int SP119_1702,ctcacaagtgggactgagaaaattgcttatatcccgctacatcagtggtataatattaatGgtgtagtggatgcgacacct
+815,chr,pyotss0815,Streptococcus pyogenes strain S119,NA,NA,NA,NA,1734250,-,int SP119_1705,aacagataaaaaacagataatcgttagaaaaacagtagatgcgtctgttaaactaaaggtAtcaaaacaaaaggagcattt
+816,chr,pyotss0816,Streptococcus pyogenes strain S119,NA,NA,NA,DUF4298 domain-containing protein?,1734691,-,SP119_1706,cttttatcaaatagaggttttttcatgacaattgctagcatttcggtgtaaaataaaggtAataaccagcaaaggagcaac
+817,chr,pyotss0817,Streptococcus pyogenes strain S119,NA,NA,NA,hypothetical protein  ,1734862,+,SP119_1707,tttatttaaagattgttttgtgaccttgatttttaatctttttctccttaaaatgacattAttgacactcttgtctgttaa
+818,chr,pyotss0818,Streptococcus pyogenes strain S119,NA,NA,NA,foldase PrsA2?,1736384,-,SP119_1708,gcagcaacaccaaaaagcaagattaagctacgtttaagactaatgatataagataacagtAattattaatgagaaaagagg
+819,chr,pyotss0819,Streptococcus pyogenes strain S119,NA,NA,NA,XRE family transcriptional regulator RopB/Rgg1,1738907,+,SP119_1713,ttgtggctagtagatgctcatttcagttgacaagaaacttaaaaatactgataatataaaCaaaatgattcttttgtttgt
+820,chr,pyotss0820,Streptococcus pyogenes strain S119,NA,NA,NA,pyrogenic exotoxin B (SpeB); peptidase C10,1739031,-,"SP119_1710, p1",gtgtgtacctaatacgtaacaaaataatgggttagcaaaataagcagctatgatatagccAtaaggttaaaaggaggcgcc
+821,chr,pyotss0821,Streptococcus pyogenes strain S119,NA,NA,NA,pyrogenic exotoxin B (SpeB); peptidase C10,1739176,-,"SP119_1710, p2",gcatgtacctaatacgtaacaagttgaatgtttcggatgatagtcgcttatgataggtgcAtaaggtcaatagccagatgc
+822,chr,pyotss0822,Streptococcus pyogenes strain S119,NA,NA,NA,mitogenic factor 25K precursor,1741204,-,SP119_1714,attttcatattttttaaaaaaactattgataaactagttaagtaagcgtatactatggttAgtgagcgaaattagaaaaga
+823,chr,pyotss0823,Streptococcus pyogenes strain S119,NA,NA,NA,phosphatidylglycerophosphatase A  ,1741518,+,SP119_1715,agaactattccctctttagctgttgtagaggtttcttaaaatcttttatgttacaataaaGaaaaaaaggaggtttcacat
+824,chr,pyotss0824,Streptococcus pyogenes strain S119,NA,NA,NA,formate C-acetyltransferase/glycerol dehydratase family glycyl radical enzyme?,1746414,-,SP119_1718,gactatctcttcttatggttaaggatacgcaaaagtcctaatatatgataaaatagttacGaaagaaacgtttataatttc
+825,chr,pyotss0825,Streptococcus pyogenes strain S119,NA,NA,NA,PTS lactose/cellobiose transporter subunit IIA,1748650,-,SP119_1721,ttaaccaaaatatagcacaaaatatattgaccctaaaaacaaaaatgatacaataaacttAccaacgaaatgtaaacgatt
+826,chr,pyotss0826,Streptococcus pyogenes strain S119,NA,NA,NA,DeoR/GlpR transcriptional regulator,1750591,-,SP119_1723,aattacgaatgaaagtaaatatcccttttcttttaagaaaataactggtacaatgaaaggGaggtgaatgatgaatcgatt
+827,chr,pyotss0827,Streptococcus pyogenes strain S119,NA,NA,NA,glycyl-radical enzyme activating protein,1750685,+,SP119_1724,aagggatatttactttcattcgtaattgatttatttacgtttatctggtatgatagttttAcaacgaaaggaattcacact
+828,chr,pyotss0828,Streptococcus pyogenes strain S119,NA,NA,NA,50S ribosomal protein L33,1752070,-,SP119_1725b,agattgttgactattttagatagcttgcagtattttagagatcgtgttaaaataatagttAcggaggcgttatggcacaga
+829,chr,pyotss0829,Streptococcus pyogenes strain S119,NA,NA,NA,penicillin-binding protein 2A  ; penicillin-binding protein,1754444,-,SP119_1726,aaagcatatttcgatgacctaatcaaggttactttaagatcatagtggtataataacgttAtgagatttctagaactttta
+830,chr,pyotss0830,Streptococcus pyogenes strain S119,NA,NA,NA,RidA family protein,1754894,-,SP119_1727,aaagaagtcaaccaaaggtttttaatataaaatattaagaaaaattgttataattgtgatAaaaacataatcgtaaaatag
+831,chr,pyotss0831,Streptococcus pyogenes strain S119,NA,NA,NA,hypothetical protein  ,1755298,+,SP119_1728,aataacgtttttacctttttgagtggcacgttttgattagaaacatgctataatagcattGaattccttgcattaatcagg
+832,chr,pyotss0832,Streptococcus pyogenes strain S119,NA,NA,NA,hypothetical protein  ,1758197,-,SP119_1730,ggcagtgaactatctaggtttcttcgaaaatccattagccatttatgatataatagtaaaGaaaaacatagaaagttgggg
+833,chr,pyotss0833,Streptococcus pyogenes strain S119,NA,NA,NA,dipeptidase  ,1758385,+,SP119_1731,aatttcaaaacacttcataaaagacttgaatttttaaaaagagcattttataatgtctgtGaaagcgttatcgtttactag
+834,chr,pyotss0834,Streptococcus pyogenes strain S119,NA,NA,NA,IG sRNA/SR119_122,1760098,-,SP119_SR122,ggtttcttgttgtttttttggcttaaggtttctttaagtcttatctagtatactaatgtcAttccttaataggataagtat
+835,chr,pyotss0835,Streptococcus pyogenes strain S119,NA,NA,NA,"XRE family transcriptional regulator, truncated",1760905,-,SP119_1732,cagacttttaatgtattggaaaatacattgtttttctttgtcatgtgctatcatggagtcAatgaaaagttattcccatat
+836,chr,pyotss0836,Streptococcus pyogenes strain S119,NA,NA,NA,co-chaperone GroES  ,1763139,-,SP119_1734,ttcttacaaaaataacttcttttttcttgactatttttgaccaagtgataaaatagaataTaaagttagcactcgatgaac
+837,chr,pyotss0837,Streptococcus pyogenes strain S119,NA,NA,NA,CtsR family transcriptional regulator,1766227,-,SP119_1736,cagttacctttaatgattaagagttgcgtttaaggtcttgtatttgttataataatagtcAgttttagtcaaaatgtattg
+838,chr,pyotss0838,Streptococcus pyogenes strain S119,NA,NA,NA,cold-shock protein  ,1766644,-,SP119_1737,attcttaatgtttttaagcatgttattgacaagtgttataaaatgtgttactcttagtgaGtaaattagtttttgagttag
+839,chr,pyotss0839,Streptococcus pyogenes strain S119,NA,NA,NA,SP119_t064,1767149,-,SP119_SR123,ggatatgtcttgtgcaaatagtgcttgacggatttgtggaattagggtaaaataatctttGttgtggcggtatagccaagt
+840,chr,pyotss0840,Streptococcus pyogenes strain S119,NA,NA,NA,peroxiredoxin  ,1767521,+,SP119_1738,cccagtaaaatcaagggtttctgagtagacataatcttgttgttcttttataatacaagtAtaaaactataaaaaaggagg
+841,chr,pyotss0841,Streptococcus pyogenes strain S119,NA,NA,NA,formimidoylglutamase  ,1780527,+,SP119_1748,aaccagtgacaaaggccaagaaagtgttgactgtaagttttattttgctatcataatcctAaaggagatgacgcgcatgct
+842,chr,pyotss0842,Streptococcus pyogenes strain S119,NA,NA,NA,hypothetical protein  ,1784657,-,SP119_1749,agcttttgctcattttgggtgacacttgccaaatcgttttatttaagatatagtgaatttGactaatttttggaggcgttt
+843,chr,pyotss0843,Streptococcus pyogenes strain S119,NA,NA,NA,30S ribosomal protein S2  ,1784823,+,SP119_SR124/SP119_1750,ataagggaatccatagcatttctccttgcttttaacctctttttttgatactatagtaagGtcgtgtagacggcaaatact
+844,chr,pyotss0844,Streptococcus pyogenes strain S119,NA,NA,NA,endopeptidase  ,1789001,-,SP119_1752,ttttctaaataaaaacaattgagataagttattttagctaaattttggtacaatggaaaaGattataagtagagtttaaga
+845,chr,pyotss0845,Streptococcus pyogenes strain S119,NA,NA,NA,PTS beta-glucoside transporter subunit EIIBCA  ,1792955,-,SP119_1754,taatggcttttttggcacaaacaacttgtagacaaatttgcaatcgattacaataaaggtGtcagttagattctatctaag
+846,chr,pyotss0846,Streptococcus pyogenes strain S119,NA,NA,NA,trehalose operon repressor  ,1793033,+,SP119_1755,ttgcaaatttgtctacaagttgtttgtgccaaaaaagccattattttggtaaaataaaagGtgttgtctgtaaaaaaatag
+847,chr,pyotss0847,Streptococcus pyogenes strain S119,NA,NA,NA,IG sRNA,1793922,-,SP119_SR125,aattactttttttctacaaaaagacttgcgctcatctcacgaatatgataatataatatcAagtctgtttgagaaaacaga
+848,chr,pyotss0848,Streptococcus pyogenes strain S119,NA,NA,NA,glyoxalase  ,1794572,+,SP119_1759,gcctataccacttatttgtgcctacttttctttttgaaactgattgattatgatagatttAattagtttttggaggtaata
+849,chr,pyotss0849,Streptococcus pyogenes strain S119,NA,NA,NA,hypothetical protein  ,1795494,+,SP119_1760,catccttggacaagactagttttcttgacagaaagcaagtaactttactacaataacactAtgctaacctttttaattcca
+850,chr,pyotss0850,Streptococcus pyogenes strain S119,NA,NA,NA,hypothetical protein ,1798772,-,SP119_1764,aggcctgtaaactcaagctgggggagagcccttttgatggaaatatgatatgcttaaaagGttgcttcatgcaagcaatct
+851,chr,pyotss0851,Streptococcus pyogenes strain S119,NA,NA,NA,anaerobic ribonucleoside triphosphate reductase  ,1801036,-,SP119_1765,tcgagcaaaaaacttgacacaatatattgatttttttagttgtcgtgatataatagttccGtaaggagatttgatatggta
+852,chr,pyotss0852,Streptococcus pyogenes strain S119,NA,NA,NA,membrane protein  ,1802873,-,SP119_1766,tacagtatgtgaaaatatatcagaaattgactaaataaaagattctgttatacttgttttAtaatattctttgacgataat
+853,chr,pyotss0853,Streptococcus pyogenes strain S119,NA,NA,NA,DUF965 domain-containing protein,1804124,-,SP119_1769,ttaaataccttcttcgcttgaaattcttgtttatttaatagaaataagctataataaagcAtagcacttaattttagaaag
+854,chr,pyotss0854,Streptococcus pyogenes strain S119,NA,NA,NA,arsenate reductase  ,1804631,-,SP119_1770,ttaaaaaaataggtccaaagacctatatttatagataagaaactgtgctacaataaagctAtcacgaaatagaaagtgagt
+855,chr,pyotss0855,Streptococcus pyogenes strain S119,NA,NA,NA,DNA recombination/repair protein RecA,1806110,-,SP119_1771,tgcttttaatatggtccgtaaaactttattaaaacttgagaatttgctataatgttatttAgtagctatagtaggatatgg
+856,chr,pyotss0856,Streptococcus pyogenes strain S119,NA,NA,NA,damage-inducible protein A  ,1807419,-,SP119_1772,gttttcaatagaatcttctaattcttcgtgaattggaagattttttgataaaatgagatcAgattacgaatagataagtag
+857,chr,pyotss0857,Streptococcus pyogenes strain S119,NA,NA,NA,DNA mismatch repair endonuclease MutL,1811857,-,SP119_1776,gttctgtcaaaaacggtccgaggccttcggctatttattaagtgtgttataatagtccatAagaatgcgaggaaattatga
+858,chr,pyotss0858,Streptococcus pyogenes strain S119,NA,NA,NA,arginine repressor  ,1815325,-,SP119_1779,attgctgaaaatagctgggcgaagatgaaataatacactttttttgttataatttgagagGataattatacaattggggtg
+859,chr,pyotss0859,Streptococcus pyogenes strain S119,NA,NA,NA,arginine--tRNA ligase  ,1815562,+,SP119_1780,ttcagtataatttatcaatcctctcctcgtttattttaaagaaatatgttagaatagggtGacaaacaatttttaggagac
+860,chr,pyotss0860,Streptococcus pyogenes strain S119,NA,NA,NA, bacteriocin immunity protein ,1817344,+,SP119_1781,taacattactaaggctgtcacatttatgacagtcttagttttttatattataataatagcAcaatatgttacaggagaatg
+861,chr,pyotss0861,Streptococcus pyogenes strain S119,NA,NA,NA,aspartate--tRNA ligase  ,1822281,-,SP119_1785,tttagaaaaactctttttaaatgggtggggtttttaagggctttttgctataatagtaggGaatgaattaattgatttata
+862,chr,pyotss0862,Streptococcus pyogenes strain S119,NA,NA,NA,histidine--tRNA ligase  ,1823843,-,SP119_1786,aaactaaagcaaatgatatatgcttgtttaaaatataagaaaaaatggtagaatgtttaaAgagaaaactaatcaaagagg
+863,chr,pyotss0863,Streptococcus pyogenes strain S119,NA,NA,NA,50S ribosomal protein L32  ,1823990,+,SP119_1787,aaaataaaaagttttgtcaagtaactttactttacaaaaaagatatgttatcatagtgaaGttgatgaaaatcaaaactta
+864,chr,pyotss0864,Streptococcus pyogenes strain S119,NA,NA,NA,cadmium transporter  ,1824648,+,SP119_1789,ttatctatattttggtgtagctgaaattgacatctacaaagtttaatgttaaaattcattCaaaaatatatttgaatgagg
+865,chr,pyotss0865,Streptococcus pyogenes strain S119,NA,NA,NA,as SP119_1790,1825395,-,SP119_SR126,aggagataaaagatgatatttatctgtttattatcggtaaattttgataaaatacgaagtGatttttggactttttccttt
+866,chr,pyotss0866,Streptococcus pyogenes strain S119,NA,NA,NA,DUF368 domain-containing protein,1829221,+,SP119_1795,tttagtagggatatgcagctttgtgtcagcaattctttaaatttatgatacaataaaatcAttcttttcaggaggcaacaa
+867,chr,pyotss0867,Streptococcus pyogenes strain S119,NA,NA,NA,coenzyme A pyrophosphatase,1830803,-,SP119_1796,aaaatcactaactaggagtaataagttgaccaaaaagctaggattggttatgatgaagatAagattaacggaaagagaaat
+868,chr,pyotss0868,Streptococcus pyogenes strain S119,NA,NA,NA,PadR family transcriptional regulator,1830932,+,SP119_1797,atgttatttttttatatataaaatattgacatatcaaaaaactaagcttatactatatatGtaaaataattatatataaaa
+869,chr,pyotss0869,Streptococcus pyogenes strain S119,NA,NA,NA,yhgE/Pip domain-containing protein,1835385,-,SP119_1800,atgtccaaaagtgaatttttttctcttgtaaatttaaatttaaattgtataatatattttAtcataatttttgaacagtat
+870,chr,pyotss0870,Streptococcus pyogenes strain S119,NA,NA,NA,TetR/AcrR family transcriptional regulator ,1835396,+,SP119_1801,cttctaacatattttctcctaaaatggacatactgttcaaaaattatgataaaatatattAtacaatttaaatttaaattt
+871,chr,pyotss0871,Streptococcus pyogenes strain S119,NA,NA,NA,30S ribosomal protein S4,1836926,-,SP119_1802,gcgtgagatgatagatagactgactttacaaaacaactttcttatggtaaactgttctttGtgcgaaataacagcagaaaa
+872,chr,pyotss0872,Streptococcus pyogenes strain S119,NA,NA,NA,DHH family phosphoesterase,1842961,-,SP119_1807,gtaatctcaaagcaagtggaagctctgtatttcagggcttttttatggtataatgtgtgcTtaagaggttataaagatgaa
+873,chr,pyotss0873,Streptococcus pyogenes strain S119,NA,NA,NA,NUDIX domain-containing protein,1845542,-,SP119_SR127/SP119_1809,aaaggtctgtgatgaaatcaatattgacaatcactaatcattttttttaaaatagatagtAacaaccggaatgatggtcaa
+874,chr,pyotss0874,Streptococcus pyogenes strain S119,NA,NA,NA,tRNA 2-thiouridine(34) synthase MnmA,1847421,-,SP119_SR128/SP119_1810,aaaaattattgagcaataaaatgattggcattccacgcagtaattgttataataaggtttGcgctgatggcgcttcaaaat
+875,chr,pyotss0875,Streptococcus pyogenes strain S119,NA,NA,NA,"L-serine ammonia-lyase, iron-sulfur-dependent, subunit beta",1847548,+,SP119_1811,aaaaataattttttataattatattgctgttttttgatatttttttgttataataaacatAgaaataaaaaacggagttgc
+876,chr,pyotss0876,Streptococcus pyogenes strain S119,NA,NA,NA,lytic transglycosylase domain-containing protein,1850176,-,SP119_1813,tgtaatatttttaatatatcttcaataacgaggtaataattaaaagatattatggataacGgagaaaagtgaggtattatt
+877,chr,pyotss0877,Streptococcus pyogenes strain S119,NA,NA,NA,helix-turn-helix domain-containing protein,1854583,-,SP119_1818,gctgatgcttcagacttcacagtcttcccaaaatagatgaaaatctgttataatagggttActatattatttttgaggtac
+878,chr,pyotss0878,Streptococcus pyogenes strain S119,NA,NA,NA,insulinase family protein,1857170,-,SP119_1820,caattaagtcaaaaaaagttatcactcacctaacctgaataaaaatggtataatcgtaagGatcacactatttattaagga
+879,chr,pyotss0879,Streptococcus pyogenes strain S119,NA,NA,NA,hyaluronan synthase HasA protein,1857531,+,SP119_1821,ttattaaaaatatttctatgactagttgacattaccccttatttatattagaatatcgagGtccctgtctttcaaggaaat
+880,chr,pyotss0880,Streptococcus pyogenes strain S119,NA,NA,NA,S4 domain-containing protein YaaA,1861460,+,SP119_1824,ttataaatagctcttattcagctattattatttatttctgttttatgctataatgacttgAatgacaaaatggagatgaca
+881,chr,pyotss0881,Streptococcus pyogenes strain S119,NA,NA,NA,sugar transporter,1863986,-,SP119_1826,taacaattttcggataacttttattgttttttcttagtaaataagctataattagtctttAcatgaaaccattttatgatg
+882,chr,pyotss0882,Streptococcus pyogenes strain S119,NA,NA,NA,IMP dehydrogenase,1865661,-,SP119_1827,gtgacttcagctgtaggaatattttattgacaaatgattttagcgtgatatgatagtaacAataaaaaatagaccagggta
+883,chr,pyotss0883,Streptococcus pyogenes strain S119,NA,NA,NA,tryptophan--tRNA ligase,1867248,-,SP119_SR129/SP119_1828,catattttcaaaaaatctggtgaacttgacaagaagtttaaaatttcatagaataaatctAaattagaagagtattctttt
+884,chr,pyotss0884,Streptococcus pyogenes strain S119,NA,NA,NA,YitT family protein,1867347,+,SP119_1830,caccagattttttgaaaatatgacttgacggtctcagtacatttaagagataatgagtctActatttttaaccagttataa
+885,chr,pyotss0885,Streptococcus pyogenes strain S119,NA,NA,NA,ABC-F family ATPase,1868309,+,SP119_1831,atgtagtgattagcccttttctgattgaaaaaggggactattttaggtacaatgaagcttAgataaataaaatgaggtgac
+886,chr,pyotss0886,Streptococcus pyogenes strain S119,NA,NA,NA,SP119_t066,1873315,-,SP119_SR131,aaatcaaattttttttaaaaaagtatagacaaaaaaaatcaatctgctataatagtaagaGtgttaaggagatatcctcca
+887,chr,pyotss0887,Streptococcus pyogenes strain S119,NA,NA,NA,as SP119_1834,1874240,+,SP119_SR132,ttcaccccgttctgtggctgaaagatgagaataggatgattttctggtagaattaatattAgacatgttcatctgctttcc
+888,chr,pyotss0888,Streptococcus pyogenes strain S119,NA,NA,NA,SP119_t067,1874405,+,SP119_SR133,tttctagttttttcaaaataaatattgacagttttagataatttttgttaaaatgatgtgGttaaggtctcatagctcagc
+889,chr,pyotss0889,Streptococcus pyogenes strain S119,NA,NA,NA,23S rRNA (pseudouridine(1915)-N(3))-methyltransferase RlmH,1875119,-,SP119_1835,agaaaaataacttgtggataaattgtgtaaaaagtaatgttcttgtgatacaattaagctAtgaaagtgaaactaatttgt
+890,chr,pyotss0890,Streptococcus pyogenes strain S119,NA,NA,NA,serine protease HtrA,1875288,+,"SP119_1836, p2",aaaagtaatccacaggctgtggattacttttcttttttttatttttaaggtataattaagCaaagttctataagctatgga
+891,chr,pyotss0891,Streptococcus pyogenes strain S119,NA,NA,NA,serine protease HtrA,1875309,+,"SP119_1836, p1",gattacttttcttttttttatttttaaggtataattaagcaaagttctataagctatggaCaaataattcggaggacaaaa
+892,chr,pyotss0892,Streptococcus pyogenes strain S119,NA,NA,NA,IG- as SP119_1836,1876571,-,SP119_SR134,tggatagaataagaaacataaaacagtcctttggactgttttatgtgataaaatgtaataGtatttaggtagcttgtttac
