@@ -1,7 +1,7 @@
 import pandas as pd
 from collections import Counter
 from utils import (gc_percentage, create_fasta_records, save_fasta_records,
-                   create_cds_sequences)
+                   create_cds_sequences, create_random_sequences_fixed)
 import os
 
 RAW_DATA_PATH = "./data/raw"
@@ -74,7 +74,6 @@ all_promoters_fasta_records = create_fasta_records(all_promoters)
 save_fasta_records(all_promoters_fasta_records, all_promoters_fasta_filename)
 save_fasta_records(pmd_promoters_fasta_records, pmd_promoters_fasta_filename)
 
-n_sequences = round(1.5 * len(pmd_promoters))
 seq_length = 81
 min_gc = 25
 max_gc = 70
@@ -85,7 +84,7 @@ max_gc = 70
 #     n_sequences, seq_length, min_gc, max_gc)
 
 # Random (fixed) negative preprocessing
-# create_random_sequences_fixed(pmd_promoters, seq_length)
+create_random_sequences_fixed(pmd_promoters, seq_length)
 
 # CDS negative preprocessing
 cds_sequences_df = create_cds_sequences(pmd_promoters)

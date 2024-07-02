@@ -139,6 +139,9 @@ def create_cds_sequences(promoters_df):
         sample_cds_df = pd.concat([sample_cds_df, sample_specie])
 
     # sample_cds_df = df_species_cds.sample(n_samples, random_state=42)
+
+    if not os.path.exists(f'{PROCESSED_DATA_PATH}/cds'):
+        os.makedirs(f'{PROCESSED_DATA_PATH}/cds')
     sample_cds_df.to_csv(
         f'{PROCESSED_DATA_PATH}/cds/sample.csv', index=False)
 
@@ -250,9 +253,12 @@ def create_random_sequences_fixed(promoters_df, seq_length):
 
     df.reset_index(drop=True, inplace=True)
 
-    df.to_csv(f'{PROCESSED_DATA_PATH}/random-fixed/sample.csv', index=False)
+    if not os.path.exists(f'{PROCESSED_DATA_PATH}/random'):
+        os.makedirs(f'{PROCESSED_DATA_PATH}/random')
 
-    random_filename = f'{PROCESSED_DATA_PATH}/random-fixed/sample.fasta'
+    df.to_csv(f'{PROCESSED_DATA_PATH}/random/sample.csv', index=False)
+
+    random_filename = f'{PROCESSED_DATA_PATH}/random/sample.fasta'
     random_fasta_records = create_fasta_records(df)
     save_fasta_records(random_fasta_records, random_filename)
 
