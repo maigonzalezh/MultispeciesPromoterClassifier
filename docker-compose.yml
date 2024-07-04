@@ -1,7 +1,7 @@
 version: '3.8'
 
 services:
-  dataset-build:
+  tensorflow-service:
     build:
       context: .
       dockerfile: ./docker/tensorflow/Dockerfile
@@ -9,73 +9,37 @@ services:
         WANDB_API_KEY: ${WANDB_API_KEY}
         AWS_ACCESS_KEY_ID: ${AWS_ACCESS_KEY_ID}
         AWS_SECRET_ACCESS_KEY: ${AWS_SECRET_ACCESS_KEY}
+    environment:
+      - WANDB_API_KEY=${WANDB_API_KEY}
+      - AWS_ACCESS_KEY_ID=${AWS_ACCESS_KEY_ID}
+      - AWS_SECRET_ACCESS_KEY=${AWS_SECRET_ACCESS_KEY}
+    runtime: nvidia
+    volumes:
+      - .:/workspace
+
+  dataset-build:
+    extends:
+      service: tensorflow-service
     volumes:
       - ./docker/tensorflow/entrypoints/build_dataset.sh:/app/entrypoint.sh
       - ./scripts:/app/scripts
       - ./data:/app/data
-    environment:
-      - WANDB_API_KEY=${WANDB_API_KEY}
-      - AWS_ACCESS_KEY_ID=${AWS_ACCESS_KEY_ID}
-      - AWS_SECRET_ACCESS_KEY=${AWS_SECRET_ACCESS_KEY}
     command: [ "/app/entrypoint.sh" ]
 
-  tensorflow:
-    build:
-      context: .
-      dockerfile: ./docker/tensorflow/Dockerfile
-      args:
-        WANDB_API_KEY: ${WANDB_API_KEY}
-        AWS_ACCESS_KEY_ID: ${AWS_ACCESS_KEY_ID}
-        AWS_SECRET_ACCESS_KEY: ${AWS_SECRET_ACCESS_KEY}
+  tuning:
+    extends:
+      service: tensorflow-service
     volumes:
-      - ./docker/tuning/entrypoint.sh:/app/entrypoint.sh
+      - ./docker/tensorflow/entrypoints/tuning.sh:/app/entrypoint.sh
       - ./scripts:/app/scripts
       - ./data/processed:/app/data
-    environment:
-      - WANDB_API_KEY=${WANDB_API_KEY}
-      - AWS_ACCESS_KEY_ID=${AWS_ACCESS_KEY_ID}
-      - AWS_SECRET_ACCESS_KEY=${AWS_SECRET_ACCESS_KEY}
-    runtime: nvidia
-    shm_size: '10.08gb'
     command: [ "/app/entrypoint.sh" ]
 
-  pytorch-n:
-    build:
-      context: .
-      dockerfile: ./docker/pytorch-compose/Dockerfile
-      args:
-        WANDB_API_KEY: ${WANDB_API_KEY}
-        AWS_ACCESS_KEY_ID: ${AWS_ACCESS_KEY_ID}
-        AWS_SECRET_ACCESS_KEY: ${AWS_SECRET_ACCESS_KEY}
-    volumes:
-      - ./docker/pytorch-compose/entrypoint.sh:/app/entrypoint.sh
-      - ./scripts:/app/scripts
-      - ./data/processed:/app/data
-    environment:
-      - WANDB_API_KEY=${WANDB_API_KEY}
-      - AWS_ACCESS_KEY_ID=${AWS_ACCESS_KEY_ID}
-      - AWS_SECRET_ACCESS_KEY=${AWS_SECRET_ACCESS_KEY}
-    runtime: nvidia
-    shm_size: '10.08gb'
-    command: [ "/app/entrypoint.sh" ]
-
-  jupyter:
-    build:
-      context: .
-      dockerfile: ./docker/pytorch-compose/Dockerfile
-      args:
-        WANDB_API_KEY: ${WANDB_API_KEY}
-        AWS_ACCESS_KEY_ID: ${AWS_ACCESS_KEY_ID}
-        AWS_SECRET_ACCESS_KEY: ${AWS_SECRET_ACCESS_KEY}
-    volumes:
-      - .:/workspace
+  jupyter-tf:
+    extends:
+      service: tensorflow-service
     ports:
       - "8888:8888"
-    environment:
-      - WANDB_API_KEY=${WANDB_API_KEY}
-      - AWS_ACCESS_KEY_ID=${AWS_ACCESS_KEY_ID}
-      - AWS_SECRET_ACCESS_KEY=${AWS_SECRET_ACCESS_KEY}
-    runtime: nvidia
     command:
       [
         "jupyter",
