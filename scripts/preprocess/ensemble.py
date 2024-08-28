@@ -50,7 +50,7 @@ dataset_random_df = promoters_df.copy()
 dataset_random_fixed_df = promoters_df.copy()
 
 for index, specie in enumerate(species):
-    print("specie", specie)
+    #print("specie", specie)
     specie_promoter_count = promoters_df[promoters_df['SpeciesName']
                                          == specie].shape[0]
 
@@ -61,7 +61,7 @@ for index, specie in enumerate(species):
     random_fixed_subsample = random_fixed_filtered_df[random_fixed_filtered_df['SpeciesName'] == specie].sample(
         n=specie_promoter_count, random_state=index + 1)
     
-    print(random_fixed_subsample.head(2))
+    #print(random_fixed_subsample.head(2))
     # random_subsample['SpeciesName'] = specie
     random_fixed_subsample['SpeciesName'] = specie
 

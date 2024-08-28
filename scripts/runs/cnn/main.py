@@ -72,7 +72,7 @@ def main():
     best_params = study.run_study()
 
     # save params
-    with open(f'/app/scripts/tuning/cnn/best_params/{args.non_promoter_origin}.json', 'w') as f:
+    with open(f'/app/scripts/runs/cnn/best_params/{args.non_promoter_origin}.json', 'w') as f:
         json.dump(best_params, f)
 
     # best_params = {
