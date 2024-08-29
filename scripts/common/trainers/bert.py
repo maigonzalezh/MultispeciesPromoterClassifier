@@ -1,18 +1,14 @@
 import pandas as pd
-from scripts.optimizers import BERTOptimizer
+from scripts.common.optimizers.bert import BERTOptimizer
+from scripts.common.trainers.base import TrainStudy
 from sklearn.model_selection import train_test_split
-from scripts.training.dnabert.utils import parse_torch_input_data
-#from scripts.common.trainers import TrainStudy
+from scripts.utils.bert import parse_torch_input_data
 
 
-class BERTTrainStudy(TrainStudya):
-    def __init__(self,
-                 project_name: str,
-                 storage_path: str,
-                 n_samples: int,
-                 random_state: int,
-                 test_size: float,
-                 batch_size: int,
+class BERTTrainStudy(TrainStudy):
+    def __init__(self, project_name: str, storage_path: str,
+                 n_samples: int, random_state: int,
+                 test_size: float, batch_size: int,
                  non_promoter_origin: str,
                  param_space: dict,
                  pretrained_model: str,
@@ -32,7 +28,13 @@ class BERTTrainStudy(TrainStudya):
 
     @property
     def training_name(self):
-        return f'{self.pretrained_model.upper()}-train-{self.non_promoter_origin.upper()}-F1Score'
+        return f'{self.pretrained_model.upper()}-train-{self.non_promoter_origin.upper()}'
+
+    @property
+    def tune_config_args(self):
+        return {
+            "num_samples": self.num_samples,
+        }
 
     @property
     def resources(self):
