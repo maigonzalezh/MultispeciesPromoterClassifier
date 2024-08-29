@@ -1,1 +1,26 @@
-{"dropout": 0.8, "n_conv_layers": 3, "n_dense_layers": 3, "n_neurons-conv_1": 256, "kernel_size-conv_1": 3, "l2_regularizer-conv_1": 0.0001, "l2_bias_regularizer-conv_1": 0.0001, "n_neurons-conv_2": 512, "kernel_size-conv_2": 5, "l2_regularizer-conv_2": 0.001, "l2_bias_regularizer-conv_2": 0.001, "n_neurons-conv_3": 128, "kernel_size-conv_3": 7, "l2_regularizer-conv_3": 0.0001, "l2_bias_regularizer-conv_3": 0.001, "n_neurons-dense_1": 256, "l2_regularizer-dense_1": 0.001, "l2_bias_regularizer-dense_1": 0.0001, "n_neurons-dense_2": 256, "l2_regularizer-dense_2": 0.0001, "l2_bias_regularizer-dense_2": 0.001, "n_neurons-dense_3": 256, "l2_regularizer-dense_3": 0.001, "l2_bias_regularizer-dense_3": 0.001}
+{
+    "dropout": 0.2,
+    "n_conv_layers": 3,
+    "n_dense_layers": 3,
+    "n_neurons-conv_1": 512,
+    "kernel_size-conv_1": 3,
+    "l2_regularizer-conv_1": 0.0001,
+    "l2_bias_regularizer-conv_1": 0.0001,
+    "n_neurons-conv_2": 256,
+    "kernel_size-conv_2": 7,
+    "l2_regularizer-conv_2": 0.001,
+    "l2_bias_regularizer-conv_2": 0.001,
+    "n_neurons-conv_3": 128,
+    "kernel_size-conv_3": 7,
+    "l2_regularizer-conv_3": 0.0001,
+    "l2_bias_regularizer-conv_3": 0.0001,
+    "n_neurons-dense_1": 512,
+    "l2_regularizer-dense_1": 0.0001,
+    "l2_bias_regularizer-dense_1": 0.0001,
+    "n_neurons-dense_2": 256,
+    "l2_regularizer-dense_2": 0.0001,
+    "l2_bias_regularizer-dense_2": 0.0001,
+    "n_neurons-dense_3": 256,
+    "l2_regularizer-dense_3": 0.0001,
+    "l2_bias_regularizer-dense_3": 0.001
+}
