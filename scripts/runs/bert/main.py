@@ -17,7 +17,7 @@ def build_parser():
                         help="Batch size")
 
     parser.add_argument("--non_promoter_origin", type=str,
-                        default='random', choices=['random-fixed', 'cds'])
+                        default='random', choices=['random', 'cds'])
 
     parser.add_argument('--model', type=str, default='dnabert2',
                         choices=['dnabert', 'dnabert2', 'nt-transformer'],

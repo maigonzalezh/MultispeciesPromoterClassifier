@@ -14,12 +14,25 @@ This repository contains Python scripts that run in Docker containers using `doc
 
 ## Scripts
 
-### Dataset generation
-
-For generation of dataset, execute the following command:
+### Dataset generation (optional)
+If you want to generate the dataset from scratch, you can run the following command:
 
 ```
 docker compose up dataset-build
 ```
 
-### Hyperparameter tuning
+### Hyperparameter tuning and training
+
+#### Random Forest and Convolutional Neural Network models
+Edit `/docker/tensorflow/entrypoints/entrypoint.sh` based on the model and dataset and then run:
+
+```
+docker compose up training
+```
+
+#### BERT-based models
+Edit `/docker/pytorch/entrypoint.sh` based on the dataset and then run:
+
+```
+docker compose up training-bert
+```
