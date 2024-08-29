@@ -17,6 +17,22 @@ services:
     volumes:
       - .:/workspace
 
+  pytorch-service:
+    build:
+      context: .
+      dockerfile: ./docker/pytorch/Dockerfile
+      args:
+        WANDB_API_KEY: ${WANDB_API_KEY}
+        AWS_ACCESS_KEY_ID: ${AWS_ACCESS_KEY_ID}
+        AWS_SECRET_ACCESS_KEY: ${AWS_SECRET_ACCESS_KEY}
+    environment:
+      - WANDB_API_KEY=${WANDB_API_KEY}
+      - AWS_ACCESS_KEY_ID=${AWS_ACCESS_KEY_ID}
+      - AWS_SECRET_ACCESS_KEY=${AWS_SECRET_ACCESS_KEY}
+    runtime: nvidia
+    volumes:
+      - .:/workspace
+
   dataset-build:
     extends:
       service: tensorflow-service
@@ -26,11 +42,20 @@ services:
       - ./data:/app/data
     command: [ "/app/entrypoint.sh" ]
 
-  tuning:
+  training:
     extends:
       service: tensorflow-service
     volumes:
-      - ./docker/tensorflow/entrypoints/tuning.sh:/app/entrypoint.sh
+      - ./docker/tensorflow/entrypoints/entrypoint.sh:/app/entrypoint.sh
+      - ./scripts:/app/scripts
+      - ./data/processed:/app/data
+    command: [ "/app/entrypoint.sh" ]
+
+  training-bert:
+    extends:
+      service: pytorch-service
+    volumes:
+      - ./docker/pytorch/entrypoint.sh:/app/entrypoint.sh
       - ./scripts:/app/scripts
       - ./data/processed:/app/data
     command: [ "/app/entrypoint.sh" ]
@@ -40,13 +65,11 @@ services:
       service: tensorflow-service
     ports:
       - "8888:8888"
-    command:
-      [
-        "jupyter",
-        "lab",
-        "--ip=0.0.0.0",
-        "--port=8888",
-        "--no-browser",
-        "--allow-root",
-        "--notebook-dir=/workspace"
-      ]
+    command: [ "jupyter", "lab", "--ip=0.0.0.0", "--port=8888", "--no-browser", "--allow-root", "--notebook-dir=/workspace" ]
+
+  jupyter-torch:
+    extends:
+      service: pytorch-service
+    ports:
+      - "8889:8889"
+    command: [ "jupyter", "lab", "--ip=0.0.0.0", "--port=8889", "--no-browser", "--allow-root", "--notebook-dir=/workspace" ]

@@ -1,0 +1,13 @@
+huggingface_hub
+pandas
+scikit-learn
+argparse
+ray[data,train,tune]
+wandb
+huggingface_hub
+transformers==4.29.2
+accelerate
+evaluate
+einops
+peft
+omegaconf
