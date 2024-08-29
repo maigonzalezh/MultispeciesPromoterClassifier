@@ -1,5 +1,4 @@
 import pandas as pd
-from collections import Counter
 from utils import (gc_percentage, create_fasta_records, save_fasta_records,
                    create_cds_sequences, create_random_sequences_fixed)
 import os

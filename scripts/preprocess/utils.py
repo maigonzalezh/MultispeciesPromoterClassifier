@@ -28,18 +28,14 @@ def get_substrings(text, window_size=81):
         raise ValueError(
             "The window size must be between 1 and the length of the text.")
 
-    # Convert the text into a NumPy character array
     char_array = np.array(list(text), dtype='U1')
 
-    # Calculate the shape and strides for the new view
     new_shape = (len(text) - window_size + 1, window_size)
     new_strides = (char_array.strides[0], char_array.strides[0])
 
-    # Create the new view using as_strided
     strided_array = as_strided(
         char_array, shape=new_shape, strides=new_strides)
 
-    # Convert the strided array into a list of strings
     substrings = [''.join(substring) for substring in strided_array]
 
     return substrings
@@ -167,7 +163,6 @@ def create_random_sequence(length, GCPercentage):
 def create_random_sequence_fixed(length, GCPercentage):
     gc_rounded = int(round(GCPercentage))
 
-    # print("gc_rounded", gc_rounded)
     at_rounded = 100 - gc_rounded
 
     g_percentage = 0 if gc_rounded == 0 else np.random.randint(0, gc_rounded)
