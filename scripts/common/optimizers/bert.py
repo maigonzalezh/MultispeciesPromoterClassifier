@@ -2,13 +2,25 @@ import numpy as np
 import sklearn.metrics
 import os
 import sklearn
+import wandb as wandb_lib
 
 from transformers import Trainer, TrainingArguments, EarlyStoppingCallback
 from scripts.utils.bert import PretrainedModels, load_model, TorchDataset
+from sklearn.metrics import roc_auc_score, log_loss, accuracy_score, f1_score
 
 from pathlib import Path
 from scipy.special import softmax
 from scripts.common.optimizers.base import Optimizer
+
+
+def get_predictions_by_class(y_pred):
+    y_pred_score_pos = y_pred[:, 0]
+    y_pred_score_neg = y_pred_score_pos * -1 + 1
+    predictions_by_class = np.concatenate(
+        (y_pred_score_neg.reshape(-1, 1), y_pred_score_pos.reshape(-1, 1)), axis=1
+    )
+
+    return predictions_by_class
 
 
 def calculate_metric_with_sklearn(logits: np.ndarray, labels: np.ndarray):
@@ -46,27 +58,38 @@ def compute_metrics(eval_pred):
 
 
 class BERTOptimizer(Optimizer):
-    def setup(self, config,
-              X_train: np.ndarray,
-              y_train: np.ndarray,
-              X_val: np.ndarray,
-              y_val: np.ndarray,
-              random_state: int,
-              batch_size: int,
-              non_promoter_origin: str = None,
-              training_name: str = None,
-              pretrained_model: str = None,
-              max_seq_length: int = 512):
-        super().setup(config, X_train, y_train, X_val,
-                      y_val, random_state,
-                      non_promoter_origin, training_name)
+    def setup(
+        self,
+        config,
+        X_train: np.ndarray,
+        y_train: np.ndarray,
+        X_val: np.ndarray,
+        y_val: np.ndarray,
+        random_state: int,
+        batch_size: int,
+        non_promoter_origin: str = None,
+        training_name: str = None,
+        pretrained_model: str = None,
+        max_seq_length: int = 512,
+    ):
+        super().setup(
+            config,
+            X_train,
+            y_train,
+            X_val,
+            y_val,
+            random_state,
+            non_promoter_origin,
+            training_name,
+        )
         self.pretrained_model = pretrained_model
         self.seq_max_len = max_seq_length
         self.batch_size = batch_size
 
     def step(self):
         model, tokenizer, device = load_model(
-            model_name=self.pretrained_model, frozen=False)
+            model_name=self.pretrained_model, frozen=False
+        )
 
         SEQ_MAX_LEN = self.seq_max_len
 
@@ -79,7 +102,9 @@ class BERTOptimizer(Optimizer):
         )
 
         train_dataset = TorchDataset(
-            train_encodings["input_ids"], train_encodings["attention_mask"], self.y_train
+            train_encodings["input_ids"],
+            train_encodings["attention_mask"],
+            self.y_train,
         )
 
         val_encodings = tokenizer(
@@ -94,11 +119,10 @@ class BERTOptimizer(Optimizer):
 
         results_dir.mkdir(parents=True, exist_ok=True)
 
-        lr = self.config['lr']
+        lr = self.config["lr"]
 
         EPOCHS = 10
-
-        BATCH_SIZE = 32
+        BATCH_SIZE = self.batch_size
 
         val_dataset = TorchDataset(
             val_encodings["input_ids"], val_encodings["attention_mask"], self.y_val
@@ -121,7 +145,7 @@ class BERTOptimizer(Optimizer):
             learning_rate=lr,
             fp16=True,
             seed=self.random_state,
-            eval_accumulation_steps=20
+            eval_accumulation_steps=20,
         )
 
         callback = [EarlyStoppingCallback(early_stopping_patience=5)]
@@ -133,7 +157,7 @@ class BERTOptimizer(Optimizer):
             eval_dataset=val_dataset,
             compute_metrics=compute_metrics,
             tokenizer=tokenizer,
-            callbacks=callback
+            callbacks=callback,
         )
 
         trainer.train()
@@ -141,8 +165,9 @@ class BERTOptimizer(Optimizer):
         y_train_pred_obj = trainer.predict(train_dataset)
         y_val_pred_obj = trainer.predict(val_dataset)
 
-        if (self.pretrained_model == PretrainedModels.DNABERT.value) or \
-                (self.pretrained_model == PretrainedModels.NT_TRANSFORMER.value):
+        if (self.pretrained_model == PretrainedModels.DNABERT.value) or (
+            self.pretrained_model == PretrainedModels.NT_TRANSFORMER.value
+        ):
             y_train_predictions = y_train_pred_obj.predictions
             y_val_predictions = y_val_pred_obj.predictions
 
@@ -153,20 +178,94 @@ class BERTOptimizer(Optimizer):
         y_train_pred_score = softmax(y_train_predictions, axis=1)
         y_val_pred_score = softmax(y_val_predictions, axis=1)
 
-        metric_valid, loss_valid, \
-            acc_valid, f1_valid = self.compute_overall_metrics(y_train_predictions, y_val_predictions,
-                                                               y_train_pred_score, y_val_pred_score)
+        metric_valid, loss_valid, acc_valid, f1_valid = self.compute_overall_metrics(
+            y_train_predictions, y_val_predictions, y_train_pred_score, y_val_pred_score
+        )
 
-        self.wandb.log({"mean_roc_auc": metric_valid, "mean_logloss": loss_valid,
-                       "mean_accuracy": acc_valid, "mean_f1": f1_valid})
+        self.wandb.log(
+            {
+                "mean_roc_auc": metric_valid,
+                "mean_logloss": loss_valid,
+                "mean_accuracy": acc_valid,
+                "mean_f1": f1_valid,
+            }
+        )
 
-        if (not os.path.exists('../models')):
-            os.makedirs('../models')
+        if not os.path.exists("../models"):
+            os.makedirs("../models")
 
-        model_path = f'/app/scripts/models/{self.non_promoter_origin}-{self.trial_name}'
+        model_path = f"/app/scripts/models/{self.non_promoter_origin}-{self.trial_name}"
 
         model.save_pretrained(model_path)
         tokenizer.save_pretrained(model_path)
 
         self.wandb.finish()
-        return {"mean_roc_auc": metric_valid, "done": True}
+        return {"mean_f1": f1_valid, "done": True}
+
+    def compute_overall_metrics(
+        self, y_train_pred, y_val_pred, y_train_pred_score, y_val_pred_score
+    ):
+        metric = "auc"
+        labels = ["non-promoter", "promoter"]
+
+        results = {
+            f"{metric}_train": [],
+            "accuracy_train": [],
+            "logloss_train": [],
+            "f1_train": [],
+            f"{metric}_valid": [],
+            "logloss_valid": [],
+            "accuracy_valid": [],
+            "f1_valid": [],
+        }
+
+        y_train_pred = np.argmax(y_train_pred_score, axis=-1)
+        y_val_pred = np.argmax(y_val_pred, axis=-1)
+
+        log_loss_train = log_loss(self.y_train, y_train_pred_score)
+        log_loss_valid = log_loss(self.y_val, y_val_pred_score)
+
+        roc_auc_score_train = roc_auc_score(self.y_train, y_train_pred_score[:, 1])
+        roc_auc_score_valid = roc_auc_score(self.y_val, y_val_pred_score[:, 1])
+
+        accuracy_train = accuracy_score(self.y_train, y_train_pred)
+        accuracy_valid = accuracy_score(self.y_val, y_val_pred)
+
+        f1_train = f1_score(self.y_train, y_train_pred)
+        f1_valid = f1_score(self.y_val, y_val_pred)
+
+        results[f"{metric}_train"].append(roc_auc_score_train)
+        results["logloss_train"].append(log_loss_train)
+        results["accuracy_train"].append(accuracy_train)
+        results["f1_train"].append(f1_train)
+
+        results[f"{metric}_valid"].append(roc_auc_score_valid)
+        results["logloss_valid"].append(log_loss_valid)
+        results["accuracy_valid"].append(accuracy_valid)
+        results["f1_valid"].append(f1_valid)
+
+        predictions_by_class = get_predictions_by_class(y_val_pred_score)
+        self.wandb.log(
+            {
+                f"roc_curve": wandb_lib.plot.roc_curve(
+                    self.y_val, predictions_by_class, labels=labels
+                )
+            }
+        )
+
+        metric_train = results[f"{metric}_train"][0]
+        metric_valid = results[f"{metric}_valid"][0]
+
+        loss_train = results["logloss_train"][0]
+        loss_valid = results["logloss_valid"][0]
+
+        acc_valid = results["accuracy_valid"][0]
+        f1_valid = results["f1_valid"][0]
+
+        print("Finished!")
+        print(f"Train {metric}:{metric_train}")
+        print(f"Valid {metric}:{metric_valid}")
+        print("Train Loss:{}".format(loss_train))
+        print("Valid Loss:{}".format(loss_valid))
+
+        return metric_valid, loss_valid, acc_valid, f1_valid

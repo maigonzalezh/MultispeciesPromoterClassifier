@@ -164,3 +164,8 @@ cython_debug/
 data/processed/*
 images/*
 scripts/models/*
+*.pdf
+*.png
+*.jpg
+*.jpeg
+*.svg

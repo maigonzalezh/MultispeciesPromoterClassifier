@@ -20,7 +20,7 @@ This repository contains the dataset and code for the study on GC-content bias i
   - **pytorch/**: Includes configurations and scripts necessary to set up and run a PyTorch environment within a Docker container.
   - **tensorflow/**: Contains configurations and scripts to establish a TensorFlow environment in Docker. Additionally, specific entry point scripts are included in the `entrypoints/` subfolder, such as `build_dataset.sh` for dataset generation and `entrypoint.sh` as the main startup script for the container for training/tuning RF and CNN models.
 
-- **notebooks/**: Contains Jupyter notebooks used for generated datasets and DNABERT latent space analysis.
+- **notebooks/**: Contains Jupyter notebooks used for exploratory data analysis, and DNABERT analysis (latent space and genoma evaluation)
 
 - **scripts/**: Includes all scripts used in the project, including common scripts, model definitions, data preprocessing, experiment execution, and utility functions.
 

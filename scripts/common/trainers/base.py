@@ -3,14 +3,16 @@ from ray import tune, train
 
 
 class TrainStudy(ABC):
-    def __init__(self,
-                 project_name: str,
-                 storage_path: str,
-                 n_samples: int,
-                 random_state: int,
-                 test_size: float,
-                 param_space: dict,
-                 non_promoter_origin: str):
+    def __init__(
+        self,
+        project_name: str,
+        storage_path: str,
+        n_samples: int,
+        random_state: int,
+        test_size: float,
+        param_space: dict,
+        non_promoter_origin: str,
+    ):
         self.project_name = project_name
         self.storage_path = storage_path
         self.random_state = random_state
@@ -40,7 +42,7 @@ class TrainStudy(ABC):
 
     @property
     def storage_training_path(self):
-        return f'{self.storage_path}{self.training_name}'
+        return f"{self.storage_path}{self.training_name}"
 
     @property
     @abstractmethod
@@ -58,19 +60,18 @@ class TrainStudy(ABC):
 
     def run_study(self):
         trainable_params = self.get_trainable_params()
-        print(trainable_params)
-        print(self.optimizer)
-        trainable = tune.with_parameters(
-            self.optimizer, **trainable_params)
+        trainable = tune.with_parameters(self.optimizer, **trainable_params)
 
         trainable_with_resources = tune.with_resources(
-            trainable=trainable, resources=self.resources)
+            trainable=trainable, resources=self.resources
+        )
 
-        if (tune.Tuner.can_restore(self.storage_training_path)):
+        if tune.Tuner.can_restore(self.storage_training_path):
             tuner = tune.Tuner.restore(
                 self.storage_training_path,
                 trainable=trainable_with_resources,
-                resume_errored=True)
+                resume_errored=True,
+            )
         else:
             tuner = tune.Tuner(
                 trainable_with_resources,

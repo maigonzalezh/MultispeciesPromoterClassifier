@@ -32,7 +32,6 @@ services:
     runtime: nvidia
     volumes:
       - .:/workspace
-
   dataset-build:
     extends:
       service: tensorflow-service

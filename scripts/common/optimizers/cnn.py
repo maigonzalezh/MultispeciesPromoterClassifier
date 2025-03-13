@@ -29,20 +29,24 @@ class CNNTuningOptimizer(TuningOptimizer):
 
 
 class CNNOptimizer(Optimizer):
-    def setup(self,
-              config,
-              X_train: np.ndarray,
-              y_train: np.ndarray,
-              X_val: np.ndarray,
-              y_val: np.ndarray,
-              random_state: int,
-              non_promoter_origin: str = None,
-              training_name: str = None,
-              batch_size=32):
+    def setup(
+            self,
+            config,
+            X_train: np.ndarray,
+            y_train: np.ndarray,
+            X_val: np.ndarray,
+            y_val: np.ndarray,
+            random_state: int,
+            best_params: dict,
+            non_promoter_origin: str = None,
+            training_name: str = None,
+            batch_size=32,
+    ):
 
         super().setup(config, X_train, y_train, X_val, y_val,
                       random_state, non_promoter_origin, training_name)
         self.batch_size = batch_size
+        self.best_params = best_params
 
 class WandbReportingFoldCallback(Callback):
     def __init__(self, fold, wandb):
@@ -236,8 +240,6 @@ class CNNTuningTrainable(CNNTuningOptimizer):
 
 class CNNTrainable(CNNOptimizer):
     def step(self):
-        config = self.config
-
         dropout, conv_layers, dense_layers = cnn_config_builder(
             self.best_params)
         metric = "auc"
@@ -261,7 +263,7 @@ class CNNTrainable(CNNOptimizer):
             conv_layers=conv_layers,
             dense_layers=dense_layers)
 
-        lr = config['lr']
+        lr = 1e-4
 
         callbacks = [WandbReportingCallback(self.wandb)]
         epochs = 100

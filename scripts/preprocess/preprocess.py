@@ -77,11 +77,6 @@ seq_length = 81
 min_gc = 25
 max_gc = 70
 
-# Random negative preprocessing
-
-# create_random_sequences(
-#     n_sequences, seq_length, min_gc, max_gc)
-
 # Random (fixed) negative preprocessing
 create_random_sequences_fixed(pmd_promoters, seq_length)
 

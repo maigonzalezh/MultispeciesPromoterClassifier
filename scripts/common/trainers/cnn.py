@@ -7,19 +7,27 @@ from ray.tune.search.optuna import OptunaSearch
 
 
 class CNNTuningStudy(TrainStudy):
-    def __init__(self,
-                 project_name: str,
-                 storage_path: str,
-                 n_samples: int,
-                 random_state: int,
-                 test_size: float,
-                 non_promoter_origin: str,
-                 param_space: dict,
-                 k_folds: int = 5,
-                 batch_size: int = 32,
-                 ):
-        super().__init__(project_name, storage_path, n_samples, random_state,
-                         test_size, param_space, non_promoter_origin)
+    def __init__(
+        self,
+        project_name: str,
+        storage_path: str,
+        n_samples: int,
+        random_state: int,
+        test_size: float,
+        non_promoter_origin: str,
+        param_space: dict,
+        k_folds: int = 5,
+        batch_size: int = 32,
+    ):
+        super().__init__(
+            project_name,
+            storage_path,
+            n_samples,
+            random_state,
+            test_size,
+            param_space,
+            non_promoter_origin,
+        )
         self.k_folds = k_folds
         self.batch_size = batch_size
 
@@ -33,7 +41,7 @@ class CNNTuningStudy(TrainStudy):
 
     @property
     def training_name(self):
-        return f'CNN-tuning-{self.non_promoter_origin.upper()}'
+        return f"CNN-tuning-{self.non_promoter_origin.upper()}"
 
     @property
     def tune_config_args(self):
@@ -51,7 +59,8 @@ class CNNTuningStudy(TrainStudy):
     def get_trainable_params(self):
         X, y = parse_data(self.dataset, is2d=False)
         X_train, X_test, y_train, y_test = train_test_split(
-            X, y, test_size=self.test_size, random_state=self.random_state)
+            X, y, test_size=self.test_size, random_state=self.random_state
+        )
         return {
             "X": X_train,
             "y": y_train,
@@ -62,18 +71,31 @@ class CNNTuningStudy(TrainStudy):
             "batch_size": self.batch_size,
         }
 
+
 class CNNTrainStudy(TrainStudy):
-    def __init__(self,
-                 project_name: str,
-                 storage_path: str,
-                 n_samples: int,
-                 random_state: int,
-                 test_size: float,
-                 non_promoter_origin: str,
-                 param_space: dict,
-                 ):
-        super().__init__(project_name, storage_path, n_samples, random_state,
-                         test_size, param_space, non_promoter_origin)
+    def __init__(
+        self,
+        project_name: str,
+        storage_path: str,
+        n_samples: int,
+        random_state: int,
+        test_size: float,
+        non_promoter_origin: str,
+        param_space: dict,
+        best_params: dict,
+        batch_size: int = 32,
+    ):
+        super().__init__(
+            project_name,
+            storage_path,
+            n_samples,
+            random_state,
+            test_size,
+            param_space,
+            non_promoter_origin,
+        )
+        self.batch_size = batch_size
+        self.best_params = best_params
 
     @property
     def optimizer(self):
@@ -85,12 +107,14 @@ class CNNTrainStudy(TrainStudy):
 
     @property
     def training_name(self):
-        return f'CNN-train-{self.non_promoter_origin.upper()}'
+        return f"CNN-train-{self.non_promoter_origin.upper()}"
 
     @property
     def tune_config_args(self):
         return {
             "num_samples": self.num_samples,
+            "metric": "f1",
+            "mode": "max",
         }
 
     @property
@@ -98,10 +122,11 @@ class CNNTrainStudy(TrainStudy):
         return {"cpu": 10, "gpu": 1}
 
     def get_trainable_params(self):
-        X, y = parse_data(self.dataset, is2d=True)
+        X, y = parse_data(self.dataset, is2d=False)
 
         X_train, X_val, y_train, y_val = train_test_split(
-            X, y, test_size=self.test_size, random_state=self.random_state)
+            X, y, test_size=self.test_size, random_state=self.random_state
+        )
         return {
             "X_train": X_train,
             "y_train": y_train,
@@ -110,4 +135,6 @@ class CNNTrainStudy(TrainStudy):
             "random_state": self.random_state,
             "non_promoter_origin": self.non_promoter_origin,
             "training_name": self.training_name,
+            "batch_size": self.batch_size,
+            "best_params": self.best_params,
         }

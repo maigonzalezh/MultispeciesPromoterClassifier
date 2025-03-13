@@ -79,8 +79,6 @@ def save_fasta_records(fasta_records, filename):
 
 def create_raw_cds():
     species_cds = os.listdir(f'{RAW_DATA_PATH}/cds')
-    print(species_cds)
-
     with open(f'{TEMP_DATA_PATH}/cds_raw.csv', "w", newline="") as csvfile:
         writer = csv.writer(csvfile)
         writer.writerow(["id", "SpeciesName", "Sequence"])
@@ -99,10 +97,11 @@ def create_raw_cds():
     return pd.read_csv(f'{TEMP_DATA_PATH}/cds_raw.csv')
 
 
-def process_cds_sequences(cds_df):
+def process_cds_sequences(cds_df, max_substrings=40):
     cds_df = cds_df[cds_df['Sequence'].str.len() >= 81]
-    cds_df = cds_df.assign(Subsequence=cds_df.apply(lambda x: get_random_substrings(
-        x['Sequence'], 81), axis=1)).explode('Subsequence')
+    cds_df = cds_df.assign(Subsequence=cds_df.apply(
+        lambda x: get_random_substrings(x['Sequence'], 81, max_substrings), axis=1)) \
+        .explode('Subsequence')
     cds_df['GCPercentage'] = cds_df.apply(
         lambda x: gc_percentage(x['Subsequence']), axis=1)
     cds_df = cds_df.drop(columns=['Sequence'])
@@ -114,12 +113,12 @@ def process_cds_sequences(cds_df):
     return cds_df
 
 
-def create_cds_sequences(promoters_df):
+def create_cds_sequences(promoters_df, n_times=2, folder_name='cds', max_substrings=40):
     np.random.seed(42)
     random.seed(42)
 
     df_species_cds = create_raw_cds()
-    df_species_cds = process_cds_sequences(df_species_cds)
+    df_species_cds = process_cds_sequences(df_species_cds, max_substrings)
 
     all_species = promoters_df['SpeciesName'].unique()
 
@@ -130,18 +129,18 @@ def create_cds_sequences(promoters_df):
         promoters_per_specie = promoters_df[promoters_df['SpeciesName'] == specie]
         print(f"Specie: {specie} - Promoters: {len(promoters_per_specie)}")
         print(f"Specie: {specie} - CDS: {len(cds_specie)}")
-        n_samples = round(2 * len(promoters_per_specie))
+        n_samples = round(n_times * len(promoters_per_specie))
         sample_specie = cds_specie.sample(n_samples, random_state=42)
         sample_cds_df = pd.concat([sample_cds_df, sample_specie])
 
     # sample_cds_df = df_species_cds.sample(n_samples, random_state=42)
 
-    if not os.path.exists(f'{PROCESSED_DATA_PATH}/cds'):
-        os.makedirs(f'{PROCESSED_DATA_PATH}/cds')
+    if not os.path.exists(f'{PROCESSED_DATA_PATH}/{folder_name}'):
+        os.makedirs(f'{PROCESSED_DATA_PATH}/{folder_name}')
     sample_cds_df.to_csv(
-        f'{PROCESSED_DATA_PATH}/cds/sample.csv', index=False)
+        f'{PROCESSED_DATA_PATH}/{folder_name}/sample.csv', index=False)
 
-    cds_filename = f'{PROCESSED_DATA_PATH}/cds/sample.fasta'
+    cds_filename = f'{PROCESSED_DATA_PATH}/{folder_name}/sample.fasta'
     cds_fasta_records = create_fasta_records(sample_cds_df)
     save_fasta_records(cds_fasta_records, cds_filename)
 
