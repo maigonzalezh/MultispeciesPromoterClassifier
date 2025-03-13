@@ -1,6 +1,5 @@
-# GC-content bias study for multiple bacterial species promoters
-
-This repository contains the dataset and code for the study on GC-content bias in the promoters of multiple bacterial species, implemented in Python.
+# Negative dataset selection impacts machine learning-based predictors for multiple bacterial species promoters
+This repository contains the dataset and code for the study on how negative dataset selection impacts machine learning-based predictors for promoters in multiple bacterial species.
 
 ## Prerequisites
 
