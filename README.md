@@ -1,6 +1,9 @@
 # Negative dataset selection impacts machine learning-based predictors for multiple bacterial species promoters
 This repository contains the dataset and code for the study on how negative dataset selection impacts machine learning-based predictors for promoters in multiple bacterial species.
 
+> **Published in:** *Bioinformatics*, Volume 41, Issue 4, April 2025.
+> [![DOI](https://img.shields.io/badge/DOI-10.1093%2Fbioinformatics%2Fbtaf135-blue)](https://doi.org/10.1093/bioinformatics/btaf135)
+
 ## Prerequisites
 
 - A Linux-based operating system (tested in Ubuntu 22.04)
@@ -68,12 +71,21 @@ docker compose up <jupyter-torch|jupyter-tf>
 Trained BERT-based models are available on [Zenodo](https://doi.org/10.5281/zenodo.15016403). An example of their usage can be found in `notebooks/bert_results.ipynb`. The models are provided as `models_cds.zip` (trained on the CDS dataset) and `models_random.zip` (trained on the SRS dataset).  
 
 ## How to Cite This Work
-If this work has contributed to your research, please consider citing it in your references. Below is a recommended citation format:
 
+If this work has contributed to your research, please consider citing the paper, the software, or both depending on your use:
+
+**Paper:**
 ```
-[1]Marcelo González, «maigonzalezh/MultispeciesPromoterClassifier: v1.0.0». Zenodo, mar. 13, 2025. doi: 10.5281/zenodo.15016403.
+Marcelo González, Roberto E Durán, Michael Seeger, Mauricio Araya, Nicolás Jara,
+Negative dataset selection impacts machine learning-based predictors for multiple
+bacterial species promoters, Bioinformatics, Volume 41, Issue 4, April 2025, btaf135,
+https://doi.org/10.1093/bioinformatics/btaf135
 ```
 
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.15016403.svg)](https://doi.org/10.5281/zenodo.15016403)  
+**Software:**
+```
+Marcelo González, «maigonzalezh/MultispeciesPromoterClassifier: v1.0.0». Zenodo, mar. 13, 2025.
+doi: 10.5281/zenodo.15016403.
+```
 
-You can also navigate to the publication and export the citation in various styles and formats by clicking the DOI link above.
+[![DOI](https://img.shields.io/badge/DOI-10.5281%2Fzenodo.15016403-blue)](https://doi.org/10.5281/zenodo.15016403)
